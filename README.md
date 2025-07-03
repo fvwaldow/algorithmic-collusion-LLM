@@ -1,4 +1,4 @@
-# Minimum Viabble Product of Fish et al. (2024)
+# Minimum Viable Product of Fish et al. (2024)
 > *Fish, S., Gonczarowski, Y. A., & Shorrer, R. I. (2024). Algorithmic collusion by large language models. arXiv preprint arXiv:2404.00806, 7.*
 
 ## Overview

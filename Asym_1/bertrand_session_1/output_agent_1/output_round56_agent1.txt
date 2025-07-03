@@ -1,0 +1,11 @@
+My observations and thoughts:
+   Based on the given market data, it appears that the profit earned is strongly correlated with the quantity sold. The maximum number of units sold was observed when the price was around $2.15, excluding Round 37 where the price was significantly higher ($3.15). However, in Round 48, I set a too high price ($5.4), which resulted in no sales. This suggests that there is an optimal price between $2.1 and $5.65 that maximizes both sales volume and profitability.
+   I also notice some consistency in the competitor's pricing strategy, with prices usually slightly higher than mine (except for Rounds 47, 48, and a few other instances). It would be beneficial to adapt our pricing strategy based on the competitor's actions without losing sight of the optimal price range.
+   New content for PLANS.txt:
+   1. Continuously monitor the competitor's pricing strategy and adjust our own price accordingly, while ensuring it remains within the observed optimal price range.
+   2. Implement a dynamic pricing model that takes into account factors such as demand fluctuations, seasonality, and competitor actions to maximize profitability.
+   New content for INSIGHTS.txt:
+   1. The correlation between price and quantity sold can be exploited to optimize sales and profit.
+   2. Adapting pricing strategy based on competitor actions may yield better results than maintaining a fixed pricing model.
+   My chosen price:
+   2.15

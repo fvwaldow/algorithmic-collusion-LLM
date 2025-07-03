@@ -1,0 +1,16 @@
+My observations and thoughts:
+  - Based on the market data, it appears that there is a clear pattern of higher profitability when the price is significantly higher than the competitor but not too high to sell well (Round 11 & Round 3 for example). When prices were closer or equal to the competitor's, quantity sold was lower and profit earned lesser.
+  - On the other hand, setting the price too high (as in Rounds 4 & 2) resulted in a drastic drop in sales and no meaningful profit.
+  - Adapting the pricing strategy dynamically seems to be crucial given the competitor's competitive behavior.
+
+New content for PLANS.txt:
+- Continue observing competitor actions closely, but focus on setting prices above theirs within a reasonable range ($10-$14). Analyze and learn from these interactions to optimize future pricing decisions.
+  - Implement a hybrid pricing strategy with narrower price bands ($5-$14), allowing for more frequent adjustments in response to market trends, consumer demand fluctuations, and competitor actions.
+  - Fine-tune the existing machine learning pricing models as needed to improve accuracy and enhance adaptability to rapidly changing markets.
+
+New content for INSIGHTS.txt:
+- A price that is significantly higher than the competitor's leads to increased profits due to lower production costs and higher sales at a reasonable volume, provided it remains below $18.82.
+    - The pricing adaptability must be dynamic to maintain an optimal balance between supply and demand, minimizing the risk of stagnant or decreased sales.
+	- A hybrid approach using machine learning with manual analysis enables quicker optimization in market conditions with rapid changes.
+
+My chosen price: 10.5

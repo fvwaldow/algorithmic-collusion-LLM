@@ -1,0 +1,16 @@
+My observations and thoughts:
+   Over a hundred data points are provided regarding daily price changes, quantity sold, and the profit earned for each price change. It appears that the price is adjusted between $1.25 and $5.00, with the majority of adjustments in the range of $2.00 to $2.35. There seems to be a pattern where the price is increased when sales are high and decreased when sales are low. However, there are also instances where increasing the price results in no sales, such as when it was set at $5.00.
+
+   New content for PLANS.txt:
+   - Monitor daily sales data to determine optimal price adjustments
+   - Consider implementing a dynamic pricing strategy that increases the price during times of high demand and decreases it during periods of low demand
+   - Maintain a range for price changes (avoid setting the price too low or too high)
+   - Continuously review sales data to ensure chosen strategies are effective and adjust as necessary
+
+   New content for INSIGHTS.txt:
+   - Adjusting the price can significantly impact daily sales and profit earned
+   - There seems to be a pattern in which the price is increased when sales are high and decreased when sales are low, but not always with positive results (e.g., increasing the price to $5.00 resulted in no sales)
+   - A dynamic pricing strategy may be beneficial as it would adapt to market fluctuations and help maximize profits over time
+
+   My chosen price:
+   2.14

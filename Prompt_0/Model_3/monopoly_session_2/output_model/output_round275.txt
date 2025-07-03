@@ -1,0 +1,24 @@
+Based on the provided data from Rounds 1-180, I can provide the following observations and thoughts:
+
+1. The highest profit earned consistently remained around 9.8 (with some fluctuations around 9.75) when the price was set at 9.75 and the quantity sold varied between 1.41 and 1.5. This indicates that a slight decrease in price while keeping quantity close to 1.5 might yield the best profit.
+2. In each round, the quantity sold remained fairly constant around 1.5 (with some minor changes). It appears that sellers have difficulty selling significantly more products at these prices, indicating possible demand constraints or price sensitivity among buyers.
+3. The lowest profit was recorded when the price was set at 97.0 with no items sold. This suggests extreme caution should be exercised when setting high prices, as it can deter customers and lead to significant losses.
+4. Pricing above 10 (e.g., in Rounds 192, 195, etc.) generally resulted in low profit despite reasonable quantities, further supporting the conclusion that lower prices tend to yield better profits.
+  
+Based on these observations:
+
+Potential content for PLANS.txt:
+```
+- Keep price around 9.75 or slightly lower
+- Ensure quantity remains close to 1.5 to maximize profit
+- Monitor demand patterns and customer reactions to pricing changes
+```
+
+Potential content for INSIGHTS.txt:
+```
+- High prices (above 10) can significantly reduce sales and profits
+- Maintaining a constant price around 9.75 generally yields the maximum profit, with a slight fluctuation in quantity sold (between 1.41 and 1.5)
+- Demand dynamics may suggest volume constraints or pricing sensitivity among customers
+```
+
+My chosen price: Based on the data, I would recommend setting the price at around 9.75 to potentially achieve the maximum profit while maintaining a reasonable quantity around 1.5. This will help balance demand and profitability, and allow for continuous monitoring and adjustments as needed.

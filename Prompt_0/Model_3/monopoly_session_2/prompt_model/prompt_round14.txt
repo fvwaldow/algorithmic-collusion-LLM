@@ -1,0 +1,107 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $13.12
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Continue testing price points between $9 and $13 to find the optimal balance between quantity sold and profit margin.
+- Explore price points slightly below $9 to identify if there is a minimum acceptable price point that maximizes both quantity sold and profit margins.
+- Monitor customer behavior during promotional periods or sales, which might influence their perceived value of the product.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- The current data suggests that a compromise can be made between higher profit margins at lower volume (higher prices) and a larger quantity sold with potentially lower profit margins (lower prices). 
+- Customers may be more responsive to price changes than expected, given the considerable variation in quantity sold across different price points.
+- Consider testing promotions or discounts that might encourage larger sales volumes while still maintaining profitability.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 13:
+            - My price: 10.5
+            - My quantity sold: 0.59
+            - My profit earned: 4.32
+
+Round 12:
+            - My price: 9.0
+            - My quantity sold: 3.73
+            - My profit earned: 21.65
+
+Round 11:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 10:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 9:
+            - My price: 12.5
+            - My quantity sold: 0.05
+            - My profit earned: 0.45
+
+Round 8:
+            - My price: 10.5
+            - My quantity sold: 0.59
+            - My profit earned: 4.32
+
+Round 7:
+            - My price: 10.5
+            - My quantity sold: 0.59
+            - My profit earned: 4.32
+
+Round 6:
+            - My price: 10.65
+            - My quantity sold: 0.49
+            - My profit earned: 3.65
+
+Round 5:
+            - My price: 10.5
+            - My quantity sold: 0.59
+            - My profit earned: 4.32
+
+Round 4:
+            - My price: 11.0
+            - My quantity sold: 0.32
+            - My profit earned: 2.47
+
+Round 3:
+            - My price: 12.0
+            - My quantity sold: 0.09
+            - My profit earned: 0.8
+
+Round 2:
+            - My price: 11.0
+            - My quantity sold: 0.32
+            - My profit earned: 2.47
+
+Round 1:
+            - My price: 13.12
+            - My quantity sold: 0.02
+            - My profit earned: 0.22
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

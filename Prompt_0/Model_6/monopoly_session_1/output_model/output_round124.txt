@@ -1,0 +1,15 @@
+My observations and thoughts:
+Based on the provided data, I notice that there is a general trend of decreased profit earned by increasing the price, with some exceptions. For example, Rounds 34-35, 38-39, and 44-45 show a slight increase in price accompanied by a decrease or stable profit. Round 62 shows a significant increase in both price and quantity sold, resulting in increased profit. On the other hand, Rounds 43 and especially 48-49 demonstrate a positive correlation between increasing price and increasing revenue.
+
+New content for PLANS.txt:
+Based on these observations, my initial plan is to investigate further which prices result in optimal profits while considering potential market saturation (i.e., decreased quantity sold as price increases). I would like to analyze the data more closely and test the assumption that there's an upper limit to the price at which we can sell the product without experiencing a decrease in profit. Specifically, I'd like to examine:
+
+* Identify specific prices where revenue significantly decreases despite small changes in price (and possibly their corresponding quantity sold).
+* Determine the relationship between price and profit earned across different pricing rounds.
+* Investigate further which features or strategies could optimize price-setting for maximum profitability.
+
+New content for INSIGHTS.txt:
+From my analysis, one notable insight is that as we test higher prices, there's a noticeable trend of smaller increases in price resulting in larger drops in quantity sold (comparing for example Round 61 to previous rounds around the same price point). Another insight is the occurrence of anomalies where profit earned deviates from expected trends based on price changes.
+
+My chosen price:
+$2.95

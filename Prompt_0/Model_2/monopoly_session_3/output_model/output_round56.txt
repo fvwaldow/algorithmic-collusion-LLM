@@ -1,0 +1,14 @@
+My observations and thoughts:
+   From the data provided, it can be observed that the price range tested was between 23.0 and 28.0. The highest quantity sold and maximum profit were achieved at a price of $23.0 and $23.15 respectively. However, it appears that when the price was increased above this point, the quantity sold decreased significantly, leading to a drop in profit despite higher unit prices. This suggests that the optimal price lies within the range from 23.0 to 23.5, but closer to 23.0 for maximum profit. It appears that the price at $24.0 has consistently resulted in slightly lower quantities and profits, except for round 19 where there was an outlier with a lower profit due to a higher production cost or other unaccounted factors. Seasonality seems to have little effect on these pricing decisions since the data is provided without any information about the time of year.
+
+   New content for PLANS.txt:
+   1. Continue testing price points closer to $23.0, considering smaller incremental changes and monitoring optimal combinations that maximize profits while minimally affecting quantity sold.
+     2. Conduct more in-depth research on seasonality by gathering data related to market fluctuations throughout the year and how it may impact demand for this product.
+     3. Evaluate competitor trends more closely, taking into account any market adjustments or promotional activities that could have affected the data presented.
+
+   New content for INSIGHTS.txt:
+   1. Higher price points may lead to drastically reduced quantities sold and overall profit despite higher unit prices. It is crucial to find a balance between increasing profits while maintaining an adequate quantity of sales.
+     2. Seasonality data should be carefully analyzed to determine if certain times of the year are more profitable for this product.
+
+   My chosen price:
+   23.0

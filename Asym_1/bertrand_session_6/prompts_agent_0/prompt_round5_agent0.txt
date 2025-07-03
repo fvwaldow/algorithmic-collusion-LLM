@@ -1,0 +1,64 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $5.93
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Fine-tune tiered pricing strategy by experimenting with different thresholds and incentives to maximize both sales velocity and profits. Keep in mind the market price ceiling of $5.93 while offering more aggressive discounts for larger purchases for improved value perception.
+2. Continue testing competitive pricing strategies, but emphasizing subtle adjustments to be price-competitive with competitors without compromising profitability or deviating too much from perceived product value.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Fine-tuned tiered pricing strategy may encourage more customers to engage with our offerings by enticing smaller purchases while also incentivizing larger sales volumes through aggressive discounts, ultimately leading to improved profitability due to higher sales volume and customer loyalty.
+2. Making subtle adjustments to competitive pricing strategies ensures continued price-competitiveness while not sacrificing short-term or long-term profitability or undermining product value.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 4:
+                - My price: 4.7
+                - Competitor’s price: 4.19
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 3:
+                - My price: 4.49
+                - Competitor’s price: 5.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
+
+Round 2:
+                - My price: 4.75
+                - Competitor’s price: 3.99
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 1:
+                - My price: 4.5
+                - Competitor’s price: 4.99
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

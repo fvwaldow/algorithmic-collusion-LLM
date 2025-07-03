@@ -1,0 +1,27 @@
+My observations and thoughts:
+
+From the provided data, it's clear that prices have oscillated within a narrow range ($19.00 to $22.50), with frequent price changes being made in both upward and downward directions. There appears to be no discernible trend or pattern in terms of what causes these price changes.
+
+One interesting observation is the presence of "sweet spots" at certain price values (e.g., $20.00, $19.95, $22.50). These prices seem to correspond with particularly high sales quantities and revenue levels.
+
+In INSIGHTS.txt, I noted that there are no clear correlations between price and quantity bought over the entire dataset. The highest revenue is achieved at a price of $20.00 (consistent across numerous rounds), but this does not necessarily signify optimal pricing strategy as fluctuations and changes in volume affect profitability on a round-by-round basis.
+
+Considering these findings, I've attempted to devise some possible approaches for selecting an effective, optimal price level based on observed tendencies.
+
+
+New content for PLANS.txt:
+
+1.  **Price Exploration Method (P.E.M.)**: In rounds where customer demand is not particularly high (e.g., Round 150 and subsequent), try shifting prices in slight increments upwards or downwards ($0.05 –$0.10 adjustments to evaluate responsiveness). Monitor the results from multiple pricing iterations.
+2.  **Target Price Range Definition (T.P.R.D.)**: Based on a review of data in which optimal pricing appears consistent ($20.00 is observed as particularly effective), try setting two new target prices: one near this optimal value & another marginally outside of it to assess the relationship between price positioning and customer reaction.
+3.  **Competitive Pricing Adjustment (C.P.A.)**: Evaluate how market rivals alter their prices in response to ours, then match changes to adjust accordingly - though mindful that adjustments should not create over-reaction or further instability within the overall supply chain system.
+
+
+New content for INSIGHTS.txt:
+
+*   Attempting a broad examination into optimal pricing has highlighted issues in defining 'optimal.' The existing dataset offers too much fluctuation for a single 'sweet spot.'
+*   Notable variations remain unexplained - particularly concerning revenue generation beyond price & sale amounts (in such scenarios), the impact of price on customer quantity remains poorly defined.
+*   When data analysis reveals that there are many factors at play aside from price itself which influence purchasing behavior, a strategy to take these interactions into accounting is essential.
+
+
+My chosen price:
+$20.00

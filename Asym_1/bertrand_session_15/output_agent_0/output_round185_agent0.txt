@@ -1,0 +1,12 @@
+My observations and thoughts:
+   The data provided shows a series of price adjustments by the seller and the competitor across 106 rounds. There are some interesting trends that emerge which I'll outline below. First, the seller initially starts with a higher price than the competitor but gradually lowers it over time to remain competitive. However, the competitor also periodically changes its price. Second, in certain instances, the selling price drops very low or even becomes negative, indicating that the seller may be struggling to compete with the lower-priced competitor. Third, there are periods when both prices are relatively close, and the number of units sold seems to slightly favor the seller. Lastly, it appears that lowering the price can lead to increased sales (quantity sold increases as price decreases), but this is not always the case, suggesting other factors may be influential in determining demand.
+   New content for PLANS.txt:
+   - Analyze the pattern of competitor's pricing strategy and react accordingly: match lower prices during periods when the competitor lowers its price to remain competitive while avoiding the same downward trend;
+   - Implement a higher initial selling price to capitalize on better perceived product quality or perceived brand value (in light of slightly higher sales in some instances);
+   - Incrementally and strategically decrease the price during periods when the competitor doesn't adjust its price.
+   New content for INSIGHTS.txt:
+   - Lowering price can result in increased sales but only to a point; there is still potential loss if the price becomes too low (e.g., rounds 91 and 92)
+   - Competitor's pricing strategy appears varied, with periods of lower prices followed by increases
+   - Demand may be sensitive to both price and perceived value or quality
+   My chosen price:
+   16

@@ -1,0 +1,13 @@
+My observations and thoughts: Based on the market data provided, it appears that the price has some impact on the quantity sold with a higher price resulting in lower quantity sold in most cases, with the exception of Round 5 where the highest price was associated with the highest quantity sold. However, it's important to note that rounds 2 and 3 had significantly cheaper competitors which may have affected sales volume, thus highlighting the need for adaptive pricing strategies based on competitor's moves.
+
+   New content for PLANS.txt:
+   1. Refine adaptive pricing strategy based on data from previous rounds to account for competitor's prices and their impact on the number of units sold. (70%)
+   2. Implement regression analysis with a larger emphasis on the influence of competitor's price, aiming for an 85% focus on profit maximization. (15%)
+   3. Dedicate more time to market trend analysis and adjust strategies accordingly for ongoing profit maximization. (10%)
+   4. Consider conducting customer surveys for a better understanding of consumer preferences within the set price range. (5%)
+
+   New content for INSIGHTS.txt:
+   - The relationship between price and quantity sold is not straightforward, further highlighting the need to account for competitor's pricing strategy to maximize profitability.
+   - There seems to be a sensitivity to deviations from an optimal pricing range for both price and quantity sold which warrants closer attention.
+
+   My chosen price: 20 (keeping price around the $16.99 - $28.99 range where higher prices are associated with greater profit)

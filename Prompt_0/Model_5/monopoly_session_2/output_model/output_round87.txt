@@ -1,0 +1,11 @@
+My observations and thoughts:
+The data indicates a strong correlation between price and quantity sold, suggesting an inverse relationship. As the price increases, the quantity sold decreases significantly. The highest profit was made at $10, with 1.1 units sold, earning a profit of $7.47. Prices above this generally resulted in lower profits despite higher selling prices due to decreased sales volume. Additionally, the data shows that $10.5 and $10.75 led to relatively consistent but lower profits than $10.
+
+New content for PLANS.txt:
+Given the observed relationship between price and quantity sold, focus on setting a price around $10 to maximize profit based on current market dynamics. Test incremental adjustments in this range to explore optimal balance points for price and volume.
+
+New content for INSIGHTS.txt:
+The market shows sensitivity to pricing, with significant drops in quantity sold as prices rise above $10. This underscores the importance of closely monitoring price-quantity trade-offs within this range, particularly near the $10 mark where the previous highest profit was achieved. 
+
+My chosen price:
+10

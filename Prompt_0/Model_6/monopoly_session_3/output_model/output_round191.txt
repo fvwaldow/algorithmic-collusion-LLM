@@ -1,0 +1,23 @@
+My observations and thoughts:
+
+After carefully analyzing the market data, it's evident that there is a strong local maximum in profit around $20. This can be seen by reviewing Round 96 where the price was $20.0, quantity sold was 50.0, and the profit earned was 500.0. Additionally, during this round, similar results were observed for several consecutive rounds (Rounds 97-103), further supporting the idea that $20 is a profitable price point.
+
+However, there are instances where prices slightly above or below $20 resulted in similar profits (e.g., Rounds 104-113). It's also worth noting that higher and lower prices did not consistently result in significantly better profit margins. For example, during Round 121 the price was set at $23.0, but only a meager profit of 300.92 was earned despite the sale of fewer units.
+
+Given this information, it seems necessary to be cautious with price adjustments around $20 and focus on maintaining profitability rather than straying from this relatively stable range.
+
+New content for PLANS.txt:
+
+* Investigate why prices above or below $20 do not consistently result in significantly better profit margins.
+* Test multiple prices within the vicinity of $20 (e.g., $19.5, $20.25) to identify optimal price without deviating too far from profitable range.
+* Monitor market trends closely for any indicators that might suggest revising this pricing strategy.
+
+New content for INSIGHTS.txt:
+
+* Maintain a strong correlation between prices around $20 and consistent profitability (up to 500.0 points per unit sold).
+* Although higher or lower prices may result in similar profits, significant reductions were observed when setting the price at significantly above or below the established range.
+* Consider further adjustments within this margin of stability, given optimal returns with an emphasis on preserving revenue through steady profit margins.
+
+My chosen price:
+
+$20.

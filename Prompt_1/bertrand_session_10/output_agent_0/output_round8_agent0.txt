@@ -1,0 +1,12 @@
+My observations and thoughts: The data shows that adjusting the price within a range of $6-$8 has varying effects on both profit and quantity sold. For instance, lower prices lead to higher quantities sold but also a lower profit per unit. Meanwhile, a higher price can result in a higher profit per unit but may sell fewer units. So far, it seems like the optimal price is between $7-7.5, although this could still be refined. Interestingly, we observe that the competitor occasionally changes their pricing strategy, which suggests the need for a dynamic pricing strategy over time.
+
+   New content for PLANS.txt:
+   1. Fine-tune pricing within the range of $6.0 - $8.0 by testing small increments (e.g., price points of 7.25, 7.35) to find the optimal balance between maximizing profit and selling volume while being adaptive to the competitor's pricing changes.
+     2. Implement a dynamic data-driven pricing strategy that adjusts based on competitor actions and customer feedback with regular analysis of market share, sales velocity, and demand patterns over time for informed price decisions.
+
+   New content for INSIGHTS.txt:
+   1. It's critical to find the most profitable price within our defined range while accounting for the number of units we can sell. This will lead to maximizing long-term profitability while staying flexible to competitor pricing changes.
+     2. A strong and adaptive dynamic pricing strategy is vital in maintaining a competitive edge given that the competition alters their pricing from time to time.
+   3. By continuously analyzing sales performance, profit margins, and demand patterns, we will be able to make more informed price decisions going forward.
+
+   My chosen price: 7.35

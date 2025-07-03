@@ -1,0 +1,13 @@
+My observations and thoughts:
+   From the data provided, it seems that there is a dynamic relationship between the price of our product and its demand. When we lower the price, more units are sold (e.g., Round 80 with a price of $14), but our profit per unit decreases. On the other hand, when we increase our price, even though individual sales might fall (e.g., Round 13 with a price of $35), overall profit can potentially be higher due to increased profits from sold units (e.g., Round 129 with a price of $30). Overall market competition appears to be a factor, as we see the competitor adjusting their prices based on our own moves.
+
+   New content for PLANS.txt:
+   We should keep an eye on the dynamic between price and sales volume while maintaining a focus on overall profit generation. It would be beneficial to explore a range of pricing strategies over multiple rounds to find a sweet spot that maximizes both sales and profits. Keeping close tabs on the competitor's pricing moves will help us make informed decisions.
+
+   New content for INSIGHTS.txt:
+   - Lowering prices can lead to an increase in sales; however, it may negatively impact profit margins. (e.g., Round 80 vs Round 13)
+   - Higher pricing does not always result in fewer sales and can be beneficial if overall profit per round increases. (e.g., Round 129 vs Round 13)
+   - The competitor's pricing seems to react to our own moves, demonstrating the importance of monitoring their actions. (e.g., Rounds 50 to 60)
+
+   My chosen price:
+   16

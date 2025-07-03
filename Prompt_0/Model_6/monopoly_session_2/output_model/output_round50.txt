@@ -1,0 +1,17 @@
+My observations and thoughts:
+The data suggests that there is a consistent profit of around $155.58 when the price is around 5.04, with minimal changes in quantity sold across multiple rounds. This stability could indicate that this is close to the optimal price range for maximum profit. However, it's also clear that prices above 5.04 start seeing significant drops in profit earned, such as in Rounds 19-22 where prices are around $4.99 and profit remains consistent.
+
+The price range from Round 23-31 shows a stable quantity sold but increasing numbers with little effect on the profit as the increase is not large enough. However, at $5.05 (Round 15,20) or even $5.08 (Round 14), there is an increase in profit earned but this can't be scaled because it results from fewer purchases.
+
+New content for PLANS.txt:
+**
+1. **Refine optimal price range further**: Re-run analysis at higher resolution (e.g., $5.035, $5.039) to see if minor adjustments have a significant impact on profit.
+2. **Validate profitability drop-off point at high prices**: Evaluate the effect of pricing just below the maximum acceptable value ($10) by choosing test points such as $9.95, then iteratively decrease them until any drop-offs in profit are observed.
+
+**
+ 
+New content for INSIGHTS.txt:
+Regarding consistency between Rounds 47 and higher, it appears that selling even slightly above the optimal price starts causing a gradual decline in quantity sold without affecting earnings due to small shifts (compare Round 45 with Rounds 47-48). However, we did see a decrease in revenue for $4.99 on Rounds 19,20 which could be considered anomalous considering the stability at that price across many more previous rounds.
+
+My chosen price:
+5.04

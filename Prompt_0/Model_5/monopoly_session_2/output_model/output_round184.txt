@@ -1,0 +1,23 @@
+My observations and thoughts: 
+
+- The highest profit occurred in Round 85 with a profit of $5.68 from a price of $10.25.
+- There are frequent fluctuations in price points ranging from $9.5 to over $11, indicating an attempt to find an optimal price balance for maximum profit.
+- The quantity sold also varies considerably, showing that customers' sensitivity to pricing changes, influencing sales volume.
+- There's a pattern where prices are raised, followed by a slight dip or return to previous pricing when profits decrease, suggesting adaptive pricing strategies being tested.
+
+New content for PLANS.txt: 
+
+- To explore profitability across different price points more systematically.
+- Perform A/B testing with varied price increments to identify sensitive price ranges that significantly impact sales volume and subsequently profit. 
+- Introduce dynamic pricing based on demand trends observed from the data, especially focusing on peaks where quantity sold is high to capitalize further on consumer interest.
+- Evaluate potential long-term effects of low-priced rounds on customer loyalty versus the immediate higher profits from aggressive pricing strategies.
+
+New content for INSIGHTS.txt:
+
+- A consistent mid-range price ($10-$11) seems optimal for balancing profit with sales volume.
+- Raising prices too high might deter customers considerably, while low prices yield moderate but steady profits.
+- Demand appears elastic—smaller changes in pricing lead to noticeable shifts in quantity sold.
+- Periodic drops in price after peaks could help maintain momentum and customer interest without drastically slashing rates to unsustainable levels.
+
+My chosen price:
+10.5

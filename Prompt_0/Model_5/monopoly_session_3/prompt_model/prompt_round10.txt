@@ -1,0 +1,89 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $28.01
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Validate further lower-priced tiers by testing $18.5 to observe sales volume response, keeping a close eye on profit per unit while preparing for competitor reactions. 
+2. Accelerate value-added service insights phase through structured customer segmentation analysis and detailed interviews to identify services commanding premium pricing without diluting core product profits.
+3. Intensify supplier negotiation efforts towards <$0.9/unit cost, aiming for at least 10% volume increase, while scouting alternative suppliers in case current partnerships cannot fulfill long-term targets.
+4. Strengthen real-time competitive surveillance systems, ensuring rapid reactions to market shifts, possibly via setting up automatic alerts or scheduling more frequent strategic response meetings.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Emphasize the confirmed sensitivity of sales volume to price adjustments within the $20 range—this range offers significant profit potential when balanced against cost per unit.
+2. Highlight urgency in establishing comprehensive value-added service definitions supported by market segmentation data to prevent sales cannibalization at higher price points.
+3. Note supplier relationships require proactive management beyond immediate negotiations, planning for long-term strategic partnerships to secure the necessary cost structure.
+4. Reinforce observation that competitive landscapes demand agile responses—implementing or improving real-time tracking tools seems imperative given shifting market dynamics and quick competitor action.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 9:
+            - My price: 18.5
+            - My quantity sold: 64.57
+            - My profit earned: 548.81
+
+Round 8:
+            - My price: 19.0
+            - My quantity sold: 59.87
+            - My profit earned: 538.82
+
+Round 7:
+            - My price: 20.5
+            - My quantity sold: 45.02
+            - My profit earned: 472.67
+
+Round 6:
+            - My price: 21.5
+            - My quantity sold: 35.43
+            - My profit earned: 407.5
+
+Round 5:
+            - My price: 23.5
+            - My quantity sold: 19.78
+            - My profit earned: 267.05
+
+Round 4:
+            - My price: 27.0
+            - My quantity sold: 5.73
+            - My profit earned: 97.45
+
+Round 3:
+            - My price: 27.3
+            - My quantity sold: 5.12
+            - My profit earned: 88.53
+
+Round 2:
+            - My price: 27.5
+            - My quantity sold: 4.74
+            - My profit earned: 83.0
+
+Round 1:
+            - My price: 27.0
+            - My quantity sold: 5.73
+            - My profit earned: 97.45
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

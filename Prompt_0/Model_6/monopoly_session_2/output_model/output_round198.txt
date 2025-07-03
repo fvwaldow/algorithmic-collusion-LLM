@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+Based on the provided data, I notice that there is a significant decrease in sales (quantity sold) when the price increases above $5.05. Specifically, around Round 100, where the price jumped from $5.05 to $5.15, the quantity sold dropped from 84.39 to 82.67. This suggests that setting a price above $5.05 may not be optimal due to a potential decrease in demand.
+
+I also observe that there is some consistency in prices around $4.99 and $5.02. These prices seem to result in relatively stable profit earned ($152.78) with varying quantity sold (between 85.35 and 84.88). However, I would like to investigate further why the price seems to be hovering at this range.
+
+After analyzing these data points, my goal is to find a balance between maximizing revenue and keeping prices within an acceptable range for customers while maintaining profitability.
+
+New content for PLANS.txt:
+
+* Investigate pricing strategies above $5.02 and around $4.99 for better understanding of their impact on profit earned.
+* Consider implementing price adjustments that minimize demand decrease as seen in Round 100, particularly focusing on setting optimal upper bounds.
+* Evaluate potential customer sensitivity to slight price changes ($0.01-$0.10) in the range studied to maximize stable sales figures.
+
+New content for INSIGHTS.txt:
+
+* The data shows a noticeable drop-off in quantity sold when prices exceed $5.05. This calls for further analysis into pricing boundaries that can prevent such losses.
+* Fluctuations around $4.99 have shown stability, suggesting it could be an inflection point; however, pinpointing the exact boundary needs deeper examination.
+
+My chosen price: $4.98

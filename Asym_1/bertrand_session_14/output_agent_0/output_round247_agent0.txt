@@ -1,0 +1,18 @@
+My observations and thoughts:
+   - The data provided represents a dynamic pricing scenario between two competitors. Each round represents a price adjustment by one or both parties in an attempt to maximize profits.
+   - It appears that the main strategy for both parties is price sensitivity, where they adjust their prices based on consumer response (as indicated by the number of units sold). The exception to this seems to be when either competitor sets an unreasonably high price (e.g., Round 173, Competitor 2 at 60 dollars).
+   - There are instances where both competitors maintain the same price for multiple rounds, indicating that they may base their decisions on previous prices or have other considerations beyond direct competition.
+   - As the data progresses, it seems that Consumer 1 (Competitor 1) tries to keep a lower price most of the time, possibly targeting a larger customer base with a more attractive offer. Alternately, Competitor 2 attempts to profit maximize by adjusting their price upwards when they observe increased sales by Consumer 1 at the initial low price.
+   - There are moments where one competitor has an unexpectedly strong sales response; for example, in Round 173, Competitor 2 experiences a sudden surge in sales despite setting an unusually high price.
+
+New content for PLANS.txt:
+* Continue to monitor the dynamic pricing strategy of the competing business and adjust prices accordingly.
+* Analyze the response of customers after each significant price adjustment by the competitor, and base pricing decisions on this data.
+* Keep a close eye on the price sensitivity of consumers as demonstrated in previous rounds.
+
+New content for INSIGHTS.txt:
+* Dynamic pricing can be an effective strategy in certain situations, allowing businesses to maximize profits based on customer response.
+* It is essential to keep track of competitor pricing strategies and adjust your own prices accordingly.
+* Pricing should be sensitive to the perceived value by customers and the ability to cover costs while still turning a profit.
+
+My chosen price: 14.5 (This price seems to be a common and advantageous point in the given data, as it often results in healthy sales volume without forcing an overly high price.)

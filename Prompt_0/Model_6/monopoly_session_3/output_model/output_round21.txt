@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+The data suggests that there is a strong correlation between the price set and the quantity sold. When prices were increased above $20, sales volume decreased significantly, resulting in reduced profits (e.g., Round 11: $23, Quantity sold = 23.15). Conversely, when prices were raised above $19 but below $20, sales remained steady while profit per unit also increased (e.g., Rounds 18-17: $20, Sales = 50, Profit per unit = $500). However, going even lower in price to $19 led to much higher sales and more substantial profits overall. Furthermore, setting prices above the market average ($22-$25) often resulted in greatly lowered quantity sold.
+
+The data shows some inconsistencies where we revisit similar price points (Round 13 vs. Round 14), it is hard to pinpoint any solid trends from repeated rounds unless they have very high frequency or magnitude changes from these repetitions.
+
+New content for PLANS.txt:
+Analyze price elasticity more closely: 
+Given the trade-off between revenue and sales, it would be beneficial to test how responsive sales are to changes in price. This could involve experimenting with gradual increases/decreases over a set of rounds.
+Test bundling options with tiered pricing tiers  as suggested by insights for testing potential revenue streams.
+
+New content for INSIGHTS.txt:
+Consider implementing a tiered price system focusing on providing higher-quality products and unique services to customers who require more than a standard product offering. This could maximize revenues without negatively impacting sales volume.
+The optimal strategy would then be trying several experiments involving multiple levels of price variation with different customer segments before implementing one approach uniformly.
+
+My chosen price:
+19

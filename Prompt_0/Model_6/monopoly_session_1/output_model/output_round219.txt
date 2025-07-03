@@ -1,0 +1,15 @@
+After carefully reading through the information provided, I have made my observations and thoughts.
+
+My observations and thoughts:
+The data shows a fluctuating pattern of prices and corresponding profit earnings. Most recently, there has been a trend of decreasing prices (e.g., Rounds 147-149) with a higher quantity sold at lower prices (e.g., Rounds 170 is notable for having the largest quantity sold). On the other hand, instances of very low quantities sold have occurred when prices were set too high (e.g., Round 122 had 0 profit due to setting an excessively high price).
+
+New content for PLANS.txt:
+Consider gradually decreasing prices to incentivize purchasing, potentially using a combination of competitive pricing and sales strategies. Monitor the effects on both quantity sold and profit earnings over consecutive rounds.
+
+New content for INSIGHTS.txt:
+A potential relationship exists between price and quantity sold: as prices decrease (but not excessively), quantities sold increase, leading to higher profits overall. On the other hand, when an overpriced item is put up for sale (Round 122), there's a significant drop in both quantity purchased and profit earned.
+
+My chosen price:
+2.92
+
+The data suggests that maintaining competitive pricing, while continually adjusting as seen with Rounds 170's successful combination of higher quantities sold at lower prices, should help ensure continued positive profitability. This number ($2.92) appears to strike an acceptable balance between the previous round’s decreased sale but maintained profit earnings and higher sales amounts observed earlier in the trend (Rounds 152-158 and beyond).

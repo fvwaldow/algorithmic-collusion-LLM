@@ -1,0 +1,14 @@
+My observations and thoughts:
+    - From the market data provided, it can be observed that when the price is closer to the competitor's price (e.g., Round 12 with a price of 1.99), the quantity sold increases substantially compared to instances where the price was higher than the competitor's (e.g., Round 9 & Round 7). However, it is crucial to ensure that profit margins are not compromised.
+    - The data suggests that customer response is positively affected by competitive pricing while maintaining a profitable unit price remains essential in maximizing overall profits.
+    - A/B testing between 1.90 and 2.20 price range should be implemented to find the optimal price for our target market, as stated in the existing PLANS.txt.
+
+New content for PLANS.txt:
+   + Incorporate machine learning algorithms that determine optimal pricing strategies based on real-time competitor's prices, geographical regions, and seasonality to maximize profit while selling a high quantity of products.
+
+New content for INSIGHTS.txt:
+   + Adaptive pricing based on competition can drive sales while achieving profitability.
+     + Data-driven A/B testing and machine learning algorithms will help ascertain the optimal price range that balances volume and profit.
+
+My chosen price:
+   1.90 (with A/B testing across varying price points while monitoring product quantity sold, profit earned, and competitor's pricing strategy)

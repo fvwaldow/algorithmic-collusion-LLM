@@ -1,0 +1,17 @@
+My observations and thoughts:
+    - Based on the historical data, there are instances where setting a higher price (e.g., Rounds 1, 2, 5, 7, 8) led to minimal or no sales, while lower prices (e.g., Rounds 9-12, 14-16) resulted in increased sales. However, there are also instances where a higher price (e.g., Round 3 and 13) still managed to generate significant profit due to a larger quantity sold.
+    - The competitor's pricing strategy seems adaptive, often setting prices lower than mine but slightly above production cost in some rounds (e.g., Rounds 4, 6, 10, 12).
+    - It is essential to find the optimal balance between price, quantity sold, and profit earned while considering costs, market trends, and competitor actions for long-term success.
+
+New content for PLANS.txt:
+  - Modify dynamic pricing strategy to take into account competitor's adaptive pricing, focusing on identifying price points that maximize profitability given the customer ceiling price of $5.65.
+    - Develop a more sophisticated algorithm considering production cost, quantity sold, and competitor actions when setting prices for each round.
+    - Monitor market trends and adjust pricing strategy accordingly to remain competitive while keeping an eye on overall profitability.
+
+New content for INSIGHTS.txt:
+  - Competitor's dynamics in the market can significantly impact one's sales volume, with a lower price strategy potentially attracting more customers when combined with an adaptive approach.
+  - It is crucial to focus on maximizing long-term profitability by considering quantities sold alongside profits per unit to strike a balance between generating revenue and minimizing production costs.
+  - Being flexible with pricing strategies will help in adapting to market trends and competition, leading to higher overall profitability in the long run.
+
+My chosen price:
+3.50

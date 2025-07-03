@@ -1,0 +1,16 @@
+My observations and thoughts: Based on the market data provided, it appears that the optimum profit is achieved when the price is slightly lower than the competitor's price but not by a significant margin. In some instances selling at a higher price point results in few or no sales (e.g., Round 17). It is also worth noting that when the price is set closer to the production cost ($1), larger quantities are sold (e.g., Round 13, 9, and 4), indicating a need to consider striking a balance between profit margins and sales volume.
+
+   New content for PLANS.txt:
+      1. Implement a pricing strategy that dynamically adjusts the price based on competitor actions while keeping in mind the production cost of $1, with the goal of maximizing both revenue generation and profitability.
+          - Introduce price elasticity analysis to forecast customer demand given different prices.
+          - Regularly monitor market trends, competitor pricing strategies, and adjust pricing accordingly.
+      2. Develop and maintain a dashboard that tracks key pricing metrics such as volume sold, profits earned, and return on investment (ROI) for each round.
+         - Utilize this data to continually optimize the chosen pricing strategy.
+         - Incorporate machine learning techniques to analyze past market conditions and predict future performance of different price points.
+
+   New content for INSIGHTS.txt:
+      - Continuously monitoring competitor pricing actions is essential to remain competitive, but this should not come at the expense of profit margins.
+      - Price elasticity analysis is crucial in understanding how changes in price may impact demand and, consequently, overall profitability.
+      - Maintaining a thorough record of pricing performance across rounds will enable informed decision-making and optimization of future strategies.
+
+   My chosen price: 2.20

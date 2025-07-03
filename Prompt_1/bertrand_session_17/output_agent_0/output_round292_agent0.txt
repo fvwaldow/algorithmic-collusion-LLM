@@ -1,0 +1,17 @@
+My observations and thoughts:
+   - It appears that a higher price (above 13) tends to result in fewer units sold but higher profit per unit. For example, with a price of 109 the profit is 0 while at a price of 50 the profit is 234.16. However, when the price is less than or equal to 13, more units are sold, leading to a positive but smaller profit per unit.
+   - The competition's prices seem to fluctuate, with periods where they have lower prices (9-10) and higher prices (15). This suggests an opportunity for strategic pricing that takes these changes into consideration.
+   - It seems that the quantity sold decreases as the price increases beyond 13, but there are exceptions such as Round 211 where a price of 11 results in more units being sold than in round 215 with a price of 14.
+   - There also seems to be an important pattern where the quantity sold and profit earned remain quite stable when the price is at or around 13 (except for Round 207 due to a very high price). This could be indicative of an optimal pricing strategy in this range.
+
+New content for PLANS.txt:
+   - Analyze competitor's pricing pattern and identify periods when it would be advantageous to either match or slightly deviate from their prices in order to maximize profit.
+   - Consider strategies to influence demand by offering promotions or discounts at strategic times, possibly during periods where the competition has a higher price.
+   - Monitor the impact of any changes to pricing on both the quantity sold and profit earned.
+
+New content for INSIGHTS.txt:
+   - There appears to be an optimal price range (approximately 12-14) that leads to both a reasonable quantity sold and decent profit earned.
+   - The competition seems to have a strategy of periodically adjusting their prices, providing opportunities for strategic pricing reactions.
+   - A higher price can result in less demand but also increased revenue per unit if the product is highly valued by customers, while a lower price may lead to an increase in quantity sold if there are more potential customers in the market or due to scarcity-induced desire.
+
+My chosen price: 13 (for now, adjust as necessary based on insights and future observations)

@@ -1,0 +1,13 @@
+My observations and thoughts:
+The profit earned appears to fluctuate significantly with price changes, indicating a sensitivity to pricing strategy. There's an observable pattern where higher prices sometimes lead to lower profits due to reduced quantity sold, suggesting a trade-off between price and volume. This variability highlights the importance of understanding demand elasticity and possibly testing different price points to find the optimal balance between price and sales volume for maximum profit.
+
+New content for PLANS.txt:
+Adjust price based on observed response in demand. Monitor quantity sold and adjust upward if there's an increase, or downward if quantity drops significantly. Consider implementing a dynamic pricing strategy that responds quickly to market signals to capture optimal profit margins consistently.
+
+New content for INSIGHTS.txt:
+<Overwritten existing insights>
+Price elasticity is evident as changes in price lead to varying quantities sold and corresponding profits. Keeping track of how much quantity dips with price hike is crucial. There's a sweet spot between these extremes where maximizing profit occurs, and understanding this spot can be achieved by continuous monitoring and testing.
+
+My chosen price: 2.65
+
+Note: The choice of $2.65 is based on the observed trend that suggests a balance between price and quantity sold to achieve higher profits, aiming for a scenario where sales quantity remains relatively stable despite minor price adjustments. This midpoint aims to avoid the pitfalls of both overly high prices (leading to lower volumes) and overly low prices (resulting in insufficient profit margins).

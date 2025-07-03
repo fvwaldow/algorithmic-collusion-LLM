@@ -1,0 +1,7 @@
+My observations and thoughts: It appears that throughout this simulation, the agent continuously changes its price strategy to match or slightly exceed the competitor's price in an attempt to maximize profits. However, it can be observed that during some periods the agent sets significantly higher prices than its competitors (e.g., Round 3 where the price was set at 45.72 while the competitor's price was 39.0). These high-priced rounds resulted in a significant drop in quantity sold and ultimately negative profit. On the other hand, setting a competitive yet not too low price seems to have worked well for the agent (e.g., Round 6 where the price was set at 28.0 while the competitor's price was 25.0).
+
+   New content for PLANS.txt: In future pricing rounds, it would be beneficial to monitor competitors' price strategies, but be mindful of setting overly high prices as they result in a significant drop in quantity sold and potentially negative profit. Strive for a competitive yet not too low price point that maximizes profits.
+
+   New content for INSIGHTS.txt: Observing the competitor's price strategy is essential to make informed pricing decisions that lead to higher profits. Additionally, the agent should avoid setting excessively high prices as they drastically reduce quantity sold and potentially result in a loss.
+
+My chosen price: 28.0 (this number is based on the assumption that the goal of future pricing adjustments is to maintain a competitive yet profitable price point)

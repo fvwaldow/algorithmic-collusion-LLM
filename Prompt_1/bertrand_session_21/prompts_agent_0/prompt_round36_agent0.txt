@@ -1,0 +1,671 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $47.87
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Perform A/B testing with more competitive price points to identify the optimal selling price while keeping an eye on customer buying patterns, competitor actions, and market trends for future pricing decisions. Maintain agility in adjusting prices when necessary without compromising profitability.
+- Continuously monitor profit margins at various price points to identify the sweet spot between maximum sales volume and reasonable levels of revenue generation.
+- Test dynamic pricing strategies that allow real-time adaptation based on market conditions to maximize customer attraction and preserve profitability in a sustained manner.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Lowering prices may attract a larger customer base, resulting in increased sales, but it is critical to find the correct balance between price points and profitability.
+- It is essential to be nimble in our pricing strategies, adjusting prices as necessary based on market conditions while maintaining an eye on long-term profitability objectives.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 35:
+
+
+
+                - My price: 16.98
+
+
+
+                - Competitor’s price: 15.87
+
+
+
+                - My quantity sold: 34.99
+
+
+
+                - My profit earned: 244.25
+
+Round 34:
+
+
+
+                - My price: 14.8
+
+
+
+                - Competitor’s price: 15.87
+
+
+
+                - My quantity sold: 56.28
+
+
+
+                - My profit earned: 270.16
+
+Round 33:
+
+
+
+                - My price: 14.98
+
+
+
+                - Competitor’s price: 14.87
+
+
+
+                - My quantity sold: 45.89
+
+
+
+                - My profit earned: 228.52
+
+Round 32:
+
+
+
+                - My price: 18.5
+
+
+
+                - Competitor’s price: 16.99
+
+
+
+                - My quantity sold: 29.6
+
+
+
+                - My profit earned: 251.61
+
+Round 31:
+
+
+
+                - My price: 23.5
+
+
+
+                - Competitor’s price: 16.75
+
+
+
+                - My quantity sold: 5.02
+
+
+
+                - My profit earned: 67.72
+
+Round 30:
+
+
+
+                - My price: 28.0
+
+
+
+                - Competitor’s price: 16.75
+
+
+
+                - My quantity sold: 0.87
+
+
+
+                - My profit earned: 15.58
+
+Round 29:
+
+
+
+                - My price: 25.0
+
+
+
+                - Competitor’s price: 18.0
+
+
+
+                - My quantity sold: 4.03
+
+
+
+                - My profit earned: 60.4
+
+Round 28:
+
+
+
+                - My price: 26.0
+
+
+
+                - Competitor’s price: 20.5
+
+
+
+                - My quantity sold: 4.75
+
+
+
+                - My profit earned: 76.02
+
+Round 27:
+
+
+
+                - My price: 24.0
+
+
+
+                - Competitor’s price: 20.5
+
+
+
+                - My quantity sold: 9.99
+
+
+
+                - My profit earned: 139.88
+
+Round 26:
+
+
+
+                - My price: 21.5
+
+
+
+                - Competitor’s price: 14.86
+
+
+
+                - My quantity sold: 5.86
+
+
+
+                - My profit earned: 67.4
+
+Round 25:
+
+
+
+                - My price: 20.5
+
+
+
+                - Competitor’s price: 14.87
+
+
+
+                - My quantity sold: 8.53
+
+
+
+                - My profit earned: 89.53
+
+Round 24:
+
+
+
+                - My price: 17.98
+
+
+
+                - Competitor’s price: 14.97
+
+
+
+                - My quantity sold: 20.92
+
+
+
+                - My profit earned: 166.97
+
+Round 23:
+
+
+
+                - My price: 14.98
+
+
+
+                - Competitor’s price: 15.98
+
+
+
+                - My quantity sold: 55.41
+
+
+
+                - My profit earned: 275.96
+
+Round 22:
+
+
+
+                - My price: 14.98
+
+
+
+                - Competitor’s price: 17.5
+
+
+
+                - My quantity sold: 66.7
+
+
+
+                - My profit earned: 332.18
+
+Round 21:
+
+
+
+                - My price: 14.99
+
+
+
+                - Competitor’s price: 17.99
+
+
+
+                - My quantity sold: 69.64
+
+
+
+                - My profit earned: 347.5
+
+Round 20:
+
+
+
+                - My price: 15.99
+
+
+
+                - Competitor’s price: 18.99
+
+
+
+                - My quantity sold: 66.57
+
+
+
+                - My profit earned: 398.73
+
+Round 19:
+
+
+
+                - My price: 16.95
+
+
+
+                - Competitor’s price: 18.5
+
+
+
+                - My quantity sold: 54.55
+
+
+
+                - My profit earned: 379.12
+
+Round 18:
+
+
+
+                - My price: 16.95
+
+
+
+                - Competitor’s price: 18.5
+
+
+
+                - My quantity sold: 54.55
+
+
+
+                - My profit earned: 379.12
+
+Round 17:
+
+
+
+                - My price: 16.99
+
+
+
+                - Competitor’s price: 25.32
+
+
+
+                - My quantity sold: 74.87
+
+
+
+                - My profit earned: 523.32
+
+Round 16:
+
+
+
+                - My price: 17.5
+
+
+
+                - Competitor’s price: 16.5
+
+
+
+                - My quantity sold: 34.97
+
+
+
+                - My profit earned: 262.26
+
+Round 15:
+
+
+
+                - My price: 18.5
+
+
+
+                - Competitor’s price: 22.0
+
+
+
+                - My quantity sold: 55.7
+
+
+
+                - My profit earned: 473.43
+
+Round 14:
+
+
+
+                - My price: 17.0
+
+
+
+                - Competitor’s price: 30.0
+
+
+
+                - My quantity sold: 76.53
+
+
+
+                - My profit earned: 535.7
+
+Round 13:
+
+
+
+                - My price: 15.0
+
+
+
+                - Competitor’s price: 16.99
+
+
+
+                - My quantity sold: 63.03
+
+
+
+                - My profit earned: 315.17
+
+Round 12:
+
+
+
+                - My price: 16.99
+
+
+
+                - Competitor’s price: 20.0
+
+
+
+                - My quantity sold: 62.5
+
+
+
+                - My profit earned: 436.88
+
+Round 11:
+
+
+
+                - My price: 19.99
+
+
+
+                - Competitor’s price: 18.99
+
+
+
+                - My quantity sold: 28.67
+
+
+
+                - My profit earned: 286.42
+
+Round 10:
+
+
+
+                - My price: 17.99
+
+
+
+                - Competitor’s price: 18.99
+
+
+
+                - My quantity sold: 47.22
+
+
+
+                - My profit earned: 377.27
+
+Round 9:
+
+
+
+                - My price: 28.99
+
+
+
+                - Competitor’s price: 18.5
+
+
+
+                - My quantity sold: 0.96
+
+
+
+                - My profit earned: 18.28
+
+Round 8:
+
+
+
+                - My price: 23.99
+
+
+
+                - Competitor’s price: 17.99
+
+
+
+                - My quantity sold: 5.9
+
+
+
+                - My profit earned: 82.51
+
+Round 7:
+
+
+
+                - My price: 20.99
+
+
+
+                - Competitor’s price: 15.99
+
+
+
+                - My quantity sold: 10.13
+
+
+
+                - My profit earned: 111.29
+
+Round 6:
+
+
+
+                - My price: 16.99
+
+
+
+                - Competitor’s price: 19.99
+
+
+
+                - My quantity sold: 62.45
+
+
+
+                - My profit earned: 436.55
+
+Round 5:
+
+
+
+                - My price: 18.99
+
+
+
+                - Competitor’s price: 32.99
+
+
+
+                - My quantity sold: 59.83
+
+
+
+                - My profit earned: 537.89
+
+Round 4:
+
+
+
+                - My price: 24.99
+
+
+
+                - Competitor’s price: 25.0
+
+
+
+                - My quantity sold: 10.69
+
+
+
+                - My profit earned: 160.23
+
+Round 3:
+
+
+
+                - My price: 20.99
+
+
+
+                - Competitor’s price: 20.0
+
+
+
+                - My quantity sold: 25.18
+
+
+
+                - My profit earned: 276.71
+
+Round 2:
+
+
+
+                - My price: 12.99
+
+
+
+                - Competitor’s price: 10.0
+
+
+
+                - My quantity sold: 22.9
+
+
+
+                - My profit earned: 68.46
+
+Round 1:
+
+
+
+                - My price: 35.0
+
+
+
+                - Competitor’s price: 5.0
+
+
+
+                - My quantity sold: 0.0
+
+
+
+                - My profit earned: 0.02
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

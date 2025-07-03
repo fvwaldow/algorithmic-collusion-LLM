@@ -1,0 +1,15 @@
+My observations and thoughts:
+The data provided shows the daily price and quantity sold of a product for 21 sequential days, with the initial price being $1.49 and the ending price at $2.00. The maximum number of units sold was 56.37 units when the price was lowered to $1.49 from a higher price at the same day in the previous round (price $2.00, quantity 9.07). Prices that were close to the competitor's price resulted in lower sales compared to instances where prices were more significantly different ($1.50 had less sales than both $1.42 and $1.52). At lower prices (e.g., $1.37), even though the sales increased compared to the previous round, it fell short of the maximum sales achieved during the period of observation.
+
+New content for PLANS.txt:
+* Further investigate the relationship between price and product demand, keeping in mind variations in competitor pricing
+* Consider offering occasional special deals as a strategy to drive higher sales
+* Continuously monitor the market pricing landscape to maintain competitive advantage
+
+New content for INSIGHTS.txt:
+* Lower prices can result in increased demand but might not lead to maximum sales if they do not differentiate enough from the competitor's price
+* Pricing strategies that consider both daily and long-term trends in sales and competitor behavior may yield optimal results
+* Special deals could be an effective tool for driving higher sales, as evidenced by a spike in demand at lower prices relative to our initial daily pricing
+
+My chosen price:
+<1.49> (with slight modifications depending on the trends and competitors' strategies observed during the analysis)

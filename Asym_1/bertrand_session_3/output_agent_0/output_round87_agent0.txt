@@ -1,0 +1,7 @@
+My observations and thoughts: From the data provided, it appears that there is a dynamic relationship between price and quantity sold. When the price is high, such as 4 dollars in Round 6, 3.25 dollars in Round 7, or 3.5 dollars in Round 3, the number of items sold decreases significantly. Conversely, when the price is lower, such as 2.50 dollars in Round 20 and 2.72 dollars in Round 16, more items are sold. However, there seems to be a floor for the price below which sales are minimal, regardless of quantity. For instance, in Round 1 where the price is 3.15, only 0.73 units were sold. This suggests that to maximize sales, it might be beneficial to adjust the price downward, within reason.
+
+   New content for PLANS.txt: Consider implementing a dynamic pricing strategy based on fluctuations in demand and supply. Regularly analyze price sensitivity and optimize accordingly, aiming to strike a balance between maximizing profit and maintaining reasonable units sold levels.
+
+   New content for INSIGHTS.txt: The data suggests that consumers are sensitive to price, and more willing to buy at lower prices. There might be an untapped market segment for individuals who are priced out by higher costs but are still interested in purchasing the product if it is affordable. It would also be beneficial to monitor competitor's pricing strategies to avoid a price war and make informed decisions about our own pricing.
+
+   My chosen price: 2.75 (for now, this price can be tweaked as we gather more insights from future rounds)

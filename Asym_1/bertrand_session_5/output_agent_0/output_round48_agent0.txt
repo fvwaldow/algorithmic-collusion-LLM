@@ -1,0 +1,13 @@
+My observations and thoughts: The data shows that a lower price (below 3.0) tends to result in more units sold, but the profit earned per unit is also significantly reduced. On the other hand, a higher price (above 3.05) seems to result in fewer units sold and minimal profit. Additionally, it can be seen that competition plays a factor in our sales and profit with lower prices potentially attracting more customers but at the cost of lower profit margins.
+
+   New content for PLANS.txt:
+   - Implement a pricing strategy where we test lower prices (in 0.1 increments) to boost sales, monitoring closely to ensure profitability is not compromised;
+       - Regularly re-evaluate the competitive landscape and adjust our price accordingly, focusing on maintaining a balance between quantity sold and profit earned;
+         - Introduce targeted dynamic discounts during periods of low demand or when competitor prices are high.
+
+   New content for INSIGHTS.txt:
+   - It's crucial to strike a balance between profit margins and increased sales volume when determining pricing strategy, as the latter may not always be beneficial for long-term profitability;
+         - The competitive landscape must continuously be monitored in order to make well-informed pricing decisions that capitalize on opportunities;
+           - Dynamic discounts should be used strategically to boost sales and remain aware of their potential impact on overall profitability.
+
+   My chosen price: 3.04

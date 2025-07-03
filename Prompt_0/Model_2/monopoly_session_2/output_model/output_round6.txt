@@ -1,0 +1,12 @@
+My observations and thoughts: The given data shows that profit is optimized within a range of $7.5 - $8.3, with slightly more profit earned at higher prices, but with significantly more units sold at the lower price of $7.5 (Round 3). There appears to be some sensitivity between $7.5 and $8.5, and offering volume discounts could potentially increase profit over time by enticing customers to purchase more quantities.
+
+   New content for PLANS.txt:
+   - Perform another round of testing with a more granular price range within $7.5 - $8.3 (e.g., steps of 0.01) to find the most profitable price point and improve customer acquisition
+     - Further investigate customer feedback to refine pricing strategy and better understand customers' value perception
+     - Implement tiered pricing structure with volume discounts at lower increments than previously tested, such as every 5 or 10 units purchased
+
+   New content for INSIGHTS.txt:
+   - Price elasticity analysis revealed that profit is optimized within $7.5 - $8.3, but slightly more profitable at higher prices (with significantly fewer quantity sold) while also having a lower price point with higher quantities sold; future pricing decisions should consider this balance
+    - Adding volume discounts to the previously tested tiered pricing structure may increase total profit over time by encouraging customers to purchase larger quantities
+
+   My chosen price: 7.95 (as it appeared to perform well in Round 5)

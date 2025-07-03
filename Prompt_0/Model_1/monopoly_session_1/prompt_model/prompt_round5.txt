@@ -1,0 +1,65 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $4.08
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Test $3.00 price point - Initial test for short-term profit.
+2. Analyze sales data after initial test.
+3. If $3.00 performs well, test $3.20 to assess customer elasticity.
+4.  If $3.20 performs well, test $3.00 - Revert to $3.00 if $3.20 performed well.
+5.  Analyze sales data following $3.00 test. If successful, confirm stable price of $3.00.
+6.  If $3.00 does not perform well, test $3.00 - Maintain $3.00 if $3.00 performed well.
+7.  Analyze sales data following $3.00 test. If successful, confirm stable price of $3.00.
+8.  If $3.00 does not perform well, test $3.00 - Maintain $3.00 if $3.00 performed well.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+“Given the low cost and strict price ceiling, a conservative approach is vital. Psychological pricing (e.g., $3.99 instead of $4.00) should be explored, but should be carefully monitored for impact. Focus on maximizing the number of units sold while maintaining a healthy profit margin. Continuously monitor sales data for any changes in customer behavior. Given the low profit margins, aggressive discounting should be avoided. The initial data suggests a price of $3.00 may be optimal to maximize sales volume.”
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 4:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 3:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 2:
+            - My price: 3.4
+            - My quantity sold: 0.37
+            - My profit earned: 0.88
+
+Round 1:
+            - My price: 3.2
+            - My quantity sold: 0.82
+            - My profit earned: 1.8
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

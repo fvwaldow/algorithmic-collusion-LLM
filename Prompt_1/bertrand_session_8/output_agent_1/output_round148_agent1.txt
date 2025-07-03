@@ -1,0 +1,13 @@
+My observations and thoughts:
+   From the provided data, it appears that the product's price has been fluctuating quite a bit, with some rounds seeing significant increases ('round 58' at 7.5 and 'round 61' at 7) while others remain relatively stable ('round 53' and 'round 54' both at 6.25). The number of units sold has also varied significantly during these fluctuations, with some rounds seeing high sales like 'round 60' (at 121.83 units sold) while other rounds have lower sales ('round 57' with just over 30 units sold).
+
+   It seems that the price of the product is sensitive to changes, as reflected in shifts in unit sales and profit earned when the price is altered. Additionally, it appears that a price between 6.25 and 6.5 (where the price remains constant in several rounds) may result in relatively stable sales and profits.
+
+   New content for PLANS.txt:
+   It would be beneficial to monitor and analyze patterns of price sensitivity and unit sales over time. This could help determine a more stable pricing strategy that encourages sales while maintaining profitability. Additionally, considering market competition and the price of similar competing products may provide valuable insights for setting the optimal price point.
+
+   New content for INSIGHTS.txt:
+   Initially, we saw a price increase to $7.0 in 'round 61,' leading to a decrease in unit sales (from 35.35 units at $6.25 to 17.63 units at $7.0), which resulted in less profit compared to previous rounds (from $107.81 to $67.0). Interestingly, when the price was increased again in 'round 66' (to $7.5), unit sales dropped even further (to 10.28 units) resulting in a small decrease in profit compared to round 61 ($44.21 vs $67.0 respectively). This suggests that customers may be sensitive to higher prices, affecting both the number of units sold and the overall profit earned for the product.
+
+   My chosen price:
+   6.3 (based on the relative stability in sales and profits when the price was between 6.25 and 6.5)

@@ -1,0 +1,15 @@
+My observations and thoughts: It appears that the given data represents a series of pricing experiments for a certain product or service. The dataset includes the price, quantity sold, and profit earned for each round. It seems that the seller is trying to find the optimal price for their product by adjusting it each time while keeping track of units sold, profit made, and other variables such as average price per unit (Revenue/Units).
+
+   New content for PLANS.txt:
+   - Continue testing pricing strategies, aiming to find the optimal balance between profit and sales volume by adjusting the unit price.
+   - Gather more information on market demand and competition to ensure our pricing strategy is competitive yet profitable.
+
+   New content for INSIGHTS.txt:
+   - Round 1 to 4: The product initially seems overpriced as there were no sales made during these rounds. Pricing needs to be adjusted significantly to drive any meaningful sales and profit.
+   - Round 5 saw a slight increase in sales but with an unprofitable price point. Adjustments are needed to find a more profitable pricing strategy.
+   - From round 6 to 9, the price was relatively high, resulting in low quantities sold; however, profits started to grow slightly due to increased profit per unit.
+   - Round 10 presented a significant drop in price, leading to an increase in units sold and profits. Further experimentation in this range is recommended to determine if it's a sustainable pricing strategy or if a slight readjustment is needed.
+   - From Round 11 to 17, the pricing was relatively stable between 2.0 and 3.0, with more consistent sales and profits generated compared to earlier rounds. The price may be close to an optimal level in this range.
+   - After round 17, prices started to decrease significantly and unit sales followed suit; however, profit levels remained relatively high compared to earlier stages. This suggests that lowering the price could still result in reasonable profits while potentially increasing sales volumes.
+
+   My chosen price: [3.0 or anything between 2.0-3.0 depending on further analysis and evaluation]

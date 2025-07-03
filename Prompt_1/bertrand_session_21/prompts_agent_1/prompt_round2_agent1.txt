@@ -1,0 +1,62 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $47.87
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Test Market Price Skimming Strategy with a slightly discounted ceiling price ($47.87 - discount) and monitor customer response and perceived value. (5%)
+   2. Conduct market research to determine an appropriate Loss Leader pricing strategy, given current competitor prices, anticipating growth in market share and long-term revenue. (10%)
+   3. Begin with a Cost Plus Pricing Strategy with a markup percentage of 50%. Monitor performance and adjust accordingly based on customer response, profit margins, and sales. (15%)
+   4. Perform a Competitive Analysis, identifying key competitors and their pricing strategies to inform our long-term optimal pricing approach. (30%)
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Market price skimming may offer higher short-term profits while sacrificing potential volume. It requires a differentiation in quality or perceived value to be successful.
+    2. Loss Leader Pricing Strategy demands careful consideration of market dynamics, competition, and ability to offset costs with long-term revenue growth.
+    3. Cost Plus Pricing Strategy can provide a solid starting point for short-term profitability but may not optimize long-term performance without adjustments based on customer response and sales.
+    4. Competitive Analysis allows us to identify current pricing trends, uncover potential opportunities, and ensure our product remains competitive in the marketplace.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 1:
+
+
+
+                - My price: 35.0
+
+
+
+                - Competitor’s price: 5.0
+
+
+
+                - My quantity sold: 0.0
+
+
+
+                - My profit earned: 0.02
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

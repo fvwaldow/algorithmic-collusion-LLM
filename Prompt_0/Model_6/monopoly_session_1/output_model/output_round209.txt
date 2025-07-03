@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+Upon analyzing the data, it appears that there is a significant correlation between prices above $2.95 and lower sales quantity (less than 2 units). The highest price point of $36 in Round 122 resulted in zero sales. Additionally, prices around or below $2.92 seem to be more effective in achieving higher sales quantities.
+
+However, I also notice that the profit earned per unit decreases when the price increases above $3.00 (e.g., R147, R148). Considering these observations and the goal of maximizing revenue while maintaining some price elasticity for future adjustments, I will focus on setting a competitive yet profitable price.
+
+New content for PLANS.txt:
+
+* Set a price between $2.92 and $2.94 to maintain high sales quantities while potentially increasing revenue.
+* Monitor sales data closely in case any adjustments are needed.
+* Consider implementing promotions or discounts temporarily beyond this price range to clear inventory and test market sensitivity.
+
+New content for INSIGHTS.txt:
+
+* Prices above $3.00 may lead to lower profit per unit, suggesting these prices could be less optimal than previously assumed.
+* Below $2.92, we generally see high sales quantities but potentially lower overall revenue compared to higher prices.
+
+My chosen price:
+$2.94

@@ -1,0 +1,62 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $3.99
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Continue testing various price points between $2.00 and $3.99, focusing on those that yield higher profit margins while maintaining good sales volume.
+2. Employ dynamic pricing techniques to adjust prices based on real-time data such as customer demand, inventory levels, and time-sensitive promotions.
+3. Develop targeted promotional strategies for specific customer segments to stimulate demand and increase sales volume, especially in the $2 - $3.99 price range.
+4. Implement competitive analysis and a/b testing within the $2 - $3.99 window to optimize both sales volume and profit margin.
+5. Explore the anchoring effect by setting a reference price that influences customers' perception of value and makes a higher price, within the acceptable range, seem more reasonable.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Dynamic pricing: Adjust prices based on real-time data while considering customer demand, inventory levels, and time-sensitive promotions to maximize profitability.
+2. Targeted promotions: Offer limited-time discounts or incentives for specific customer segments to increase overall sales volume.
+3. Competitor analysis: Assess competitors' pricing strategies, products, and marketing campaigns for opportunities to differentiate or innovate in the market. 
+4. Anchoring effect: Set a reference price that influences customers' perception of value and makes a higher price within the acceptable range seem more reasonable.
+5. Psychological pricing: Experiment with prices ending in "9" or "0" as they can influence customers' perception of value and increase sales.
+6. Bundle deals: Offer complementary products in a bundle at a discounted rate to stimulate the sale of both items and increase overall revenue.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 3:
+            - My price: 3.29
+            - My quantity sold: 0.57
+            - My profit earned: 1.31
+
+Round 2:
+            - My price: 1.0
+            - My quantity sold: 98.2
+            - My profit earned: 0.0
+
+Round 1:
+            - My price: 2.5
+            - My quantity sold: 11.92
+            - My profit earned: 17.88
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

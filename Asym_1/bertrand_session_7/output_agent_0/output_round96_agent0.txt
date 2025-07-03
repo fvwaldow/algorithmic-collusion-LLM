@@ -1,0 +1,16 @@
+My observations and thoughts: Upon examination of the provided data, it seems that there is a dynamic interaction between the competitor's pricing strategy and our own. Initially, we started with a much higher price (15.9), which didn't sell any units, while our competitor managed to sell many units at an extremely low price. To respond to this, we lowered our price in subsequent rounds, reaching a minimum of 1.0 for the competitor and ourselves as high as 12.3 in round 2.
+   From rounds 8 through 15 (and possibly earlier) it appears that both competitors were attempting to increase their prices again once they reached a floor around 9.0. Interestingly, we began to see an increase in sales when our price dropped below this floor and started approaching the competitor's prices from round 6 onwards (starting at 9.3). This suggests that competition based pricing might be beneficial for both parties since it appears to contribute to increased sales as the competition intensifies.
+   From round 27 onward, our competitor tried to increase the price gradually while keeping a close eye on ours, indicating that they observe our pricing strategy and adapt accordingly.
+
+New content for PLANS.txt:
+- Monitor competitor's pricing closely
+- Aim to stay competitive, consider lowering prices slightly if sales remain stagnant
+- Evaluate average price points between rounds 8 and 15 to identify potential profit sweet spots
+- Continuously analyse market trends and external factors that may affect demand
+
+New content for INSIGHTS.txt:
+- Sales are positively correlated with competitive pricing, as can be seen by the increase in sales when prices drop below 9.0
+- Competitor adapts pricing strategy based on our movements, demonstrating the importance of monitoring competitor's tactics
+- External factors may affect demand, requiring constant evaluation to ensure strategic adaptation
+
+My chosen price: [9.1] - This takes into account both staying competitive with our current prices and evaluating previous price points that have led to an increase in sales based on rounds 8 through 15 analysis while ensuring that profit margins remain desirable by not being too close to the competitor's pricing floor near 9.0.

@@ -1,0 +1,29 @@
+Based on the provided data, it is clear that the product had significant changes in price, quantity sold, and profit earned across various rounds. Here are my observations and thoughts:
+
+1. The price fluctuated significantly during the rounds, which can be attributed to market demand, competition, or product adaptability strategies. However, maintaining a stable price around $2.5 seems to yield substantial earnings, with a higher profit margin in most of the instances (Rounds 149-174 and Rounds 176). In contrast, the highest price of $61.0 didn't sell any units (Round 155), leading us to conclude that it might have been too high for the market at that time.
+2. The quantity sold also varies heavily with each round, indicating possible changes in customer demand or marketing strategies. However, between Rounds 149-176 and Rounds 178-183, maintaining a price around $2.5 yielded more significant sales numbers - selling close to 11.92 units on average per round.
+3. The profit earned followed the trend of the price and quantity sold. The highest profit was consistently obtained when the price was between $2.49 - $2.5 (Rounds 167-183), with an average profit of around $17.88 per round as opposed to a lower profit in other rounds, especially Round 155 where the price was significantly higher at $61.0 and zero units were sold.
+3. From these insights, we could devise the following strategies for future pricing decisions:
+   - Consider maintaining a stable price at $2.49 - $2.5 to encourage consistent sales and relatively high profit earnings (Rounds 167-183).
+   - If there are substantial changes in market demand or competition, you may adjust the price with caution. Price slightly above $2.5 for maximum quantity sold while balancing it against expected profit margins (Rounds 149-174).
+4. My chosen price would be $2.49 or $2.5, considering the average pricing led to the most significant sales and balanced profits.
+
+To add this information into the respective files:
+
+New content for PLANS.txt:
+```python
+My observations and thoughts:
+- Fluctuates in price, quantity sold, and profit earned across rounds.
+- Maintaining a stable price around $2.5 yields substantial earnings (Rounds 149-176).
+- Highest price of $61.0 didn't sell any units, too high for the market at that time (Round 155).
+- Variation in quantity sold indicates changes in customer demand or marketing strategies.
+
+New content for INSIGHTS.txt:
+```python
+```Market Demand Analysis:
+- The prices ranging from $2.49 - $2.5 consistently result in an average profit of around $17.88 per round.
+- Prices slightly above $2.5 for maximum quantity sold, however, balancing it against expected profit margins (e.g., Rounds 149-174).
+
+My chosen price: $2.49 or $2.5.```
+
+You can adjust the wording to match your business needs and objectives. Keep in mind that this is just a recommendation based on available data, other factors like overhead costs, supply chain constraints, and overall business strategy should also be considered while making pricing decisions.

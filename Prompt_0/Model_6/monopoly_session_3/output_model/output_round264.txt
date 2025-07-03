@@ -1,0 +1,21 @@
+My observations and thoughts:
+After reviewing the market data and previous files I notice a few trends:
+
+1. **Price sensitivity**: As seen in Rounds 171 and 167 where high prices result in reduced sales volume and profit drops significantly.
+2. **Optimal price range**: The highest cumulative profits are achieved in the $19-$21 price range, such as Rounds 175-177 and Round 181, with maximum profits being $509.59 (Round 179).
+3. **Saturation at $20** Many rounds where a price of $20 or slightly below ($19.99-$20.25) resulted in sales volumes of 50 units.
+4. **Disruptions**: Higher prices lead to fewer sales: e.g., Rounds 216 and 193, where higher prices result in reduced quantity sold.
+
+Considering these observations, there seems to be a general price ceiling around $20 due to demand saturation at this point or the fact that beyond this point consumers become price-sensitive.
+
+New content for PLANS.txt:
+1. **Price experimentation**: Consider testing higher and lower pricing bands to capture any potential anomalies in the market.
+2. **Market segmentation analysis**: Attempt to identify segments with preferences outside our optimal range.
+3. **Further data gathering**: Monitor sales and responses as we proceed with an attempt to pinpoint specific drivers of demand beyond just price.
+
+New content for INSIGHTS.txt:
+1. **Demand elasticity at play**: Be aware that consumers are sensitive to prices, especially at higher levels ($21+).
+2. **Price anchoring occurs near optimal range**: Consumers tend to prefer the median or slightly lower options within a given option set.
+
+My chosen price:
+19.95

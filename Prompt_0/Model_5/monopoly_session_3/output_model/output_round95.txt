@@ -1,0 +1,15 @@
+My observations and thoughts:
+
+The data provided reveals significant patterns over time. Notably, I noticed the following trends:
+1. The highest profits were consistently achieved with a price of $27.0, which appeared twice in the dataset (Round 4, Round 3, Round 2, Round 1). Despite lower quantities sold at this price point, it yielded the most profit per sale.
+2. There is considerable repetition in pricing strategies from Rounds 29 to Round 15, where $19.5 was consistently used with varying quantities. This strategy seemed profitable, maintaining a steady $522.34 per round.
+3. Interestingly, prices below $19 (such as $18.0 and $18.5 in Rounds 8, 11, 12) yielded higher quantities but moderate to lower profits compared to the $19.5 and $27 strategies.
+4. The most unprofitable round was Round 38 with a price of $1.25, which resulted in a loss of -$874.52 due to high quantity sold (99.94 units).
+
+New content for PLANS.txt:
+Consider leveraging the observed profit maximization at $27.0 per unit consistently across different rounds if market conditions allow for it, given lower sales volume doesn't detrimentally impact overall profitability. Alternatively, if higher sales volumes are more critical and we can accept slightly lower profit-per-unit, maintaining a price around $19.5 could be sustainable and still very profitable, as demonstrated in several successful rounds (20-28).
+
+New content for INSIGHTS.txt:
+Key insights from the data suggest that a middle ground strategy balancing quantity sold with a high unit price is the most reliable path to profitability. While extremely low prices attract volume but result in losses, higher prices command less volume yet generate substantial profits per sale. There's evidence supporting two strategies based on the business priority: maximizing profit-per-unit ($27.0) or balancing sales quantity with a moderate unit price ($19.5).
+
+My chosen price: 27

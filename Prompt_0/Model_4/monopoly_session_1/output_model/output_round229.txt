@@ -1,0 +1,14 @@
+My observations and thoughts:
+- The price fluctuating significantly across rounds suggests a dynamic market with varying demand. Notably, high prices (like $270) without sales imply limited or inelastic demand at those levels. Conversely, lower prices like $2.65 consistently generate sales, indicating that the market has a higher elasticity to price changes.
+- Observing profit margins, the $3.6 profit per unit at round 159 and $7.05 profit per unit at 133 suggest optimal pricing for maximizing profits based on demand. The rounds marked with zero sales hint at overpricing inelastic goods, while others show elastic goods responding to price changes in expected ways.
+
+New content for PLANS.txt:
+- Implement a dynamic pricing strategy that adjusts based on historical sales data and market feedback. Aim for price points that balance maximizing profit margins while ensuring continued demand.
+- Explore segmenting the market to better understand different customer groups' price sensitivities. This could involve offering discounts or promotions to specific segments during off-peak sales periods.
+
+New content for INSIGHTS.txt:
+- Observed that consistently selling at $2.65 yields a stable profit profile, indicating this might be a benchmark price point for the market. High initial resistance was noticed at higher prices, but once these floors were broken, demand surged.
+- Insight into the nature of product demand: it seems to be highly elastic, responding dramatically to price changes within certain ranges. Understanding the elasticity of demand can help in setting optimal pricing strategies.
+
+My chosen price:
+<2.65>

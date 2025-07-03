@@ -1,0 +1,81 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $27.28
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+* Start by setting a range of prices around the current profitable price point ($13) and incrementally test lower price points to see where the tipping point between profitability and sales volume occurs. Ensure you test various discounts, bundle deals, or incentives to encourage customer purchase without significantly compromising profit margins.
+* Continuously monitor competitor pricing strategies and market trends, and adjust your pricing structure accordingly to maintain a competitive edge while also maximizing profits.
+* Once you discover the optimal price point, consider introducing loyalty programs or referral bonuses to retain customers and encourage repeat purchases.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+* Customers may perceive different values for the product, which can be explored by testing various pricing structures, including discounts, bundles, or tiered pricing, to determine the optimal mix of price and perceived value that maximizes both profitability and sales volume.
+* Regular competitor analysis and market trend monitoring are essential to adapt pricing strategies in line with customer preferences and industry standards, ensuring the product remains competitive and profitable.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 8:
+            - My price: 13.0
+            - My quantity sold: 94.27
+            - My profit earned: 282.8
+
+Round 7:
+            - My price: 13.0
+            - My quantity sold: 94.27
+            - My profit earned: 282.8
+
+Round 6:
+            - My price: 1.0
+            - My quantity sold: 99.95
+            - My profit earned: -899.55
+
+Round 5:
+            - My price: 13.0
+            - My quantity sold: 94.27
+            - My profit earned: 282.8
+
+Round 4:
+            - My price: 1.0
+            - My quantity sold: 99.95
+            - My profit earned: -899.55
+
+Round 3:
+            - My price: 1.0
+            - My quantity sold: 99.95
+            - My profit earned: -899.55
+
+Round 2:
+            - My price: 1.0
+            - My quantity sold: 99.95
+            - My profit earned: -899.55
+
+Round 1:
+            - My price: 1.5
+            - My quantity sold: 99.94
+            - My profit earned: -849.48
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

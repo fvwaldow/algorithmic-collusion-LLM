@@ -1,0 +1,13 @@
+My observations and thoughts:
+It appears that the given data represents a series of price adjustments for an unspecified product, along with the quantity sold for each price and profit earned from these sales. Additionally, for some rounds, there is also provided a competitor's price and corresponding quantity sold. It seems crucial to factor in how changes in our own pricing strategy impacts both sales volume (quantity sold) and profitability (profit earned). By analyzing this trend over the course of multiple adjustments, we can uncover helpful insights. Note that some pricing adjustments lead to an increase in either sales volume or profitability but not necessarily both at once.
+   New content for PLANS.txt:
+* Monitor and evaluate the correlation between price changes and quantity sold
+* Keep track of how price changes affect profitability
+* Identify patterns, if any, regarding when it is best to adjust our pricing strategy (e.g., during periods of high or low competition)
+   New content for INSIGHTS.txt:
+* Increasing the price from 6.0 to 6.3 led to a decrease in both sales volume and profitability, suggesting that this particular price point does not generate maximum sales for given market conditions (Rounds 194, 195)
+* Lowering the price below the competitor's price can have mixed results; at times it may lead to higher sales but reduced profitability due to lower margins (e.g., Rounds 188 and 189). However, there are instances where both higher sales and profitability were observed when adjusting prices below the competitor's pricing strategy (Rounds 185-187)
+* Increasing or decreasing the price from 6.2 to 6.5 led to a considerable decrease in both sales volume and profitability, indicating that this price point may be too far away from what the market is willing to pay for the product (Rounds 190-192)
+* Maintaining consistent pricing during periods of low competition seems to generate steady sales volume and profitability when compared to adjusting prices more drastically (Rounds 168, 174, 183, and 196-200). However, there are exceptions where minor increases in price can lead to a spike in sales during specific market circumstances, as seen in Rounds 157-159, 163 and 174.
+   My chosen price:
+<6.2>

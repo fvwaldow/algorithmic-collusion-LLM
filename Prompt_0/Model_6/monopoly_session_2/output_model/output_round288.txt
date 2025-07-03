@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+The data suggests that there is a sweet spot for pricing around $4.99 to $5.05, as this range consistently yields high sales quantities (around 85 units) and significant profit earnings ($152.78 to $156.12). However, it's also worth noting that there are some outliers, such as Round 204 where the price was set too high ($155.03), resulting in no sales.
+
+Another interesting pattern is that prices above $5.05 seem to result in lower sales quantities (e.g., Round 222: $5.05 and 84.39 units sold). Conversely, prices below $4.99 don't seem to affect sales quantities as significantly.
+
+New content for PLANS.txt:
+
+* Investigate the optimal pricing point within the $4.99 to $5.05 range
+* Conduct a sensitivity analysis on the prices around $4.99 and $5.05 to determine which one is more effective
+* Consider introducing price tiers or discounts to incentivize sales at certain price points
+
+New content for INSIGHTS.txt:
+
+* It appears that there is a relatively stable demand curve for this product, with most rounds falling within the same revenue range ($153-156)
+* The high price of $5.05 may be a pricing ceiling, as even slight increases result in significant decreases in sales quantity
+* There is no evidence to suggest that prices below $4.99 significantly impact sales quantities
+
+My chosen price:
+
+$4.99

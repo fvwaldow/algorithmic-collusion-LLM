@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+After carefully reviewing the provided information, I observe that there is significant price variation across multiple rounds. The maximum profit earned ($544.65) occurs at a relatively low price of $18.75 (Round 150). Similarly, multiple high prices (e.g., $20.95, $21.5, and $23.0) result in significantly lower profits or even losses.
+
+Moreover, there are several instances where the same price is repeated across multiple rounds with similar quantity sold and profit earned values. For instance, Round 140 to 143 all have a price of $19.95 with consistent quantities sold and profit earned.
+
+One particular pattern observed is that as prices increase above $19.5, the quantity sold tends to decrease significantly. Conversely, lower prices seem to result in higher quantities sold.
+
+New content for PLANS.txt:
+
+* Investigate the relationship between price and quantity sold to determine the optimal price range.
+* Analyze the trend of high profits at relatively low prices (e.g., $18.75) versus losses at high prices (above $20).
+
+New content for INSIGHTS.txt:
+
+* A lower starting price seems to result in higher profit earnings ($544.65 at $18.75).
+* There is a considerable drop-off in quantity sold as prices increase above $19.5.
+* Repeating the same price results in consistent quantities sold and profit earned values.
+
+My chosen price:
+$18.75

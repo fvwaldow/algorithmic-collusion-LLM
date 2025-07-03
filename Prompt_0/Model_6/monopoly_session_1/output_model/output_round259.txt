@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+* The customer demand seems to be stable around a price of $2.95 with quantities sold being approximately 2.19. However, there's an interesting trend where the profit earned is consistently around $4.27 despite fluctuations in prices above or below $2.95.
+* Another notable observation is that whenever the price drops below $2.90 (as seen in rounds 183 and 170), the quantity sold increases significantly (in rounds 183, it's 2.66 and in round 170, it's 3.23). Similarly, when the price is above $2.97, the quantity sold decreases.
+* I've also noticed that there are some anomalous instances where the profit earned drops below $4.27 despite a stable customer demand (Rounds 196-198, 202, and 206 have prices above or around $2.95 with lower profit earned).
+
+New content for PLANS.txt:
+
+1. Explore offering a discount to customers when purchasing in bulk to capitalize on the increased quantity sold witnessed at price drops below $2.90.
+2. Maintain a pricing strategy centered around $2.95, considering it as a sweet spot where customer demand is high and profit earned is consistent.
+
+New content for INSIGHTS.txt:
+
+* The inverse relationship observed between prices above or around $2.97 and quantity sold can be further studied to determine the optimal price point that strikes a balance between maximizing revenue and maintaining customer demand.
+* The significance of keeping prices above $2.95 might be worth exploring, as seen in fluctuations where profits earn lower at these higher price points.
+
+My chosen price:
+
+2.95

@@ -1,0 +1,228 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $43.87
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Continue A/B testing within the adjusted price range of $18 - $21, focusing on finding a sweet spot that balances unit sales, profit margin, and competitor behavior (Round 28+).
+           a) Analyze consumer responses to pricing psychology and incorporate relevant strategies for pricing optimization during this testing phase (Round 28+).
+          b) Monitor and adapt our pricing strategy in relation to changing market dynamics, consumer preferences, and emerging competitor tactics (Round 28+).
+   2. Dive deeper into understanding the target audience's behavior and preferences by conducting surveys or focus groups to gain valuable insights (Rounds 28+).
+           a) Use these findings to tailor our pricing strategy to better suit the needs of specific market segments, driving revenue growth and maximizing profitability (Rounds 28+).
+          b) Track competitor moves more closely to identify potential threats or opportunities within our target audience, allowing for swift action in market positioning (Rounds 28+).
+   3. Regularly review market data to update the pricing strategy and ensure long-term profitability while maintaining a balance between price, sales volume, and revenue goals (Rounds 28+).
+           a) Iterate on the pricing model with insights from customer behavior, feedback, and competitive conditions for consistent growth over time (Rounds 28+).
+          b) Flexibility in our approach allows us to remain adaptive as market demands, consumer preferences, and competitive behaviors evolve (Rounds 28+).
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. The ideal pricing sweet spot lies within an optimized balance of reasonable market price, unit cost, revenue, and profit margins (Rounds 28+).
+          a) Continuous A/B testing will help determine the perfect equilibrium point (Rounds 28+).
+           b) Combining insights from psychology, competitor behavior, and traditional pricing strategies will optimize pricing trends for increased sales volume and revenue gains (Rounds 28+).
+   2. Focus on understanding the target audience's preferences and tailor the pricing strategy accordingly to foster successful relationships with these demographics, expanding revenue goals over time (Rounds 28+).
+          a) Closely monitor competitor moves to identify emerging trends or tactics within the target market and capitalize on potential opportunities for our market positioning (Round 28+).
+           b) Adaptive pricing strategies informed by data-driven insights, evolving market conditions, consumer preferences, and competitive behavior will contribute to continuous growth, increased sales volume, and long-term revenue optimization (Rounds 28+).
+   3. Regularly review market data to ensure that the pricing strategy is up-to-date and remains optimized for profitability as customer preferences, competitive conditions, and emerging trends reshape the market landscape (Rounds 28+).
+           a) Iterative refinements of the pricing approach with insights from customer behavior, feedback, and market data will maintain profit maximization over time (Rounds 28+).
+          b) Flexibility in our pricing strategy allows us to adapt consistently and effectively in response to changing market dynamics, consumer preferences, competitive conditions, and shifts in trending tactics (Rounds 28+).
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 29:
+                - My price: 19.0
+                - Competitor’s price: 23.0
+                - My quantity sold: 17.47
+                - My profit earned: 157.19
+
+Round 28:
+                - My price: 18.0
+                - Competitor’s price: 21.5
+                - My quantity sold: 15.62
+                - My profit earned: 124.95
+
+Round 27:
+                - My price: 21.0
+                - Competitor’s price: 21.0
+                - My quantity sold: 4.43
+                - My profit earned: 48.72
+
+Round 26:
+                - My price: 22.0
+                - Competitor’s price: 20.5
+                - My quantity sold: 2.51
+                - My profit earned: 30.13
+
+Round 25:
+                - My price: 22.0
+                - Competitor’s price: 21.5
+                - My quantity sold: 3.6
+                - My profit earned: 43.23
+
+Round 24:
+                - My price: 21.0
+                - Competitor’s price: 20.5
+                - My quantity sold: 3.7
+                - My profit earned: 40.7
+
+Round 23:
+                - My price: 18.0
+                - Competitor’s price: 20.5
+                - My quantity sold: 11.31
+                - My profit earned: 90.51
+
+Round 22:
+                - My price: 21.0
+                - Competitor’s price: 21.5
+                - My quantity sold: 5.28
+                - My profit earned: 58.09
+
+Round 21:
+                - My price: 20.0
+                - Competitor’s price: 21.5
+                - My quantity sold: 7.68
+                - My profit earned: 76.79
+
+Round 20:
+                - My price: 21.0
+                - Competitor’s price: 21.5
+                - My quantity sold: 5.28
+                - My profit earned: 58.09
+
+Round 19:
+                - My price: 23.0
+                - Competitor’s price: 24.0
+                - My quantity sold: 5.62
+                - My profit earned: 73.1
+
+Round 18:
+                - My price: 20.0
+                - Competitor’s price: 21.5
+                - My quantity sold: 7.68
+                - My profit earned: 76.79
+
+Round 17:
+                - My price: 21.5
+                - Competitor’s price: 20.0
+                - My quantity sold: 2.54
+                - My profit earned: 29.17
+
+Round 16:
+                - My price: 25.0
+                - Competitor’s price: 26.16
+                - My quantity sold: 4.76
+                - My profit earned: 71.37
+
+Round 15:
+                - My price: 26.16
+                - Competitor’s price: 20.0
+                - My quantity sold: 0.4
+                - My profit earned: 6.5
+
+Round 14:
+                - My price: 26.16
+                - Competitor’s price: 22.5
+                - My quantity sold: 1.0
+                - My profit earned: 16.23
+
+Round 13:
+                - My price: 21.5
+                - Competitor’s price: 21.5
+                - My quantity sold: 4.37
+                - My profit earned: 50.2
+
+Round 12:
+                - My price: 25.0
+                - Competitor’s price: 24.0
+                - My quantity sold: 2.61
+                - My profit earned: 39.11
+
+Round 11:
+                - My price: 21.5
+                - Competitor’s price: 24.0
+                - My quantity sold: 9.79
+                - My profit earned: 112.62
+
+Round 10:
+                - My price: 30.0
+                - Competitor’s price: 20.0
+                - My quantity sold: 0.09
+                - My profit earned: 1.74
+
+Round 9:
+                - My price: 20.0
+                - Competitor’s price: 20.0
+                - My quantity sold: 4.53
+                - My profit earned: 45.28
+
+Round 8:
+                - My price: 20.0
+                - Competitor’s price: 20.0
+                - My quantity sold: 4.53
+                - My profit earned: 45.28
+
+Round 7:
+                - My price: 24.0
+                - Competitor’s price: 20.0
+                - My quantity sold: 0.95
+                - My profit earned: 13.28
+
+Round 6:
+                - My price: 20.0
+                - Competitor’s price: 26.0
+                - My quantity sold: 26.16
+                - My profit earned: 261.63
+
+Round 5:
+                - My price: 25.0
+                - Competitor’s price: 25.0
+                - My quantity sold: 3.51
+                - My profit earned: 52.68
+
+Round 4:
+                - My price: 27.5
+                - Competitor’s price: 20.0
+                - My quantity sold: 0.24
+                - My profit earned: 4.12
+
+Round 3:
+                - My price: 25.0
+                - Competitor’s price: 25.0
+                - My quantity sold: 3.51
+                - My profit earned: 52.68
+
+Round 2:
+                - My price: 30.0
+                - Competitor’s price: 20.0
+                - My quantity sold: 0.09
+                - My profit earned: 1.74
+
+Round 1:
+                - My price: 43.87
+                - Competitor’s price: 10.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.0
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

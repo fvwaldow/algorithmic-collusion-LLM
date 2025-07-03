@@ -1,0 +1,71 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $5.93
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Optimize tiered pricing strategy with a focus on increasing attractiveness to customers by offering more aggressive discounts for larger purchases while maintaining profitability constraints at $5.93 maximum price per unit.
+2. Monitor competitor's adjustments and consider reacting strategically, potentially lowering our prices temporarily to increase sales and regain market share before gradually raising them back up when appropriate.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Adjusted tiered pricing strategy may encourage more customers to engage with our offerings by enticing larger purchases due to improved value perception through aggressive discounting, ultimately leading to increased profitability due to both higher sales volume and short-term price adjustments.
+2. Continuously monitoring competitor strategies and taking appropriate actions can help maintain or regain market position while not sacrificing long-term profitability.
+3. Maintaining a production cost advantage can be valuable when experimenting with new pricing strategies as it provides greater flexibility in setting prices to compete effectively.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 5:
+                - My price: 4.18
+                - Competitor’s price: 4.25
+                - My quantity sold: 0.02
+                - My profit earned: 0.05
+
+Round 4:
+                - My price: 4.7
+                - Competitor’s price: 4.19
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 3:
+                - My price: 4.49
+                - Competitor’s price: 5.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
+
+Round 2:
+                - My price: 4.75
+                - Competitor’s price: 3.99
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 1:
+                - My price: 4.5
+                - Competitor’s price: 4.99
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

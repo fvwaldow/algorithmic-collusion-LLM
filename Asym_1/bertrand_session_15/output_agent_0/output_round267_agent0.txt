@@ -1,0 +1,14 @@
+My observations and thoughts:
+   The provided data represents the prices and quantities sold of a product in various rounds, with each round numbered. There is a competitor whose price fluctuates significantly more than the product's price. The profit earned is calculated as the product price multiplied by the quantity sold. Interestingly, there seems to be a period where the product's price was not set (as indicated by "None" in the price column).
+   New content for PLANS.txt:
+   - Maintain competitive pricing strategies to account for the competitor's changing prices.
+   - Observe any patterns or trends in customer demand and adjust prices accordingly.
+   - Monitor the impact of promotions or discounts on both sales volume and profit margin.
+
+   New content for INSIGHTS.txt:
+   - Periods of higher profitability tend to coincide with pricing strategies that are more competitive compared to the competitor.
+   - There is a lower demand for our product at higher prices, indicating a price elasticity.
+   - Adopting a flexible pricing strategy, taking into account market conditions and competitor actions, appears to be beneficial in maximizing profitability.
+
+   My chosen price: [15.0]
+   (This price is lower than the competitor's average price, while still maintaining reasonable profit margins.)

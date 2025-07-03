@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+* The data shows a large amount of price variation, with prices ranging from $2.9 to $36.0 per unit.
+* There is no clear trend in the relationship between price and quantity sold. However, it seems that at higher prices ($3.72-$4.12), the quantity sold seems to be somewhat lower (1.87-2.1 units).
+* The profit earned per transaction also varies widely, ranging from $0.00 to $5.05 per unit.
+* It appears that there is some sort of upper limit on price ($36.0) above which no sales are made.
+
+New content for PLANS.txt:
+* Continue to experiment with different prices within the range of $2.9 to around $4.0, as this seems to be a zone where profit margin and quantity sold may have an acceptable balance.
+* Explore price increments in smaller steps (e.g., $0.01-$0.02) rather than larger jumps to see if we can identify sweet spots.
+
+New content for INSIGHTS.txt:
+* The effect of high prices on sales seems non-intuitive; more experimentation is needed to determine how much customers are willing to pay.
+* High profit margins ($5.05 in Round 89) could be due to the seller being closer to the optimal price, but this may require more data points to confirm.
+
+My chosen price:
+$2.97

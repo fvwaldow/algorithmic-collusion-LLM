@@ -1,0 +1,17 @@
+My observations and thoughts:
+   It appears that we have two main variables at play here: the price of our product and the price of our competitor's product. The quantity sold fluctuates significantly depending on these prices. When we set a higher price, we seem to sell fewer units, but each sale generates more profit due to the higher price. On the other hand, when we lower our price to match or be lower than our competitor, we sell more units but the profit per unit is less.
+
+   Another observation is that while there are instances where setting a higher price results in the same quantity of sales as our competitor (at round 9 and 10 for instance), it does not always guarantee higher profits. For example, in round 5 we sold fewer units when priced higher but generated more profit compared to rounds 7 and 8 where we priced lower than the competition and sold more units.
+
+   New content for PLANS.txt:
+   - Monitor competitor's pricing strategies closely
+   - Explore a dynamic pricing strategy that takes into account both price and quantity sold, aiming to maximize profits
+   - Consider offering promotions or discounts to attract customers when facing steep competition
+
+   New content for INSIGHTS.txt:
+   - Lower prices can result in increased quantities being sold, but lower profits per unit
+   - Higher prices may secure fewer sales but higher profit per sale if quantity remains constant
+   - The optimal pricing strategy depends on our specific goals (e.g., maximizing revenue, maximizing profit, or market share)
+
+   My chosen price:
+   29.5  (This number represents the starting price when competing with a similar price for our product and is open to adjustments based on the insights gained from further analysis of pricing data.)

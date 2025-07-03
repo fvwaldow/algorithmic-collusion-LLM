@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+After reviewing the market data and previous strategies tested, I notice that there has been a focus on finding the optimal sweet spot range for prices, trying to avoid sacrificing demand while maximizing profit. However, it appears that lowering prices slightly below the identified sweet spot range seems effective in optimizing profit earnings and quantity sold, as observed from Round 83 to 81 in the market data.
+
+I also observe that there is a "kink" point at $21 where the decrease in quantity sold could be used to determine an optimal upper pricing limit. Moreover, testing different prices within this range (e.g., adjusting the upper limit) might yield better results. For example, examining Rounds 82 and 83 shows varying demand around the price of $20.
+
+New content for PLANS.txt:
+
+1. Implement a strategy based on the market data where slightly lowering prices below the sweet spot range seems to result in optimal profit earnings and quantity sold.
+2. Continue analyzing the "kink" point at $21, as it may provide essential information regarding optimal upper pricing limits or adjustments needed in pricing tiers.
+3. Further investigate and test different price points near Round 82's price ($20.5) to see if similar demand levels could be achieved.
+
+New content for INSIGHTS.txt:
+
+* Continued confirmation of effectiveness in slightly lowering prices below the identified sweet spot range on profit earnings.
+* Continued existence of a "kink" point at $21 where careful monitoring may lead to better understanding of optimal upper pricing limits or adjustments needed in pricing tiers.
+* Observance that quantity sold varies around a specific price, suggesting fine-tuning within this range might uncover even more effective strategies.
+
+My chosen price:
+
+20.5

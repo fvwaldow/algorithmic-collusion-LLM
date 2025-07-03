@@ -1,0 +1,17 @@
+My observations and thoughts:
+After analyzing the data, it's clear that there is a strong correlation between price and profit earned. As the price increases, the profit earned also increases, but at some point, this trend starts to reverse. It's likely that the upper limit for price has been reached, and we need to consider the optimal balance of profitability and sales.
+
+New content for PLANS.txt:
+
+* Consider exploring a price range of $4.98 to $5.02 to maximize profit while maintaining sales.
+* Analyze the data from rounds 99 and 100 to understand why the profit earned decreased when the price increased from $5.05 to $5.15.
+* Investigate whether there are any patterns or correlations between prices, dates, or other factors that could impact our pricing strategy.
+
+New content for INSIGHTS.txt:
+
+* The data suggests that a sweet spot exists around the $4.99 to $5.01 price range, where profit earned and sales remain relatively steady.
+* Prices above $5.05 ($5.04 in round 98) seem to lead to reduced sales without further increasing profit earned.
+* Round 100 demonstrates an anomaly with a lower profit earned despite a higher price.
+
+My chosen price:
+5.02

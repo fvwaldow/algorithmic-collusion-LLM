@@ -1,0 +1,11 @@
+My observations and thoughts: I have noticed that the price has been fluctuating significantly around an average of $6.50. The highest price was at round 11 with $8.30 and the lowest price was at round 9 with $1.05, which is quite a large range. There seems to be an inverse relationship between quantity sold and price, i.e., higher prices result in lower quantities sold. However, there is also some variance within each price level. For example, at $6.75 in round 8, 7.0 in round 12, and 7.45 in round 14, the quantities sold were quite close despite different prices. It would be interesting to analyze the correlation between these two variables more closely.
+
+New content for PLANS.txt:
+In order to optimize pricing, I suggest gathering more information about potential factors influencing demand such as market trends, time of year, and competitor actions. Additionally, monitoring the relationship between price and quantity sold closely will help make informed decisions about changes in pricing strategy.
+
+New content for INSIGHTS.txt:
+* Fluctuating prices with an inverse relationship between price and quantity sold seems to be a recurring theme throughout the data.
+* Quantities sold can vary significantly at similar price points (e.g., $6.75 in round 8, $7.0 in round 12, $7.45 in round 14).
+* Price increases do not necessarily result in increased quantities sold (as seen at higher prices such as $8.30 in round 11 and $9.0 in round 13).
+
+My chosen price: [6.XX] (keep it within the current range, rounded to two decimal places)

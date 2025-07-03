@@ -1,0 +1,23 @@
+Based on the historical data provided, here are some observations and thoughts:
+
+1. The largest profit was earned in Round 93, with a price of $13.0, selling quantity of 94.27, and profit of $282.8. This indicates that a price around $13.0 could potentially be very lucrative for this product.
+2. Prices that were above $25.0 resulted in significantly lower quantities sold (e.g., Round 61-63), which might indicate that the market demand for this product decreases at higher prices. This implies that a price above $25.0 may not be sustainable or profitable in the long run.
+3. The lowest profit was earned in Round 72 with a price of $1.0, selling quantity of 99.95, and a loss of $899.55. This suggests that setting the price too low can result in substantial losses even if the quantity sold is high.
+4. Rounds 60-63 suggest that prices around $25.0 and $26.5, with quantities sold between approximately 12 to 7 units, can also be profitable. However, this might lead to fluctuations in quantity sold, which could affect profit consistency.
+
+Considering these observations, I propose the following content for PLANS.txt:
+
+* Determine an optimal price point around $13.0 based on high profits and high quantity sold observed in Round 93.
+6. Continuously monitor market demand to assess whether keeping prices at a consistent level or adjusting them is more beneficial.
+7. Conduct market research to understand the reasons for fluctuations in quantity sold when the price rises above $25.0, and adjust pricing strategy accordingly.
+8. Develop contingency plans in case of future situations where setting prices too low (e.g., Round 72) could result in significant losses.
+
+And for INSIGHTS.txt:
+
+* The optimal price for this product seems to be around $13.0, with a high profit margin and good quantity sold.
+* Market demand decreases at prices above $25.0, affecting both profit margin and quantity sold.
+* Setting the price too low may lead to significant losses despite high quantities sold.
+* Continuous monitoring of market trends and customer behavior is crucial for maintaining consistent profits.
+
+My chosen price:
+Considering the data provided, I suggest starting with a price of $13.0. This was the optimal price point in Round 93, yielding a significant profit while also maintaining high quantities sold. However, it's essential to continuously monitor market trends and adjust pricing as necessary based on demand and profitability.

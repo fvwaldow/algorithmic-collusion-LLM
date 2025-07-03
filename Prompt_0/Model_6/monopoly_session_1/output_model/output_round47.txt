@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+After reviewing the market data and previous conversations, I notice that Round 12 stands out as an anomaly due to its exceptional profit earnings ($5.05) compared to other rounds. This suggests that there might be opportunities for maximizing profits through optimal pricing and quantity increases. Conversely, Rounds 6-8 show a decrease in both price and revenue when the price exceeded $3.00, suggesting that this upper limit may indeed limit profitability.
+
+The observation that further testing at or above the upper limit of the optimal pricing range may lead to decreased profits but potentially increase quantities sold is supported by market data in Rounds 40-42, which suggest that a price increase from $2.97 to $3.01 resulted in only a small decrease in quantity sold (1.73 units) while still achieving a profit of $3.48.
+
+New content for PLANS.txt:
+
+* Investigate the relationship between prices and quantities sold at or near the upper limit of the optimal pricing range ($3.00), specifically in Rounds 6-8, to see if it is possible to achieve higher profitability.
+* Analyze how Round 12's anomalous profit earnings compared to other rounds in the dataset were achieved (considering quantity sold, price, and their interactions).
+* Explore strategies for gradually lowering or raising prices from Round 12's optimal point while keeping an eye on quantity sold and profit earned.
+
+New content for INSIGHTS.txt:
+
+* Further testing at or above the upper limit of the optimal pricing range ($3.00) appears to decrease profits but might also increase quantity sold, suggesting that the price ceiling has a non-linear impact on profitability.
+* Analyzing Round 12's anomaly suggests higher profitability through optimal pricing and significant increases in quantities sold.
+
+My chosen price:
+2.97

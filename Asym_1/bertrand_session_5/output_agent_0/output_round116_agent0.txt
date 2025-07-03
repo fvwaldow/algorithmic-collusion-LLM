@@ -1,0 +1,13 @@
+My observations and thoughts: The data provided represents a game of pricing dynamics between two competitors. While the prices seem erratic and unpredictable at first glance, there appears to be an underlying pattern where competitor 1 tends to lower their price when compared to competitor 2 to increase sales volume (as seen in rounds 18, 47, and 70 to name a few). However, both competitors appear to have similar pricing strategies, often choosing prices around 3.0 or close to the average of the last 5 transactions as shown in rounds 7-12 and 28-33. Competitor 2 seems more aggressive in their price adjustments and appears to respond quickly to every small change made by competitor 1.
+
+   New content for PLANS.txt:
+   - Monitor competitor 1's pricing strategy closely, as they appear to make strategic moves that increase sales volume while still maintaining profitability
+   - Consider mimicking competitor 1's aggressive response to price adjustments made by competitor 2
+   - Investigate the relationship between sales volume and average pricing over a larger dataset to better predict optimal pricing strategies
+
+   New content for INSIGHTS.txt:
+   - Pricing dynamics appear to be cyclical, with competitors often reverting to similar prices after a period of rapid adjustments.
+   - Competitor 2 seems to be more aggressive in adjusting their price in response to changes made by competitor 1.
+   - A small change in pricing by one competitor can trigger a larger reaction from the other, indicating a sensitive pricing market with minimal slack for errors.
+
+   My chosen price: 2.95 (close to the average of the last five transactions and similar to both competitors' consistent pricing strategy)

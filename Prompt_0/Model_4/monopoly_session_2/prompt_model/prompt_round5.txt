@@ -1,0 +1,62 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $14.34
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
++++++++++++++++++++++
+Test pricing strategies focusing on the Goldilocks Principle: set prices moderately between $11.00 and $13.50. Conduct A/B testing on marketing narratives emphasizing product benefits and value to determine their impact on consumer perception and purchase decisions. Collect feedback from a sample customer base to gauge the effectiveness of promotional tactics. Utilize competitor insights to identify optimal price adjustments and alignment with elasticities.
+<PRESIDIO_ANONYMIZED_PERSON>
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
++++++++++++++++++++++
+It's evident that communicating value through marketing narratives significantly impacts customer decision-making. The Goldilocks Principle suggests finding a price point where the product offers compelling value without signaling overpricing or discounting. This strategy will likely enhance sales volume, albeit with a cautious reduction in profit per unit to maintain competitive edge and market saturation. Further studies on customer segments could reveal nuances that allow for targeted pricing adjustments, enhancing both profitability and market penetration.
+<PRESIDIO_ANONYMIZED_PERSON>
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 4:
+            - My price: 12.5
+            - My quantity sold: 0.05
+            - My profit earned: 0.45
+
+Round 3:
+            - My price: 13.5
+            - My quantity sold: 0.01
+            - My profit earned: 0.14
+
+Round 2:
+            - My price: 13.0
+            - My quantity sold: 0.03
+            - My profit earned: 0.26
+
+Round 1:
+            - My price: 13.34
+            - My quantity sold: 0.02
+            - My profit earned: 0.17
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

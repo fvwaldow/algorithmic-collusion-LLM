@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+* The data suggests that there is a relatively stable profit earned of $500 per unit sold when the price is set at $20.0. This could be a good starting point for further experimentation.
+* There appears to be a decline in profit earned as the price increases above $20.0, with some exceptions where higher prices result in lower sales but still decent profits (e.g., Round 121).
+* The data also suggests that there is some sensitivity to price changes, especially at the upper end of the price spectrum (e.g., Rounds 121 and 123).
+
+New content for PLANS.txt:
+
+1. Re-examine the stability of $20 as a baseline price point.
+2. Experiment with small incremental increases above $20 to see where the profit ceiling lies.
+3. Consider testing prices at different points within this new ceiling, taking into account sales volume and profit distribution.
+
+New content for INSIGHTS.txt:
+
+* The current price of $20.0 seems to be a robust baseline that balances sales volume with profit earned.
+* As we experiment with higher prices, it's essential to keep a close eye on sales volume to ensure we don't overstep the market elasticity.
+* It would be beneficial to collect more data on customer feedback and purchasing behavior at different price points.
+
+My chosen price:
+
+$20.25

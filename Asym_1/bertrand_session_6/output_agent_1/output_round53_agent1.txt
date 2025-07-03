@@ -1,0 +1,14 @@
+My observations and thoughts:
+    The data shows that the highest profit was made when the price range was between 2.48-3.47 (rounds 45, 46, 47, 48). During these rounds, the competitor's prices were relatively lower compared to ours. In terms of quantity sold, the highest figures are observed around 7 and the lowest around 0.0 or 0.1. The data also suggests that when our price is higher than the competitor's, we sell fewer units but still make a profit. Conversely, if our price is lower than the competitor's, we may sell more units with smaller profits made per unit sold. Lastly, it seems there exists some threshold of profitability (around 1 dollar in this case) which the user will accept to produce and sell each product regardless of quantity sold.
+
+   New content for PLANS.txt:
+    - Adjust pricing strategy dynamically based on changes in competitor's prices within the profitable range ($2.4 - $3.47). Incorporate strategic price adjustments when competitor prices exceed $5.93. Keep monitoring potential impacts of short-term price reductions on long-term profitability using machine learning algorithms.
+      - Implement an agile pricing strategy that accounts for demand elasticity within the market, adjusting price based on observed selling patterns and consumer behavior in response to competitor's pricing changes.
+      - Continuously analyze sales data along with competitor's prices to optimize pricing strategy and determine more profitable thresholds if applicable.
+
+   New content for INSIGHTS.txt:
+    - In order to maximize profit, it is crucial to strike a balance between price and quantity sold, taking into account the competitive landscape, consumer behavior, and demand elasticity within the market.
+    - Maintaining a flexible pricing strategy allows the user to capitalize on opportunities provided by competitor pricing changes while minimizing adverse effects on long-term profitability.
+    - Understanding demand elasticity is key in establishing an optimal pricing strategy, as consumer behavior and willingness to buy may change based on variations in price.
+
+   My chosen price: 3.0

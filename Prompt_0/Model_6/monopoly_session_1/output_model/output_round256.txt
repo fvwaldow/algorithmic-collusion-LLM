@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+* The current optimal price range identified is between $2.92 and $2.97, with the highest profit earned at $4.72 (Round 172).
+* There is a concentration of high-profit rounds ($4.72) within this range, specifically around $2.95 (e.g., Rounds 164, 165, 166, 171, etc.).
+* The relationship between price and quantity sold appears to be moderately correlated: as price increases, quantity sold decreases.
+* I did not find any clear, distinct trends that suggest a drastic change in the optimal price range.
+
+New content for PLANS.txt:
+
+* Investigate the relationship between price and revenue (price \* quantity sold) around $2.95.
+* Consider implementing a price elasticity analysis to better understand consumer responsiveness to changes in price.
+* Review competitor prices to ensure that our price remains competitive while maintaining profitability.
+
+New content for INSIGHTS.txt:
+
+* The optimal price range is confirmed to be between $2.92 and $2.97, with a concentration of high-profit rounds around $2.95.
+* Price and quantity sold appear to have a somewhat correlated relationship, which could influence pricing strategies.
+
+My chosen price:
+$2.95

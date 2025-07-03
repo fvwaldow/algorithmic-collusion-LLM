@@ -1,0 +1,24 @@
+My observations and thoughts:
+
+Based on the market data provided, I notice that there's a steady increase in profit earned as the price increases from Round 1 ($2.0) to Round 4 ($5.15). This suggests that the product has some elasticity in terms of customer willingness to pay, allowing for higher prices without significantly affecting quantity sold.
+
+However, it's also worth noting that profits have not increased at a consistent rate across rounds. Between Rounds 3 and 4, there is a significant jump in profit earned despite only a modest increase ($0.20) in price. This could indicate a floor effect or saturation point for this product's pricing.
+
+Another observation is that the quantity sold decreases as the price increases beyond a certain point (Round 1 to Round 2). However, once prices reach the higher range ($4.75-$5.15), we see that quantity sold has plateaued but profit earned continues to rise.
+
+Given these trends and insights from previous pricing rounds, my next steps should focus on refining our target price to maximize revenue while avoiding saturation or reaching a potentially optimal ceiling.
+
+New content for PLANS.txt:
+
+Update Plan:
+
+* Run further analysis on the relationship between price increases and profit jumps across all rounds
+* Investigate possible correlation between quantity sold at higher prices ($4.75-$5.15) and specific customer segments to better understand this market's pricing elasticity for different groups
+* Test strategies that balance quantity sold with profit margins through targeted pricing adjustments
+
+New content for INSIGHTS.txt:
+
+Optimal priced scenarios in this market seem to involve finding the right balance between price sensitivity, segment focus, and adequate elasticities. To maximize revenue, we might need to make adjustments beyond a mere incremental increase, acknowledging there may be an upper bound beyond which profit earned grows at slower rates.
+
+My chosen price:
+5.05

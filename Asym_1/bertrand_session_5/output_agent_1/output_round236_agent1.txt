@@ -1,0 +1,13 @@
+My observations and thoughts:
+   This data represents the sales volume and profit for each round of price adjustments made by a business. It's clear that there are several factors influencing the outcome, such as the competitor's prices, customer demand at different price points, and how the pricing strategy evolves over time. Interestingly, we see instances where lowering prices increases sales volume but decreases profit, and vice versa. There seems to be a delicate balance between affordability for customers and maintaining profitable margins.
+   PLANS.txt:
+   To optimize our pricing strategy, we should consider the following:
+   - Regularly monitor competitor prices to stay competitive without undercutting ourselves (rounds 140, 137)
+   - Evaluate the impact of price reductions on sales volume and profit before making major adjustments (rounds 161, 142)
+   - Analyze the responsiveness of our target market to different pricing points (rounds 143, 150)
+   INSIGHTS.txt:
+   - Customers are more likely to purchase larger quantities at lower price points (round 140), but profitability may be negatively affected
+   - A competitive pricing strategy may help maintain sales when the quality of the product is relatively comparable (rounds 63-75)
+   - There appears to be a sweet spot in terms of price that maximizes both sales volume and profit, which could potentially fluctuate depending on market conditions (rounds 151, 145)
+   My chosen price:
+   2.95

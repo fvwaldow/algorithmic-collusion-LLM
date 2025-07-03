@@ -1,0 +1,7 @@
+My observations and thoughts: This dataset shows the sales quantity of a product at various prices over time. It appears that there's some periodicity in the fluctuations of the sales quantities as well as an overall increasing trend. The most common sale quantity is 46.88, which occurs frequently across numerous price points. There are several instances where the sale quantity jumps significantly when the price increases and then gradually decreases back to the mean afterwards.
+
+   New content for PLANS.txt: To determine the optimal price, I'd recommend running regression analysis on this data to identify any meaningful correlation between price and sales quantities. Additionally, consider examining the periods of higher volume sales (for example, around round 150) to see if there are particular patterns or factors that may be driving increased demand at those times.
+
+   New content for INSIGHTS.txt: It seems that a moderate increase in price leads to a slight boost in sales, but a large increase appears to have the opposite effect. This suggests that pricing the product slightly above its mean could help maximize overall sales while maintaining high profit margins. Furthermore, it's worth studying the periods of increased demand and seeing if commonalities can be found to repeat that success.
+
+   My chosen price: 6.75 (based on a balance between average sales quantities and potential profits)

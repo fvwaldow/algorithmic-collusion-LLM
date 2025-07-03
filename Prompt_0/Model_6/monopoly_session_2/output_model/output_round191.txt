@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+Based on the data provided, it appears that there is a consistent profit pattern with prices around $5.03 to $5.06, as these prices yield the highest profits between $155.03 and $156.66. However, in Round 100, an anomaly occurs when the price spikes to $5.15, resulting in a significantly higher profit of $161.21. This suggests that there may be a sweet spot or optimal range for pricing within this data set.
+
+In terms of quantity sold, it appears that prices above $5 contribute to lower quantities sold (e.g., Rounds 97-100), while prices around $4.99 and $5.02 result in higher quantities sold (e.g., Rounds 113 and 128). This could indicate a trade-off between pricing and sales volume.
+
+New content for PLANS.txt:
+
+1. Identify the optimal price range that yields the highest profit: Prices between $5.03 to $5.06 appear to yield consistent profits, but further analysis is needed.
+2. Investigate the anomaly in Round 100 with the higher priced item ($5.15): Is this an outlier, or does it indicate a potential opportunity for increased profitability?
+3. Analyze the relationship between pricing and quantity sold: Are there specific price ranges that result in lower quantities sold compared to others?
+
+New content for INSIGHTS.txt:
+
+1. A consistent profit pattern is observed with prices around $5.03 to $5.06.
+2. The anomaly in Round 100 with a higher priced item ($5.15) results in significantly increased profitability.
+3. There appears to be a trade-off between pricing and sales volume, with higher quantities sold at lower prices.
+
+My chosen price:
+
+$5.05

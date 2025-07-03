@@ -1,0 +1,24 @@
+My observations and thoughts:
+
+After analyzing the data, I've identified some patterns:
+
+* The highest profit earned is around $544.65 (Round 210) with a price of $18.75.
+* The most profitable range seems to be between $18.75 and $20.00, where sales are consistently high while maintaining decent profit margins.
+* There's a notable decrease in profit when prices rise above $21.00 (e.g., Rounds 194, 195, 173, and 171).
+* Conversely, some of the lowest or highest price points were priced at the extreme ends ($199.0 and $22.5), resulting in zero sales.
+
+New content for PLANS.txt:
+
+1. Continue to explore prices within the established profitable range ($18.75-$20.00) to identify a precise optimal point.
+2. Monitor pricing trends closely, particularly considering Round 210's data as a landmark figure ($544.65 profit)
+3. Investigate why extreme price points result in reduced or zero sales.
+
+New content for INSIGHTS.txt:
+
+* The effect of high prices ($20.00-$22.50) on sales seems clear-cut and warrants further attention.
+* Maintaining consistent profits around $500-535 with a target average cost around $10 can be key to profit maximization within the given data set.
+* Notable observations that do not match expected behavior: Round 194, showing no sale at an extreme price point of nearly $200.
+
+My chosen price:
+
+19.98

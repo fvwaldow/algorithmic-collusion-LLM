@@ -1,0 +1,14 @@
+My observations and thoughts:
+From analyzing the provided data, I can observe that the highest profit was earned at a price of 10.25, yielding a profit of $5.68 when selling a quantity of 0.81 items. The lowest profit was at a price of 9.75 where the quantity sold varied between 1.48 and 1.5 across multiple rounds, yet still earning a constant profit of $9.8 each time. There was one instance where the low price of 10.25 resulted in a major loss of $19.37 (Round 138). The most items sold in a single round were at a price of 9.0 with a quantity of 3.73, leading to a profit of $21.65 (Round 114). However, the average overall profit seems to be more reliable and consistent when maintaining a price around 9.75, compared to fluctuating prices such as in Rounds 138 and 140 where losses happened and rounds where the quantity sold was very low.
+
+New content for PLANS.txt:
+Based on these observations, it seems advisable for future planning to maintain a price point close to $9.75 when selling the product. This ensures a consistent profit margin and reliable demand based on the historical data provided. The fluctuations in quantities sold at this price point suggest that even slight changes in pricing can impact the demand significantly. Therefore, aiming for a steady price of $9.75 along with continuous monitoring of customer trends and feedback would be a prudent strategy.
+
+New content for INSIGHTS.txt:
+Some valuable insights gained from this data analysis are:
+1. Price Elasticity: There is significant price elasticity of demand for the product, as even minuscule changes in price led to considerable shifts in quantity sold. This phenomenon indicates that customers' buying decisions are sensitive to price changes. 
+2. Profit Maximization: The maximum profit was achieved at a slightly higher price of $10.25 (Round 139). However, it is crucial to consider the potential risks associated with drastic price increases, as seen in Round 140 when no items were sold and a significant loss occurred.
+3. Consistent Profit Margins: A steady profit margin was achieved consistently at $9.75 by selling volumes around 1.5 quantities. A shift from lower to higher prices, for example from $9.75 to $10.25, led to increased profits but also involved an inherent risk of sales volume reduction.
+4. Demand Patterns: In the presence of a demand-side shock (such as a sudden drop in demand), it may be better to maintain prices at around $9.75 to minimize the negative effect on profitability rather than experimenting with drastic price changes.
+
+My chosen price: 9.75

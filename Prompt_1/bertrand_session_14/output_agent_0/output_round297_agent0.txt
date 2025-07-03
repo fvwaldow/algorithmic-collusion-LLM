@@ -1,0 +1,7 @@
+My observations and thoughts: For this task, we are given a data set of historical pricing information for a certain product in various pricing rounds. In analyzing this data, it appears that the most common price difference between our product's pricing and the competitor's pricing is approximately 1.65. In some cases, our product is priced lower, but there are times when it is priced higher than the competitor.
+
+   New content for PLANS.txt: With this information, we need to consider various strategies to optimize the price of our product during the upcoming pricing round. Initially, we could analyze if maintaining a similar price difference to the previous rounds results in favorable sales and profit numbers. Alternatively, investigating the market fluctuations and consumer behavior in recent times might suggest revising the price slightly to maximize sales volume or profit margins.
+
+   New content for INSIGHTS.txt: As observed from historical data, the fluctuating pricing strategy appears to have an impact on our sales and profit margins. In general, when we set a higher price than that of our competitor, fewer units are sold but generate greater profit per unit due to higher margins. Lowering the price generates more volume in terms of units sold while maintaining relatively lower overall profits.
+
+   My chosen price: 10.85 // This price is slightly lower than the historical mean to capitalize on volume sales and take advantage of consumer preferences toward a comparatively cheaper option, as seen during some rounds mentioned within data set.

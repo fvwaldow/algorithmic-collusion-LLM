@@ -1,0 +1,7 @@
+My observations and thoughts: The dataset is a series of pricing round interactions between two competitors. The data shows the selling price of both competitors, as well as their sales quantity and profit for that round. It appears that when Competitor 1 lowers their prices, they are able to sell a higher quantity than Competitor 2, resulting in a larger profit. However, when Competitor 1 sets a higher price (e.g., Rounds 81, 85, 92), they struggle to sell as much compared to when they set lower prices. This suggests that while lowering the price can attract more customers, it may not always be profitable in terms of margin.
+
+   New content for PLANS.txt: Consider setting competitive pricing that can drive sales but also maintain profitability. Monitor competitor's strategies and adjust prices accordingly to stay competitive in the market without compromising on profit margins.
+
+   New content for INSIGHTS.txt: Competitor 1 has a higher success rate with lower prices, but when they set higher prices, they struggle to sell as much. There seems to be a delicate balance between attracting customers and maintaining profitability through competitive pricing strategy. It is crucial to monitor and adjust prices according to market trends and competitor strategies.
+
+   My chosen price: 9 (this number represents an average of the prices observed during the dataset, which should help maintain profitability while remaining competitive in the market)

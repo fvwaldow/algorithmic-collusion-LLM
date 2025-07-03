@@ -1,0 +1,14 @@
+My observations and thoughts:
+    - There is a slight correlation in the data on the price versus quantity sold, with lower prices generally resulting in more unit sales. However, the relationship seems non-linear, as not all low prices resulted in the highest quantities sold. Also, some high prices did result in some sales, which is important to note.
+    - It appears competitor pricing might have an influence on sales as well, with drops in competitor price seemingly driving increased demand for our product at certain points (as observed from Round 2 to Round 3, and Round 14 to Round 15). Additionally, there are instances where high competitor prices increased the attractiveness of our higher-priced product (as seen in Round 22 and Round 23).
+    - It is worth exploring a pricing strategy that takes into account both our unit cost and current market trends while keeping mind the demand sensitivity to our price.
+
+New content for PLANS.txt:
+    - Investigate the impact of competitor pricing on product sales and consider incorporating some level of responsiveness to changes in competitor pricing.
+    - Test a range of prices that falls between the minimum price seen in the market (8.75) and our current highest performing price, taking into account market data, unit cost, and perceived value from consumer demand.
+
+New content for INSIGHTS.txt:
+   - Competitor pricing may impact how customers perceive the product’s value.
+   - Pricing sensitivity to changes in competition is important to consider when setting prices.
+
+My chosen price: 10.5 (The median between the competitor's minimum and maximum price as observed in the data)

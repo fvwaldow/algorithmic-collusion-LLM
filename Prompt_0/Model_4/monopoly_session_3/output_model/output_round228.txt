@@ -1,0 +1,15 @@
+My observations and thoughts:
+
+I've noticed that there's a significant variability in the quantity sold across different price points. For the most part, when the quantity sold is lower (less than 10), the profit earned tends to be positive, though relatively small (often around 7.4, which corresponds to a 0.3 quantity sold). However, when the quantity sold is very high (99.6), it leads to a negative profit, suggesting that the price was too low in this case.
+
+There are consistent trends where the profit is positive, suggesting that some price points (e.g., 34.5, 35.0) are effective sellers at a modest quantity sold. It appears that higher quantities sold at lower prices could negatively impact the company's profitability. There's also a pattern where a few rounds indicate a stable profit range without significant changes in price strategy being necessary.
+
+New content for PLANS.txt:
+Add more focus on maintaining stable profit margins by adjusting prices towards optimal points (e.g., around 34.5 to 35.0) where quantities sold are moderate, avoiding very low prices that decrease profits drastically.
+
+New content for INSIGHTS.txt:
+Noticeable volatility in sold quantities and their impact on profit. The consistent positive profit at lower quantities sold suggests that these price points may be optimal if not too low. Negative profit from high quantity sales with low prices indicates overpricing in terms of overall profitability.
+
+My chosen price: 34.5
+
+I recommend adjusting towards this price point to maintain a balance between quantity sold and profit, aiming for a stable and positive profit margin based on past data trends.

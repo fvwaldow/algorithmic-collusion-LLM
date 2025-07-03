@@ -1,0 +1,17 @@
+My observations and thoughts:
+The most significant finding is that across the provided data, the price of 2.31 consistently yields a profit of 29.4. This price point is observed multiple times throughout various rounds (e.g., Rounds 65-70) and acts as the baseline stable profit rate. It’s seen recurring even after fluctuations in prices, which suggests this might be an optimal pricing strategy, possibly indicating a market equilibrium or a point where demand aligns with supply without significant changes in either.
+
+There are spikes of higher profits (up to 28.72, observed at Rounds 32-35, and 53) when the price was not 2.31, suggesting there could be potential for increased profit with strategic adjustments, though these were somewhat rare in the given dataset.
+
+Interestingly, any significant deviation from 2.31 resulted in either slightly lower or higher profits but didn't drastically shift the overall average away from around 29.4. This implies a robust stability or resistance to major profit variations despite different pricing strategies being trialed at various points (like price increases to 2.35 or decreased to as low as 2.28).
+
+We see high-profit rounds clustered around certain periods (e.g., Rounds 71-74 with 28.04 and 27.37 profits), which indicates there may be external factors influencing these results, possibly seasonal trends or promotional events impacting demand.
+
+New content for PLANS.txt:
+Investigate into potential seasonal impact causing the peaks in profits observed between Rounds 71-74 and consider if planned promotions can replicate these high-profit periods during less busy times.
+
+New content for INSIGHTS.txt:
+The data suggests that while deviations from a price of approximately 2.31 might offer burst profits, 2.31 itself represents the most reliable and consistent baseline yielding around 29.4 profit regularly without significant instability. This stable performance hints at 2.31 either closely mirroring market demand or having efficiency in cost management aligned with that price point. 
+
+My chosen price:
+2.31

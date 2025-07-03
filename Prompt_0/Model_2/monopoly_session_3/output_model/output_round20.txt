@@ -1,0 +1,13 @@
+My observations and thoughts: The dataset shows that the current base price of $23.5 results in a fairly consistent number of units sold (around 19.78). However, slight modifications in price seem to have either positive or negative impacts on sales volume, as observed in Rounds 10, 12, and 17. The profit made remains reasonably steady, with an average profit per round at around $262. Since the customer's maximum willingness-to-pay is $35.23, setting a base price just below this figure makes sense to increase the sales volume while maintaining profitability.
+
+New content for PLANS.txt:
+    - Experiment with lowering the base price by around 5 cents ($23) in subsequent pricing rounds and observe if this results in higher sales volumes, while keeping an eye on any potential changes in customer satisfaction.
+        - Monitor changes in profitability and adapt pricing strategies accordingly to strike a balance between maximizing profit and increasing sales volume.
+          - Continue temporary discounts around the maximum willingness-to-pay to incentivize purchases and boost sales when needed, while assessing their impact on long-term optimization.
+
+New content for INSIGHTS.txt:
+    - It is crucial to strike a balance between driving sales volume and maintaining profitability as price adjustments can sometimes have conflicting effects.
+      - Continuous testing and observation of new pricing strategies will help in making informed decisions that cater to both goals.
+        - Emphasize the need to closely monitor customer satisfaction levels, especially during periods of dynamic pricing strategy changes.
+
+My chosen price: 23.0

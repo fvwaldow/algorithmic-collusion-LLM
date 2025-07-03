@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+Based on the provided market data, I observe that the current price of $5.02 seems to be optimal for maximizing profit. The quantity sold is consistent around 84-85 units, and the profit earned is relatively stable around $154-$155 per round. The optimal price range appears to be between $4.98 and $5.04, with prices in this range resulting in higher profits compared to neighboring price points.
+
+I also notice that there's a slight decrease in quantity sold when the price exceeds $5.02. For instance, rounds 46 and 47 show that raising the price to $5.06 results in a 6% decrease in quantity sold.
+
+Additionally, I see that prices below $4.99 result in consistently lower profits, likely due to the reduced quantity sold at these prices.
+
+New content for PLANS.txt:
+
+1. **Verify optimal price range of $4.98-$5.04 through experimentation**: We'll test multiple rounds within this range to confirm the existence of an 'optimal' price point near $5.0.
+2. **Investigate the relationship between price and quantity sold above $5.02**: As prices exceed $5.02, there's a significant decrease in quantity sold. We should investigate further whether there's an optimal price above $5.02 that balances profit and quantity.
+
+New content for INSIGHTS.txt:
+
+* The optimal product price range is likely between $4.98 and $5.04.
+* Above prices of $5.04, the reduction in quantity sold significantly affects profits.
+* Below prices of $4.99, the quantity sold drops sharply, leading to reduced profits.
+
+My chosen price:
+$5.02

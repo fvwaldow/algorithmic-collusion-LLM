@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+* The user's current optimal price range is around $2.92, as suggested by the INSIGHTS.txt file. However, there seems to be a significant drop-off in sales quantities when prices go above $3.10 and below $2.95.
+* Looking at the market data, it appears that Round 6 ($3.23) had significantly low quantity sold and profit earned compared to other rounds. This could indicate that high price points might not be sustainable due to lower demand.
+* I will analyze the effects of further incremental pricing increases beyond $2.95, considering the decreasing sales quantities and profits at higher prices ( Plan 2).
+* The user's current production cost is $1 per unit.
+
+New content for PLANS.txt:
+++++++++++++++++++++++++++++++++++++++
+1. Conduct separate analysis on data from Round 6 ($3.23) to assess whether this high price significantly impacts future pricing decisions due to low sales quantity.
+2. Analyze the effects of further incremental pricing increases beyond $2.95, considering the decreasing sales quantities and profits at higher prices.
+3. Compare profit margins for Round 11 and Round 12, which had both priced at $2.92 but slightly different quantity sold values.
+
+New content for INSIGHTS.txt:
+++++++++++++++++++++++++++++++++++++++
+The significant drop-off in sales quantities when prices go above $3.10 also indicates the importance of maintaining a competitive price point while balancing profit margins with high sales quantities. The performance of Rounds 11 and 12 further justifies exploring possible price points within this optimal range.
+
+My chosen price: 
+2.97

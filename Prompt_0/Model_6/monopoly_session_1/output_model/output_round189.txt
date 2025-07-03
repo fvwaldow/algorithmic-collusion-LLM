@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+Based on the provided data, it is clear that there is an inverse relationship between price and quantity sold. As price increases, quantity sold decreases. However, profit earned also decreases after a certain point, indicating that increasing prices beyond a certain threshold results in lower revenue.
+
+The optimal price seems to be around $2.95, where the balance between revenue and quantity sold is achieved. This price has been tested multiple times, resulting in consistent sales of 2.19 units at a profit of $4.27 per unit.
+
+However, it's worth noting that there was one anomaly in round 122, where an extremely high price ($36) resulted in no sales. This highlights the importance of maintaining competitive prices to remain attractive to customers.
+
+New content for PLANS.txt:
+* Test prices around $2.95-3.00 to confirm optimal price range.
+* Consider introducing a pricing strategy that rewards customers with volume purchases (e.g., discounts on bulk orders).
+
+New content for INSIGHTS.txt:
+* The relationship between price and quantity sold is non-linear; increasing prices can lead to significant decreases in sales.
+* It's essential to balance revenue goals with customer demand; excessive prices can deter sales.
+
+My chosen price: 2.95

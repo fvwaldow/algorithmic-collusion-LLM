@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+Based on the historical data provided, I notice that there is a clear peak in profit earned around $20.00-$21.50, with quantities sold ranging from 35 to 62 units. However, as the price increases above this range ($22.00+), the quantity sold drastically decreases. The outliers at $520.00 and $199.00 indicate that prices above this threshold are likely to result in no sales.
+
+New content for PLANS.txt:
+
+* Investigate the potential price elasticity of demand within the peak profit range ($20.00-$21.50)
+* Test higher prices at lower quantities sold to maintain target profits
+
+New content for INSIGHTS.txt:
+
+* A clear "sweet spot" exists between $20.00-$21.50, yielding optimal profit and quantity sold
+* Aggressive pricing above this range appears to repel sales
+
+My chosen price:
+
+20.0

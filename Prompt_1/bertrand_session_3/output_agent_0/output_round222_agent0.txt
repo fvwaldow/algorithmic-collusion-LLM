@@ -1,0 +1,7 @@
+My observations and thoughts: It appears that the data given shows a history of prices and quantities sold for a certain product. The price changes from 1.95 to 2.15 with corresponding quantity sold in increments of 0.02, and there doesn't seem to be an obvious pattern linking the two variables. There are instances where the price is higher while still selling reasonably well (e.g., Round 87 with a price of 2.07), and other times when the price is lower but significantly fewer quantities are sold (e.g., Round 139 with a price of 2.15).
+
+   New content for PLANS.txt: Keep track of competitor's prices and our own sales to identify potential trends in the market. Stay flexible and adapt prices accordingly while still maintaining profitability.
+
+   New content for INSIGHTS.txt: Despite a slight correlation between price and quantity sold, there appear to be various outliers that do not fit the trend such as Rounds 87 and 139. These suggest the market may have unpredictable factors at play affecting sales. Understand these factors to better navigate pricing decisions in the future.
+
+   My chosen price: (Note: Price should only be a floating point number, e.g., 2.03) To maintain profit while also being competitive, I suggest a price of 2.05 for the upcoming round. This is a middle-ground between the upper and lower bound of prices we have seen in previous rounds (2.15 to 1.95), making it feasible to adjust if necessary while preserving some flexibility in decision making.

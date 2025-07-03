@@ -1,0 +1,15 @@
+My observations and thoughts:
+The provided data show that fluctuations in price per unit affect the quantity sold, with varying levels of sensitivity. Generally, lower prices yield higher quantities sold, while higher prices result in fewer units being purchased, albeit with some deviations. Certain rounds exhibit unusual spikes or drops in quantity sold despite consistent pricing. Identifying patterns and anomalies in this dataset will be crucial for setting an optimal price point.
+
+New content for PLANS.txt:
+- Analyze outliers where quantity sold seems inconsistent with price. Investigate potential external factors (e.g., seasonality, market shifts) not yet captured in the data.
+- Further segment and analyze data by identifying possible customer segments or groups exhibiting distinct preferences.
+- Implement predictive modeling to test hypotheses on how changes in pricing might influence future sales.
+
+New content for INSIGHTS.txt:
+- Prices around \$2.30 appear common, yet yield different results across rounds, suggesting subtle non-price determinants (not presently quantified) influence sales.
+- The highest-selling price point (\$11.92 in Round 75) corresponds to a much smaller quantity and occurs only once, indicating either a unique market condition or an error necessitating verification.
+- Consider the role of discounting (e.g., round 102's \$23.52 for 16.8 units) on customer behavior—it might offer insights into price elasticity for bulk purchases versus smaller transactions.
+
+My chosen price:
+2.35

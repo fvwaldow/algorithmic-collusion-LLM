@@ -1,0 +1,20 @@
+1. Observations and Thoughts: 
+
+   From the data provided, it is evident that changing the price can significantly affect the quantity sold. For example, when the price was raised from $2.35 to $2.49 in Round 165, the quantity sold dropped by almost half, while the profit earned remained similar. This suggests that customer demand may be price-sensitive. The highest profits were seen in rounds where the price and quantity sold were relatively balanced, such as round 173 with a price of $2.49 and quantity sold of 12.35, resulting in $18.4 profit earned.
+   
+2. New content for PLANS.txt:
+
+   In light of the above observations, here are some recommendations for future pricing strategy to consider:
+   - Experiment with different price points within a reasonable range to find that sweet spot where both quantity sold and profitability can coexist effectively. For instance, try adjusting price incrementally from $2.49 (currently yielding good profitability) downwards to observe how much lower the price should go before significantly impacting profitability. 
+   - Analyze past performance metrics to determine patterns or trends which may explain certain fluctuations in sales and profits. Look for any correlations between these changes and external factors such as market conditions, customer behavior, and competition dynamics. 
+   - Consider the effect of promotions, bundle or discount offers on sales volume. If they lead to a significant increase in quantity sold at relatively manageable cost implications, strategically introduce them during lower demand periods or product lifecycle stages.
+   
+3. New content for INSIGHTS.txt:
+
+   Some potential insights include:
+   - Sensitivity of customer demand to price changes: A moderate pricing strategy might be optimal considering the balance between the quantity sold and profitability levels, especially with the current price of $2.49 yielding high profits as well as reasonable quantities being sold.
+           
+   - Possible introduction or modification of sales strategies: The data suggests that promotions, discounts, or bundles could be introduced to potentially increase the volume of transactions without significantly hampering profitability.
+              
+4. My chosen price: 
+    Following insights from past rounds, $2.49 seems like a balanced price point that provides a good mix of quantity sold and profitability. While lowering prices may increase quantity sold, it could also reduce individual profit per unit sold and potentially decrease overall profits if volumes drop off significantly. Conversely, while raising the price increases profitability per unit, it drastically decreases the volume, which can have a negative impact on total sales revenue. Thus, maintaining $2.49 price ensures high profitability and substantial quantities being sold, ensuring a good balance between the two.

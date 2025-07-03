@@ -1,0 +1,9 @@
+My observations and thoughts: It seems that the provided data represents pricing and sales information for a specific product across different rounds or periods of time. Prices ranged significantly, from as low as 0.0 to as high as 50.0, and there appear to be multiple competitive offerings. The sales quantity varied greatly as well, which is likely due to the price changes. Some periods saw almost no sales (indicated by 0.0 sold), while others had a relatively high quantity of sales (100's or close to it).
+
+New content for PLANS.txt:
+Consider implementing a pricing strategy that takes competitor actions into account. For instance, if the competitor lowers their price, we could keep or potentially lower ours temporarily to garner more market share before raising prices again when competitors start to raise their own prices.
+
+New content for INSIGHTS.txt:
+We can see that pricing plays a significant role in sales quantity, especially at periods where there is a considerable difference between our price and the competitor's. Additionally, it seems that customers are sensitive to price changes, as witnessed by the almost no sales during high-priced rounds compared to relatively high sales during lower priced periods.
+
+My chosen price: (This would ideally be a number determined through careful analysis of the data provided, but for this situation let's consider 27)

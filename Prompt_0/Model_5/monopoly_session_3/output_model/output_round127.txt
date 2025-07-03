@@ -1,0 +1,20 @@
+My observations and thoughts:
+The data provided shows a consistent trend of price fluctuations with accompanying changes in the quantity sold. Notably, there's a significant loss during Round 38 when the price was set very low (1.25) resulting in a substantial negative profit.
+
+1. There seems to be an upper cap for prices around 26 ($25.95 in Round 55). Beyond this, profits decrease dramatically.
+2. Prices in the mid-range ($17-$19) yield around $548 profit per round.
+3. Lower pricing strategies (around $17.4) also yield considerable profit but are sensitive to quantity sold fluctuations.
+4. Very low prices (as in Round 38, $1.25) lead to heavy losses despite high volume sales, indicating a complex relationship between price and demand/profit.
+
+New content for PLANS.txt:
+Consider exploring pricing strategies within the range of $17-$19 since they consistently provide substantial profits with relative stability against quantity fluctuations. Avoid extremely low-end pricing strategies (<$5) due to high risk of significant losses, as seen in Round 38. Also keep an upper limit around $26 based on observed profit drops beyond this price point in Round 55.
+
+New content for INSIGHTS.txt:
+Key insights:
+- Mid-range pricing (roughly $17-$19) offers a balance between volume and profit.
+- Extreme low-end pricing, while increasing quantity sold, leads to disproportionate losses.
+- High-end pricing (> $25) also comes with risks of drastically reduced profits. 
+- Volume sensitivity at lower prices suggests fine adjustments needed around the mid-range.
+  
+My chosen price:
+19

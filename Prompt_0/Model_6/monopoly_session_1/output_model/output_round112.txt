@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+The data shows a clear trade-off between price and sales quantity. As prices increase, sales quantities decrease, but so does the profit earned per unit. There are multiple price points that yield the same profit of $3.99 - at $2.97, $2.98 (twice), and even up to $3.01. This suggests that there is a relatively flat revenue maximizing region around these prices.
+
+The data also shows some variability in the results for similar price points. For example, selling at $2.97 yields a profit of $3.99 consistently, while selling at $2.98 only yields this result twice out of five attempts.
+
+Given this information, my initial approach will be to identify the optimal price point that maximizes revenue within this relatively flat region and then test the bounds of this area by gradually increasing the price from here.
+
+New content for PLANS.txt:
+Explore the trade-off between price and sales quantity more thoroughly
+Test multiple price points in the relatively flat revenue-maximizing region to determine which one is most profitable
+Consider ways to increase profit per unit if prices can be increased without significantly decreasing sales quantities
+
+New content for INSIGHTS.txt:
+If we aim to maximize short-term profits, $2.97 or a slightly higher price point like $2.98 could be the best choice.
+However, if there is a need to balance long-term goals and potential revenue gains with short-term profit optimization, exploring more premium prices might be worthwhile.
+
+My chosen price: 2.97

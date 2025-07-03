@@ -1,0 +1,19 @@
+My observations and thoughts:
+  - The product cost is $1, and the maximum price customers are willing to pay is $13.87. There is a strong relationship between price and profit earned as well as quantity sold.
+  - In terms of competitor pricing, when I lower my price compared to theirs, I significantly increase sales but reduce profit per unit (except for Round 2). However, if I raise my price higher than the competitor's, I observe a decrease in both Sales and Profit (except for Round 18 where only one sale was made due to an extremely high price).
+  - There seems to be an optimal price range somewhere between what the competitors are charging (around $5-6) and $7 that maximizes profit while still maintaining a decent amount of sales.
+
+New content for PLANS.txt:
+1. Determine the optimal pricing range (somewhere between competitor’s prices and $7) through further A/B testing and regression analysis on price points, quantity sold, and profit earned data.
+2. Implement a more dynamic pricing strategy by taking into account competitor's price adjustments over time, customer demand patterns, and time periods using machine learning models for an optimal balance between sales and profitability.
+3. Analyze the relationship between price intervals, combinations of discounts and promotions to find the most profitable mix.
+4. Monitor and adapt to the competitor strategies and market conditions more frequently (e.g., daily rather than monthly) to react promptly to changes.
+
+New content for INSIGHTS.txt:
+1. There appears to be an optimal price range for maximizing profit while still maintaining sales, likely somewhere between competitor’s prices and $7.
+2. The relationship between sales and profitability suggests a delicate balance that needs to be maintained to maximize long-term profit growth.
+3. Competitor price adjustments significantly impact both sales and profitability, thus frequent monitoring for changes is essential.
+4. A/B testing and regression analysis remains critical in determining profitable pricing strategies.
+
+My chosen price:
+6.0

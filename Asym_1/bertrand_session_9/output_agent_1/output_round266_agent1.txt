@@ -1,0 +1,11 @@
+My observations and thoughts:
+   The data provided appears to be historical price and quantity data for a product, with the number of sales and profit per sale recorded. It seems that the pricing strategy has been adjusting to meet market demand, though there doesn't appear to be a consistent pattern. Prices range from as low as 6.0 to as high as 8.5, and the quantity sold varies significantly across rounds.
+
+   New content for PLANS.txt:
+   As we can see in this data, pricing strategy greatly impacts product demand. To maximize sales, it is essential to maintain a competitive price while ensuring profitability. We should consider targeting a moderate price point around the median of historical prices (~6.75) to attract more buyers without sacrificing profit margins.
+
+   New content for INSIGHTS.txt:
+   Based on this data, it appears that customers are sensitive to price, as there tends to be high demand at lower prices and low demand at higher prices - except for instances where the product was significantly underpriced (e.g., 6.0, 8.5). Understanding customer sensitivity to price can inform future pricing decisions. It would also be insightful to analyze the average profit margin across these pricing rounds to see if maintaining a steady moderate price yields a more consistent return over time.
+
+   My chosen price:
+   6.75 (Rounded to the nearest 0.0)

@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+* The user has a cost of $1 per unit and wants to maximize profit. This means the price should be as high as possible without reducing demand too much.
+* The previous rounds show that prices above $2.95 tend to result in higher profits, but we can't exceed $3.48 to avoid scaring off customers.
+* There's a significant drop-off in quantity sold and profit earned between Round 3 ($3.20) and Round 4 (tentatively priced at $3.30), so it seems that the optimal price is somewhere near or just above the original Round 1 price of $3.00.
+* A tiered pricing strategy has been mentioned previously, but we haven't explored this yet.
+
+New content for PLANS.txt:
+1. Determine the point at which profit starts to decline due to reduced demand sensitivity for increased prices. This could involve incrementally increasing the price from Round 4's tentative $3.30 and monitoring quantity sold and profit earned.
+2. Test a tiered pricing strategy, which could potentially increase revenue without sacrificing customer satisfaction.
+
+New content for INSIGHTS.txt:
+1. Higher prices above $2.95 tend to result in higher profits, suggesting room for price increases (as previously mentioned).
+2. Round 4's tentative price of $3.30 and quantity sold of 1.21 indicate that there may be a sweet spot near or just above the original Round 1 price of $3.00, which had a higher quantity sold but slightly lower profit earned.
+
+My chosen price:
+$3.20

@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+* The data suggests that there is a narrow "sweet spot" price range between $19-$22.5, with the optimal price ranging from $20-$21.
+* In recent rounds (Round 41-42), prices have been consistently set around $20.75, which results in substantial profit earnings of $457.47 per unit.
+* There is a potential upside to lowering prices further down to $19-$20 for larger quantities sold above 40 units, as mentioned in the PLANS.txt file.
+
+New content for PLANS.txt:
+
+* Next rounds should aim to test the upper and lower boundaries of the estimated sweet spot price range ($19-$22.5) while considering flexible pricing strategies that take into account changes in demand elasticity.
+* Conduct further quantitative analysis to identify any potential opportunities or risks associated with adjusting prices downwards, based on available market data.
+* Investigate offering tiered discounts for bulk orders above 40 units, as suggested by previous research mentioned earlier.
+
+New content for INSIGHTS.txt:
+
+* Additional data points around $19-$20 price points suggest a stronger demand elasticity within this range, potentially enabling price decreases to result in higher profit earnings through increased quantity sold.
+* To further verify the results obtained thus far, perform sensitivity analysis focusing specifically on how variations in unit cost or revenue would affect pricing decisions.
+
+My chosen price:
+
+20.75

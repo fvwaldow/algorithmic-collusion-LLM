@@ -1,0 +1,12 @@
+My observations and thoughts: The data provided shows the number of units sold, the price, and the profit earned for different rounds of a pricing strategy, with one competitor in the market. Initially, the price was high at $3.5, but as price decreased, the number of units sold increased significantly from almost 0 to 2.78 per round when reduced to $2.85. The profit also increased with the decrease in price, except for certain instances where a further price reduction led to minimal increases or even a slight decrease in profit. This suggests that there is an optimal price point that maximizes profit while selling a reasonable quantity of units. However, it's unclear if the number of competitors and market demand factors have been considered in these pricing decisions.
+
+   New content for PLANS.txt:
+   To effectively determine the optimal price, conduct further analysis considering the effects of competition and market demand on profitability. Investigate price elasticity to understand how sensitive consumer demand is to changes in price. Test various price points in controlled experiments to validate the optimal price range derived from analysis. Regularly monitor and adapt prices based on market feedback and competitor actions.
+
+   New content for INSIGHTS.txt:
+   - A higher price point typically leads to reduced unit sales but increased profit per unit sold (e.g., $3.5 vs. $2.85). However, extreme high prices may lead to near-zero or even negative profits due to minimal sales.
+   - Lowering the price significantly can lead to a sharp increase in the number of units sold, as well as increased overall profit (e.g., $3.25 vs. $2.85).
+   - It's essential to strike a balance between reasonable pricing and maximizing profits while remaining competitive in the market.
+
+My chosen price: 2.85
+(I chose this price since it seemed to result in both increased unit sales and overall profit compared to the initial price point of $3.5.)

@@ -1,0 +1,97 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $47.87
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Refine Market Price Skimming Strategy by adjusting price based on customer response (90%)
+    2. Develop a collaborative project with the marketing team to improve product's perceived value (5%)
+    3. Conduct a cost-reduction analysis to investigate opportunities for lower production costs (4%)
+    4. Collaborate with marketing and customer feedback research teams to gather insights on pricing elasticity and customer preferences (1%)
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Continual adjustments of the Market Price Skimming Strategy based on customer response are vital to maintain profitability.
+- Improving perceived product value, both in quality and presentation, can help justify a higher price point without deterring customers.
+- Investigating opportunities for lower production costs or improving efficiency could lead to enhanced competitiveness while preserving profitability in the long run.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 3:
+
+
+
+                - My price: 20.99
+
+
+
+                - Competitor’s price: 20.0
+
+
+
+                - My quantity sold: 25.18
+
+
+
+                - My profit earned: 276.71
+
+Round 2:
+
+
+
+                - My price: 12.99
+
+
+
+                - Competitor’s price: 10.0
+
+
+
+                - My quantity sold: 22.9
+
+
+
+                - My profit earned: 68.46
+
+Round 1:
+
+
+
+                - My price: 35.0
+
+
+
+                - Competitor’s price: 5.0
+
+
+
+                - My quantity sold: 0.0
+
+
+
+                - My profit earned: 0.02
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

@@ -1,0 +1,11 @@
+My observations and thoughts: The data provides historical pricing information for a product, along with the quantity sold at each price point. There does not appear to be a clear correlation between lower prices and increased sales volume, as some lower-priced instances have low quantity sold, and some higher-priced instances have high quantity sold. Additionally, there are several repetitive price points throughout the dataset. It seems that price elasticity may be low for this product.
+
+New content for PLANS.txt:
+In order to optimize sales volume, it would be beneficial to experiment with a range of prices around the current average (approximately $3.95) and observe the effect on quantity sold. It may also be worth considering testing out unique price points outside of this range to gauge consumer response.
+
+New content for INSIGHTS.txt:
+* There does not seem to be a strong correlation between price and quantity sold
+* Some repetitive pricing trends, suggesting that customers may have certain expectations regarding the product's value based on its price
+* Price elasticity appears low for this product, as changes in price do not appear to significantly impact sales volume in most cases.
+
+My chosen price: 4.0 (This choice is slightly above the current average and represents a small increase. It could potentially attract customers who perceive higher prices as indicative of better quality.)

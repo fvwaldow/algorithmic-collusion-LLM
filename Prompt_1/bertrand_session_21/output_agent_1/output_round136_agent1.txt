@@ -1,0 +1,9 @@
+My observations and thoughts: It appears that the data provided represents price and sales data for a single product across 70 pricing rounds. To maximize profits, it is essential to strike a balance between setting a competitive price and ensuring sufficient demand. The data shows fluctuations in both sales quantity and profitability based on changes in the selling price.
+
+   Observing patterns in the data, one may notice that the highest average profit is achieved when the price hovers around 15. However, it's not always the case; for example, during rounds 42, 41, and 39, sales were higher at prices lower than 15 despite lower profits due to more units sold.
+
+   New content for PLANS.txt: Our future approach should focus on finding the optimal price point that balances profitability and demand. The current data suggests aiming for a range between 14 and 16, but further analysis is needed to pinpoint the exact sweet spot.
+
+   New content for INSIGHTS.txt: Based on this price elasticity analysis, we can see a direct relationship between sales quantity and price changes. A lower price tends to increase the number of units sold, but decreases average profit per unit. At the same time, a higher price leads to less demand but potentially higher profits due to a larger profit margin. It is crucial to find a balance between the two when setting prices moving forward.
+
+   My chosen price: 15 (currently, there's no explicit data provided for round 71, so I picked the average of the two close values in the dataset: (14.98+15)/2 = 15)

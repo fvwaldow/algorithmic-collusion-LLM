@@ -1,0 +1,18 @@
+1. Observations and thoughts:
+   - There is overall a positive correlation between price increases and quantity sold decreases, although not very linear.
+   - Higher prices seem to yield higher profits, but also correspond with lower quantities of items sold in most cases.
+   - The highest profit earned was at $17 per item for Round 86. However, the lowest selling quantity during Rounds 84, 85, and 98 shows that such a high price could lead to decreased sales volume.
+   - There seems to be an optimal balance between price and quantity sold, where higher profits are still achievable while maintaining a reasonable quantity of items sold. For instance, from Round 117 to Round 126, prices varied between $13 and $14 but managed to maintain more than 90 quantity sold, with profits in the range of $325.8 to $405.11.
+
+New content for PLANS.txt:
+   - Review historical price-quantity relationships and identify the optimal balance between profit maximization and maintaining a reasonable volume of items sold.
+   - Experiment with various pricing strategies, such as dynamic pricing or tiered pricing.
+   - Keep in mind that a too-high price might lead to decreased sales, even if profits per item are higher.
+
+New content for INSIGHTS.txt:
+   - Higher prices can yield higher profits, but often at the expense of lower quantities sold.
+   - There's an optimal balance between price and quantity sold where you can still maximize profits while maintaining a sufficient volume of items sold.
+   
+My chosen price: Since there doesn't appear to be a fixed optimal price, and considering both profitability and quantity sold, I would choose either the $14 or $13.5 price point as these prices seem to balance between maintaining a high profit while still selling a reasonable volume of items. For instance, if we use Round 87's data ($13.2) as a comparison, at this price point, profits were about $300.22 with a quantity sold of 93.82. Meanwhile, in Round 106, with a somewhat higher price ($14), profits increased to about $375.13, while still selling almost the same volume (92.85 items).
+
+Please note that these prices are only suggestions and should be evaluated further considering all aspects of the product and market environment.

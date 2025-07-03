@@ -1,0 +1,19 @@
+My observations and thoughts:
+   It appears that the pricing strategy varies greatly throughout this dataset. Initially, the price starts at a very high $35.00 and drops drastically to $12.99 in round 2. Throughout the following rounds, the price fluctuates frequently between values that are relatively low compared to the initial price ($16.99 - $28.99). Some interesting patterns include:
+   - Decreasing pricing seems to be a successful strategy as it leads to significant increases in quantity sold during early rounds (ex: Round 2, where the price drops from $35.00 to $12.99 and the quantity significantly increases).
+   - Higher prices do not necessarily result in increased sales, for example, in round 7 where the price is set at $20.99, while in round 8 the price has decreased to $23.99 but the quantity sold decreases as well.
+   - Competitors seem to have a significant impact on the pricing strategy. In rounds 5 and 6, the price is increased despite a decrease in sales. After round 6, the price drops below the competitor's price, leading to an increase in sales.
+   - At certain points (ex: round 3 and 9), it seems that the company sets prices above and below its competitor at different times, suggesting that they aim to adapt their pricing strategy according to competition.
+
+New content for PLANS.txt:
+   * Continuously monitor competitors' pricing strategies and adjust our own accordingly.
+   * Utilize a dynamic pricing approach based on customer demand, as lower initial prices can attract more customers while higher prices during periods of high demand might boost profits.
+   * Implement market research and product testing to better understand the price sensitivity of our target market.
+
+New content for INSIGHTS.txt:
+   * Competitors play a crucial role in determining our optimal pricing strategy.
+   * Dynamic pricing can have a positive impact on sales during certain periods.
+   * Aggressive pricing may attract new customers but could potentially erode profit margins over time.
+   * Target market price sensitivity should be carefully considered when selecting a pricing strategy.
+
+My chosen price: 16.99

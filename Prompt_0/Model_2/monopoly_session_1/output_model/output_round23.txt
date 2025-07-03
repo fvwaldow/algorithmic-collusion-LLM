@@ -1,0 +1,13 @@
+My observations and thoughts:
+The user's current price is relatively high compared to the maximum customers are willing to pay ($4.36). The volume of sales seems to decrease as the price increases. However, higher prices result in a lower number of sales, but a slightly higher profit per unit sold. The lowest quantity sold was at $3.25, and profit started increasing when the price dropped from $3.5 down to $2.0. The highest volume of sales was achieved at $2.0, which yielded a profit of $50.0, but subsequent rounds saw a drop in both volume and profit. There seems to be an important balance between volume and profit that needs to be found through closer examination of the pricing strategies that have generated the most success so far (around $2.15).
+
+New content for PLANS.txt:
+- Identify the optimal price range that balances volume and profit potential by refining pricing strategies around the successful prices near $2.15, while considering market trends across multiple rounds to gain insights into long-term profitable pricing strategies.
+- Implement a gradual price adjustment based on the identified optimal price range while closely monitoring sales volume and profit margins. When a more profitable pricing range is established, hold prices steady for several rounds to evaluate trends in sales and profits.
+
+New content for INSIGHTS.txt:
+- Lower prices can lead to higher volumes of sales but lower profit margin per unit sold; while higher prices result in fewer units sold with a higher profit margin per unit. The key lies in identifying the optimal price range that balances both volume and profit potential.
+- Further analysis is needed to determine the ideal pricing strategy for long-term profit maximization, considering market data trends across several rounds.
+
+My chosen price:
+2.14 (The lowest price in the range where decent volume of sales can be achieved without significantly compromising profit)

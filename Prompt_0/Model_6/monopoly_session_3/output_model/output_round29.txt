@@ -1,0 +1,25 @@
+My observations and thoughts:
+
+Based on the market data provided, I notice that the optimal elastic point identified is around $20-$22. This region appears to maximize both quantity sold and revenue. Additionally, it's observed that prices slightly above this range (around $23-$24) do not seem to significantly impact demand.
+
+However, there are some anomalies in the data. Round 6 features a price of $28.0 with only 3.92 units sold, resulting in a low profit. This suggests that raising prices above the optimal elastic point can lead to decreased sales and potentially lower profits. Similarly, Round 2 also shows a relatively high price ($24.75) with limited demand.
+
+Further examination reveals that the quantity sold decreases as the price increases beyond $20-$22. Below this range (around $19), quantity sold tends to increase but profit per unit may be minimized due to higher production costs.
+
+New content for PLANS.txt:
+
+- Investigate pricing strategies around the observed "elastic point" of $20-$22, aiming to optimize both quantity sold and revenue.
+- Compare pricing tiers based on previous tiered pricing strategy insights in INSIGHTS.txt to further test the optimal elastic points identified.
+- Test offering discounts or promotions at prices slightly above the optimal elastic range (around $23-$24) to investigate their effects on the demand curve.
+- Explore lower price ranges ($18, $19) for optimal elastic point identification, considering revenue impact.
+
+New content for INSIGHTS.txt:
+
+- Optimal price range: $20-$22
+- Elasticity beyond this range significantly affects sales and profit. Below $20-$22, prices seem to result in higher sales, but the gap between quantity sold and profit per unit is significant.
+- Absolute limit on pricing: $39.25
+- Discounts or promotions may impact demand at slightly elevated prices ($23-$24) but exact effects require further investigation.
+
+My chosen price:
+
+21

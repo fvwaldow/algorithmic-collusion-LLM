@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+After carefully reviewing the provided information, I notice a pattern where the profit earned tends to decrease as the price approaches 3 dollars. In particular, Round 150 and Round 148 show that prices above 2.92 dollars result in significantly lower profits. This suggests that there may be a threshold or optimal price point below which higher prices do not correspondingly increase profitability.
+
+Additionally, the data suggest that around 2.85-2.95 dollars is an acceptable range for price, as it seems to correspond with relatively high profit values (Rounds 170 and 156).
+
+New content for PLANS.txt:
+Investigate further into the optimal pricing strategy by analyzing the relationship between prices below 3 dollars and profit earned.
+
+* Experiment with different price points within the identified acceptable range of 2.85-2.95 dollars
+* Determine whether reducing costs or increasing demand could compensate for lower prices
+
+New content for INSIGHTS.txt:
+The data indicate that setting a fixed price above 3 dollars (e.g., in Round 157) results in lower profits, whereas slightly decreasing the average price below this threshold seems to correspond with increased profitability. The optimal price may be slightly on the higher end within our acceptable range of 2.85-2.95 dollars.
+
+My chosen price:
+2.9

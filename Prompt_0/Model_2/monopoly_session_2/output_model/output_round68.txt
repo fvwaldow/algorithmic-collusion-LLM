@@ -1,0 +1,13 @@
+My observations and thoughts: The trends in this dataset show that prices lower than $7 have a higher quantity sold and overall profit when compared with those around and above $7. Additionally, the selling price of $6.49 seems to give the maximum profit while maintaining a stable quantity sold. However, we should continue exploring nearby price points within the range of $6.48 - $6.59 for optimization. Furthermore, utilizing data visualization tools could provide a more accurate analysis and better strategy insights regarding selling prices over time.
+
+   New content for PLANS.txt:
+   1- Continuously test narrower price points within the optimal range found ($6.48 - $6.59) to find the exact price point that maximizes profits while maintaining a stable quantity sold (e.g., 6.50, 6.52, and round numbers thereafter).
+   2- Utilize data visualization tools for even more accurate analysis of trending in selling prices and customer behavior over time.
+   3- Track competitors changes in pricing for necessary updates on a continuous basis to remain competitive while maximizing profits.
+
+   New content for INSIGHTS.txt:
+  - The range 6.48 - 6.59 is important, focusing specifically within this range will help in finding the optimal price point that best maximizes profit and maintain quantity sold stability.
+  - When trying to optimize profit earnings, a slight reduction in price could potentially lead to both increased quantities sold and an overall larger profit margin.
+  - It's essential to keep observing competitor movements for future pricing updates if necessary to remain competitive in the market.
+
+   My chosen price: 6.50

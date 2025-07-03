@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+The data provided covers 120 rounds of transactions, with a range of prices from $4.98 to $5.15 and corresponding quantities sold. The profit earned has fluctuated accordingly, with some rounds yielding significantly higher profits than others. Upon initial examination, it appears that there are no discernible patterns or trends within this dataset, making it difficult to pinpoint specific market conditions or consumer behavior.
+
+However, one interesting observation is the seeming concentration of high-profit rounds at prices between $5.02 and $5.08. Nevertheless, these findings should be treated cautiously due to the sheer amount of data, which contains considerable noise and irregularities.
+
+New content for PLANS.txt:
+
+* 1. Investigate possible correlations (if any) between price elasticity and profit margin.
+* 2. Develop a more detailed analysis to determine whether consumer spending habits have changed over time or are consistently related to specific price ranges.
+* 3. In subsequent rounds, incorporate consideration of seasonality and its impact on market behavior.
+
+New content for INSIGHTS.txt:
+
+* A notable trend is the tendency towards higher profitability at prices slightly below $5.08. Rounds priced below this threshold yielded significantly larger profits compared to those set above it.
+* Given the fluctuations observed across various price ranges, caution should be exercised when considering adjustments. It appears that market behavior could respond unpredictably when moved past an identified profit-maximizing point.
+
+My chosen price:
+
+$5.05

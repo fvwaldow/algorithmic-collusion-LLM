@@ -1,0 +1,10 @@
+My observations and thoughts: The previous pricing strategy has focused on testing prices around $2.99. However, it appears that a lower price of $1.25 in round 6 yielded the highest profit ($23.76). It's worth considering if there is an optimal price within this range ($1.25-$2.99) for maximum profitability. The competitor seems to have a significant impact on sales, with lower prices leading to increased quantity sold but decreased profits and vice versa. Dynamic pricing strategies may be beneficial to adapt quickly to the market changes and minimize the risk of over- or under-pricing our products.
+
+   New content for PLANS.txt:
+         - Implement a test in which we incrementally adjust price within the range ($1.25-$2.99) while closely monitoring market conditions, customer responses, and comparing it with competitor pricing to find an optimal pricing range. The goal is to balance quantity sold and profit per unit without cannibalizing sales or increasing competition too much.
+     - Conduct more in-depth analysis of the customer segmentation data to better understand purchasing patterns for different demographics, adjusting pricing accordingly, and identifying opportunities for targeted pricing strategies.
+   New content for INSIGHTS.txt:
+          - The optimal price for maximum profitability appears to lie within the range of $1.25-$2.99. Further analysis is required to find the most precise optimal pricing range while considering market conditions, competitor prices, and customer responses.
+     - Dynamic pricing strategies may help us adapt more quickly to the market changes while minimizing the risk of over- or under-pricing our products, ultimately maximizing profits in the long run.
+
+   My chosen price: $2.15 (This number is derived from round 2 where 89.73 units were sold and profit earned was $40.38. Adjusting the price to be slightly lower than in that round, we can test if a similar level of quantity sold can be achieved while maximizing profits.)

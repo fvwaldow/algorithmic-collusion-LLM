@@ -1,0 +1,16 @@
+My observations and thoughts:
+   - In general, the price varies considerably from round to round, with a range of 24.0 to 28.0 in the early rounds, then increasing significantly to 39.2 by Round 11. In Round 15, the price drops back down to 16.8 but later increases again.
+   - The quantity sold is relatively stable up until Round 7 (the price peaked at Round 11) where it starts to decrease slightly, only to drop dramatically in Rounds 10 and 11 while the price decreases as well. After that, both quantity sold and price start to increase until reaching a new high in Round 39 with 24.19 units sold for 84.76$.
+   - It appears there might be some correlation between price and quantity sold but it is not straightforward, some patterns occur over several rounds before breaking apart.
+
+New content for PLANS.txt:
+   - Continue monitoring the relationship between price and quantity sold to see if any consistent pattern emerges over time.
+   - Consider strategies that aim to increase the stability of both the price and quantity sold to improve profitability.
+
+New content for INSIGHTS.txt:
+   - The market appears unpredictable with a strong fluctuation in price and quantity sold, suggesting high price volatility.
+   - It is worth investigating external factors such as supply, demand, competition, and consumer behavior that might influence these fluctuations.
+   - Further exploration of optimal pricing strategies could yield better results by minimizing risk while maximizing profitability.
+
+My chosen price:
+84.76 (as this matches the total revenue generated from selling 24.19 units in Round 39)

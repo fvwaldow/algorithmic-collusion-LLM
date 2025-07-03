@@ -1,0 +1,13 @@
+My observations and thoughts: It appears that we are attempting to price a product dynamically against a competitor's price across multiple rounds. Our goal is to maximize profit while maintaining or improving market share. We can observe some instances where increasing the price led to an increase in profit (e.g., Round 104, 109, 112), but other times it had a negative impact on the quantity sold and overall profit (e.g., Round 78, 86). There also seem to be situations where decreasing the price led to an increase in both the quantity sold and profit (e.g., Round 36, 52, 103). It seems crucial to consider market sensitivity towards our product's pricing as it affects our competitor's price and overall demand, which can impact our profits.
+
+   New content for PLANS.txt:
+   - Continuously monitor the competitive landscape by keeping track of competitor's pricing changes.
+   - Implement price sensitivity analysis to determine how much consumers are willing to pay for our product across different price points, and leverage this data when making pricing decisions.
+   - Factor in external events, such as changes in demand or supply conditions, which could affect the pricing decisions and market competition dynamics.
+
+   New content for INSIGHTS.txt:
+   - Competitor's dynamic pricing strategy seems to be heavily focused on maximizing profit rather than maintaining a consistent market share.
+   - Adjusting our pricing based on competitor's actions could provide opportunities to gain market share or increase profits, but careful consideration must be given to avoid long-term negative impacts.
+   - It appears that there is a sweet spot for our product's price, as demonstrated in various rounds where adjusting the price led to increased profit while maintaining or even improving upon our market share. Further research should be conducted to pinpoint this optimal pricing range for future scenarios.
+
+My chosen price: 15 (Ideally flexible depending on market conditions, competitor's actions and our product's unique value proposition)

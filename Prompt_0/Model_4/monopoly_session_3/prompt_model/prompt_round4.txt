@@ -1,0 +1,58 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $42.58
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+```
+7. Test a tiered pricing strategy by offering a "Early Bird" discount of 10% off the base price during weekdays to encourage weekday purchases, which may indicate different customer segments or buying behaviors. Keep track of sales and profit margins, and adjust accordingly. Monitor how other products or services within our industry handle this type of promotion.
+8. Implement a loyalty program where customers receive discounts or rewards after every purchase, starting from a 5% discount for the first repeat purchase. Evaluate the impact on customer retention and overall profitability with regular assessments.
+```
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+```
+Based on the initial insights, we need to shift our focus towards creating a strong customer engagement strategy. Rather than just aiming for immediate sales boosts, we should emphasize building relationships and loyalty for long-term profit optimization. Monitoring customer feedback post-purchase can provide valuable insights into how these promotions impact their perception and future buying behavior.
+```
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 3:
+            - My price: 32.5
+            - My quantity sold: 0.67
+            - My profit earned: 15.06
+
+Round 2:
+            - My price: 35.0
+            - My quantity sold: 0.25
+            - My profit earned: 6.18
+
+Round 1:
+            - My price: 32.5
+            - My quantity sold: 0.67
+            - My profit earned: 15.06
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

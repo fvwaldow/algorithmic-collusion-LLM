@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+The data provided shows the price (in dollars) and quantity sold for a product in each round, with a competitor's price also given for some rounds. The initial price was $2.00. From the numbers given, it appears that there are periodic fluctuations in both price and quantity sold over 115 pricing rounds. Factors such as the competitor's price, lack of price (in round 105), and high price (round 107) seem to influence sales volume.
+
+Plans.txt:
+
+In Pricing Strategy:
+- Adapt prices based on both my own sales data and the competitor's price
+- Monitor sales performance in each pricing round
+- Seek to maximize profit while maintaining a reasonable pricing level to remain competitive
+
+Insights.txt:
+
+From the historical data, it seems that a lower price often leads to increased sales volume, but not always at a rate that yields optimal profits (e.g., rounds 106 - 112). However, too high of a price tends to lead to reduced sales (rounds 107 and 111) and can cause the product to be less competitive (round 117 - 119). The absence of competition in round 105 has minimal effect on quantity sold.
+
+When considering the next pricing move, it is essential to analyze both the current trend and potential competitor reactions before deciding on a new price point.
+
+My chosen price:
+2.05

@@ -1,0 +1,12 @@
+My observations and thoughts: Based on the market data provided, we can see that our profit is highest (315.52) when the price was 15 in Round 2, with a considerable reduction in both price and profit (8.43) at the maximum price of 33.78 in Round 1. The quantity sold also dramatically decreases from 63.1 to almost zero as we increase the price. It appears that a balance between stimulating sales and maintaining profits should be sought, taking competitor's pricing into account as well to remain competitive.
+
+   New content for PLANS.txt:
+   - Test a range of prices (starting from $12.5 and gradually lower) while monitoring the impact on quantity sold and profit earned.
+   * Implement dynamic price adjustments, responding sensitively to competitor's pricing actions.
+     - Investigate potential tiered pricing strategies for customers who purchase in larger quantities.
+
+   New content for INSIGHTS.txt:
+   - The optimal balance of sales and profits can be found through systematic testing and analysis of various price points.
+         * Observing customer buying behavior becomes crucial to understand the price sensitivity and demand elasticity.
+
+   My chosen price: 13.5 (testing this price point next while taking other factors into account such as competition, customer feedback, and sales trends)

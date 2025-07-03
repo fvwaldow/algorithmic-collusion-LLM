@@ -1,0 +1,16 @@
+My observations and thoughts:
+    * The data shows a clear correlation between price and quantity sold, with higher prices leading to lower sales volume but higher profit per unit due to the fixed cost of production.
+    * From Round 47 (price 1.02) to Round 31 (price 16.0), the profit per unit decreased while the number of units sold fluctuated, indicating a need for finding an optimal price to maximize profits.
+   * It's important to note that overpricing can make the product inaccessible to potential customers, whereas underpricing could be mistaken for low quality and deter potential buyers.
+
+   New content for PLANS.txt:
+   1. Continue using a hybrid pricing strategy that considers both profits per unit and total sales volume to find an optimal price point.
+   2. Implement a data-driven pricing approach, which involves analyzing the market demand, competition, and cost structure to determine the best prices for the product.
+   3. Conduct A/B testing with different pricing strategies to assess their impact on profitability and sales volume and adjust as needed.
+
+   New content for INSIGHTS.txt:
+   1. Overpricing can deter potential customers, but it's essential to balance this risk with maintaining profit margins.
+   2. Market testing and data analysis are crucial in determining the best pricing strategy for a product.
+   3. Finding an optimal price point requires balancing profits per unit and total sales volume.
+
+   My chosen price: 15.0 (This price is lower than the previously used high prices while still providing reasonable profit margins and attracting potential customers, taking into account the market demand and competition)

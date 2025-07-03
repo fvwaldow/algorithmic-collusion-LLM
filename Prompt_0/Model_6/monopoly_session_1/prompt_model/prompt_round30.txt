@@ -1,0 +1,194 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $3.48
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+**
+
+1. **Analyze sensitivity of optimal pricing strategy**: Test variations within the bounds of $2.97-$3.00 to confirm how robust our conclusions are regarding this being an ideal pricing range.
+2. **Investigate higher prices below ceiling:** As seen in Rounds 6-8, even prices slightly above $3.00 (e.g., $3.23) may be counterproductive due to decreased customer base and profit margins. Determine at what point the curve "drops off a cliff" from an optimal perspective.
+3. **Explore lower bound of optimal price range:** As seen in Round 12, the optimal price for one round was at $2.90 while selling larger quantity unit values despite reduced unit value. Consider evaluating whether slightly raising the floor of this price-range would increase long-term profitability.
+
+**
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+**
+
+* **Price ceiling around optimal price has large effect on profits and customer base:** Analysis shows a significant increase in profit earnings with every unit under our upper bound, up until the point at which quantity sold declines due to artificially enforced maximum revenue (as discussed before).
+* **Lower prices have diminishing returns**: We should test whether lower bounds on prices lead to similar but less severe problems as high-end price increases did above $2.97.
+
+**
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 29:
+            - My price: 2.98
+            - My quantity sold: 1.98
+            - My profit earned: 3.92
+
+Round 28:
+            - My price: 2.98
+            - My quantity sold: 1.95
+            - My profit earned: 3.85
+
+Round 27:
+            - My price: 2.98
+            - My quantity sold: 1.95
+            - My profit earned: 3.85
+
+Round 26:
+            - My price: 2.97
+            - My quantity sold: 2.02
+            - My profit earned: 3.99
+
+Round 25:
+            - My price: 2.97
+            - My quantity sold: 2.02
+            - My profit earned: 3.99
+
+Round 24:
+            - My price: 2.97
+            - My quantity sold: 2.02
+            - My profit earned: 3.99
+
+Round 23:
+            - My price: 2.99
+            - My quantity sold: 1.87
+            - My profit earned: 3.72
+
+Round 22:
+            - My price: 2.99
+            - My quantity sold: 1.87
+            - My profit earned: 3.72
+
+Round 21:
+            - My price: 2.96
+            - My quantity sold: 2.1
+            - My profit earned: 4.12
+
+Round 20:
+            - My price: 2.98
+            - My quantity sold: 1.98
+            - My profit earned: 3.92
+
+Round 19:
+            - My price: 2.97
+            - My quantity sold: 2.02
+            - My profit earned: 3.99
+
+Round 18:
+            - My price: 2.98
+            - My quantity sold: 1.91
+            - My profit earned: 3.79
+
+Round 17:
+            - My price: 2.98
+            - My quantity sold: 1.95
+            - My profit earned: 3.85
+
+Round 16:
+            - My price: 2.98
+            - My quantity sold: 1.95
+            - My profit earned: 3.85
+
+Round 15:
+            - My price: 2.98
+            - My quantity sold: 1.98
+            - My profit earned: 3.92
+
+Round 14:
+            - My price: 2.97
+            - My quantity sold: 2.02
+            - My profit earned: 3.99
+
+Round 13:
+            - My price: 2.97
+            - My quantity sold: 2.02
+            - My profit earned: 3.99
+
+Round 12:
+            - My price: 2.9
+            - My quantity sold: 2.66
+            - My profit earned: 5.05
+
+Round 11:
+            - My price: 2.92
+            - My quantity sold: 2.41
+            - My profit earned: 4.64
+
+Round 10:
+            - My price: 2.92
+            - My quantity sold: 2.46
+            - My profit earned: 4.72
+
+Round 9:
+            - My price: 2.92
+            - My quantity sold: 2.46
+            - My profit earned: 4.72
+
+Round 8:
+            - My price: 2.94
+            - My quantity sold: 2.28
+            - My profit earned: 4.41
+
+Round 7:
+            - My price: 2.9
+            - My quantity sold: 2.66
+            - My profit earned: 5.05
+
+Round 6:
+            - My price: 3.23
+            - My quantity sold: 0.72
+            - My profit earned: 1.62
+
+Round 5:
+            - My price: 3.2
+            - My quantity sold: 0.82
+            - My profit earned: 1.8
+
+Round 4:
+            - My price: 3.1
+            - My quantity sold: 1.21
+            - My profit earned: 2.55
+
+Round 3:
+            - My price: 3.2
+            - My quantity sold: 0.82
+            - My profit earned: 1.8
+
+Round 2:
+            - My price: 2.95
+            - My quantity sold: 2.19
+            - My profit earned: 4.27
+
+Round 1:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

@@ -1,0 +1,19 @@
+My observations and thoughts:
+There are several trends that can be observed from the provided data. Firstly, there is a tendency for consumers to purchase items when their price increases slightly, then decreases again (e.g., from 10.65 to 10.3). However, this strategy doesn't seem to work well consistently, as seen in rounds 205 and 200 where the lower price does not lead to an increase in sales.
+
+Secondly, when the competitor lowers their price, it seems that the number of units sold may slightly increase (e.g., round 196, from 47.0 to 51.95 with a competitor price decrease from 10.5 to 10.25).
+
+Thirdly, it appears that an extremely high or low price results in a decrease in sales (e.g., rounds 204 and 201 where the price was near-zero and close to the original price respectively).
+
+Lastly, it is interesting to note that, despite the number of units sold increasing when the competitor's price decreases, the profit earned does not necessarily follow this trend. This suggests that focusing solely on unit sales may not be an effective strategy in this context.
+
+    New content for PLANS.txt:
+Revise pricing strategy to consider the impact on unit sales and profit earned. Monitor changes in competitor's prices and adjust accordingly. Continuously gather data to evaluate any emerging trends or patterns.
+
+    New content for INSIGHTS.txt:
+- Prices that are too high or low lead to decreased sales
+- Consumers respond slightly to price increases followed by decreases (not always)
+- When the competitor decreases their price, the number of units sold may increase, but profit earned is not guaranteed to follow suit
+
+    My chosen price:
+10.3

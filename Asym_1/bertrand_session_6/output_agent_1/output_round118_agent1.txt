@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+   The data reveals a dynamic market with varying prices and quantities sold for the same product by seller A (ourselves) and competitor B. For instance, during Round 19, where both competitors had the same price of 3.98, seller A had a slightly higher quantity sold (0.04 vs 0.0). On the other hand, in Rounds 20 and above, there were no sales for our competitor B but some consistent sales for us.
+
+   It seems that our competition is sensitive to price changes as can be seen in many instances where they lower their prices to match or beat ours (e.g., Round 39), which suggests a strategic emphasis on pricing. Meanwhile, there's room for improvement in identifying the right moment to increase prices and maintaining a higher margin while ensuring decent sales volume.
+
+   The data also indicates that increasing our price above competitors (Rounds 14 – 20) hinders sales, but selling at their level does not always guarantee more sales (e.g., Round 33 versus Roomd 43). This shows that the price and quantity sold relationship is complex.
+
+   PLANS.txt:
+   - Continuously monitor competitive pricing shifts to make timely adjustments of our own prices, focusing on maintaining a consistent higher margin.
+   - Analyze specific pricing rounds with relatively lower sales for us compared to competitors (e.g., Rounds 39, 20) and develop strategies for maximizing profits and minimizing the loss of potential buyers.
+
+   INSIGHTS.txt:
+   - The market is sensitive to sudden price increases as customers tend to avoid higher priced options when identical ones are available at a lower cost (e.g., Rounds 14 – 20).
+   - There exists an inverse relationship between the seller's level of price competitiveness and their market share (e.g., consistent sales for us in comparison to our competitor).
+
+   My chosen price:
+   3.95

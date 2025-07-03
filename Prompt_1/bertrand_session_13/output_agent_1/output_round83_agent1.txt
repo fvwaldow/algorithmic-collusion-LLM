@@ -1,0 +1,11 @@
+My observations and thoughts:
+   It looks like we have 106 total data points from the provided table, with each row containing information on price, competitor price, quantity sold, and profit earned for a given product in different rounds of a pricing strategy experiment. Each round seems to represent a change in our own price for a given product. Some interesting observations include:
+   1. There appears to be an inverse relationship between price and quantities sold, with higher prices resulting in lower numbers of items sold (with some exceptions). This suggests that having competitive pricing may lead to increased sales.
+   2. Although increasing the price often leads to decreased revenues from unit sales, it can still result in a net profit due to the higher profit margin per item. However, maintaining a lower price and selling more units may also provide attractive profit margins.
+   3. It is worth noting that not all pricing changes led to increased profits with the highest overall revenue being made at round 15 when the price was set at $8.50.
+   New content for PLANS.txt:
+   * Consider setting a baseline price around the midpoint of prices observed in data (i.e., around $9.25) and then testing other competitive pricing options, such as slightly lower or higher prices to assess their effect on revenue and overall profitability
+   New content for INSIGHTS.txt:
+   * Aggressive pricing has not been effective in this experiment with the highest overall revenue being achieved when price is set near the midpoint of observed prices (round 15)
+   My chosen price:
+   9.25

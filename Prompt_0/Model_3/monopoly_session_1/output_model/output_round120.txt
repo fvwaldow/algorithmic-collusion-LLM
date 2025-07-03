@@ -1,0 +1,17 @@
+Based on the information provided, here are my thoughts and observations:
+
+* There is a consistent trend of decreasing quantities sold as the price increases, which suggests that demand may decrease at higher prices. This could indicate that setting a high price might not lead to maximizing profits in the long run. Analyzing historical data is important to determine if other factors (e.g., market conditions, customer demographics) are affecting this trend.
+
+* The profit earned seems to have an inverse correlation with price, except for one instance where price was 2.5 and profit earned was 17.88. This could suggest that the optimal pricing strategy might be slightly higher than the current minimum price (2). For example, setting a price around 2.49 might not yield significantly reduced profits compared to a price of 2.5 or higher.
+
+* Based on the data given, I would recommend considering a price range between $2 and $2.50, as these seem to balance both quantity sold and profit earned. To maximize profitability, you could continue testing prices within this range and observing how changes in price affect quantities sold and profits earned.
+
+For PLANS.txt file:
+```plaintext
+Observations: Historical data suggests demand decreasing at higher prices and that optimal pricing strategy might be slightly higher than the current minimum price (2). Testing prices within a range of $2 to $2.50 could provide good balance between quantities sold and profits earned.
+```
+For INSIGHTS.txt file:
+```plaintext
+Insights: Pricing seems to have inverse correlation with quantity sold for most cases, indicating lower volumes at higher price points. However, this trend isn't unwavering; there are instances where price increases slightly yielded comparable profits to those of lower prices. Optimal pricing might be a balance between 2 and 2.50 considering both quantities sold and profits earned.
+```
+My chosen price: Given the available information, I would start with testing a price of $2.49 which balances both quantity sold and profit earned in comparison to other prices provided. This choice allows us to test how much higher prices impact both demand and profit without going too far from our currently successful price points. But note that this suggestion is purely based on the data given without considering other market factors or internal costs, such as production, distribution and selling expenses. Always consider those when making pricing decisions.

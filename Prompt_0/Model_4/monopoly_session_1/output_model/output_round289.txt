@@ -1,0 +1,14 @@
+My observations and thoughts:
+- There's significant variability in the quantity sold across different price points. 
+- The prices where the quantity sold is zero (e.g., 265.0, 285.0, 270.0, 250.0) likely represent thresholds where demand doesn't exist.
+- Higher quantities sold are associated with lower prices (e.g., 2.45 results in 14.19 units sold).
+- Profit seems to be directly correlated with the quantity sold, as higher sold quantities generally lead to higher profits.
+- There's a pattern suggesting that price decreases from 300.0 to around 2.0 result in increased sales.
+
+New content for PLANS.txt:
+Adding to current insights, I plan to explore prices between 250.0 and 3.0, focusing on how much the quantity sold increases with each incremental decrease in price. This will help refine my understanding of demand elasticity in this price range.
+
+New content for INSIGHTS.txt:
+Demand appears to be sensitive to price, with zero sales at higher price points and significant increases in quantity sold as prices drop. There's a critical price range where slight adjustments in pricing could lead to notable changes in profitability.
+
+My chosen price: 2.50

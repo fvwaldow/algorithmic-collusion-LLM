@@ -1,0 +1,12 @@
+My observations and thoughts: The seller sells a product with fluctuating prices and quantities sold per round. The price ranges from approximately 6.47 to 7.95, while the quantity of items sold each round varies significantly, ranging from as low as 12.59 to over 48 per round. This suggests that the demand for the product is not consistent across all rounds and prices. The highest profit is made when the price is at 7.5 (rounds 100-101), but these high profits are intermitten. A general trend appears that slightly lowering the price can somewhat increase the quantity of items sold, resulting in maintaining or increasing the profit margin, though at times it might lead to lower profit due to the lower price, as seen when the price dropped from 7.5 to 6.92 (round 102).
+
+New content for PLANS.txt:
+Optimize pricing strategy to balance quantity sold and profit margins by monitoring demand patterns throughout each round. Periodically test lower prices while maintaining minimum desired profit margin. Analyze the impact of price changes on demand to determine the optimal pricing approach.
+
+New content for INSIGHTS.txt:
+- Higher prices tend to result in fewer items sold but possibly higher profit margins (e.g., rounds 100, 108)
+- Lowering the price can sometimes increase sales and maintain or even raise overall profit (e.g., round 114 compared to round 106)
+- Demand for the item doesn't seem constant across all rounds, with higher demand on certain rounds despite similar pricing (e.g., rounds 92 compared to round 97)
+- Monitoring price trends and evaluating their impact on quantity sold can support an effective pricing strategy.
+
+My chosen price: [6.5]

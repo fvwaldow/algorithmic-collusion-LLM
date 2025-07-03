@@ -1,0 +1,184 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $3.29
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Extend the current price point ($2.29) testing further under varied market conditions to solidify data-driven confidence in this pricing strategy.
+2. Deepen competitor analysis by studying consumer behavior patterns, focusing on indirect strategic implications on demand and market share dynamics rather than direct comparisons.
+3. Reinforce the sales alert mechanism for maintaining profitability at lower tiers (less than 15 units sold), ensuring agile responses to maintain margins during minor dips in demand but without drastic price adjustments.
+4. Initiate short-term, controlled experiments with small incremental raises ($0.02 or $0.03) near the customer ceiling of $3.29, monitoring sales sensitivity closely within these increments to assess potential for increased profits without exceeding consumer limit.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Confirm the effectiveness and reliability of the $2.29 price point as indicated by sustained profitability and consistent sales figures above 15 units per round, highlighting its robustness across fluctuations.
+2. Emphasize vigilance in monitoring competitors through indirect market behavior analysis to predict and preempt strategic actions that could affect demand without direct competition-induced pricing pressures.
+3. Uphold the importance of agile responses, particularly when quantities fall short of 15 units, to balance loss mitigation with profit margin preservation.
+4. Advocate for cautious exploration of price increases near $3.29 ceiling, recommending controlled tests at smaller increments below this threshold to harness potential gains without risking customer rejection.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 28:
+            - My price: 2.29
+            - My quantity sold: 23.87
+            - My profit earned: 30.79
+
+Round 27:
+            - My price: 2.29
+            - My quantity sold: 23.87
+            - My profit earned: 30.79
+
+Round 26:
+            - My price: 2.29
+            - My quantity sold: 23.87
+            - My profit earned: 30.79
+
+Round 25:
+            - My price: 2.29
+            - My quantity sold: 23.87
+            - My profit earned: 30.79
+
+Round 24:
+            - My price: 2.29
+            - My quantity sold: 23.87
+            - My profit earned: 30.79
+
+Round 23:
+            - My price: 2.29
+            - My quantity sold: 23.87
+            - My profit earned: 30.79
+
+Round 22:
+            - My price: 2.29
+            - My quantity sold: 23.87
+            - My profit earned: 30.79
+
+Round 21:
+            - My price: 2.29
+            - My quantity sold: 23.51
+            - My profit earned: 30.44
+
+Round 20:
+            - My price: 2.29
+            - My quantity sold: 23.51
+            - My profit earned: 30.44
+
+Round 19:
+            - My price: 2.29
+            - My quantity sold: 23.51
+            - My profit earned: 30.44
+
+Round 18:
+            - My price: 2.29
+            - My quantity sold: 23.87
+            - My profit earned: 30.79
+
+Round 17:
+            - My price: 2.29
+            - My quantity sold: 23.87
+            - My profit earned: 30.79
+
+Round 16:
+            - My price: 2.3
+            - My quantity sold: 23.15
+            - My profit earned: 30.09
+
+Round 15:
+            - My price: 2.32
+            - My quantity sold: 21.76
+            - My profit earned: 28.72
+
+Round 14:
+            - My price: 2.35
+            - My quantity sold: 19.78
+            - My profit earned: 26.71
+
+Round 13:
+            - My price: 2.4
+            - My quantity sold: 16.8
+            - My profit earned: 23.52
+
+Round 12:
+            - My price: 2.3
+            - My quantity sold: 23.15
+            - My profit earned: 30.09
+
+Round 11:
+            - My price: 2.35
+            - My quantity sold: 19.78
+            - My profit earned: 26.71
+
+Round 10:
+            - My price: 2.5
+            - My quantity sold: 11.92
+            - My profit earned: 17.88
+
+Round 9:
+            - My price: 3.15
+            - My quantity sold: 1.0
+            - My profit earned: 2.14
+
+Round 8:
+            - My price: 3.29
+            - My quantity sold: 0.57
+            - My profit earned: 1.31
+
+Round 7:
+            - My price: 3.2
+            - My quantity sold: 0.82
+            - My profit earned: 1.8
+
+Round 6:
+            - My price: 3.18
+            - My quantity sold: 0.88
+            - My profit earned: 1.93
+
+Round 5:
+            - My price: 3.18
+            - My quantity sold: 0.88
+            - My profit earned: 1.93
+
+Round 4:
+            - My price: 3.1
+            - My quantity sold: 1.21
+            - My profit earned: 2.55
+
+Round 3:
+            - My price: 3.05
+            - My quantity sold: 1.48
+            - My profit earned: 3.03
+
+Round 2:
+            - My price: 3.05
+            - My quantity sold: 1.48
+            - My profit earned: 3.03
+
+Round 1:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

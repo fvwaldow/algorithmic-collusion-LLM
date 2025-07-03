@@ -1,0 +1,189 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $4.24
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Monitor competitors’ price changes more closely and analyze their volume-based pricing strategies to capitalize on potential openings in the market.
+     - Continue monitoring volume fluctuations with our current price point, but consider a strategic increase if it demonstrates consistently high sales volume and minimal loss in overall profitability.
+      - Develop dynamic price adjustments based on time of year or specific campaigns as opportunities arise to capture additional market share while maintaining profitability.
+       - Incorporate machine learning algorithms with the focus on identifying pricing trends and customer demand to maximize profit potential.
+          - Regularly reassess the effectiveness of our strategies, making fine-tuned adjustments as needed to maintain an optimal balance between volume and profit.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Stay informed about competitor’s pricing trends and volume-based pricing adjustments as they can have a significant impact on market share and overall profitability.
+         - A strategic increase in price could potentially maintain or even slightly improve profitability if volume remains consistent at higher sales levels.
+          - Dynamic price modifications based on time, campaigns, or other factors may provide opportunities to gain a competitive edge.
+           - It is important to continuously review the balance between volume and profit to ensure that our pricing strategy remains optimized for long-term profit maximization.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 8:
+
+
+
+                - My price: 2.25
+
+
+
+                - Competitor’s price: 3.0
+
+
+
+                - My quantity sold: 26.54
+
+
+
+                - My profit earned: 33.17
+
+Round 7:
+
+
+
+                - My price: 2.5
+
+
+
+                - Competitor’s price: 2.0
+
+
+
+                - My quantity sold: 6.34
+
+
+
+                - My profit earned: 9.51
+
+Round 6:
+
+
+
+                - My price: 2.5
+
+
+
+                - Competitor’s price: 3.49
+
+
+
+                - My quantity sold: 11.89
+
+
+
+                - My profit earned: 17.84
+
+Round 5:
+
+
+
+                - My price: 2.0
+
+
+
+                - Competitor’s price: 3.0
+
+
+
+                - My quantity sold: 49.55
+
+
+
+                - My profit earned: 49.55
+
+Round 4:
+
+
+
+                - My price: 2.0
+
+
+
+                - Competitor’s price: 3.25
+
+
+
+                - My quantity sold: 49.83
+
+
+
+                - My profit earned: 49.83
+
+Round 3:
+
+
+
+                - My price: 3.75
+
+
+
+                - Competitor’s price: 3.99
+
+
+
+                - My quantity sold: 0.09
+
+
+
+                - My profit earned: 0.25
+
+Round 2:
+
+
+
+                - My price: 2.0
+
+
+
+                - Competitor’s price: 3.99
+
+
+
+                - My quantity sold: 49.99
+
+
+
+                - My profit earned: 49.99
+
+Round 1:
+
+
+
+                - My price: 2.0
+
+
+
+                - Competitor’s price: 2.0
+
+
+
+                - My quantity sold: 33.33
+
+
+
+                - My profit earned: 33.33
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

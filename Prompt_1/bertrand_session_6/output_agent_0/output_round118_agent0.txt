@@ -1,0 +1,13 @@
+My observations and thoughts:
+   - The presented data shows a range of prices and the corresponding quantities sold for each round. It appears that there is some correlation between price and quantity sold, as lower priced items tend to sell more. However, it's also clear that customers are willing to pay higher prices for certain products, although these items do not sell in such high quantities.
+   - The profit difference between lower and higher-priced items varies significantly. While the higher-priced items have a higher individual profit per sale, their lower quantity sold compared to lower priced items results in less overall profits. On the other hand, while the lower priced items may not have as high of an individual profit, they generate more sales which leads to larger total profits.
+   - It is also important to consider that a change in price can lead to a change in quantity sold. For instance, some products such as round 40, with a higher price, saw a significant increase in sales when the competitor's price increased. However, this was not always the case, as seen with several rounds where the higher-priced item continued to sell fewer quantities even with a lower competitor price.
+   - In some cases, there seems to be no discernible pattern in the buying behavior, such as rounds 39 and 42, where the lower priced item saw a large increase in sales when the competitor's price increased but then had a significant decrease when their own price was slightly raised.
+   - It appears that customers may perceive certain price points more positively than others – for example, items priced at $1.5X sell better than those priced at $1.49 or $1.52. This could be attributed to cognitive biases in decision-making, where customers prefer prices ending in .99 or .0X due to a psychological preference for round numbers.
+   New content for PLANS.txt:
+   - Consider implementing a dynamic pricing strategy to optimize profits by adjusting the product price based on competitor pricing as well as customer demand and trends.
+   - Regularly monitor sales data to identify any emerging patterns in buying behavior, particularly regarding sensitivity to price changes or preferred price points.
+   - Offer promotions periodically at certain price levels to capitalize on cognitive biases toward round numbers and potentially stimulate demand.
+
+My chosen price:
+<1.49>

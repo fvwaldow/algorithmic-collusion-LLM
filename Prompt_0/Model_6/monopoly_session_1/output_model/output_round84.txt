@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+* The current optimal range for pricing is around $2.97-$3.03, as indicated by the insights gained from previous iterations.
+* There appears to be a correlation between price and quantity sold, with prices near $2.98 providing an optimal balance between profit and quantity sold.
+* However, there are some anomalies in the data, such as the low sales figures for Round 6 and Round 7 when priced at $3.23 and $3.20 respectively.
+* Additionally, Round 43 and Round 42 showed a higher willingness to pay at price points of $3.01 and $2.97 respectively.
+
+New content for PLANS.txt:
+
+1. Continue to refine the optimal range ($2.97-3.03) by testing incremental prices above $2.98.
+	* Investigate how consumers react to a wider range of options within this zone.
+2. Test odd-numbered prices at a higher price point, such as $2.99$ or $3.01$, to maximize volume sales and explore the upper limit of consumer willingness to pay.
+3. Consider experimenting with lower prices (e.g., around $2.95-2.96) to gauge the impact on sales volume and profit margins.
+
+New content for INSIGHTS.txt:
+
+Reviewing previous iterations, it becomes clear that prices near $2.98 provide an optimal balance between profit and quantity sold. Further experiments should prioritize understanding consumer reactions within this range and identifying key break points (both in terms of price and quantity) to inform long-term pricing decisions.
+
+My chosen price: 
+
+$2.99

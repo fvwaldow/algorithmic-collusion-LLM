@@ -1,0 +1,13 @@
+Given the provided data representing various rounds of price and quantity sold with corresponding profit earned for each round, we can provide some observations and suggestions for future pricing strategies based on the patterns observed in this data. Here's a summary of the price and quantity changes over time:
+
+1. In the majority of instances, the price varies significantly (e.g., from 13 to 27). However, there is a consistent price of 13 throughout most rounds, which generated a sizable profit of 282.8 on average for these instances.
+2. When the price exceeded 15 in some instances, such as rounds 49, 68 and 76, a considerable drop-off occurred in quantity sold (33.41, 5.16 and 3.89 respectively), leading to reduced profit compared to the lower-priced instances.
+3. Lower priced offerings (under 25) resulted predominantly in higher quantities sold, although the profit earned was lesser compared to higher prices (e.g., rounds 61 and 70).
+
+Given these insights, here's what I propose for upcoming pricing considerations:
+- Choose a price close to 13, which seems to generate a reasonable profit while maintaining a high quantity of sales. However, since market conditions might change over time, monitor the competition and customer sentiment to adjust this price accordingly. A slightly higher or lower price could be tested if it does not substantially decrease the volume sold.
+- Consider testing different pricing strategies in conjunction with marketing campaigns, promotions, or discounts during periods of low demand or competition. This should help to increase sales quantity without severely impacting profit margins.
+ engaging in demand forecasting will enhance future strategies.
+- Monitor and analyze customer behavior closely; understanding demand fluctuation, market trends, and price sensitivity can guide the optimal balance between cost and quantity sold for maximizing profitability. 
+
+My chosen price: Based on historic performance, I would choose a price point similar to 13 with variations based on external factors, starting from 12.99 to ensure high sales volume and healthy profit margin. Future testing should include discounts, promotions or other strategies during low demand periods to stimulate increased sales.

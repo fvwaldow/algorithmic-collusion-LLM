@@ -1,0 +1,15 @@
+My observations and thoughts: Based on the historical data, it appears that the price sensitivity of customers is quite broad, with a ceiling at $46.4. However, higher prices do not significantly increase quantity sold or profit. There seems to be some patterns in our competitive pricing, particularly when we are more expensive than the competitor we sell more units (like Round 16 and sometimes lower like Round 9), but this doesn't always guarantee increased profit. There also appears to be some inefficiencies in our pricing strategy, as higher prices don't seem to consistently generate higher profits and some competitive price drops result in reduced sales (such as Round 5). It is crucial to strike a balance between profit per unit and quantity sold over time.
+
+   New content for PLANS.txt:
+   - Conduct further analysis on the impact of competitor pricing changes on our sales and profitability, focusing specifically on profitable pricing windows.
+   - Implement a dynamic pricing strategy that responds quickly to competitor moves and adjusts price accordingly for optimal profit opportunity.
+   - Develop models to predict market response to various pricing scenarios and use these predictions to inform pricing decisions.
+   - Monitor customer demand in different price ranges to identify the most profitable balance of price per unit vs. quantity sold over time.
+
+   New content for INSIGHTS.txt:
+   - The potential exists for capitalizing on changes in competitor strategies that decrease their prices for short periods, potentially driving increased sales while maintaining profitability margins.
+   - A dynamic pricing strategy may be required to swiftly respond to our competitor's moves, as they may impact both sales and profitability in the long run.
+   - Monitoring changes in customer demand at different price points can help inform optimal pricing for maximum long-term profit.
+   - Adjusting prices dynamically based on historical data, market dynamics, and competitor strategies can lead to profitable pricing windows.
+
+   My chosen price: 28.5 (This price was competitively higher than our current low competitor's price while still selling more units than them during those instances in the historical data. Moreover, it is still lower than our ceiling of $46.4)

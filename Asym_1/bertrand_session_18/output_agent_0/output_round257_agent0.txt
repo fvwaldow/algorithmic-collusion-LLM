@@ -1,0 +1,14 @@
+My observations and thoughts: It appears that prices range widely throughout the dataset, from 5.0 to 75.0. The lowest prices seem to be effective in driving high-quantity sales, e.g., 18.0 with 52.67 units sold and 16.0 with 49.49 units sold, but these low prices often result in relatively lower profits compared to higher price points, such as 75.0 and 30.0 which had no sales at all due to their high cost. The dataset also shows instances of high-price items selling multiple units (e.g., 30.0 with 1.32 units sold). Over time, it seems that a moderate price around 25.0 and 28.0 was effective in selling the item and generating reasonable profits.
+   New content for PLANS.txt:
+
+   - Analyze competitors' pricing trends to find a middle ground between high and low price points that appeals to customers while maximizing profits.
+   - Implement dynamic pricing strategies, adjusting prices according to demand fluctuations.
+   - Offer promotions or discounts periodically to stimulate sales and boost customer engagement
+
+   New content for INSIGHTS.txt:
+
+   - Low price points result in high-quantity sales but lower profits on average.
+   - High price points tend to have fewer sales but can generate significant profit if units are sold.
+   - Moderate prices seem to strike a balance between quantity and profit, providing consistent results over time.
+
+My chosen price: 28.0

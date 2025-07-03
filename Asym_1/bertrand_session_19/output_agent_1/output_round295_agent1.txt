@@ -1,0 +1,14 @@
+My observations and thoughts: The data provided shows a historical record of prices and quantities sold for a product over 200 rounds. It appears that the product's price varies between 26.0 and 32.5 with occasional changes, while the quantity sold ranges from about 0.73 to 99.91. The profit earned per round also varies significantly, with some rounds resulting in a loss.
+   New content for PLANS.txt:
+   - Analyze the relationship between price and quantity sold each round to find any patterns or trends that might indicate an optimal pricing strategy.
+   - Determine if there are certain prices or ranges of prices where sales volume is consistent or increases significantly.
+   - Look into how changes in competitor's price may affect our own sales.
+   - Identify any price adjustments that cause significant drops in sales and investigate the reasons behind these drops.
+
+   New content for INSIGHTS.txt:
+   - Although there has been a wide range of pricing strategies, it appears that around the price point of 28-30 there are more occurrences of profitable rounds.
+   - Quantities sold tend to increase as prices dip below 28 but decrease when going above 30.
+   - Competitor's price changes do not seem to have a consistent impact on our sales, but it may be worth analyzing specific instances where sales have decreased following a competitor's price drop or rise.
+   - It seems that extreme pricing strategies such as pricing too low (e.g., Round 226) and too high can lead to losses and significantly reduce sales.
+
+   My chosen price: 29

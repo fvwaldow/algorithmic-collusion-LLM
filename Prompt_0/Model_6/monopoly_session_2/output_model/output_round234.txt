@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+From reviewing the market data, it appears that there is a relatively stable price range of $4.99-$5.03, with prices above and below this range resulting in decreased profit earnings or quantity sold. The average selling price for the selected interval seems to be around $4.99- $5.02. It's also worth noting that some round values (e.g., $5.01, $5.05) are more represented than others while both prices have yielded relatively equal quantities sold in many occasions.
+
+New content for PLANS.txt:
+
+Based on the observations from above, we need to conduct a rigorous analysis of profitability by testing different price points within the optimal range ($4.98- $5.02). This can be achieved by running more experiments with values such as $4.99, $4.995, $5-$101, and others to identify the optimal point, given that an exact identification seems difficult due to potential noise from data or rounding effects.
+
+Furthermore, it would be beneficial for future reference to track and explore specific metrics beyond just profit, namely loss aversion with potential revenue in mind as well as how these results are affected over long periods of time (i.e., 20+ rounds) considering all factors mentioned above and the historical trends. Tracking data outside the optimal range may give useful insights that could guide future pricing strategies.
+
+New content for INSIGHTS.txt:
+
+The existence of noise in profit data suggests there might be some inherent risks to relying heavily on specific, short-term price point analyses. On one hand, high prices appear to discourage quantity sold and lead to a loss in total revenue. However, low prices result in similar outcomes due to minimal margins available. Consequently, a delicate balance between these two extremes was reached around $4.99 - $5.02.
+
+The importance of tracking metrics beyond profit earnings should be recognized as well. For instance, investigating revenue generated from items sold could reveal other points of leverage for further improvements on price strategy in the future.
+
+My chosen price:
+
+4.995

@@ -1,0 +1,16 @@
+My observations and thoughts:
+The data indicates that adjusting prices based on competitor moves can lead to increased profit (as seen in Rounds 11, 16, and 18). However, the optimal price seems to be around 8.75 as it achieves a moderate profit with reasonable sales volume. It would be beneficial to investigate how competitor's pricing strategy evolves over time and respond accordingly.
+
+   New content for PLANS.txt:
+- Monitor competitor’s long-term pricing trends to adapt pricing strategy effectively
+  - Perform regression analysis on historical market data to establish a stable relationship between price changes, sales volumes, and overall profit
+    - Update machine learning algorithms regularly to optimally predict future competitor moves and adjust our own pricing strategy
+    - Implement adaptive pricing strategies that prioritize maintaining or improving profitability as the competitor’s approach evolves
+
+   New content for INSIGHTS.txt:
+- Long-term trends in competitor’s pricing can be utilized to optimize our own profits (as observed in Rounds 11, 16, and 18)
+  - Regression analysis remains crucial to understanding the relationship between price changes, sales volumes, and overall profit over time
+    - Machine learning algorithms require regular updates for accurate analysis of competitor’s pricing moves
+    - Adaptive pricing strategies should be in place to ensure consistent or improved profitability as competition dynamics change
+
+   My chosen price: 8.75

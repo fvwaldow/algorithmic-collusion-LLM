@@ -1,0 +1,13 @@
+My observations and thoughts: This data represents a competitive pricing strategy game where two participants adjust their prices against each other. Initially, both started with high prices (13.0 and 12.0), but the first participant quickly adjusted their price downwards to 9.5 by round 6 while the second kept theirs steady at 8.0 for several rounds before dropping it to 8.2.
+
+   The first participant's strategy of frequent, significant price reductions seems to have been effective, leading to increased sales (quantity sold >0) from round 10 onwards. On the other hand, the second participant saw only one sale in the initial rounds and had very little success with their pricing strategy.
+
+   From round 7 until 12, the first participant continued to lower their price down to 8.0. At this point, they seemed to focus on offering a more competitive price compared to the stable second participant (rounds 13-15). They then raised their price to 9.0 in round 16, matching the competitor's price, but subsequently offered slightly lower prices until the end of the game.
+
+   The second participant made a late attempt at adapting their pricing strategy by reducing their price significantly (8.2), but it proved too little too late as they were unable to recover sales lost previously.
+
+New content for PLANS.txt: Based on the data analysis, a flexible pricing model that adjusts to market conditions and competition may have been more effective. Future strategies should take into account competitor's actions and adapt more quickly in response.
+
+New content for INSIGHTS.txt: Consistently low prices (below 8.0) did not appear to be beneficial, as increased sales only occurred when the price was above this threshold. It seems that being slightly less competitive can result in losses if the competitor's pricing strategy is more effective.
+
+My chosen price: 8.25

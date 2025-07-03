@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+Based on the data provided, it appears that there is a correlation between price and quantity sold. As price increases, quantity sold generally decreases, except for certain anomalies where prices around $20-$21 show decent sales figures. However, above $22-23, sales drop significantly.
+
+Another notable observation is that around price levels of $19-$20, profits increase significantly due to lower expenses from producing those quantities and a higher profit margin from selling them. There also appears to be a decrease in demand as prices increase beyond this point.
+
+Looking at Rounds 43-41 where the same price ($20.75) shows consistent results, it's noticeable that even though there are slight dips, these sales figures still remain relatively stable compared to what is observed with higher or lower prices.
+
+However, an opportunity for growth seems available within a smaller scope as evidenced from market fluctuations around specific price points (like $21-$23 and the $20.75 price point), suggesting certain areas where profit or volume is particularly sensitive to minor swings in pricing strategy.
+
+New content for PLANS.txt:
+
+* Investigate further why anomalies occur at prices $20-$21: Could slight increments lead significantly different results?
+* Implement experiments with narrower, strategically chosen price bins around these optimal price points ($19.5-$22) and observe sales dynamics closely, especially regarding demand sensitivity to small pricing changes.
+* Attempt to optimize volume at more substantial profit levels within identified sweet spots.
+
+New content for INSIGHTS.txt:
+
+* Demand drops significantly beyond the upper bound of optimal pricing ($20-$23), with further price increments leading to losses in both revenue and profit from reduced sales figures.
+* Around $19-$20, there seems to be a peak in both volume and profitability before demand diminishes as prices rise.
+
+My chosen price: 20.75

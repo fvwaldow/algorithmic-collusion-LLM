@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+Based on the provided market data, I noticed that as the price increases, the quantity sold tends to decrease. This suggests a strong inverse relationship between price and demand. Additionally, there are some anomalies in the data where prices above $20 result in low or zero sales (e.g., Rounds 64-66). I'll consider this when determining the optimal price.
+
+New content for PLANS.txt:
+
+* Investigate the possibility of implementing a tiered pricing strategy to cater to different segments of customers.
+* Analyze the historical data to identify any seasonal trends or fluctuations in demand that could inform future pricing decisions.
+* Consider conducting a survey or gathering customer feedback to better understand their preferences and pain points related to price.
+
+New content for INSIGHTS.txt:
+
+* The sweet spot between $19-$21 appears to be where customers are most willing to purchase, with Round 85 and 87 being the standout examples where prices above this range fail to attract significant demand.
+* There is a clear correlation between higher prices and lower sales volume, suggesting that pricing aggressively may not be the best strategy in this market.
+
+My chosen price:
+
+$20.50

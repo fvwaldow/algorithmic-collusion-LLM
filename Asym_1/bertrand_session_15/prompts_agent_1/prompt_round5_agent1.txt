@@ -1,0 +1,66 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $39.39
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Experiment with premium pricing by incrementally increasing the price until it reaches the customer's upper limit ($39.39) while carefully monitoring the impact on sales volume and profit margins.
+  - Evaluate potential market segment preferences via targeted surveys to better understand their willingness to pay and optimal pricing tiers.
+  - Continuously track competitor pricing adjustments in relevant product segments, considering how they may affect customer perception of value and my pricing strategy.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Premium pricing can potentially lead to increased profit margins if executed properly by finding a balance between price point that customers perceive as reasonable yet offers them the desired perceived value.
+  - It's essential to understand customer preferences and their willingness to pay, which can aid in tailoring pricing decisions to drive revenue growth without diminishing product desirability.
+  - Keeping an eye on competitor pricing adjustments is crucial for informed decision-making regarding pricing adjustments that cater to specific market conditions.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 4:
+                - My price: 1.07
+                - Competitor’s price: 39.0
+                - My quantity sold: 99.95
+                - My profit earned: -892.04
+
+Round 3:
+                - My price: 1.02
+                - Competitor’s price: 35.0
+                - My quantity sold: 99.95
+                - My profit earned: -897.02
+
+Round 2:
+                - My price: 1.02
+                - Competitor’s price: 24.0
+                - My quantity sold: 99.75
+                - My profit earned: -895.72
+
+Round 1:
+                - My price: 1.05
+                - Competitor’s price: 39.0
+                - My quantity sold: 99.95
+                - My profit earned: -894.54
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

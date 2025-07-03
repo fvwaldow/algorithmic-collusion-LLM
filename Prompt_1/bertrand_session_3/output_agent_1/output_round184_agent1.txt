@@ -1,0 +1,9 @@
+My observations and thoughts: The data provided shows rounds of selling prices and quantities for two competitors, with a total of 105 rounds in the dataset. Some rounds have no sales for either competitor (indicated by a price of "None" or zero quantity). There are several instances where Competitor A slightly reduces the price but gains less profit compared to when it maintains its price at a higher level. This suggests that while reducing prices can attract more customers, it may not always lead to the expected increase in profits. Additionally, there are instances where Competitor A raises its prices significantly, leading to little or no sales (e.g., Round 91). This highlights the importance of pricing sensitively to market conditions and demand.
+
+New content for PLANS.txt: In order to maximize profits, we should analyze the sensitivity of our customer base to price changes and make adjustments accordingly. The data suggests that a balanced approach — finding a sweet spot between higher prices with lower volumes and lower prices with increased volumes — will help us optimize our profitability over time.
+
+New content for INSIGHTS.txt: Observing the trends over multiple rounds, we can see a mix of successful pricing strategies employed by both competitors, such as maintaining high fixed prices to minimize competition (e.g., Round 100) and making strategic price reductions to drive sales (e.g., Round 87). This highlights the importance of monitoring market trends and adapting our strategy accordingly.
+
+My chosen price: [Based on my analysis, I choose a price of _________]
+
+[Since your algorithm doesn't have the ability to make decisions like a human, I will fill in this section with the average selling price over the dataset, which is approximately 2.01.]

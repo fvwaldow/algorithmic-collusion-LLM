@@ -1,0 +1,13 @@
+My observations and thoughts:
+In analyzing the data from the pricing rounds, I've noticed a repeating pattern where profits are often maximized at $34.00 to $35.00 across various scenarios. This seems to indicate that these prices are optimal for maximizing profit within the given market conditions. However, it's also clear from the data that quantity sold varies significantly with price, suggesting that price elasticity plays a crucial role. For instance, price increases from $33.00 to $35.00 result in varied profit outcomes, indicating different buyer sensitivities at each price point.
+
+New content for PLANS.txt:
+Adjust the pricing strategy to focus on dynamic pricing based on observed elasticity. Use historical data to predict optimal prices for each round, considering both profit margins and quantity sold trends. Implement a feedback loop that adjusts prices according to sales performance in real-time.
+
+New content for INSIGHTS.txt:
+1. The observed pattern suggests significant elasticity at prices around $34.00 to $35.00, with a notable decline in quantity sold as price exceeds these levels.
+2. There's a consistent high profit outcome at $34.00 in multiple rounds, indicating this might be close to the optimal price point. 
+3. Lower prices like $32.00-$33.00 show higher quantities sold but lower profit margins, indicating a need for balance between maximizing sales and profit.
+
+My chosen price: 
+<40.

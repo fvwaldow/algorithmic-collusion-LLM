@@ -1,0 +1,12 @@
+My observations and thoughts:
+      - In the last 21 pricing rounds, we observe a fluctuating trend in the quantity sold and profit earned, with prices ranging from $1.5 to $3.5. The prices that resulted in higher sales volume ($2.0, $2.15, $2.27) also yielded higher profits compared to other price points.
+      - It seems that a price around $2.27 was slightly less profitable than the lower price of $2.15 in the long run, suggesting a possible need to optimize prices closer to $2.15 further.
+      - There is a floor below which customers will not pay more than $4.36, and we have not yet found a price point that maximizes sales volume while achieving high profits.
+   New content for PLANS.txt:
+      - Continue monitoring the market data to determine if there exists an optimal price range between $2.15 and current tested prices closer to $2.27 that maximizes long-term profit, and adjust prices accordingly.
+      - Implement a gradual price decrease from the current average around $2.27 downwards while monitoring sales volume and profit margins closely. When a more profitable pricing range is identified, hold prices steady for several rounds to evaluate trends in sales and profits.
+   New content for INSIGHTS.txt:
+      - Further analysis is needed to identify the optimal price range that balances volume and profit potential by refining currently successful pricing strategies closer to $2.15 while continuing to monitor market data for any changes in consumer behavior.
+      - It's essential to analyze market trends over several rounds to ensure meaningful conclusions can be made regarding profitable pricing strategies.
+   My chosen price:
+   2.13 (I am rounding down slightly from the most recent profitable prices with the goal of testing lower prices while continuing to monitor for potential long-term profit maximization)

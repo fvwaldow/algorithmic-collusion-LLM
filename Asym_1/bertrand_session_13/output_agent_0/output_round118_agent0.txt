@@ -1,0 +1,14 @@
+My observations and thoughts:
+    - The provided data shows a table of 100 rounds of price competition between two entities (A and B). In each round, Entity A sets a price, while Entity B maintains a constant price. The number of units sold by Entity A, the profit earned from those sales, the price set by Entity B and whether Entity A increased or decreased its price compared to the previous round are also provided.
+    - I can see that Entity A starts off with an initial "high" price (around $12) compared to Entity B's constant price of $9.5. There is also no significant increase in sales and profit during this period, as only a few units are sold in the early rounds.
+    - Around Round 30, Entity A gradually begins reducing its price in an attempt to win more customers, but Entity B maintains its constant $9.5 price throughout. This decrease in Entity A's price results in increased sales and profit from Round 30 onwards.
+    - Interestingly, there are several instances where Entity A increases its price (highlighted as Increase), hoping to recover some of the lost profits, but these attempts seem unsuccessful, with the number of units sold decreasing significantly after such changes.
+    - There is also a pattern of Entity A returning to a lower price following unsuccessful attempts at increasing it, demonstrating its focus on maximizing sales and profit over maintaining an "optimal" price.
+    New content for PLANS.txt:
+    * Continue monitoring the price competition between Entity A and B, as this could provide insights into dynamic pricing strategies.
+    * Evaluate the impact of price changes on sales and profits over time, to identify any trends or patterns that may lead to making informed decisions about future pricing strategies.
+    New content for INSIGHTS.txt:
+    * Lowering prices can lead to increased sales and profit in the short term, as demonstrated by Entity A's gradual decrease in price after Round 30.
+    * Attempts at increasing prices following a period of low sales and profits are generally unsuccessful, highlighting the importance of being mindful of customer competition and adjusting pricing accordingly.
+    My chosen price:
+    9.5 (maintaining Entity B's constant price)

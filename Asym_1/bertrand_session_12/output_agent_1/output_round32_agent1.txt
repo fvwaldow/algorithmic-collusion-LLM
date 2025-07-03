@@ -1,0 +1,16 @@
+My observations and thoughts:
+        From the provided data, it is clear that the optimal price for maximizing profit lies somewhere within the range of 8 - 13 dollars. The highest profit was earned when the product was priced at $12.0 (Round 25) and $13.0 (Round 1), but these prices resulted in very low quantities sold. The lowest price ($6.47 in Round 12) yielded the least profit. When the price is similar to or lower than the competitor's, sales are minimal (e.g., Rounds 1-4, 11-13), and when it's substantially higher, although profitability is high, very few units are sold (Rounds 23-25). Therefore, it is crucial to find a balance between sales volume and profit while keeping the price competitive with the market.
+
+   New content for PLANS.txt:
+       1. Implement a dynamic pricing strategy that responds quickly to competitor's price changes but maintains stability in the long term. This can be achieved by continuously monitoring the market and adjusting prices accordingly within an established range (e.g., +/- 30 cents of the competitor's price).
+         2. Investigate using machine learning for predicting how different pricing options would affect sales volume, profit margins, and overall revenue in the short-term.
+           3. Conduct real-time customer feedback collection via quick surveys or point-of-sale apps to better understand consumer perception of the product's value relative to its competitors.
+         4. Expand market research to include more frequent monitoring of competitor dynamics, pricing adjustments, and new entrants to maintain a competitive edge in the market.
+
+   New content for INSIGHTS.txt:
+       1. A price range between $8 - $13 appears to maximize profit, with certain sensitivities depending on the specific conditions; however, it is crucial to monitor this range and adapt quickly based on market dynamics.
+         2. Customers are more likely to purchase when prices fall within the established competitive range but may avoid extremely high or low prices.
+          3. Monitoring competitor dynamics closely can help stay ahead of price fluctuations and react accordingly in a timely manner.
+        4. Gathering customer feedback can aid in refining pricing strategy by providing insights into consumer perception of value in relation to competing offerings, ultimately helping make more informed decisions.
+
+   My chosen price: 9.16 (This price maintains the optimal profit-seeking range while staying sensitive to competitive dynamics.)

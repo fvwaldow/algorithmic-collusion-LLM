@@ -1,0 +1,14 @@
+My observations and thoughts: Based on the market data, it appears that the optimal price lies within a range of 0.1$ from the competitor's price with some flexibility to capitalize on high/low price points. From Round 21 to present (Round 28), we observe a steady increase in quantity sold as well as profit earned when my price is closer to the competitor's price point. Although there was an exception in Rounds 6, it is notable that this was an outlier with a significantly higher competitor’s price and low quantities sold.
+
+   New content for PLANS.txt:
+   + Continue A/B testing strategy, systematically adjusting prices closer to the competitor's price point (within 0.1$) and analyze impact on sales volume and profit
+      - Optimize price adjustments using machine learning techniques based on historical sales volume, profit earned, competitor's pricing trends, market dynamics
+   + Develop a new approach for determining discount strategy during promotions, taking into account both short-term sales increase and potential impact on overall profitability and market positioning
+   + Enhanced monitoring of the competitive landscape for emerging trends or strategic shifts to maintain an adaptive pricing strategy
+
+   New content for INSIGHTS.txt:
+   + Optimal pricing exists within a range of 0.1$ from the competitor's price with flexibility to capitalize on high/low price points when applicable (Round 21 to present)
+   + Strategic promotions should consider short-term sales increases and potential long-term implications on profitability and market positioning (consider new promotion strategy in PLANS.txt)
+   + Continuous monitoring of the competitive landscape is crucial (validated by market data and consistent across pricing rounds)
+
+   My chosen price: 2.13 (rounded to nearest possible competitor's price point, maintaining optimality while staying within given customer constraints)

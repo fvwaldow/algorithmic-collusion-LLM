@@ -1,0 +1,12 @@
+My observations and thoughts: The data suggests that a lower price generally results in higher sales quantity, except for the extreme cases where my price was either slightly lower or slightly higher than the competitor's ($2.15 and $3.75 respectively did not result in high volumes sold). However, it is important to note that this high sales volume doesn't always translate into a considerable profit increase when production costs are taken into account (e.g., Round 6 with a price of 2.4 vs. Round 10 and 9 with a price of $2.15). Additionally, the highest profit was earned when prices were close to the competitor's (Rounds 4, 7, 9, and 11), indicating potential benefits from remaining competitive but not necessarily underpricing and sacrificing profit margins.
+
+New content for PLANS.txt:
+- Continue implementing dynamic pricing strategies, taking into account cost of production and customer ceiling price while considering historical sales data and competitor actions to optimize long-term profitability.
+  - Develop a more sophisticated algorithm that accounts for the relationship between price, quantity sold, and profit earned in a given round by comparing with similar rounds in the past.
+  - Adjust the pricing strategy during periods of changing market trends or shifting consumer demands by monitoring and quickly responding to competitor actions.
+
+New content for INSIGHTS.txt:
+- The relationship between price, quantity sold, and profit earned can be complex. Pricing too low may increase sales volume but not always lead to increased profit if production costs are high. Conversely, pricing too high may result in lower quantity sold and reduced profit potential even though individual profits per unit may be higher when production runs are taken into account.
+  - Adapting pricing strategy based on changing market trends or shifting consumer demands can help maintain a competitive edge while ensuring optimal profitability.
+
+My chosen price: $2.3 (This price point is close to the competitor's, keeps costs of production in mind, and is influenced by the historical sales data indicating that this price results in reasonable sales volume and decent profitability)

@@ -1,0 +1,12 @@
+My observations and thoughts: The provided data seems to indicate that there is a strong relationship between price and quantity sold, with higher prices generally resulting in lower quantity sold (with exceptions like round 77 where an even higher price led to no sales). It appears that the optimal price for the highest profit would be a balance between high price and reasonable quantity sold.
+
+   New content for PLANS.txt:
+   - Analyze data more closely to identify specific price points that lead to both high profit and reasonable quantity sold
+   - Experiment with different price ranges in the next pricing round to test optimal price point hypothesis
+
+   New content for INSIGHTS.txt:
+   - Higher prices generally result in lower quantity sold, but may be profitable if the price is set correctly
+   - Lower prices can lead to more sales, but profit per sale may not be as high at these price points
+   - It's crucial to find a balance between a competitive price and reasonable profit margins without sacrificing quantity sold
+
+   My chosen price: <100> (This number represents the rounded-up average of the highest profit per round across all rounds. In many cases, this strategy has led to success in games involving pricing decisions like this one.)

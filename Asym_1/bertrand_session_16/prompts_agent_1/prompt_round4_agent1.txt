@@ -1,0 +1,62 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $43.87
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Implement a tiered pricing strategy by offering two tiers. A lower price targeting a high volume of sales and maximizing our reach, while keeping the original higher price as an option for customers willing to pay more.
+2. Analyze market trends, competitor movements, and demand fluctuations using dynamic pricing adjustments for optimal sales and profitability.
+3. Employ machine learning algorithms to identify customer segments and optimize prices based on their perceived willingness-to-pay (WTP).
+4. Continuously monitor customer feedback and make real-time adjustments to pricing strategies to improve overall satisfaction and profitability.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Tiered pricing can provide an entry point to the market, while also catering to customers with higher WTP.
+2. Market trends and competitor movements must be taken into account when determining optimal pricing strategies.
+3. Machine learning algorithms can optimize sales and profitability based on customer segmentation, WTP and demand fluctuations.
+4. Real-time price adaptations based on customer feedback are crucial for maintaining overall satisfaction and optimizing profitability.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 3:
+                - My price: 25.0
+                - Competitor’s price: 25.0
+                - My quantity sold: 3.51
+                - My profit earned: 52.68
+
+Round 2:
+                - My price: 30.0
+                - Competitor’s price: 20.0
+                - My quantity sold: 0.09
+                - My profit earned: 1.74
+
+Round 1:
+                - My price: 43.87
+                - Competitor’s price: 10.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.0
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

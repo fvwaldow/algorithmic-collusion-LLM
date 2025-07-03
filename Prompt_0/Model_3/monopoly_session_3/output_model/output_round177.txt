@@ -1,0 +1,16 @@
+Observations and thoughts: From the provided data, we can observe that the profit earned varies with different prices, indicating a relationship between price and quantity sold or vice versa. It seems that the quantity sold is generally higher when the price is between $13 and $14, which suggests an optimal price range for achieving both good quantity and profit. The maximum profit was achieved in rounds 79-82 with prices ranging from $13.0 to $15.0, although some rounds with slightly lower prices (e.g., 13.0) also showed substantial profits. This suggests that setting a price just above $13 may be beneficial for maximizing profit while maintaining decent volume. However, it's important to consider the specific market conditions of the product being sold before making final pricing decisions.
+
+New content for PLANS.txt: 
+
+1. Analyze current market trends and competitor prices to determine an optimal price range.
+2. A/B test different prices within a suitable range (e.g., $12.5 - $14.5) to identify the most profitable price point.
+3. Monitor sales performance regularly, adjusting pricing if necessary based on market changes or customer feedback.
+
+New content for INSIGHTS.txt: 
+
+1. There is a positive correlation between price and profit earned, within certain limits. Higher prices can result in higher profits, but only up to a point (e.g., round 90). After that point, increasing the price does not significantly increase profits, and in some cases, it may even decrease them (e.g., rounds 76-78).
+	2. Prices around $13-$14 seem to yield both good quantity sold (around 94 units on average) and decent profit ($282.8 on average), indicating that this range might be optimal for the product.
+	3. It's important to consider market demand, competition, and product value in setting prices, as these factors can significantly affect sales performance.
+	4. Continual monitoring and adjustment of pricing strategies based on market shifts and customer feedback are essential for maximizing profit and maintaining competitiveness.
+
+My chosen price: $13.50 (The price used in round 79-82, where we achieve a balance between good quantity sold and decent profit.) It's important to test this pricing strategy further and consider market conditions and feedback before deciding on the final price point.

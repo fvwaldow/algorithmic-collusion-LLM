@@ -1,0 +1,13 @@
+My observations and thoughts: This dataset appears to consist of historical pricing data for a product from 1 to 31 rounds, with each round representing a change in the price of the product. The competitor's price is also included. The amount sold (quantity) in each round along with the profit earned are provided. The data shows that the optimal price varies over time, and it seems that the price that brings in the most profit is not always the highest or lowest priced option. Additionally, it appears that the competitor's price is either lower or higher than the product price at most times but closer around rounds 9,10,28,30 and 31.
+
+New content for PLANS.txt:
+- Adopt a dynamic pricing strategy, considering the current market conditions, the competitors' prices, and demand for the product.
+- Monitor the profits generated at different price points to identify trends and optimal pricing levels.
+- Analyze fluctuations in both the product and competitor prices to identify patterns and leverage opportunities for higher profit margins.
+
+New content for INSIGHTS.txt:
+- The relationship between price and sales is not straightforward; sometimes setting a lower or higher price can result in increased profits.
+- The competitor's actions should be carefully monitored as they may respond to our pricing adjustments, affecting market share and revenue.
+- Dynamic pricing strategies can help maximize profitability by quickly adapting to changes in the market.
+
+My chosen price: 35.0 (Based on the first round of data)

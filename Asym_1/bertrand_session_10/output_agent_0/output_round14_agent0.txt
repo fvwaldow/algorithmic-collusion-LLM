@@ -1,0 +1,16 @@
+My observations and thoughts:
+    Based on the provided market data, it can be observed that when my price is higher than the competitor's price, less quantity is sold but there is a higher profit earned per unit. However, when the competitor has a lower price, more units are sold, leading to a higher total value of profit earned. It appears that in some rounds, adjusting the price slightly higher or lower than the competitor can result in maximum profit, depending on other factors such as quantity sold and actual profit gained. Furthermore, it should be noted that setting the price too high ($18.82) will not allow any sales to occur.
+
+   New content for PLANS.txt:
+    - Continue observing competitor actions closely and adjust pricing strategy accordingly, targeting optimal price point between competitor's price and $18.82 upper limit.
+    - Develop strategies that intelligently adapt to market trends and consumer demand fluctuations using both machine learning models and manual analysis.
+    - Explore a hybrid pricing strategy of flexible adaptive pricing, where the price is adjusted more frequently within a narrower range ($5-$15) to maximize profitability in different market conditions.
+    - Integrate insights from various pricing strategies to create an overall optimal pricing approach.
+
+   New content for INSIGHTS.txt:
+	- Pricing strategy must be highly adaptive to maintain high profit potential, taking into account competitor actions, market trends, and short term demand fluctuations.
+	- Utilization of machine learning models will increase the accuracy and speed at which pricing can be optimized in rapidly changing markets.
+	- Exploration of hybrid pricing strategies can lead to increased overall profitability if successful in balancing supply and demand factors effectively.
+
+   My chosen price:
+    Based on the presented data, it appears that prices between $6.5 and $8 have resulted in decent quantity sold while remaining profitable for the user. Given this, I would suggest a price of 7.12 as a starting point for the next round. This will give a slight advantage over the competitor's observed price points and leave room for adjustment based on market conditions and competitor actions.

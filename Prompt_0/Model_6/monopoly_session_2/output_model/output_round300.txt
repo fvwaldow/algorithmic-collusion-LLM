@@ -1,0 +1,22 @@
+**My observations and thoughts:**
+
+After analyzing the data from 210 pricing rounds, I notice several patterns:
+
+1. The optimal price is around $4.99-$5.01, as it consistently yields high profit margins (around $152-$156) with a quantity sold of 85.35 or more.
+2. Prices above $5.15 (Round 208) tend to decrease the quantity sold and profit earned.
+3. There are anomalies in Rounds 204 and 205, where the prices were significantly higher ($155.03 for Round 204), resulting in zero sales and no profits.
+
+**New content for PLANS.txt:**
+
+1. Further investigate the optimal price range using statistical analysis to refine our estimate.
+2. Analyze potential market trends or seasonal fluctuations that might impact pricing decisions.
+3. Consider implementing a minimum quantity sold threshold to filter out anomalous data points like Rounds 204 and 205.
+
+**New content for INSIGHTS.txt:**
+
+1. The observed optimal price range ($4.99-$5.01) may not account for external market factors or seasonal influences that could affect our product's demand.
+2. To confirm the consistency of our findings, we should continue monitoring sales data across various rounds and seasons to adjust our pricing strategy accordingly.
+
+**My chosen price:**
+
+$4.995

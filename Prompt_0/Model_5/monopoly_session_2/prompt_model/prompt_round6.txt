@@ -1,0 +1,65 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $11.81
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Given the stabilization around $10.50, consider testing incremental increases by $0.25-$0.50 to gauge further acceptance without compromising significant volume.
+- Begin informal competitor analysis, aiming to collect data on rival pricing points to inform future strategies when more information is available.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Despite higher prices tested ($10.75), sales response suggests caution—indicating a price floor around $10.25 might be tolerable and profitable until competitive insights are gathered. 
+- Observations from past rounds reinforce the value of $10.50 as a sweet spot; ensure to monitor closely any small adjustments for immediate customer feedback signals.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 5:
+            - My price: 10.5
+            - My quantity sold: 0.59
+            - My profit earned: 4.32
+
+Round 4:
+            - My price: 10.75
+            - My quantity sold: 0.43
+            - My profit earned: 3.27
+
+Round 3:
+            - My price: 10.75
+            - My quantity sold: 0.43
+            - My profit earned: 3.27
+
+Round 2:
+            - My price: 10.5
+            - My quantity sold: 0.59
+            - My profit earned: 4.32
+
+Round 1:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

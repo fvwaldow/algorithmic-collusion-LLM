@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+* The product seems to have a moderate demand at around $2.95-$3.05 with consistent sales of 1.8-2.2 units per round, but when priced higher than $3.10, the quantity sold decreases significantly.
+* There is a noticeable decrease in sales between rounds 38 and 37, suggesting that pricing above $3.10 may lead to reduced demand.
+* The profit earned also seems to be inversely related to the price: as the price increases, the profit per unit decreases.
+
+New content for PLANS.txt:
+
+* Investigate the relationship between price and quantity sold to determine the optimal price range.
+* Consider implementing a pricing strategy based on competition or market conditions, rather than fixed prices.
+* Analyze customer behavior to understand why sales decrease when priced above $3.10.
+
+New content for INSIGHTS.txt:
+
+* Lowering prices below $2.95 can lead to higher unit sales, but may also reduce average profit per unit.
+* Priced between $2.98 and $3.03 seems to be a sweet spot where both quantity sold and profit earned are relatively high.
+
+My chosen price:
+$2.99

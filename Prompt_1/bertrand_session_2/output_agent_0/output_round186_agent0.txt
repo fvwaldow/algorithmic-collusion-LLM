@@ -1,0 +1,7 @@
+My observations and thoughts: The dataset provides the selling prices for a product by an entity (referred to as "My price"), and the competitor's corresponding selling price. Additionally, it gives the quantity of items sold for each price combination and the profit earned.
+
+New content for PLANS.txt: We notice that the data consists of multiple pricing rounds in which our entity continuously adjusts its prices based on the competitor's actions. To maximize profits, the strategy would be to carefully monitor competitor prices and respond accordingly by setting competitive or slightly higher prices to not lost potential customers due to perceived inferior quality.
+
+New content for INSIGHTS.txt: Initially, it appears that a significantly higher price (4.0 at round 100) leads to no sales, which indicates that the market is sensitive to our entity's pricing and has a price ceiling below which sales are viable. Additionally, when our price was lower than the competitor (round 92), we saw an increase in sales. This suggests that if our price is perceived as competitive or low relative to the competition, it can attract more customers.
+
+My chosen price: <1.45>

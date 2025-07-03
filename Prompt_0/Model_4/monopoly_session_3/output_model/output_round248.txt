@@ -1,0 +1,11 @@
+My observations and thoughts: 
+I've noticed a relatively stable profit margin across the rounds, typically around $7-$8 per unit sold. The prices fluctuate, with most rounds clustering around $34-$35, except for periods with higher prices like $40 or lower prices such as $29. The quantities sold also show variability but often remain in a narrow band around 0.3 to 0.4 units per round, with spikes like 0.55 or 2.66 being exceptional. This indicates that the model might be achieving consistent profitability while maintaining customer demand within certain price limits.
+
+New content for PLANS.txt:
+Set adaptive pricing strategy. Increase prices gradually if margins per unit remain high and customer demand is stable. Monitor rounds with lower profit margins closely, as they may indicate sensitivity to price changes. Consider occasional promotions or discounts for exceptional quantity sales to maintain customer interest.
+
+New content for INSIGHTS.txt:
+In these rounds, the model consistently achieves a profit margin of $7-$8 per unit sold, suggesting a stable pricing strategy. Notable rounds such as #165 with 2.66 units sold at 29 suggest strong demand at lower prices. Conversely, higher quantities are less frequent, possibly indicating price elasticity. Round #152 shows a consistently high profit with $7.4 per unit, indicating customer loyalty at current pricing levels.
+
+My chosen price:
+34.5

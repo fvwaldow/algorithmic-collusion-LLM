@@ -1,0 +1,12 @@
+My observations and thoughts:
+From the provided data it appears that the item starts at a very high price, with no sales initially. As the price gradually decreases, sales begin to increase significantly from Round 2 onwards, peaking at Round 7 with a sale of 10.13 items. Following this peak, the number of units sold remains relatively steady for several rounds until the item sells out completely in Round 8 and does not return until Round 11-15.
+In Round 11-15, the price is higher than that of the competitor's but also has fewer sales. The largest sale during this period occurs in Round 17 with 74.87 units sold, despite being even more expensive than the competition.
+It seems there are two distinct phases: one where the main focus should be on reducing price to increase sales (Rounds 2-9) and another where a price increase is justified as it results in fewer but still profitable sales (Rounds 11-17+).
+
+New content for PLANS.txt:
+Based on the observed trends, during phases of increasing competition, we should focus on reducing prices to drive sales and maximize profit. During periods with limited competition, price increases may lead to continued profitability even at a lower quantity sold. Regularly monitor competitor's pricing strategies to ensure adaptability in our approach.
+
+New content for INSIGHTS.txt:
+The item appears more attractive to consumers when priced lower compared to the competition. Reducing price is an effective tactic to boost sales and increase overall profit. However, increased competition could result in decreased profits if pricing remains constant. Monitor competitors' moves closely to maintain advantageous positioning in marketplace.
+
+My chosen price: 12.99 (The pricing trend throughout the data shows that the sale of items is maximized when the price is similar or lower than the competitor's rate, which occurs frequently from Round 2 to 9, however I opted for a round where we can both sell a decent amount and have some room for profit. Since the item sold well in Round 2 at 10.0, choosing a similar price makes sense.)

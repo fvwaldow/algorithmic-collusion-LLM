@@ -1,0 +1,10 @@
+My observations and thoughts:
+The current price points tested range from $10.50 to $13.50, with various profits and quantities sold noted. Higher prices generally resulted in fewer units sold but still yielded profitability if the quantity was sufficient. A loyalty program implementation at $11.60 showed potential for increased customer retention and repeat purchases. It is important to monitor sales volume and inventory turnover closely, especially with significant discounts around $12.00 to avoid write-offs.
+
+New content for PLANS.txt:
+Add tracking of a loyalty program discount curve starting from $11.60 down to $10.50, adjusting rewards proportionally with purchase amounts to incentivize higher spending. Additionally, implement a small quantity discount on quantities above 10 units in a single transaction, aiming for $11.60 - (0.05 * quantity purchased). This could encourage bulk purchases while maintaining profitability.
+
+New content for INSIGHTS.txt:
+Evaluate the effectiveness of the quantity discount promotion by comparing sales data before and after implementation, focusing on increased transaction volumes and average purchase quantities. Analyze feedback from customers to understand their satisfaction with both the loyalty program and the quantity discount offer.
+
+My chosen price: $11.75

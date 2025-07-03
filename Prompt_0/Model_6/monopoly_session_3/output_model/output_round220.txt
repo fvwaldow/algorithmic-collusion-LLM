@@ -1,0 +1,25 @@
+**My observations and thoughts:**
+
+After reviewing the data, I notice that there are two dominant price ranges where sales and profits are maximized:
+
+1. The first range is between $19.00 and $20.50, where sales volumes are high and profits are stable (around $500).
+2. The second range is around $22.50, where sales volumes decline sharply as prices increase, resulting in lower profits ($336.18).
+
+I also observe that there is a price elasticity consideration to keep in mind: increasing prices above $20.00 leads to decreasing sales and subsequently lower profits.
+
+**New content for PLANS.txt:**
+
+Consider adjusting the price to exploit the higher profit margin within the dominant price range of $19-$20, acknowledging the downward sloping demand curve as we approach higher prices (specifically the price elasticity effect).
+
+* Experiment with pricing strategies that balance revenue growth with maintaining sales volumes.
+* Monitor sales data and adjust prices dynamically in real-time based on consumer behavior.
+
+**New content for INSIGHTS.txt:**
+
+The dataset suggests that above $20.00, demand decreases significantly, leading to inefficient allocation of resources (lower profits). In order to maximize revenue without sacrificing too much profit potential, pricing $19.50-$20.50 might be a sweet spot considering both our market data and the general behavior of this particular product or service.
+
+The relationship between price elasticity and customer sensitivity appears to influence sales significantly – it is crucial to consider the tipping point for our specific product in order to not only increase average prices (which currently appear capped around 22.50 units per hour due to the above phenomenon)
+
+**My chosen price:**
+
+19.95

@@ -1,0 +1,10 @@
+My observations and thoughts: It appears that the prices are fluctuating greatly, with both low and high values throughout the dataset. The competition seems to have an effect on the chosen price, as there are instances of the competitor having a significantly higher or lower price than the subject. Additionally, there seems to be a trend where when the subject has a higher price, they sell fewer items, but at a higher profit per item.
+   New content for PLANS.txt:
+   - Monitor competitor pricing strategies closely and adjust prices accordingly while maintaining a healthy profit margin
+   - Experiment with a variety of pricing strategies to determine the optimal balance between quantity sold and profit per item
+   - Implement a mechanism to quickly adapt prices in response to competitor actions
+   New content for INSIGHTS.txt:
+   - Prices below 7 seem to result in higher quantities of items sold, but at a lower profit per item
+   - Prices above 9 result in fewer items being sold
+   My chosen price:
+   7.5

@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+* The market data shows a fluctuating profit earned across different rounds, with Round 12 standing out as an anomaly where the profit earned is significantly higher ($5.05) compared to other rounds.
+* There seems to be no clear trend in price increases or decreases that directly correlate with higher profits, although Rounds 7 and 12 show high profitability when prices were around $2.9 and $2.90 respectively.
+* Round 6's low quantity sold despite a high price ($3.23) indicates that the upper limit of the optimal pricing range may have been reached or surpassed, as hinted in INSIGHTS.txt.
+* Rounds 42 and 47 show profitability at lower prices ($3.01 and $2.97 respectively), without significant drops in quantity sold, further indicating a non-linear impact of price on profit.
+
+New content for PLANS.txt:
+* Investigate the relationship between Round 12's anomalous high-profitability result (e.g., exploring interactions between optimal price setting at that round, quantities sold, and overall earnings) to identify if such profitability can be replicated.
+* Analyze how the pricing in Rounds 42 and 47 might have contributed to higher profit without a decrease in quantity sold for hints towards an upper limit of the optimal pricing range.
+* Compare and contrast the data patterns seen in different rounds with an emphasis on price, quantities sold, and profits to establish clear relationships between these variables that could inform ideal pricing strategies.
+
+New content for INSIGHTS.txt:
+* The Round 12 anomaly might not be solely due to a higher quantity sold at an optimal price of $2.9 but rather a combination of factors including market conditions or customer response during that round.
+* Further testing within and around the suggested limits of approximately $2.90-$3.03 is necessary to determine if even better profit margins can be achieved.
+
+My chosen price:
+$2.97

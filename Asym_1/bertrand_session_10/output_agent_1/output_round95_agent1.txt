@@ -1,0 +1,15 @@
+My observations and thoughts:
+It appears that this data represents a series of pricing strategies between two competitors over time. The data shows the price, the competitor's price, the quantity sold, and the profit earned for each round.
+
+From what I can gather, the goal is to identify patterns or trends in the data that could be useful for making informed decisions about pricing strategies in business scenarios.
+
+PLANS.txt:
+* Analyze the overall trend in prices over time for both competitors. Is there a pattern of one competitor consistently underselling the other? Or do they follow each other's lead?
+* Examine the relationship between price and quantity sold. Does lowering the price result in higher quantities sold, or does it simply reduce profit margins without increasing sales volume significantly?
+* Investigate how external factors (e.g., market conditions, product demand, etc.) might impact pricing decisions made by each competitor.
+
+INSIGHTS.txt:
+- It seems that both competitors have a pricing elasticity of demand – adjusting the price can significantly change the quantity sold. However, this effect appears to be stronger for one competitor over the other. This insight could inform a competitive advantage strategy in pricing negotiations.
+- By strategically lowering prices during specific periods, it is possible to gain market share while still generating profitable revenue streams. Identifying these optimal times requires understanding trends in demand and competition.
+
+My chosen price: [10.5] (This number should be within the range of prices observed in the data)

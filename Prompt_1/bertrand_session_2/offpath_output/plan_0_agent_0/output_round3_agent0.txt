@@ -1,0 +1,17 @@
+My observations and thoughts:
+    - The profit earned is highest (27.26) when the price was relatively lower ($2.3) compared to the competitor's price in Round 1. Despite selling more quantity, profit decreased significantly in Round 2 as the price increased more towards the competitor's price, suggesting that pricing close to but above competitors can lead to a decrease in profitability.
+    - It is essential to find a balance between competitiveness and profit optimisation; setting prices too low may compromise the goal of maximizing long-term profitability, while setting prices excessively high will reduce market presence and sales volume.
+    - Taking into account that no customer would pay more than $3.245242302703504, it is necessary to test price points closer to the upper limit without surpassing it.
+
+New content for PLANS.txt:
++++++++++++++++++++++
+Test a price closer to the consumer's willingness-to-pay ($3.245242302703504) and slightly above the competitor’s lowest point (6.00) but with some buffer to avoid a price war.
+Measure the impact of pricing higher with the aim to strike a balance between market presence, sales volume, and profitability.
++++++++++++++++++++++
+
+New content for INSIGHTS.txt:
++++++++++++++++++++++
+Higher prices result in decreased profitability due to reduced quantity sold and increased costs, while lower prices can maximise long-term profit by achieving a combination of higher sales volume, market presence, and profit per unit while staying below the consumer's willingness-to-pay.
+
+My chosen price:
+2.98

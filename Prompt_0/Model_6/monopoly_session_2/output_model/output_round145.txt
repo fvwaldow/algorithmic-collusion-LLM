@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+* The data shows a consistent pattern of sales: whenever the price is increased by 0.01 or more, the quantity sold drops significantly.
+* There are several instances where a small decrease in price leads to an increase in quantity sold, but this effect is short-lived and followed by a decrease in sales again.
+* Rounds 48-52 show a similar trend, with prices between $4.99 and $5.04 resulting in stable sales figures, although with some fluctuations.
+* A clear maximum revenue point appears around rounds 51-53 ($5.04) and rounds 94-95 ($5.05-5.06).
+
+New content for PLANS.txt:
+
+1. Investigate the relationship between price increases and quantity sold to better understand the market behavior.
+2. Consider implementing a more systematic approach to price adjustments, rather than relying on intuition or trial-and-error.
+
+New content for INSIGHTS.txt:
+
+* It seems that prices above $5.04 and below $4.99 consistently result in lower revenue.
+* Although there is no clear-cut "sweet spot," rounds 51-53 ($5.04) show the highest overall revenue, while rounds 94-95 display an almost optimal balance of price elasticity.
+* The market's sensitivity to prices above $5.05 needs further investigation.
+
+My chosen price:
+$4.99 -> I have decided on a price that balances quantity sold and maximum revenue.

@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+The provided data shows a trend where prices above $2.95 tend to lead to lower profit margins due to decreased quantity sold. Conversely, prices closer to $3 (e.g., 50-51) demonstrate higher profit margins resulting from the quantity sold. This inverse relationship could indicate that buyers respond positively to slightly discounted prices by purchasing more units. However, attempting to price too low ($2.98-$2.99 in the latest rounds, for example) results in nearly identical or decreasing levels of revenue as those seen with higher pricing ($3 and below).
+
+It is worth examining why Round 12's $2.90 pricing resulted in a profit four times greater than neighboring rounds' profit. Although it could be due to outliers, this data suggests that buyers might find prices slightly above $2.95 (but below $3) most appealing.
+
+New content for PLANS.txt:
+
+1. Investigate the inverse relationship between price and quantity sold to identify any thresholds where increased revenue is obtained through either higher or lower pricing.
+2. Perform regression analysis using historical data up to Round 62, focusing on factors influencing profit margins including price point and quantity of units sold.
+3. Continue analysis around Round 12's $2.90 pricing, considering any changes in market conditions or other contributing factors.
+
+New content for INSIGHTS.txt:
+
+Further investigation into the relationship between decreased prices below $2.95 leading to increased revenues confirms this pattern is a viable strategy worth exploring further in future rounds of pricing.
+The consistently higher profit levels seen at lower price points ($3-$2.90) compared to the higher ones demonstrate that setting a competitive price under $3 can lead to increased revenue when combined with the observed positive reaction buyers appear to have towards these prices by acquiring larger quantities.
+
+My chosen price:
+2.95

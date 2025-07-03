@@ -1,0 +1,14 @@
+My observations and thoughts:
+It appears that we have historical data representing pricing round outcomes for a certain product. The key variables here include our own price (as the seller), the competitor's price, the quantity sold, and the profit earned on these sales. This data can give us insights into how different prices and competitor actions impact our sales and profits.
+
+Plans.txt:
+Now that we have this historical data, let's analyze it to find patterns or trends in customer behavior, especially those related to price sensitivity. This analysis will help us make informed decisions about pricing strategies.
+
+Insights.txt:
+Some initial insights from the data include:
+- Higher prices do not always result in higher profits due to changes in sales quantity
+- Competitor price changes significantly affect our sales and profits, often resulting in lost market share when they lower their prices
+- Lowering our own price can increase sales volume but may also decrease overall profit margins
+- There seems to be a relationship between customer demand and pricing, as evidenced by the spike in sales at certain price points
+
+My chosen price: <2.05> (I would suggest keeping our price just below the competitor's price to maintain market share while remaining competitive)

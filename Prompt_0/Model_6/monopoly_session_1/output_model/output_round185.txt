@@ -1,0 +1,23 @@
+My observations and thoughts:
+
+After carefully reviewing the data provided, I notice that there are several price points that have consistently yielded high profit margins (> 3.99), particularly around $2.92-$3.01. However, as prices approach or exceed $3.00, sales quantities tend to decrease significantly.
+
+The most notable anomaly is Round 122, where a price of $36.00 resulted in zero sales and a corresponding profit of $0.00. This suggests that the product may not be salable at extremely high prices, or there may have been some other issue with this particular observation.
+
+Considering these observations, it seems prudent to focus on finding an optimal price point that balances revenue potential with sales quantity.
+
+New content for PLANS.txt:
+
+* Continue to monitor and refine our hypothesis about the optimal price range ( $2.92-$3.01)
+* Investigate possible reasons for the anomaly in Round 122
+* Consider implementing a "price ladder" or incremental pricing strategy to identify any potential upper bound for prices
+
+New content for INSIGHTS.txt:
+
+* High profit margins (> 3.99) appear to be associated with price points within the range of $2.92-$3.01.
+* Prices above $3.00 tend to result in lower sales quantities and potentially lower revenue.
+* The data suggests a potential upper limit to prices, with the anomaly in Round 122 providing an extreme example.
+
+My chosen price:
+
+2.97

@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+Upon analyzing the data, I noticed that the price fluctuations are relatively small, with most prices ranging from $4.98 to $5.02. The quantity sold also remains consistent at around 85 units. There is no apparent correlation between price and quantity sold, suggesting that the optimal price has not been reached yet.
+
+I also observed that the profit is consistently around $152-154 per round, which is interesting given the fixed total revenue across rounds ($4.99 * 85 = approximately $424.15). This suggests that the optimal price could be at or below the current range of prices.
+
+New content for PLANS.txt:
+
+* Observe price and quantity sold data to track any changes
+* Consider adjusting the price incrementally (e.g., $0.01) upwards or downwards to observe profit changes
+* Evaluate if other strategies, such as promoting a bundle deal or offering discounts, could be effective
+
+
+New content for INSIGHTS.txt:
+
+* Price fluctuation and quantity sold analysis do not appear to directly impact profit
+* Optimal price range may lie within the current $4.98 to $5.02 band
+* Profit consistency across rounds suggests that optimal price has likely been reached
+
+My chosen price:
+
+$4.99

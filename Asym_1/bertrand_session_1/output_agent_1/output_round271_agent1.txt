@@ -1,0 +1,15 @@
+My observations and thoughts:
+   - The data provided consists of 185 pricing rounds with varying competitor prices and quantities sold for a product, as well as the quantity our company sold in each round. There are inconsistencies in the data, such as negative profits, zero sales, or unrealistic price points like $250 or 0.0. These seemingly erroneous data points might be due to human error or they could represent unconventional strategies used by competitors. It's also important to note the competition dynamic changes depending on our pricing strategy - for example, when setting higher prices (e.g., $250 or 19.5), we don't seem to sell any units; while setting lower prices such as $2.0 can result in high sales quantities (e.g., 26.16).
+
+   New content for PLANS.txt:
+   - Monitor the competitor's pricing strategies and try to adapt our pricing to stay competitive without compromising profit margins.
+   - Analyze sales trends based on our pricing changes to identify patterns or correlations that would help us make more informed decisions.
+   - Collaborate with market research teams to gather insights on the dynamics of the industry, including consumer preferences and willingness-to-pay for the product.
+
+   New content for INSIGHTS.txt:
+   - There appears to be a significant impact of our pricing strategy on both our profits and sales quantities. Lower prices result in higher sales while potentially reducing profit margins. Conversely, high prices, such as $250 or 19.5, seem to result in zero unit sales.
+   - Competitor pricing strategies can have an effect on consumer decisions; when we match or closely follow their pricing, we seem to experience similar sales quantities, but may not optimize our profit margins. Conversely, setting unique prices seems to affect both sales quantities and the total numbers of competitors in specific price points.
+   - Sales trends show that there is a preference among consumers for lower-priced products, as evidenced by higher quantity sales when our company lowers its price and vice versa. Further research may uncover additional consumer preferences that can inform pricing strategies.
+
+   My chosen price:
+   2.5 (this price point seems to strike a balance between maintaining decent profit margins while still being competitive in terms of attracting consumers based on the trends in the data.)

@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+Based on the provided data, I notice that there is a sharp decrease in quantity sold when the price reaches $4.99, followed by a slight increase at $5.00, and then another sharp decrease as the price increases further beyond $5.00. However, there are some instances where prices above $5.00 still result in relatively high profit earnings, such as rounds 206 and round 208-210.
+
+I also notice that the quantity sold is consistently around 85 units when prices range from $4.99 to $5.05, but it dips down to 82 units at $5.15.
+
+New content for PLANS.txt:
+
+* Investigate price elasticity: Given the observed changes in quantity sold across different price points, I would like to explore how sensitive demand is to changes in price.
+* Analyze impact of outliers: The data contains instances where prices significantly deviate from the established trend (e.g., rounds 204, 208). It might be worth examining whether these outliers have any significant effects on overall profitability or if they are mere anomalies.
+* Consider a more granular price breakdown: To better understand how quantity sold responds to small changes in price, I suggest introducing finer gradations of pricing (e.g., $4.995, $5.005) and monitoring the outcomes.
+
+New content for INSIGHTS.txt:
+
+* The optimal balance between revenue and quantity seems to be achieved at or slightly above a price point just below $5.00.
+* Above $5.00, profitability appears robust even in cases where demand isn't drastically reduced. This might indicate the product having pricing power within its current market.
+
+My chosen price:
+$4.995

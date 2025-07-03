@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+From the provided data, it's clear that varying prices have a significant impact on quantity sold and consequently, profit. Notably, higher prices (e.g., $41, $35.5) result in lower quantities sold, often leading to lower profits per unit sold, even though the total profit might be higher due to increased units sold at slightly lower prices (e.g., $34.0, $32.75). 
+
+Patterns suggest that there is an optimal price point where profit per unit and total profit are maximized. For instance, around the $33-$34 price range, there seems to be a sweet spot where the total profit is balanced between achieving a decent quantity sold and maintaining a reasonable price premium. 
+
+New content for PLANS.txt:
+```
+Continue testing the $33-$34 price range for further fine-tuning in upcoming rounds. Maintain awareness of competitor pricing, as it appears to influence buyer decisions. Consider implementing small price increments or discounts to encourage higher volumes in this optimal price region.
+```
+
+New content for INSIGHTS.txt:
+```
+Insight from round 3: Noting the trend where higher initial prices deterred quantity buyers, while slightly lower prices enticed more, reinforcing the importance of balancing price with volume to maximize total profit. Consider dynamic pricing strategies to capture value at this optimal point. Insight from round 41: Even at a seemingly low price, higher quantities sold can significantly increase total profits, suggesting that maintaining affordability might be crucial despite slimmer unit margins.
+```
+
+My chosen price:
+33

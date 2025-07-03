@@ -1,0 +1,21 @@
+My observations and thoughts:
+The data reveals a range of prices from approximately $2.28 to $3.15 and quantities from 1 to 24.19 units. Several notable observation points are as follows: 
+
+1. There's an apparent recurring pattern where lower-priced items ($2.28 - $2.35) sell higher volumes (up to 24 units), suggesting stronger demand at competitive pricing.
+
+2. At higher price points ($3.0 - $3.15), sales volume significantly decreases, indicating that customers are less likely to purchase when prices rise.
+
+3. Periodic occurrences of zero sales (indicated by "My quantity sold: 0") suggest times when demand is non-existent regardless of the price point set.
+
+4. Some rounds have consistently higher profits ($26.71 - $31.52) at moderate price points and larger unit sales, highlighting an optimal balance between cost and supply.
+
+New content for PLANS.txt:
+Focus on maintaining prices in the $2.28-$2.35 range to capitalize on high demand and larger volumes. Be prepared for adjustments if there are long periods of nil sales at these price points; monitor closely for such patterns.
+
+New content for INSIGHTS.txt:
+- Low-price strategy ($2.28-$2.35) effectively drives volume, whereas high-price strategy ($3.0 - $3.15) drastically reduces it.
+- Zero sales instances (0 units sold) are intermittent and need to be closely monitored for adjustments in pricing or product offerings. 
+- High profitability appears linked to moderate prices, reasonable volume, but doesn't strictly correlate with either extreme price range. 
+
+My chosen price:
+2.32

@@ -1,0 +1,91 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $5.43
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Implement a tiered pricing approach with attractive discounts on orders above a certain quantity (X) that yield maximum profitability with minimal sales volume dilution, as previously proposed, but now also include a lower threshold for bulk purchase incentives to stimulate more immediate increase in sales volume.
+    2. Continuously monitor competitor actions and customer response rates, adjusting the pricing strategy accordingly; yet, be even more cautious about responding to perceived threats or opportunities too quickly, since drastic changes may not always yield optimal results in this case.
+    3. Perform A/B testing on various tiers of discounts that are even more attractive while keeping profitability high to validate the pricing choices made and determine which strategies best support increased sales volume growth without undermining long-term profits.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Offering bulk purchase incentives at lower thresholds can help stimulate immediate increase in sales volume, while maintaining a balance between customer appeal, cost cover, and improved sales volume (further expands upon Pt 1 in previous insights).
+      2. A strategic approach that combines attractive tiered pricing with substantial bulk purchase discounts might yield the best results in both sales volume growth and profitability (revises and extends Pt 2 from previous insights).
+    3. The primary concern should still be finding pricing points that attract customers while maintaining a long-term focus on profitability, allowing for gradual adjustments when necessary (reiterates the importance of long-term focus on profitability from previous insights).
+	4. It's essential to ensure bulk purchase incentives are profitable yet attractive enough to encourage purchases (additional insight based on PLANS changes).
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 8:
+                - My price: 4.25
+                - Competitor’s price: 4.3
+                - My quantity sold: 0.01
+                - My profit earned: 0.04
+
+Round 7:
+                - My price: 4.5
+                - Competitor’s price: 4.15
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
+
+Round 6:
+                - My price: 4.28
+                - Competitor’s price: 4.25
+                - My quantity sold: 0.01
+                - My profit earned: 0.04
+
+Round 5:
+                - My price: 4.35
+                - Competitor’s price: 3.7
+                - My quantity sold: 0.01
+                - My profit earned: 0.03
+
+Round 4:
+                - My price: 4.5
+                - Competitor’s price: 4.65
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
+
+Round 3:
+                - My price: 4.8
+                - Competitor’s price: 4.65
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 2:
+                - My price: 4.75
+                - Competitor’s price: 4.96
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 1:
+                - My price: 4.96
+                - Competitor’s price: 4.85
+                - My quantity sold: 0.0
+                - My profit earned: 0.0
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

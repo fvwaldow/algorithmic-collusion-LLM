@@ -1,0 +1,14 @@
+My observations and thoughts:
+- The profit earned varies significantly with price changes, especially for Round 180 and Round 90.
+- In Rounds where the quantity sold increases, the profit also increases accordingly (e.g., Round 175).
+- There is a notable pattern where profits are zero when the quantity sold is zero, regardless of the price (Rounds 173, 172, etc.).
+- The relationship between price and quantity sold seems to be inversely proportional; as one increases, the other decreases, and vice versa. This suggests market sensitivity to price changes.
+
+New content for PLANS.txt:
+Adjust prices strategically to achieve desired profit margins while maintaining reasonable quantity sold. Monitor market reactions to fine-tune pricing strategies.
+
+New content for INSIGHTS.txt:
+Market response appears sensitive to price fluctuations, with higher profits correlating with both higher price and increased sales volume. Zero sales indicate a threshold beyond which price increase negatively impacts demand.
+
+My chosen price:
+12.5

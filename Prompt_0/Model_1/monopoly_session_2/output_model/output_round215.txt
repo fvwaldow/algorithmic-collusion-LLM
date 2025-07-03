@@ -1,0 +1,23 @@
+My observations and thoughts:
+The pricing strategy seems to be consistently holding a price of $10.00 while the quantity sold fluctuates slightly. There's a significant jump in profit when the price drops to $7.47, suggesting a sensitivity to price.  The recent decrease to $10.2 and a subsequent smaller quantity sold ($0.86) implies a need to re-evaluate the demand at this higher price point. It's crucial to understand why the quantity sold dropped so dramatically when the price increased; is it a temporary reaction or a more fundamental shift in customer behavior?
+
+New content for PLANS.txt:
+```
+Analyze the sales data from the last few rounds to pinpoint the precise conditions (price, quantity) that trigger the drop in sales when the price increases.  Specifically, investigate the correlation between price and quantity sold during the rounds where we saw a significant decrease in sales volume (e.g., Round 126).
+
+Develop a tiered pricing strategy – a higher price for limited quantities, and a lower price for larger quantities. This could incentivize bulk purchases while still capturing higher margins on smaller sales.
+
+Implement a promotional strategy to support the new tiered pricing. This could include offering discounts on bulk orders or highlighting the limited availability of the product at the premium price.
+```
+
+New content for INSIGHTS.txt:
+```
+Significant drop in sales volume observed at a price of $10.2, indicating price sensitivity.  The optimal price point appears to be below $10.00, though further investigation is needed to determine the exact level.
+
+The data suggests a potential demand curve - a relatively elastic portion of the curve at higher prices, which needs to be understood and managed to maximize revenue.
+
+Consider competitor pricing – are they offering similar products at lower prices?
+```
+
+My chosen price:
+9.99

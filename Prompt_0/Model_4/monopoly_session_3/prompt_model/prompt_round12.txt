@@ -1,0 +1,97 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $42.58
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+```
+Refine our subscription offerings to include a mid-tier plan at approximately $33.25 and an entry-level one at $32.75. Implement A/B testing to evaluate the effectiveness of these new tiers on customer acquisition and retention. Integrate predictive analytics models to forecast optimal discounts for promotional periods, leveraging insights from real-time market sentiment and historical sales data. Adjust pricing algorithms to swiftly respond to competitor actions within this range, maintaining a competitive edge. 
+```
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+```
+Pricing near $33.00 demonstrates a balance between maximizing profit margin and sustaining customer demand. Subscriptions provide a recurring revenue stream and enhance brand loyalty. Predictive analytics prove valuable in anticipating market shifts and maintaining optimal pricing dynamics. Monitoring competitor actions remains crucial to inform pricing strategies effectively. 
+```
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 11:
+            - My price: 33.25
+            - My quantity sold: 0.5
+            - My profit earned: 11.55
+
+Round 10:
+            - My price: 33.0
+            - My quantity sold: 0.55
+            - My profit earned: 12.62
+
+Round 9:
+            - My price: 34.0
+            - My quantity sold: 0.37
+            - My profit earned: 8.84
+
+Round 8:
+            - My price: 33.25
+            - My quantity sold: 0.5
+            - My profit earned: 11.55
+
+Round 7:
+            - My price: 33.0
+            - My quantity sold: 0.55
+            - My profit earned: 12.62
+
+Round 6:
+            - My price: 33.5
+            - My quantity sold: 0.45
+            - My profit earned: 10.57
+
+Round 5:
+            - My price: 34.0
+            - My quantity sold: 0.37
+            - My profit earned: 8.84
+
+Round 4:
+            - My price: 35.0
+            - My quantity sold: 0.25
+            - My profit earned: 6.18
+
+Round 3:
+            - My price: 32.5
+            - My quantity sold: 0.67
+            - My profit earned: 15.06
+
+Round 2:
+            - My price: 35.0
+            - My quantity sold: 0.25
+            - My profit earned: 6.18
+
+Round 1:
+            - My price: 32.5
+            - My quantity sold: 0.67
+            - My profit earned: 15.06
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

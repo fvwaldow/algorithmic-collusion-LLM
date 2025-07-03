@@ -1,0 +1,11 @@
+My observations and thoughts:
+The provided data displays a sequence of 50 pricing rounds for a business, with each round detailing the price, quantity sold, and profit earned. There are significant repetitions in certain price points (e.g., $19.5) and profit margins, indicating possibly optimal or frequently tested pricing strategies. Notably, there is a sharp drop in profit (Round 38) with a very low price ($1.25), which could signify an experiment gone wrong or a unique market strategy. Furthermore, there are instances where higher prices yield less profit per unit sold (e.g., Round 24 and 22 with $21.0), suggesting potentially different costs associated or varying market sensitivities to price changes.
+
+New content for PLANS.txt:
+Analyze the correlation between pricing, quantity sold, and resulting profits across various rounds to identify trends and patterns. Investigate the economic conditions or product-specific factors influencing these observations (e.g., increased demand at lower prices, potential cost structures). Evaluate strategies from most profitable rounds to learn if certain price points could be sustainably adopted.
+
+New content for INSIGHTS.txt:
+The data suggests that while higher prices ($21.0 and $27.0) resulted in less per-unit profit, they might still have been employed due to overall volume sold (Rounds 24, 33). There's a consistent strategy of testing the price point $19.5, which likely yields good balance between price sensitivity and profitability. The extreme loss in Round 38 ($1.25) indicates a unique test or exception rather than a typical pricing scenario, potentially used for market research or clearance sales. Further investigation is necessary to understand the cost and market dynamics that underpin these pricing decisions.
+
+My chosen price:
+21

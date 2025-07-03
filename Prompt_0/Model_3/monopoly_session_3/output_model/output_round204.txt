@@ -1,0 +1,17 @@
+Based on the provided data, here are my observations and thoughts:
+
+1. The price trend has varied with some instances of higher prices resulting in lower quantities sold (i.e., Rounds 109, 118, and 126) while at other times lowering the price resulted in increasing quantities sold (Rounds 133, 137).
+
+2. Higher profit margins have primarily been observed in rounds with higher prices (e.g., Rounds 114, 118, and 120). However, it is important to note that the quantity sold has also significantly impacted profits.
+
+3. The profit margin's volatility indicates a dynamic market where customer demand fluctuates depending on price sensitivity.
+
+Given these observations, here's what I propose for the PLANS.txt and INSIGHTS.txt:
+
+*PLANS.txt:* This file should contain strategic plans for pricing and inventory management based on the analyzed data. For example, when demand exceeds supply or vice versa, adjust pricing accordingly. It could also include recommendations for promotional strategies to increase sales in times of lower demand, like during periods of higher prices with reduced quantities sold.
+
+*INSIGHTS.txt:* This should store key insights from the market trends observed in the data. Insights might include correlating higher prices with lower quantities sold, and vice versa for lower prices and higher quantities sold. Also, it could note that profits are more dependent on quantity sold than the price itself, implying a need to monitor stock availability closely.
+
+Considering all these factors, and while keeping in mind the need to maximize both revenues and profits, I would recommend setting the price at $13.20 for the upcoming round:
+
+My chosen price: 13.20

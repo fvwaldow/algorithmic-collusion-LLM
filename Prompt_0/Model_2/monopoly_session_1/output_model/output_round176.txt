@@ -1,0 +1,11 @@
+My observations and thoughts: The data provided shows the price at which products were sold and the quantity sold for each round numbered from 100 to 80 in reverse order. It appears that there are two main prices, 2.0 and 3.0, with the former being more commonly used. It seems that increasing the product's price up to 5.0 causes a significant decrease in quantity sold, while keeping it at or below 2.5 seems to guarantee some sales but may not maximize profits. It would be interesting to explore why there are two dominant prices and understand any underlying market dynamics.
+
+New content for PLANS.txt:
+Let's continue observing the relationship between price and quantity sold, focusing on the main observed prices (2.0 and 3.0). Explore potential reasons behind these two prices being popular, such as customer preference or competition. Additionally, examine any patterns in the data that may indicate a sweet spot for profit maximization.
+
+New content for INSIGHTS.txt:
+- Two dominant price points observed (2.0 and 3.0) suggest customer preferences, competitive constraints, or a combination of both.
+- Increasing the product's price above 2.5 could significantly reduce quantity sold.
+- More sales may be possible at lower prices (below 2.5), but this may not maximize profits.
+
+My chosen price: <2.5>

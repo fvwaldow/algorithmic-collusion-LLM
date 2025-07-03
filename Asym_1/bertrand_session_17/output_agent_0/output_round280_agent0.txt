@@ -1,0 +1,11 @@
+My observations and thoughts: It appears that we have a dataset of historical pricing information across numerous rounds, with the number of items sold (quantity), price (product_price), competitor's price (competitor_price), and the total profit earned in each round (profit). The profits seem to be variable, indicating different strategies based on circumstances. However, there are a noticeable number of instances where my price could not compete with the competitor's and resulted in negative profit or no sales at all.
+
+   New content for PLANS.txt:
+   In order to generate sales and remain profitable, I need a strategy that balances competitive pricing without compromising on profit margins too heavily. It may be beneficial to analyze patterns in the data, such as identifying when my price was close or below competitor's but still resulted in sales. Additionally, considering customer demand and potential price elasticity could help inform pricing decisions.
+
+   New content for INSIGHTS.txt:
+   - There are instances where having a higher price does not necessarily guarantee lower sales (e.g., Rounds 181, 157, 142, etc.). However, on the flip side, there are also cases in which a lower price generates more sales but results in minimal profit or even negative profit (e.g., Rounds 90, 136, etc.).
+   - It may be useful to study rounds in which both my price and competitor's were relatively close (e.g., Rounds 208, 183, 144) but the sales outcomes differed significantly. This could provide valuable insights into how subtle changes in pricing can impact the number of items sold.
+   - Given the data, it appears that increasing the price to an excessive level (e.g., Round 190 with a product_price of 75.0) leads to no sales and significant loss.
+
+   My chosen price: [Let's say 32, assuming that number has been derived from analyzing patterns or other relevant factors]

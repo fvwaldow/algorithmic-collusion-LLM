@@ -1,0 +1,16 @@
+My observations and thoughts:
+The data provided shows both a negative correlation between price and quantity sold (as expected due to customers' unwillingness to pay more than 3.11), as well as a positive correlation between profit earned and quantity sold. It also seems that the optimal price for maximizing profit differs based on competition strategy.
+   New content for PLANS.txt:
+1. Perform a thorough analysis of competitor's strategies to optimally respond to their price changes.
+2. Explore segmenting customers by their willingness to pay and tailor pricing accordingly.
+3. Incorporate our historical sales data into the machine learning model.
+4. Continuously evaluate the sensitivity of quantity sold with regard to competitor's prices in order to find the optimal price equilibrium for maximizing profit.
+5. Perform simulations to estimate changes in quantities and profits under various hypothetical situations (e.g., changes in production cost, competitor pricing strategies).
+6. Investigate the impact of marketing efforts on customer perception of value and subsequent willingness to pay.
+7. Collaborate with stakeholders to determine an acceptable range for maximum price deviation while staying competitive in the market.
+   New content for INSIGHTS.txt:
+1. Competition plays a significant role in pricing strategy and profitability.
+2. Identifying customer segments that have different price sensitivities can lead to tailored pricing strategies.
+3. Simulations can provide valuable guidance when making critical pricing decisions.
+4. Marketing efforts greatly impact customer perception, thus it is essential to invest in them.
+   My chosen price: 1.65 (repeating previous price as a first step)

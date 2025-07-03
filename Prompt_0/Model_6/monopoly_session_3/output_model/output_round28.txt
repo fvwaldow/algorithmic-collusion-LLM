@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+The data shows a clear trend that higher prices lead to lower quantities sold and vice versa. This is evident from the fact that Round 21 and 19 have relatively high quantities sold at low prices of $19, while Round 6 has a low quantity sold at a much higher price of $28.
+
+There's also an observable "elastic point" around $20-$22, where demand seems to be highest. This is mentioned in INSIGHTS.txt and aligns with the optimal elastic points investigated in PLANS.txt.
+
+New content for PLANS.txt:
+
+- Investigate pricing strategies around the observed "elastic point" of $20-$22, aiming to optimize both quantity sold and revenue.
+- Compare pricing tiers based on the previous tiered pricing strategy insights in INSIGHTS.txt to further test the optimal elastic points identified.
+- Test offering discounts or promotions at prices slightly above the optimal elastic range (around $23-$24) to investigate their effects on the demand curve.
+
+New content for INSIGHTS.txt:
+
+- It appears that a price ceiling exists around $39.25, as no customer has been willing to pay more than this. This provides an absolute limit on pricing.
+- The elastic point of optimal willingness-to-pay currently observed is slightly above the production cost due to existing market dynamics.
+
+My chosen price:
+24.

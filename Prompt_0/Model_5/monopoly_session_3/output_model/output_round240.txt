@@ -1,0 +1,16 @@
+My observations and thoughts:
+The provided dataset shows a wide array of prices, quantity sold, and corresponding profit values across numerous rounds (140 to 169, with additional data for earlier rounds). There seems to be a high variability in both price points and quantities sold in different rounds. Notably, the highest and most recurring profit values appear under a selling price of around $18.0, suggesting that this could be an optimal range.
+
+Furthermore, there are minor price variations ($17.45, $17.8, $17.9, $18.0, $18.01, $18.15), with the majority clustering around $18.00 per unit. The quantity sold also varies considerably, ranging from tens to hundreds of units in different rounds.
+
+It’s evident that a price point near $18 provides relatively stable and higher profits, while deviations lower or higher tend to yield lower returns in most recorded rounds. However, without understanding constraints like market dynamics and competitor pricing not provided here, generalizing this as the 'best' choice might be premature.
+
+New content for PLANS.txt:
+Analytically, prices around $18 appear most profitable with consistent high profits in many previous rounds. However, consider external factors (market dynamics, competitor pricing) before finalizing.
+
+New content for INSIGHTS.txt:
+- Optimal price appears to cluster around $18.00, yielding maximum profit repeatedly across the dataset.
+- Deviations from this range show variability in profits, suggesting that maintaining close to $18 could be advantageous if feasible amid market competition.
+
+My chosen price:
+18

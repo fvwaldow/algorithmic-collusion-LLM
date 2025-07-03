@@ -1,0 +1,23 @@
+My observations and thoughts:
+
+Based on the market data provided, I notice that there is a significant drop-off in quantity sold when prices exceed $2.97. Additionally, I observe that prices above $3.00 result in significantly lower quantities sold, with Round 44 having the lowest quantity sold at 1.6 units.
+
+I also observe that the highest profit earned per round occurs around $2.96-$2.98, where profit is between $4.12 and $3.85 respectively. However, these prices do not necessarily result in the highest overall revenue, as Round 37 with a price of $2.95 has a higher quantity sold at 2.19 units.
+
+It's worth noting that there seems to be an optimal price range around $2.94-$2.98 where both high quantities and profit are achieved.
+
+
+New content for PLANS.txt:
+
+1. Identify the maximum price threshold above which sales drop-off significantly.
+2. Investigate a more detailed analysis of the optimal price range ($2.94-$2.98) to understand its underlying causes and potential room for further optimization.
+
+New content for INSIGHTS.txt:
+
+* Prices above $3.00 result in lower quantities sold, with significant drops-off at around 2.30 and 2.80.
+* The optimal price range for maximum revenue appears to be between $2.94-$2.98.
+* There is a possibility that further optimization may exist within the identified price range of 2.94-2.98 based on past results.
+
+
+My chosen price:
+2.97

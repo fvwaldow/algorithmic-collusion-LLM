@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+* The demand for the product appears to be highly sensitive to price changes. As prices increase, quantity sold tends to decrease, but there is also a significant drop in quantity sold when the price exceeds $5.05 (Rounds 206 and 208).
+* There are some fluctuations in profit earned around the $4.99-$5.01 price range, with occasional spikes or drops.
+* It's worth noting that Round 204 had a price of $155.03, but the quantity sold was 0, so it didn't contribute to any revenue.
+
+New content for PLANS.txt:
+
+* Further analyze the demand sensitivity around $4.99-$5.01 and see if there are any patterns or correlations with other variables (e.g., time of day, competition).
+* Investigate the outliers, such as Round 208 where the price was $5.15 but quantity sold dropped significantly.
+* Consider experimenting with prices below $4.99 to see if there's a sweet spot for sales.
+
+New content for INSIGHTS.txt:
+
+* Prices between $4.95 and $5.05 have limited impact on profit, possibly due to diminishing returns or increased competition.
+* The optimal price range appears to be between $4.99 and $5.01, but with some volatility around this area.
+* A significant drop in demand occurs when prices exceed $5.05.
+
+My chosen price:
+
+$4.95

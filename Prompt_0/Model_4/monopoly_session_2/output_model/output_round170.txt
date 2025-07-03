@@ -1,0 +1,17 @@
+My observations and thoughts:
+- There seems to be a consistent profit of $0.45 from Round 98 to Round 101 when selling 0.05 units.
+- Profit increases significantly when selling larger quantities, e.g., around 21.65 when selling 3.73 units in Round 99.
+- There are multiple instances of the same price and quantities leading to different profits (e.g., $0.45 for 0.05 units), indicating potential variations in costs or market conditions not visible from the data alone.
+- Profit jumps occur at specific unit sales, suggesting strategic pricing points might be hitting breakpoints.
+
+New content for PLANS.txt:
+Adjust price to capitalize on profit jumps at key unit sales volumes. Consider setting a target quantity of 0.10 units as it seems to align with price increments that offer relatively stable profits. Explore potential discounts for bulk purchases over 1 unit.
+
+New content for INSIGHTS.txt:
+- Consistent $0.45 profit with 0.05 units suggests a base cost or minimum margin.
+- Significant increases in profit when selling larger quantities indicate efficient handling and lower marginal costs at higher volumes.
+- Profit variability with the same unit quantity implies market sensitivity or variable operational costs affecting profitability.
+
+My chosen price:
+<just the number, nothing else>
+12.00

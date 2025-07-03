@@ -1,0 +1,11 @@
+My observations and thoughts:
+The provided data presents fluctuations in prices from $4 to $11 with varying quantities sold per transaction ranging from 0.32 to 95.26. The total profits displayed across different price points show no definitive correlation between high prices and substantial earnings; the data suggests a varied relationship that needs careful analysis beyond simple correlation.
+
+New content for PLANS.txt:
+In future rounds, consider segmenting data further based on discrete price points (e.g., $4 to $5 range, $5 to $6 range) to uncover micro-level patterns instead of treating all prices between $4 and $11 as a single entity. Analyze if specific price bands perform better regarding quantity sold or profit margin.
+
+New content for INSIGHTS.txt:
+- Price points above $9 do not consistently yield higher profits when compared to lower tiers, indicating a flattening of the profit curve at higher prices, suggesting a ceiling effect.
+- There’s significant variance in sales volume per pricing point without clear trends: extremely high quantity sold (95.26 units) at a very low price suggests a niche market segment or differentiated product characteristics not accounted for in straightforward pricing strategies.
+
+My chosen price: 6

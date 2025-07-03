@@ -1,0 +1,8 @@
+My observations and thoughts:
+   It appears that the data provided represents a series of pricing rounds for an item, with each round providing the selling price (normalized to 6 decimal places), quantity sold, and profit made. The profits range from roughly $50 to $297 per unit, with some variance in both sales quantities and profit margin.
+   PLANS.txt:
+   To optimize our pricing strategy, we should analyze the relationship between price and profit. For instance, we can calculate the average profit per round to identify patterns or potential trends. We could also visualize the data using a line graph to observe any changes in profit over time.
+   INSIGHTS.txt:
+   Interestingly, prices are quite volatile, ranging from $6.48 to $7.95. However, it seems that higher prices do not necessarily guarantee greater profits. Instead, it appears that the sweet spot for profit lies within the upper mid-range of pricing ($6.71 to $6.79), with sales quantities of around 38 units.
+   My chosen price:
+   6.75

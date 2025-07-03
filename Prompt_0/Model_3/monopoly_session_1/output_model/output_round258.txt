@@ -1,0 +1,18 @@
+After a thorough analysis of the provided data, here are my observations and thoughts:
+
+1. The most profitable price point for this item seems to be $2.50, as it consistently led to significant profit with higher quantities sold compared to when it was priced at $2.49. 
+2. Variation in price points slightly above or below $2.50 resulted in a consistent change in quantity sold and profit earned. For instance, when the price was set at $2.60, the quantity sold reduced, but the profit per unit increased (round 163). Conversely, when the price was set to $2.49, the quantity sold increased, but the profit per unit decreased (round 176).
+3. Lowering the price to $2.00 led to a considerable increase in quantity sold but resulted in zero profit due to the low cost of goods.
+4. The profit margins at prices above $2.50 weren't as high as when it was priced at $2.50, indicating that this may be an optimal balance between price and profit margin.
+
+Based on these insights, I recommend setting the price at the $2.50 mark. This price point balances volume (quantity sold) with unit profit margins to maximize overall profit, and it appears to consistently perform well across different rounds of the pricing experiment.
+
+New content for PLANS.txt: 
+- Focus on maintaining the price at $2.50 as this consistently generates significant profit while also ensuring a decent volume of sales.
+
+New content for INSIGHTS.txt: 
+- Optimal price range seems to be $2.50, as it enables a balance between unit profit margins and quantity sold.
+- Pricing slightly above or below $2.50 can lead to changes in sales volume and profit per unit.
+- Setting the price at $2.00 while increasing sales, does not yield any profit due to the low cost of goods.
+
+My chosen price: 2.5

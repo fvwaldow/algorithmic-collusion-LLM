@@ -1,0 +1,20 @@
+My observations and thoughts:
+   The data provided represents the price and quantity of a product sold across 100 rounds, with each round varying in both price and quantity. Several patterns can be observed:
+
+   1. The base price of the product appears to be around $2. The highest price recorded was $3, and the lowest was $0.2 (not visible in the provided information). This suggests a willingness by the seller to adjust their pricing based on demand.
+
+   2. Over half of the rounds, the quantity sold is constant at 35.43 or 11.92. This might indicate two stable sales points—one for lower prices and another for higher prices. However, it's also possible that these figures are artifacts of the given data and not necessarily reflective of an actual pattern in consumer behavior.
+
+   3. The profits earned, as a result of changing price but with consistent quantity sold, show a fluctuation between $40.75 (rounds 1 to 40) and $17.88 (rounds 60-100). This suggests that the higher profit margins are associated with the lower price range.
+
+   New content for PLANS.txt:
+   - Maintain a base price of $2 or slightly lower to attract a stable number of sales and consistently earn at least $40 in profits per round (as seen across rounds 1-40).
+   - Monitor fluctuations in demand and adjust pricing accordingly, aiming for the higher profit margins associated with the lower price range.
+
+   New content for INSIGHTS.txt:
+   - Initial data points suggest that a lower base price can result in both higher sales volume and increased profits.
+   - It may be worth investigating if there's a specific price point between $2 and $3 at which demand increases significantly, leading to higher profitability per round.
+   - Further analysis should look into examining longer-term trends or patterns that might not be visible in the given 100 rounds of data.
+
+   My chosen price:
+   2 (keeping the base price consistent while adjusting based on demand)

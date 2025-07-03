@@ -1,0 +1,17 @@
+Based on the given data, here's a summary of the observations and thoughts from each round along with suggested updates for PLANS.txt and INSIGHTS.txt files. Additionally, there is a recommendation on which price to choose in the next pricing round.
+
+Observations and Thoughts:
+In the provided pricing rounds, there were various price points. From round 140 onwards, prices started getting closer to 13.5 with a slight boost in profit earned (e.g., 287.18 when the price was 13.05). However, in round 143, the price went back up to 14.0 resulting in a lower profit of 366.73 compared to round 142 with a price of 13.5 and profit of 325.8.
+
+PLANS.txt:
+The updates to the PLANS.txt file should consider the following points:
+1. Experiment with prices closer to 13.5 as this has proven effective in rounds where prices varied slightly from the base price of 13.0, e.g., round 139 and round 142, resulting in higher profit earned (e.g., 287.18 and 325.8).
+ Reevaluate the pricing strategy for a better balance of quantity sold and profit made.
+
+INSIGHTS.txt:
+Updates to INSIGHTS.txt file should include:
+1. Price optimization: Prices slightly above or below the base price of 13.0, e.g., 13.5 in rounds 139, 142 and 144, seemed effective in generating higher profit while maintaining a similar quantity sold.
+ Further experimentation with other prices near this range can be considered.
+
+My chosen price:
+Based on the observations, I recommend choosing **13.5** as the price for the next pricing round because it has shown effectiveness in rounds 142 and 144 where higher profit was achieved while maintaining a similar quantity sold compared to the base prices of 13.0 (rounds 142: 325.8 & round 144: 287.11). This price point balances a satisfactory profit margin with a tolerable degree of demand satisfaction.

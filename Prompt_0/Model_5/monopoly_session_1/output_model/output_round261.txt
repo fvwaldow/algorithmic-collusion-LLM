@@ -1,0 +1,19 @@
+My observations and thoughts:
+The data reveals a pattern with prices fluctuating significantly round by round. Prices vary from as low as $2.3 to as high as $28, reflecting an unpredictable market for this product at this moment. There is no consistent pricing strategy evident in the data provided. However, several observations can be made:
+
+1. Periods of zero quantity sold (indicated by "0.0" next to 'quantity') point to instances where no sales occurred, irrespective of the price set. This suggests demand could be sensitive to pricing or possibly sporadic, warranting further investigation into market conditions during these periods.
+   
+2. Some prices ($2.5 and $2.4 repeated multiple times) might indicate a sweet spot for certain volumes. Though inconsistent data makes this difficult to confirm conclusively without more context about sales at those price points.
+
+3. High prices such as $27, $28, and particularly unsold periods might suggest either inaccurate demand estimation or that customers are price-sensitive, avoiding the high-priced segments. 
+
+4. Lower prices (below $2.5) also see inconsistent sales performance, suggesting perhaps a different market segment's preferences at these levels or broader competition.
+
+New content for PLANS.txt:
+Investigate market conditions when zero quantities were sold to understand why certain price points yielded no transactions despite variations in pricing. Explore if lower-end ($2.3-$2.4) and mid-range ($2.5-$2.6) prices draw distinct customer segments, possibly requiring targeted marketing strategies for each segment. 
+
+New content for INSIGHTS.txt:
+The market appears to be sensitive to price in both upper and lower ranges. A thorough analysis of customer behavior during non-sales periods, when prices are varied, might unveil valuable insights regarding price elasticity. Additionally, a clearer segmentation of the customer base according to their willingness to pay for this product may allow more targeted and potentially effective pricing strategies.
+
+My chosen price:
+2.4

@@ -1,0 +1,11 @@
+My observations and thoughts:
+The dataset consists of two columns: price (competitor's price) and quantity_sold (my quantity sold). The competitor's price fluctuates, but it is generally higher than my current price. Despite this, the number of units I sell is consistently higher than the competitor except in Rounds 100-104 where their price decreased significantly. When pricing lower, there seems to be an increase in quantity sold compared to when pricing at parity or higher. Additionally, there are instances where lowering the price slightly leads to increased sales as opposed to matching the competitor's price.
+
+New content for PLANS.txt:
+Explore pricing strategies that balance competitiveness while maintaining profitability. Analyze the sales pattern during rounds when lower prices led to a significant increase in quantity sold. Consider introducing promotional discounts or volume-based pricing when sales decline, to stimulate demand and match the competitor's low prices without losing profit margin.
+
+New content for INSIGHTS.txt:
+Lowering our price creates a competitive advantage as our higher quantity_sold outperforms the competitor and maintains profitability most of the time. It also suggests that our customer base is sensitive to pricing, willing to purchase more when offered a lower price. This finding can be further validated by analyzing the sales data in more detail and examining potential external factors that influence demand.
+
+My chosen price:
+2.14 (I would aim for a slight decrease, as it appears the competitor's price is vulnerable around this level based on previous rounds' performance.)

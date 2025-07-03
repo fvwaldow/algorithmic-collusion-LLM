@@ -1,0 +1,17 @@
+My observations and thoughts:
+    - In this dataset, the price of the product ranges from 2.08 to 2.5, with the majority of prices being around 2.13 to 2.25. The quantity sold varies greatly and is affected by the price, with higher quantities being sold at lower prices and fewer quantities being sold at higher prices.
+    - There seems to be a correlation between price and quantity sold; however, it is not linear. For example, a decrease in price from 2.39 to 2.15 results in an increase of quantity by more than half. On the other hand, a decrease from 2.2 to 2.13 doesn't seem to have as significant of an effect on the quantity sold.
+    - There are also outliers in the dataset such as Round 2 where the price was higher (2.49) but the quantity sold was significantly less than other rounds with similar or lower prices. Additionally, there is Round 30 where the price was lower (2.21) but the quantity sold was still relatively high.
+    - It appears that the market may be more sensitive to price changes at certain price points and less so at others. It would be interesting to analyze this further to determine if these observations hold true over a larger dataset or if they are specific to this particular product.
+
+New content for PLANS.txt:
+  1. Analyze the correlation between price and quantity sold more closely, both within this dataset and possibly a larger dataset.
+  2. Explore the idea that the market may be more sensitive to price changes at certain price points and less so at others. If possible, develop a method forpredicting these sensitive price points.
+  3. Investigate the factors contributing to outliers in the dataset, such as Round 2 and Round 30, to better understand their impact on overall pricing strategy.
+
+New content for INSIGHTS.txt:
+  - The correlation between price and quantity sold is not always linear in this dataset, with higher price changes at certain points having a bigger impact than others.
+  - The market may be more sensitive to price changes at specific price points and less so at other points. This observation needs further analysis to determine if it holds true across different datasets.
+  - Outliers in the data, such as Round 2 and Round 30, need to be investigated to better understand their impact on overall pricing strategy.
+
+My chosen price: 2.15

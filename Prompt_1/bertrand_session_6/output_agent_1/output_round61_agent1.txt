@@ -1,0 +1,12 @@
+My observations and thoughts: In this dataset, we observe a competition between two providers, where one consistently maintains a higher price but often has a larger quantity sold. The gap in price can be as large as 1.74 (Round 6), while the lowest quantity sold is at Round 10 when both competitors match their prices exactly.
+
+   New content for PLANS.txt:
+   Maintain a competitive pricing strategy, yet keep a slightly higher price than our competitor to maintain profitability. Monitor market responses and adjust accordingly.
+
+   New content for INSIGHTS.txt:
+   - Our high-price strategy seems to have some success in attracting customers (e.g., Round 17 when we charged 1.52 while our competitor was at 1.38).
+   - Matching the competitor's price can work if they set a much lower price, such as in Rounds 10 and 13-14 (where competing on price helped us obtain a larger customer base; however, this may reduce our profitability).
+   - It appears that a significant price difference could drive customers away (for example, Round 2 where we charged an unusually high price compared to the competitor), which should be avoided.
+
+My chosen price:
+1.4

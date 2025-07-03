@@ -1,0 +1,17 @@
+My observations and thoughts:
+ The dataset presents a game where two competitors are setting prices for a product in 128 rounds. Each round's data includes the current price each competitor is charging, the quantity sold, and the profit earned.
+
+Initially, we see both competitors starting at high prices with low sales volumes and profits. Over time, as the competing prices decrease, we notice an increase in sales volumes leading to higher profits for both competitors. However, there seems to be little consistency regarding who sets a better price or when. We also observe that sometimes both competitors change their prices simultaneously, suggesting potential communication between them or similar information sources.
+
+Some rounds appear to have unusual data points such as zero sales or very high prices. These could be outliers resulting from errors, market changes, or strategic decisions like promotions or discounts.
+
+One interesting trend to note is that in several instances competitor A sells more than competitor B despite charging a higher price in the same round. This might suggest either that their product has stronger perceived value, better marketing, or simply a larger customer base willing to pay a premium.
+
+New content for PLANS.txt:
+ Based on the observed trends and inconsistencies, it would be wise to continue analyzing sales volumes, profits, and price differentials between competitors. Consider investigating factors such as market segments, promotions, discounts, or unique value propositions that may set one competitor apart from the other. Monitor price changes and identify patterns to anticipate potential future moves by either competitor.
+
+New content for INSIGHTS.txt:
+ - There is a relationship between pricing strategy and sales volumes; lower prices tend to lead to more sales, but this isn't guaranteed as there are situations where higher prices result in stronger sales due to perceived product value or other market factors.
+ - Observe potential patterns in price changes and anticipate the competitors' future moves based on historic data. Be prepared for unpredictable shifts in pricing strategies as the game unfolds.
+ - Competitor B appears to have some market advantage as they consistently sell more at a lower price point compared to competitor A, suggesting stronger brand affinity or a better-aligned product target audience.
+My chosen price: 3.67 (this number represents an average price point that considers both competitors' prices and their respective sales volumes)

@@ -1,0 +1,17 @@
+My observations and thoughts:
+    - The current profit-maximizing price is $6.0, but it results in a lower quantity sold compared to higher prices such as $7.35 (Round 9). However, the profits earned at this high price are also not as great (profit of $115.19) as they were at the profit-maximizing price.
+    - The market seems sensitive to significant price increases as seen in Rounds 2 and 3 where the quantity sold dropped significantly when prices were increased from $7.0 to $9.5 and $10.5 respectively.
+    - It's important to keep an eye on the competitor's prices as lowering our prices compared to theirs seems to attract more customers (Rounds 6, 4).
+    - There appears to be a demand for prices between $7.0 and $8.0, and it might be worth exploring this price range further to find an optimal balance between profitability and quantity sold.
+
+New content for PLANS.txt:
+- Further investigate the pricing range between $7.0 and $8.0 to find an optimal balance between profitability and quantity sold.
+  - Test competitive pricing strategies more rigorously by closely monitoring competitor price adjustments and responding flexibly.
+  - Refine machine learning models to account for demand elasticity and optimize profits based on market reactions.
+
+New content for INSIGHTS.txt:
+- Market demand appears sensitive to prices above $7.0 but still results in a considerable profit at the current $6.0 price point, despite lower quantity sold.
+  - Market shows greater responsiveness when our prices are closer to competitor’s prices.
+
+My chosen price:
+7.5

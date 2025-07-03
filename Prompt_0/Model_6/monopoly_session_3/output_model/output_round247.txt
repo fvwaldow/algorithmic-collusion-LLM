@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+* The data suggests that there is a consistent pattern of highest profit earned at $20.0 per quantity sold of 50.0 units.
+* There are multiple instances where the chosen price was $20.99 or higher, but these resulted in lower profits compared to when the price was set at $20.0.
+* Pricing above $20.0 may result in some customers being priced out, as evident from sales data for Round 161 (price of $21.0) and Round 173 (price of $22.5).
+* Sales data also indicates that pricing below $20.0 can lead to higher profits if the quantity sold increases substantially, as seen in Rounds 150 ($18.75) and 152-154.
+* However, consistently high sales at lower prices ($19.9 or above) do not seem to increase profit maximally.
+* Overall, stability seems to be key in maximizing profit.
+
+New content for PLANS.txt:
+
+* Analyze the relationship between price and quantity sold for Rounds 150-158
+* Evaluate whether moving away from $20.0 as the chosen price may impact profit
+
+New content for INSIGHTS.txt:
+
+* Confirm that the optimal pricing strategy appears to be maintaining prices of around $20.00, given the consistent high profits across numerous rounds.
+* Include a note to be cautious when deviating from established effective pricing.
+
+My chosen price: $20

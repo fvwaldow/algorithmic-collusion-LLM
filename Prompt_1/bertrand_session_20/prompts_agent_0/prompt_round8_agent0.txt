@@ -1,0 +1,168 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $46.4
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Continue observing market trends and adjust prices based on competition, demand patterns, and customer behaviors, focusing on smaller incremental changes to test price sensitivity using dynamic pricing.
+     - Implement machine learning algorithms to analyze and predict the optimal price point for maximum profit.
+     - Monitor competitor strategies to determine their response to price increases and adjust accordingly.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Dynamic pricing can help maximize profits by capturing customer demand when it is high, while keeping prices competitive with the market.
+     - Fine-tuning dynamic pricing strategies over time by analyzing market data and adjusting incrementally can lead to significant long-term profit growth.
+     - The ideal balance between competitor prices, customer sensitivity, and profit potential must be found to ensure successful long-term pricing strategies.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 7:
+
+
+
+                - My price: 30.5
+
+
+
+                - Competitor’s price: 29.5
+
+
+
+                - My quantity sold: 1.45
+
+
+
+                - My profit earned: 29.63
+
+Round 6:
+
+
+
+                - My price: 29.5
+
+
+
+                - Competitor’s price: 32.5
+
+
+
+                - My quantity sold: 2.17
+
+
+
+                - My profit earned: 42.39
+
+Round 5:
+
+
+
+                - My price: 32.0
+
+
+
+                - Competitor’s price: 30.5
+
+
+
+                - My quantity sold: 0.8
+
+
+
+                - My profit earned: 17.69
+
+Round 4:
+
+
+
+                - My price: 31.0
+
+
+
+                - Competitor’s price: 30.5
+
+
+
+                - My quantity sold: 1.2
+
+
+
+                - My profit earned: 25.1
+
+Round 3:
+
+
+
+                - My price: 31.0
+
+
+
+                - Competitor’s price: 31.0
+
+
+
+                - My quantity sold: 1.2
+
+
+
+                - My profit earned: 25.16
+
+Round 2:
+
+
+
+                - My price: 33.0
+
+
+
+                - Competitor’s price: 35.0
+
+
+
+                - My quantity sold: 0.55
+
+
+
+                - My profit earned: 12.59
+
+Round 1:
+
+
+
+                - My price: 30.0
+
+
+
+                - Competitor’s price: 45.0
+
+
+
+                - My quantity sold: 1.8
+
+
+
+                - My profit earned: 35.97
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

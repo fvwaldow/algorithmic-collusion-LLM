@@ -1,0 +1,60 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $5.09
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Test pricing strategies such as dynamic pricing or adaptive competitor tracking to adjust my price in real-time based on market conditions and competitor actions.
+- Conduct customer surveys or focus groups to gather more information about their price sensitivity and perceived value of my product.
+- Experiment with various discounts or promotions tailored for specific demographics or purchasing patterns to stimulate demand.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Adaptive pricing strategies can help optimize profits by reacting quickly to changes in demand and competition.
+   - Customer feedback is crucial in understanding the true value they place on our products, helping us set competitive and profitable prices.
+   - Experimenting with targeted discounts or promotions can expand our customer base while still maintaining profitability.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 3:
+                - My price: 4.5
+                - Competitor’s price: 3.99
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
+
+Round 2:
+                - My price: 4.9
+                - Competitor’s price: 4.5
+                - My quantity sold: 0.0
+                - My profit earned: 0.0
+
+Round 1:
+                - My price: 4.99
+                - Competitor’s price: 5.09
+                - My quantity sold: 0.0
+                - My profit earned: 0.0
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

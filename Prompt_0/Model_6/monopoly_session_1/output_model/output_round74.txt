@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+The data shows a general trend of decreasing profit as we increase the price above $2.95. The optimal sweet spot seems to be around this price point. However, there are some fluctuations in both sales quantity and profit margin as we move up or down from this point.
+
+I notice that in Round 42, when the price was set to $3.01, the quantity sold was lower than at $2.97-$2.99 prices, but the profit earned was still around $3.48. This suggests that there might be a small window of opportunity for slight increases above the optimal sweet spot.
+
+However, given the data, it seems that significant price increases will lead to decreased profit margins due to lower sold quantities.
+
+I also observe that there is relatively little variation in sales quantity over recent rounds, suggesting that demand may have stabilized around this optimal sweet spot.
+
+New content for PLANS.txt:
+1. Test a new upper bound on prices closer to $3.48 to confirm the existence of an upper limit on profits.
+2. Continue monitoring and analyzing how small price increases around the optimal sweet spot impact sales volume over time.
+ 
+New content for INSIGHTS.txt:
+
+Further insights into pricing strategies suggest that profit maximization may be best achieved by staying close to the optimal sweet spot, perhaps with occasional slight testing of incremental prices slightly above or below this value.
+
+My chosen price:
+2.99

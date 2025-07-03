@@ -1,0 +1,19 @@
+My observations and thoughts:
+    Upon analyzing the given data, it appears that finding an optimal price requires balancing profitability with sales volume. The trend shows that prices close to the competitor’s price lead to increased sales and higher profits; however, there are instances where deviating slightly from the competitor’s price can yield beneficial results (such as Round 18 and some of the earlier rounds). It also seems like prices above $3.05 are not attractive enough for customers in this market segment and may lead to reduced sales volume (e.g., Rounds 4-12).
+
+    Additionally, the data highlights the sensitivity of both sales volumes and profits to pricing changes—a lower price can mean reduced profit per unit but higher overall sales and more significant revenue, while a higher price maintains higher profit margins per unit but may potentially lead to reduced sales. It is essential to account for competition, customer price sensitivity, and the impact of pricing on both sales volumes and profits when devising a strategic approach.
+
+    This data set seems large enough to attempt advanced pricing strategies such as statistical analysis or machine learning algorithms; however, since this agent was designed with simplicity in mind, I will stick to applying well-known pricing theories for now.
+
+   New content for PLANS.txt:
+    1. Investigate statistical analysis or machine learning techniques to optimize real-time pricing decisions based on collected market data;
+      2. Conduct experiments by incrementally varying the price around competitor’s pricing, monitoring changes in sales volume and profitability;
+     3. Create a rule of thumb for choosing an initial price given competitor’s price, historic sales volume, and average profit per unit.
+
+   New content for INSIGHTS.txt:
+    1. A dynamic pricing strategy may improve results if adjusted based on real-time data analysis;
+      2. Sales volume plays a crucial role in determining the optimal price - too high could limit overall profits, while too low may result in insufficient sales;
+     3. The competitive price landscape should be carefully considered when determining optimal prices as striking a balance between profitability and sales is essential.
+
+   My chosen price:
+    2.9 (This price point lies near the competitor’s price but not identical, which seems to maximize both sales volume and profit in past data, given customer sensitivity to pricing in this market segment.)

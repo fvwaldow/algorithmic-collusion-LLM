@@ -1,0 +1,17 @@
+Observations from the given data:
+1. The price has fluctuated consistently between 2.0 and 2.69, with the most common price point being 2.5 or around that value.
+2. Total profit earned is significantly higher when the price is set at a higher rate (2.5 - 2.69) compared to when it's lower (1.0).
+3. Quantity sold and thus total revenue decreases as the price increases above 2.5, indicating potential for lost sales if prices become too high.
+4. There is some demand at a higher price point of 2.69, evidenced by the quantity sold in some rounds.
+
+Content for PLANS.txt:
+1. Regularly review and analyze market trends to adjust pricing accordingly.
+2. Test different price points in the range of 2.0 to 2.69 to find the optimal balance between profit margin and quantity sold.
+3. Continuously monitor sales performance, revenue figures, and customer behavior to inform further pricing decisions.
+
+Content for INSIGHTS.txt:
+1. Higher price points result in more profit, but less quantity sold, indicating a higher price sensitivity among customers.
+2. The optimal price zone appears to be between 2.5 and 2.69, balancing profit margin and number of transactions.
+3. Keeping an eye on market trends will ensure the business remains competitive and responds to customer needs appropriately.
+
+My chosen price: Considering the above analysis, my recommended starting price would be 2.5. This balance point between price and quantity sold has generally resulted in profitable rounds (Round 70, for instance) that have both maintained a reasonable profit margin and allowed for a considerable quantity of transactions without sacrificing significant demand as we saw when the price was lowered to 1.0 in Round 90.

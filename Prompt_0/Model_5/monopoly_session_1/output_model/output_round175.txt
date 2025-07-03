@@ -1,0 +1,11 @@
+My observations and thoughts:
+The data shows that prices have fluctuated significantly over the rounds, ranging from $2.28 to $31.0 (although this extreme value seems an outlier). The highest profit was obtained in multiple rounds with a price of $2.45 or $2.3 resulting in profits around 21-22 units. Generally, prices below $2.4 seem to yield good profits. There is no uniform trend indicating that the optimal pricing may vary depending on the quantity sold. 
+
+New content for PLANS.txt:
+Considering the observed pattern that lower prices often correspond to higher profits when decent quantities are sold, we should begin with slightly lower than average prices and adjust based on outcomes. It might be beneficial to conduct a few trials around $2.35-$2.4 range to compare profitability. We should also monitor the outlier at $31.0 to confirm if it's an erroneous data point before dismissing extreme pricing strategies entirely.
+
+New content for INSIGHTS.txt:
+The insights suggest that quantity sold appears to have a significant impact on profits alongside price. Higher quantities (16.8 and upwards) tend to support higher profits around $23.52 when paired with moderate prices ($2.4). Lower but consistent sales (around 11-12 units) also deliver good profits at lower prices ($2.3-$2.4). There is a strong indication of an atypical high-profit data point that needs validation—whether it's genuine or an anomaly influencing averages disproportionately.
+
+My chosen price:
+2.35

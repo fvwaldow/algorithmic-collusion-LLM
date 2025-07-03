@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+* There is a high level of variance in profit earned across different price points, with some prices resulting in very low or even zero profit (e.g. Round 122).
+* The data suggests that there may be an upper limit to the profit that can be achieved at any given price point, as seen in Rounds where profit decreases despite higher prices (e.g. Round 148 and 137).
+* The most profitable prices seem to cluster around $2.92 - $3.00, with multiple rounds showing high profits within this range.
+* There is a large spike in profit in Round 110 at price $2.92, which may be worth investigating further.
+
+New content for PLANS.txt:
+
+* Investigate the relationship between price and profit to understand what drives profitability
+* Focus on testing prices around the upper limit of the profitable cluster ($2.90 - $3.00)
+* Consider revisiting lower-priced rounds (e.g. Round 110) to verify if they provide sustainable profit
+
+New content for INSIGHTS.txt:
+
+* Higher prices do not always result in higher profits; optimal pricing strategy may depend on the product and market
+* Identifying an upper limit to profitability, beyond which further price increases are detrimental to earnings
+* Pricing around $2.92-$3.00 seems to be effective, but requires further testing to confirm
+
+My chosen price:
+$2.94

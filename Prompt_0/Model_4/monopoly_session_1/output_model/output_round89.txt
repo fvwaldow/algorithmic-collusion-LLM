@@ -1,0 +1,15 @@
+My observations and thoughts:
+
+The data shows fluctuations in both price and quantity sold, with a clear pattern of adjusting prices to optimize profit per unit (ProfitEarned divided by Quantity Sold). There's sensitivity to price changes, as evident from the variations in profit earned across different price points. For instance, Price=19.0 resulted in a higher profit than Price=18.0, but Profit is lower than Price; this indicates diminishing returns as price increases. 
+
+Prices seem to be strategically adjusted based on previous rounds' outcomes, aiming for maximum profit per unit sold. The profit seems to peak and then decline or stabilize around certain price points, reflecting the marginal utility principle in pricing strategy. 
+
+New content for PLANS.txt:
+Adding to PLANS.txt, I suggest we aim for a price point that consistently yields a near-maximal profit per unit while maintaining a relatively high quantity sold. We need to balance optimizing unit profits with maximizing total units sold to ensure overall business sustainability and profitability.
+
+New content for INSIGHTS.txt:
+In recent rounds, adjusting from Price=2.9 to Price=2.4 significantly affected our quantity sold and profit. We observed that increasing the price from P2.0 to P2.4 led to a higher profit, but further increases beyond P2.4 (like going to P2.57, P2.45, etc.) didn't lead to proportional profit gains despite maintaining quantity. This indicates that our target audience might be sensitive to price changes, suggesting a need for strategic pricing that balances demand and supply. Moreover, observing previous rounds' data reveals that profits did not always align directly with price increments, suggesting strategic pricing beyond simple cost recoupment.
+
+My chosen price: 2.45
+
+I hope this approach helps in refining our pricing strategy to maximize profitability while maintaining market share.

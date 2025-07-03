@@ -1,0 +1,11 @@
+My observations and thoughts: It appears that the given data represents a series of pricing rounds for a certain product, with an initial high price ($9.5) that dropped significantly with each round as the competition's price increased slightly. The number of units sold also decreased drastically from round 1 to several subsequent rounds. There seems to be a trend of higher prices resulting in lower sales, and lower prices occasionally leading to more sales (except for round 10 where a low price led to a significant increase in quantity sold).
+
+   New content for PLANS.txt:
+   In each pricing round, we should consider carefully the competition's price and our own price in relation to the expected sales quantity to maximize profit. If the competition increases their price while keeping similar quality, it may be an opportunity to raise ours slightly without too much impact on sales. However, if sales are declining rapidly with a higher price, it might be better to adjust downwards in response to the market changes and maintain or increase our share of the market.
+
+   New content for INSIGHTS.txt:
+   - Lower prices tend to lead to higher quantities sold but profits per unit may decrease (rounds 9-10)
+   - Higher prices do not necessarily guarantee more sales, especially when faced with stronger competition (rounds 7-8)
+   - The sweet spot between price and quantity sold seems to be around $6.25 – $6.95 based on the data provided (majority of instances where sales were higher than average occurred in these price ranges).
+
+   My chosen price: $6.95 (rounds like 3, 4, 6, 13 and 25 show this to be an effective mid-point for maximizing profit)

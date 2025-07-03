@@ -1,0 +1,12 @@
+My observations and thoughts: The market is price sensitive as observed from the sales data, with a significant drop when my prices are too high (Round 14, Round 13) or close to competitor's high price (Rounds 2-4, 6, 7, 9). However, there are situations where a higher price still yields profit (Rounds 12, 35). The competitor seems to have a slightly lower price range, which could be exploited. The sales volume seems to be maximized when the price is moderately high but not too close to the competitor's price.
+
+   New content for PLANS.txt:
+   1. Implement dynamic pricing strategy focusing on adjusting my price relative to the competitor’s, with a concentration on finding an optimal price near the customer’s maximum willingness to pay without significantly exceeding it.
+       - Investigate various methods for estimating the customer's maximum willingness to pay based on sales volume and competitor pricing.
+   2. Assess the long-term impact of short-term price adjustments on sales volume and profitability in varying market conditions using historical data.
+
+   New content for INSIGHTS.txt:
+   - Dynamic pricing allows us to capitalize on both customer sensitivity and competitor strategies.
+   - Balancing between competitor actions and the customer's maximum willingness to pay is crucial for maximizing profit in the long run.
+
+   My chosen price: 15.0 (This price lies in the middle of our observed range, balances my price with the competitor, while still keeping within the customer's maximum willingness to pay)

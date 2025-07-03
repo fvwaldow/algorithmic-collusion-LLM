@@ -1,0 +1,14 @@
+My observations and thoughts:
+  The data indicates that a price between $2.05 - $2.16 has the highest profit margins since no customer would pay more than $4.36. However, there seems to be a higher volume of sales when I price at $2.15 compared to other prices within this range. It's essential to study seasonal trends and adjust pricing strategies accordingly for maximal long-term profits.
+
+New content for PLANS.txt:
+   1. Continue testing prices in the 2.05 - 2.16 range while monitoring any potential fluctuations based on seasonal trends.
+         	* Conduct a more precise sensitivity analysis by evaluating smaller increments (e.g., 0.001) and observe if significant changes have minimal impact on profit margins.
+        	* Collaborate with data scientists to incorporate machine learning strategies, aiming at minimizing market fluctuations' effects on sales and profits over time.
+
+New content for INSIGHTS.txt:
+   1. Pricing within the range of $2.05 - $2.16 yields the highest profit margins compared to other tested prices in the given data.
+         	* Consistently observing seasonal trends will allow us to adjust pricing strategies effectively, ensuring optimal long-term profits.
+        	* Implementing machine learning techniques can help mitigate any potential market fluctuations on sales and profits by predicting customer behavior and adapting our pricing strategy accordingly.
+
+My chosen price: 2.15

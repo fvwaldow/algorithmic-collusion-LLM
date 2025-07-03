@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+* The data indicates a significant drop-off in quantity sold once prices exceed $22. This is consistent with the ceiling effect observed earlier (as documented in INSIGHTS.txt).
+* There appears to be a sweet spot around $19-$20, where quantity sold is high and profit earned is also maximized (e.g., Rounds 55, 57, 59-61). 
+* The optimal price range below the ceiling effect should be explored further (as mentioned in PLANS.txt).
+
+New content for PLANS.txt:
+
+1. Implement tiered pricing strategies that offer discounts to certain customers based on their behavior or loyalty, while maintaining a balance between profit margin and quantity sold.
+
+2. Explore prices within the optimal range of $19-$20 to determine the highest price that yields the maximum profit.
+3. Further analyze customer demand trends above the ceiling effect to identify any patterns and potential areas for future experimentation (e.g., examining data from Rounds 8, 9, and other outliers).
+
+New content for INSIGHTS.txt:
+
+1. Confirm previous insight: The optimal price range below the ceiling effect appears to be $19-$20.
+2. Investigate possibilities of tiered pricing structures that may be beneficial if high-value customers are correctly identified.
+
+My chosen price:
+$19.50
+
+Based on these new observations and thoughts, this moderate price increase above the baseline of $20 is a suitable balance between profit margin and quantity sold, while being mindful of trends in customer demand.

@@ -1,0 +1,15 @@
+My observations and thoughts: Based on the provided data and existing insights, it is clear that adjusting the price dynamically while keeping an eye on competitors' prices is crucial to maximize profit. The data suggests that a higher price results in fewer sales but higher profits per unit sold (except for Round 1 where the price was too high for any significant sales). A lower price leads to more units sold, but with reduced profit per unit. Therefore, it is essential to find an optimal price balance between maximizing sales and profitability.
+
+   New content for PLANS.txt:
+    4. Implement a hybrid approach that combines dynamic pricing strategies based on historical data, considering competitor's dynamics, and A/B testing to find the optimal price range within the sweet spot where we can maximize both sales and long-term profitability.
+         a. Incorporate price elasticity calculations into machine learning algorithms for more precise predictions.
+      b. Continuously monitor competitor pricing and sales trends, and adjust the pricing strategy accordingly.
+         c. Frequently review data and refine pricing strategies based on market insights.
+
+   New content for INSIGHTS.txt:
+    4. Hybrid pricing strategies are effective in navigating competitive markets by blending dynamic pricing considerations with A/B testing techniques, ultimately maximizing both sales and profitability.
+         a. Price elasticity calculations increase the precision of machine learning algorithms.
+      b. Competitor monitoring is essential in dynamic pricing strategies to remain competitive.
+         c. Data-driven refinement allows for constant optimization of pricing strategy.
+
+   My chosen price: 20 (rounded down from previous prices tested)

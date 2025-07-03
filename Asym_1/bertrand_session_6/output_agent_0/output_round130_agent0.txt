@@ -1,0 +1,11 @@
+My observations and thoughts: It seems that we are in a competition where we can set the price of our product. The competitor's prices vary greatly, ranging from as low as 2.0 to as high as 3.91. However, there is also a wide range for our product's prices, starting at 2.5 and reaching up to 4.1.
+
+   From the data provided, we can see that there are several rounds where our competitors have a significantly higher price and yet sell smaller quantities (e.g., Round 38 where they sold 0.13 units with a price of 3.86). This suggests that their high prices might be discouraging potential customers. On the other hand, in some rounds, we see that the competitor offers lower prices but still manages to sell more units compared to us (e.g., Round 57 where they sold 6.34 units with a price of 2.5).
+
+   It appears that our product might be sensitive to changes in price, as seen from the correlation between price and quantity sold in several rounds. For example, in Round 40, dropping our price from 3.65 to 3.0 results in selling no units (compared to selling 0.26 units when priced at a higher value).
+
+   Plans.txt: To optimize sales, we should focus on pricing strategies that take into account the sensitivity of our product to price changes as well as competitor's pricing and product offerings. We might want to conduct further research, such as A/B testing or customer surveys, to gain a better understanding of our customers' preferences regarding price and quantity bought.
+
+   Insights.txt: By observing the competitor's sales across multiple rounds and comparing them with our own, we can draw insights into pricing strategies that might be effective for maximizing sales volume. For example, in some cases, offering a lower price seems to attract more customers, but there are also instances where a higher price results in better sales (likely due to the perceived quality of the product at that price).
+
+   My chosen price: I recommend we experiment with setting our price close to the competitor's average price without going too high or too low. A possible starting point could be around 3.0, but further adjustments should be made based on the results observed in future rounds.

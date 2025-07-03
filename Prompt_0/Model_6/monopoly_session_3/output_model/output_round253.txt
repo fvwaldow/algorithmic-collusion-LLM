@@ -1,0 +1,25 @@
+Based on the provided information, here is my response:
+
+**My observations and thoughts:**
+
+After carefully reading through the data, I've observed that there seems to be a pattern in the prices and quantities sold. Specifically, when the price goes above $20-$21, the quantity sold tends to decrease significantly. Below $19-$20, the quantity sold appears to remain relatively consistent at around 50 units.
+
+Additionally, I noticed that there are some outliers in the data, such as Round 171 where the price was $22.5 and the quantity sold was only 26.89 units, or Rounds 194 and 180 where the prices were very high ($199 and $21) but no sales occurred.
+
+I believe these observations could be valuable for refining the pricing strategy to balance revenue and customer demand.
+
+**New content for PLANS.txt:**
+
+* Analyze how raising/lowering prices above/below a certain threshold (around $20-$21) affects quantity sold.
+* Investigate the impact of having large price outliers (e.g., Rounds 171, 194) on overall sales and revenue.
+* Consider implementing a pricing strategy that targets demand curves to maximize revenue.
+
+**New content for INSIGHTS.txt:**
+
+* A target price range of $19-$21 seems to be optimal in generating consistent sales.
+* Having large price outliers can harm sales; smaller price adjustments may result in better outcomes.
+* It's essential to monitor and adjust prices regularly to ensure they align with market demand.
+
+**My chosen price:**
+
+$20.50

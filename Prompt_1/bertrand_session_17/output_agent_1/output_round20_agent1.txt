@@ -1,0 +1,11 @@
+My observations and thoughts: The data shows that while lower prices lead to more units being sold (e.g., price 10.5, quantity sold 84.2), higher prices lead to a larger profit margin overall (price 15.0, profit earned 421.9). However, it seems that setting the price too high can significantly reduce the number of units sold with only minor increases in profit (e.g., price 29.31, quantity sold 1.73). Taking advantage of relatively low market elasticity is beneficial for maximizing long-term profitability as shown by the results from Round 12. It would seem reasonable to employ a dynamic pricing strategy based on customer responses and market conditions while maintaining a price higher than the current production cost (1$).
+
+   New content for PLANS.txt:
+    - Implement a dynamic pricing strategy that adapts in real-time, taking into account customer response, market fluctuations, and competitor reactions. Machine learning techniques will be used to create predictive models based on gathered sales data with the aim of optimizing both short-term volume and long-term profit maximization.
+
+   New content for INSIGHTS.txt:
+    - The higher the price set, the more significant the incremental increase in revenue without an oversaturated drop in quantity sold. However, it is crucial to keep in mind the market sensitivity when setting prices. This will ensure optimal results in terms of maximizing long-term profitability by taking advantage of relatively low elasticity.
+
+   My chosen price: 12.5
+
+   Explanation for the chosen price: The chosen price of 12.5 is a reasonable compromise between volume and profit, taking into account the market's sensitivity to price changes. This is also informed by the insights from previous pricing rounds (e.g., Round 12, which showed higher profit with a slightly increased price). A dynamic pricing strategy can then be employed to further optimize its impact on long-term profitability while keeping competitor’s reactions and changing market conditions in mind.

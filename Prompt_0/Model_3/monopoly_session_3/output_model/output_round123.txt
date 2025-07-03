@@ -1,0 +1,27 @@
+Your task requires data analysis and decision-making based on the information provided. Here's how you can approach this:
+
+Step 1: Analyzing Data
+You should first understand the pattern of your quantity sold and profit earned in each round. For example, in the given data, we see that:
+
+- The price ranged from as low as 13 to as high as 26.5 per unit.
+- The quantity sold varied between 6.91 and 94.27 units per round.
+- Profit earned also varied, with the lowest (-$178.8) indicating a loss and the highest being $307.11.
+
+We also notice that there are some rounds where the price led to an increase in quantity sold (e.g., Rounds 51-53), and others where a higher price had no positive effect on the quantity sold (Rounds 44, 46).
+
+Step 2: Identifying Trends
+Try to identify trends from the past data to predict future performance. For instance, from Round 39 to Round 50, when the price was between $13 and $13.15 per unit, the quantity sold ranged from 93.82 to 94.16 units each round, leading to profits earned in the range of $291.55-$287.18.
+Xamarin's price of $13.05 and quantity sold of 94.16 in Round 34 seems optimal. We can try changing it slightly to observe the reaction in sales and profit.
+
+Step 3: Decision Making
+Based on your analysis, decide a suitable price for the next round. For example, we could decide to keep the price at $13.05 (given its relatively stable performance) or slightly adjust it to see if there's an improvement in quantity sold and profit earned. The aim should be to get the best possible mix of high prices (for higher profit potential) and sufficient volumes (to sell enough units), balancing between these variables effectively.
+ further actions:
+
+New content for PLANS.txt: 
+Given the trend, we could test a price in the range $13.00-$13.20. We will maintain our quantity sold goal at, or near, the 94 units/round mark. The choice should be optimized taking into account if this price point aligns with market trends and competitor prices, while maintaining a robust sales volume.
+
+New content for INSIGHTS.txt: 
+Keep detailed insights about each round's performance. Observe patterns like the correlation between quantity sold and price, average sale price over time, days of high/low sales, etc. Insights can help in predictive modeling, product differentiation strategies, marketing timing, customer behavior analysis, etc.
+
+My chosen price: 
+Starting with a price of approximately $13.05 would be appropriate considering its previous positive outcomes and maintaining the market trend. Consider testing it during periods of high demand or potential seasonal sales upticks to maximize profitability. However, remember that the decision also depends on factors like competition, product uniqueness, branding strategy, among others.

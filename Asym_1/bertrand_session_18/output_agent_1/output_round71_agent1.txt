@@ -1,0 +1,16 @@
+My observations and thoughts:
+   In this dataset, we see numerous instances where the gap between our price and the competitor's is a factor in determining sales volume. For example, when our price was lower than the competitor (round 12), we sold more units, but with a loss due to low profit margins. Conversely, when our price was higher (round 5 for instance), although it led to lower sales volume, the profit per unit was significantly higher.
+   The pricing strategy seems to have undergone a drastic change from round 1 to round 2, where we priced our product extremely low compared to the competition, resulting in substantial losses. The following rounds indicate an incremental increase in price until round 7 when there was a significant jump to a higher price range. From round 8 onwards, it appears that the pricing strategy is trying to find a balance between profit and sales volume.
+
+   New content for PLANS.txt:
+   - Analyze the impact of different price ranges on sales volume and profit
+   - Establish a pricing strategy that considers both profit margins and market competition
+   - Continuously monitor and adjust pricing as needed based on sales data and competitor actions
+
+   New content for INSIGHTS.txt:
+   - Increasing the price can lead to lower sales volume but higher profit margins
+   - Setting the price too low, as seen in round 2, can result in massive losses
+   - Striking a balance between profit and sales volume is crucial for long-term success
+   - It's essential to keep track of competitor prices to remain competitive
+
+   My chosen price: 30.0 (This price point had moderate sales volume paired with reasonable profit margins in several instances throughout the dataset)

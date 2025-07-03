@@ -1,0 +1,18 @@
+My observations and thoughts:
+The data reflects a pattern of varying prices throughout different rounds with notable fluctuations. Prices have ranged from as low as $2.29 to as high as $31 (27.0). A significant volume is observed in the mid-price ranges, especially around $2.3 - $2.4, with quantities up to 23.15 and 16.8 units sold in some rounds respectively. 
+
+Some key insights include:
+- There’s a commonality of price jumps after periods when no sales occurred (e.g., after "My price: 23.51 ... My profit earned: 0.0" rounds). This might indicate an attempt to recuperate losses or possibly react to market volatility.
+- Periodic spikes in prices coincide with quantities sold, suggesting aggressive pricing strategies when there's a demand.
+- The repeated use of the price $27 around Round 88 and 95 indicates perhaps a competitive or target price point.
+
+New content for PLANS.txt:
+Given these observations, I suggest adopting a dynamic pricing model that accounts for recent sales data. Monitor market trends closely and adjust accordingly, particularly avoid overly aggressive hikes without confirming demand (as seen from $27.0 periods with 0 units sold).
+
+New content for INSIGHTS.txt:
+Keep an eye on volumes corresponding to specific price ranges for understanding market sensitivity. The mid-$2 range consistently shows notable quantity sales, implying it could sustain or even boost overall profit margins. Regularly review cycles where no sales occur to reassess and possibly adjust prices to initiate transactions during future droughts.
+
+My chosen price:
+2.35 
+
+This choice balances a competitive entry point while deviating from the most frequently used $2.3 range to experiment with margin potential, keeping strategic alignment with observed successful mid-priced sales volume observations.

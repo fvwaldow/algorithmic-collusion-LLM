@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+* The data suggests that there is a strong negative relationship between price and quantity sold. As the price increases, the quantity sold decreases significantly.
+* There are two distinct segments in the data: one where the quantity sold remains high (around 2.00-2.20) and another where it drops to lower values (1.00-1.90). This suggests that there may be two types of customers with different demand curves.
+* The highest profit earned is $5.05, which occurs at a price of $2.66 (Round 74 and Round 78) but also at higher prices ($3.01 in Round 42).
+* There is no clear peak or optimal price that maximizes profit.
+
+New content for PLANS.txt:
+
+1. **Analyze the two distinct segments**: Investigate the underlying characteristics of these two groups to determine if they can be differentiated based on demographics, needs, or behaviors.
+2. **Non-linear demand curve**: Explore alternative pricing strategies that account for non-linearities in demand, such as price elasticity or segmenting prices based on customer preferences.
+
+New content for INSIGHTS.txt:
+
+1. The optimal price is not a linear function of revenue and unit cost but depends significantly on quantity sold.
+2. Diversifying the product portfolio to cater to the needs of both segments may enhance profit margins by increasing unit revenues without sacrificing market share unnecessarily due to unprofitable business.
+
+My chosen price:
+$2.97

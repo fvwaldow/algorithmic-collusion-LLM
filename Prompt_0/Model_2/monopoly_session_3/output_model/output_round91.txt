@@ -1,0 +1,7 @@
+My observations and thoughts: The data shows a pattern of fluctuating price points throughout the trading rounds, with the highest price point starting at 28.0 in round 1 and reaching its lowest point in round 3 at 24.0. In round 4, it stabilized at 24.0 but started to decrease again from round 5 onward, dropping significantly by round 6 at 24.5, where it stayed almost unchanged until round 7 and then dropped again in round 8. The number of units sold appears to be positively correlated with lower prices, suggesting a pricing strategy that prioritizes quantity over maximizing profit per unit.
+
+   New content for PLANS.txt: Consider implementing a dynamic pricing strategy that takes advantage of the observed positive relationship between price and quantity sold. This could involve setting a slightly higher base price initially but making adjustments based on market demand and competitor prices.
+
+   New content for INSIGHTS.txt: The data suggests that potential customers are more responsive to lower prices, as evidenced by the higher quantities sold at lower price points. However, it is crucial to strike a balance between maximizing sales quantity and maintaining profitability per unit. A dynamic pricing strategy could help achieve this goal while responding to market demand effectively.
+
+   My chosen price: 24.5 (This price was taken from the latest stable price in round 7)

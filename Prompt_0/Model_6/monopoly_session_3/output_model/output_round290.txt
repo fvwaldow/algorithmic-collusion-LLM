@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+- The data provided spans many rounds of pricing, with a wide range of prices tested. However, there seems to be a notable trend around $20 being both the highest price point reached without immediate negative results and also a cap on profit after surpassing some other profit markers.
+- There is significant fluctuation in quantities sold at different price points, but generally, the quantity sold either stays steady or trends significantly higher at lower price points and drops as price increases.
+- There is evidence that prices around $19-$21 are highly profitable, with a notable exception of an extremely short period where $20.99 seemed marginally less successful than other days priced around this area.
+
+New content for PLANS.txt:
+
+To understand the optimal pricing strategy further, I propose we:
+1) Calculate the revenue elasticity across various price points to see at which point revenues start decreasing most sharply.
+2) Identify any notable outliers in sales and profitability that might hint at factors other than price influencing sales.
+3) Investigate the relationship between the tested prices and profit margins to see if higher priced items have different margins or more efficiency.
+
+New content for INSIGHTS.txt:
+
+1. $20 seems to be a tipping point for maximum profit potential, as it offers high quantities bought while still being within what buyers are willing to pay (unlike exceeding this mark).
+2. Lower price points seem to lead to higher quantity sales but lower-profit margins.
+3. There is no clear indication of demand elasticity based on provided data alone, suggesting we should not over-rely on any trend established from the current dataset.
+
+My chosen price:
+20

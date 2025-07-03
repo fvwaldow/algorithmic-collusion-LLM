@@ -1,0 +1,23 @@
+**My observations and thoughts:**
+
+After carefully reviewing the data from 120 pricing rounds, I notice several trends:
+
+* The average profit per unit has been relatively stable at ≈ $5.00 (500 - $0.95), with most deviations occurring due to changes in price.
+* The quantity sold often fluctuates but rarely drops below 40-50 units.
+* There are instances where prices that appear similar ($19.xx, $20.xx) result in different sales quantities and profit outcomes.
+
+Given these observations:
+
+**New content for PLANS.txt:**
+
+1. **Price Elasticity and Quantity Sensitivity:** Investigate and model the relationship between price changes and accompanying quantity sold fluctuations.
+2. **Optimal Price Range Identification**: Re-examine pricing ranges ( $19 to $21) to pinpoint a narrow price band that maximizes average profit per unit.
+
+**New content for INSIGHTS.txt:**
+
+1. Consistency is key in maximizing profit; attempting drastically different prices (e.g., around Rounds 121 - 123, and some fluctuations in Round numbers 97 to 108) often yields underwhelming results.
+2. **Price Setting and Quantity Interplay:** Understand better the influence of price on sales quantity, acknowledging slight differences in behavior within various groups related to optimal price levels ($19.xx, $20.xx).
+
+**My chosen price:**
+
+$199

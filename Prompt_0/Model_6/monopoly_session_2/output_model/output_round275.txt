@@ -1,0 +1,19 @@
+My observations and thoughts:
+After analyzing the data, I noticed that there is a significant drop-off in sales at prices above $5.05, with Round 204 having zero quantity sold when the price was set at $155.03. This suggests that the optimal price for maximizing profit is below $5.05. Additionally, the sales quantities seem to be relatively stable between $4.99 and $5.04, indicating a flat region in the demand curve.
+
+New content for PLANS.txt:
+Given this analysis, I propose conducting further experiments within the range of $4.95 to $5.04 to better understand the demand curve's behavior within this interval.
+
+1. Continue experimenting with prices slightly below and above the current price to gather more data.
+2. Monitor sales quantities closely to identify any sudden changes or trends in demand.
+3. Consider increasing the number of observations at each price point to reduce statistical noise.
+
+New content for INSIGHTS.txt:
+Key insights so far have been:
+
+* The existence of a "price ceiling" at around $5.05, where sales drop off significantly.
+* A flat region in the demand curve between $4.99 and $5.04.
+* No observations of significant downward sloping segments of the demand curve within this dataset.
+
+My chosen price:
+$4.95

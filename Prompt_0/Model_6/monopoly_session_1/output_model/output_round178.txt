@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+Based on the provided market data, I notice a significant trend where prices above $2.95 start to decline in terms of quantity sold, while prices below $2.92 seem to have inconsistent results. This suggests that the optimal price might lie between these two values.
+
+I also observe that around 80-90 rounds ago, there was a period where the price seemed to be steadily declining until it reached a plateau at $2.95-$3.00. However, since then, there has been a oscillation in prices without any clear trend.
+
+Given this information, I will refine possible price options and consider their implications on quantity sold.
+
+New content for PLANS.txt:
+
+* Investigate the possibility of using a pricing strategy that takes into account the quantity sold at different price points.
+* Consider introducing a 'sweet spot' range for prices (e.g., between $2.92-$2.97) where optimal quantity sold can be expected.
+
+New content for INSIGHTS.txt:
+
+* Optimal pricing might lie in the 'sweet spot' range of around $2.92-$2.97 based on historical trends.
+* Higher-than-optimal prices ($> 3, $>$2.99) seem to deter sales.
+* There's a possibility that lower prices (but not too low, e.g., below $2.92) could lead to higher profit earned per unit.
+
+My chosen price:
+
+2.97

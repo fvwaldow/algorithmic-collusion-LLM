@@ -1,0 +1,11 @@
+My observations and thoughts:
+The given data represents the results of various pricing strategies employed by a seller over time. It appears that lowering the price can increase the total number of units sold (as in Round 124 where the lowest price was set at 1.00, resulting in 12.15 units sold), but this doesn't necessarily mean higher profit. For instance, in Round 114 where the price dropped to 1.00, the total profit earned was only $5.95. On the other hand, maintaining a competitive yet slightly above-average price such as the seller did in many rounds (for example, selling at $1.50 for 45.95 units in Round 107) can lead to higher profits in the long run.
+
+   New content for PLANS.txt:
+The optimal pricing strategy appears to be maintaining competitive prices that are slightly above-average, allowing for steady sales and consistent profit over time. It is crucial to keep an eye on competitor's prices and react accordingly by adjusting our own pricing. We should also consider implementing promotions or discounts strategically, such as in circumstances where our stock is high (e.g., Round 127 when the price was set at $1.25 and 69.8 units were sold).
+
+   New content for INSIGHTS.txt:
+Pricing plays a crucial role in the success of our sales, impacting both the number of units sold and overall profit. Lowering prices too much can result in lower overall profit (example: Round 114), while maintaining competitive yet slightly above-average prices leads to steady growth over time (example: most pricing rounds listed). Our sales volume tends to drop substantially when our competitor's price is significantly lower (e.g., Round 105 where our price was $1.30 and the competitor sold 65.42 units at $1.49). Further investigation into consumer behavior may yield insights on their sensitivity to pricing changes, helping us develop even more effective strategies.
+
+   My chosen price: (The chosen price should be a number based on your observations from the given data and the recommendations in the PLANS.txt content you filled out)
+1.49

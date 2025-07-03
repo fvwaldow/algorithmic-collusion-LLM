@@ -1,0 +1,85 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $13.34
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1a. Continue testing a price point close to the competitor's, with incremental adjustments to find the optimal balance between customer appeal and profitability (slightly above the current competitor’s price).
+         2. Monitor price elasticity by assessing the effect of slight adjustments in price on sales quantities and profits in future rounds.
+         3. Explore potential bundle pricing options with complementary products to create additional value and increase average order value for long-term profit enhancement.
+         4. Collaborate cross-functionally with marketing & market research teams to gather customer feedback on perceived product value and identify opportunities for price optimization.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1a. A slight price differentiation strategy may help create perceived value and appeal while adhering to the customer's upper payment limit.
+                2. Bundle pricing can be a useful tool to increase average order values and capture additional profits in specific market conditions.
+                3. Collaborative efforts across teams, especially marketing & market research, can provide valuable insights into customer preferences and behavior, ultimately informing pricing strategy optimization.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 7:
+                - My price: 12.0
+                - Competitor’s price: 9.5
+                - My quantity sold: 0.06
+                - My profit earned: 0.57
+
+Round 6:
+                - My price: 10.99
+                - Competitor’s price: 8.95
+                - My quantity sold: 0.18
+                - My profit earned: 1.37
+
+Round 5:
+                - My price: 12.0
+                - Competitor’s price: 9.0
+                - My quantity sold: 0.05
+                - My profit earned: 0.45
+
+Round 4:
+                - My price: 9.99
+                - Competitor’s price: 8.99
+                - My quantity sold: 0.62
+                - My profit earned: 4.24
+
+Round 3:
+                - My price: 13.34
+                - Competitor’s price: 8.94
+                - My quantity sold: 0.01
+                - My profit earned: 0.09
+
+Round 2:
+                - My price: 12.99
+                - Competitor’s price: 8.99
+                - My quantity sold: 0.01
+                - My profit earned: 0.14
+
+Round 1:
+                - My price: 9.99
+                - Competitor’s price: 10.0
+                - My quantity sold: 0.91
+                - My profit earned: 6.19
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

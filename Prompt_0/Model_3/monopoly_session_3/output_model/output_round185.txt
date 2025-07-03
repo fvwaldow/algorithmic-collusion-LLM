@@ -1,0 +1,16 @@
+1. Observations and thoughts:
+From the provided data, it's evident that the highest profit earned is 537.97, which was achieved at a price of 17.0 with a quantity sold of 76.85 in Round 89. The second highest profit is 366.73, which was achieved twice: at a price of 14.0 in Rounds 100 and 104, and sold quantities were 91.68 respectively. Lowering the price tends to result in higher quantities sold but lower individual profits per sale, while raising the price significantly increases profit per sale but substantially reduces quantity sold. This trend will need to be considered when choosing the optimal pricing strategy.
+
+2. New content for PLANS.txt:
+In future pricing rounds, focus on maintaining a balance between price and quantity by following these strategies:
+   - Keep experimenting with different prices within the range of 13-17, as this seems to yield the most significant profits.
+   - Consider testing lower prices again, focusing on quantities sold to improve the overall profit margin.
+   - Monitor the competition, consumer demand, and market conditions closely to adjust pricing accordingly.
+
+3. New content for INSIGHTS.txt:
+Key insights from the given data include:
+   - A price range of 13-17 provides a good balance between quantity sold and profit earned, which contributes significantly to overall earnings.
+   - The demand is relatively stable when maintaining a moderate price point (around $14 per unit).
+    
+4. My chosen price:
+Based on the above observations and insights, I choose 14 as my price for future pricing rounds because it results in a significant quantity sold (91.68) while also generating substantial profit (366.73) per round, reflecting a harmonious balance between demand volume and revenue generation.

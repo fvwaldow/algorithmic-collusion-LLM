@@ -1,0 +1,145 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $13.34
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Continue experimenting with competitor-aligned prices ($9.79 - $10.39) while closely monitoring sales volume, market share impact, and profit margin changes in future pricing strategies adjustments.
+   - Analyze competitors' price adjustments and take advantage of opportunities to price lower without compromising profit margins.
+   - Continue targeting customer segments with promotional offers and discounts to stimulate demand while maintaining long-term product differentiation.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Competitor tracking is essential for adapting pricing strategies in response to changing competitive landscapes to maintain or improve profitability and market share.
+   - Lower prices within a competitive range may be effective in capturing more customers without undermining long-term profitability goals.
+2. Promotional offers, discounts, and targeted marketing efforts are crucial tools for enticing trial purchases from the target customer base while focusing on long-term product differentiation.
+   - The pricing strategy must strike a balance between immediate sales volume growth and sustained profit margins.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 17:
+                - My price: 10.39
+                - Competitor’s price: 9.1
+                - My quantity sold: 0.4
+                - My profit earned: 2.9
+
+Round 16:
+                - My price: 9.79
+                - Competitor’s price: 12.0
+                - My quantity sold: 1.4
+                - My profit earned: 9.22
+
+Round 15:
+                - My price: 9.79
+                - Competitor’s price: 12.0
+                - My quantity sold: 1.4
+                - My profit earned: 9.22
+
+Round 14:
+                - My price: 9.99
+                - Competitor’s price: 10.39
+                - My quantity sold: 0.98
+                - My profit earned: 6.65
+
+Round 13:
+                - My price: 10.49
+                - Competitor’s price: 10.75
+                - My quantity sold: 0.55
+                - My profit earned: 4.01
+
+Round 12:
+                - My price: 10.19
+                - Competitor’s price: 12.0
+                - My quantity sold: 0.85
+                - My profit earned: 5.96
+
+Round 11:
+                - My price: 10.49
+                - Competitor’s price: 10.45
+                - My quantity sold: 0.53
+                - My profit earned: 3.87
+
+Round 10:
+                - My price: 10.59
+                - Competitor’s price: 11.29
+                - My quantity sold: 0.51
+                - My profit earned: 3.74
+
+Round 9:
+                - My price: 10.99
+                - Competitor’s price: 12.34
+                - My quantity sold: 0.32
+                - My profit earned: 2.47
+
+Round 8:
+                - My price: 10.49
+                - Competitor’s price: 12.0
+                - My quantity sold: 0.59
+                - My profit earned: 4.29
+
+Round 7:
+                - My price: 12.0
+                - Competitor’s price: 9.5
+                - My quantity sold: 0.06
+                - My profit earned: 0.57
+
+Round 6:
+                - My price: 10.99
+                - Competitor’s price: 8.95
+                - My quantity sold: 0.18
+                - My profit earned: 1.37
+
+Round 5:
+                - My price: 12.0
+                - Competitor’s price: 9.0
+                - My quantity sold: 0.05
+                - My profit earned: 0.45
+
+Round 4:
+                - My price: 9.99
+                - Competitor’s price: 8.99
+                - My quantity sold: 0.62
+                - My profit earned: 4.24
+
+Round 3:
+                - My price: 13.34
+                - Competitor’s price: 8.94
+                - My quantity sold: 0.01
+                - My profit earned: 0.09
+
+Round 2:
+                - My price: 12.99
+                - Competitor’s price: 8.99
+                - My quantity sold: 0.01
+                - My profit earned: 0.14
+
+Round 1:
+                - My price: 9.99
+                - Competitor’s price: 10.0
+                - My quantity sold: 0.91
+                - My profit earned: 6.19
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

@@ -1,0 +1,13 @@
+My observations and thoughts: There seems to be a slight increase in quantity sold and profit earned when the price is set above $23 but below $24, as shown in Rounds 19-21 and Rounds 25-27. However, when the price exceeds $24, the quantity sold decreases significantly, resulting in a lower profit (Rounds 28 onwards). The optimal price range appears to be between approximately $23 - $24.5, and A/B testing within this range could help determine the ideal price point. Seasonality should also be considered with further data analysis as profitable pricing strategies may vary depending on different times of the year.
+
+New content for PLANS.txt:
+1. Perform A/B testing on prices in the range of $23 - $24.5 after considering seasonality trends.
+2. Analyze the impact of sales volume on profit differences at various price points within this range.
+3. Collaborate with market analysts and data scientists to incorporate real-time adaptive price adjustments based on customer demand and external factors such as economic conditions or competitor pricing.
+
+New content for INSIGHTS.txt:
+1. Adjust the optimal price point within the $23 - $24.5 range, focusing on maximizing profit while maintaining stable sales volumes.
+2. Investigate seasonality trends and their impact on the most profitable pricing strategies at different times throughout the year.
+3. Incorporate real-time adaptive pricing adjustments with advanced analytics for greater marginal profit opportunities.
+
+My chosen price: 23.75

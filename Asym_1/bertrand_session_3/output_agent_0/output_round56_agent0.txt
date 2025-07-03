@@ -1,0 +1,15 @@
+My observations and thoughts:
+   The data shows that when my price is close or equal to the competitor's price, I generally sell more units (with some exceptions) and earn a reasonable profit. However, significantly higher prices (above 3.00) lead to fewer sales and lower profits. It appears there's a delicate balance between volume and profit that needs to be achieved for an optimal pricing strategy.
+
+   New content for PLANS.txt:
+   - Experiment with machine learning models to create a dynamic pricing strategy, taking into account the competitor’s price, sales data, market trends, and customer preferences. These predictions should help us find the sweet spot between volume and profit.
+   - Analyze the relationship between price levels and sales volumes more granularly to identify patterns that could guide future pricing decisions.
+   - Perform frequent A/B testing on different pricing strategies on a small subset of customers to validate the predictions made by our machine learning models and gain confidence in their accuracy.
+
+   New content for INSIGHTS.txt:
+   - Keeping prices close to, but not exceeding, the competitor's price tends to result in more sales and a reasonable profit margin. A higher price can lead to fewer sales despite generating higher revenue per sale.
+   - It is crucial to constantly analyze data to identify trends and patterns that may impact our pricing strategy's effectiveness.
+   - Utilizing machine learning models can aid in predicting the optimal price based on various factors like competition, market trends, and customer preferences.
+
+   My chosen price:
+   2.85

@@ -1,0 +1,21 @@
+My observations and thoughts:
+   Reviewing the data provided, I see that the volume of units sold increases when prices are lower, especially when they're closer to the competitor's price (from Rounds 30-35). However, higher profits are achieved in some cases where the price is set slightly higher than the competitor, such as in Round 22. This indicates that a balance between competitor pricing and customer willingness-to-pay must be maintained to maximize both sales volume and profitability.
+
+   New content for PLANS.txt:
+      1. Develop machine learning algorithms capable of predicting optimal selling prices based on historical data, real-time market trends, and competitor strategies in Round 36 and subsequent rounds.
+         a. Train the algorithm on the existing market data to predict the price range that maximizes total profit.
+         b. Incorporate feedback on pricing strategy performance, adjusting predictions as needed based on observed impacts.
+
+      2. Create a pricing strategy algorithm that dynamically adjusts prices in real-time during Round 36 and beyond based on:
+          a. The predicted optimal price range derived from machine learning algorithms.
+          b. Market trends and competitor actions to maintain competitiveness while maximizing profitability.
+          c. Long-term profit optimization goals, ensuring that the chosen price always prioritizes the maximization of profit over short-term gains.
+
+   New content for INSIGHTS.txt:
+      - The balance between competitor pricing and customer willingness-to-pay is essential to optimize both sales volume and profitability.
+          a. Lowering prices can result in increased sales volumes, while maintaining a price close to the competitor's may yield higher profits.
+          b. Setting an overly high price can lead to low sales volumes and lower total profit.
+      - The market is sensitive to large price increases, as shown by the significant drop in units sold from Rounds 12-15 when prices were substantially increased. It's important to find a suitable balance between competitor pricing and customer willingness-to-pay.
+
+   My chosen price:
+   6.98 - Since this price is close, yet slightly higher than the competitor’s current price (as observed in Rounds 30-35), it should maintain competitiveness while maximizing profitability based on the existing market data and insights derived.

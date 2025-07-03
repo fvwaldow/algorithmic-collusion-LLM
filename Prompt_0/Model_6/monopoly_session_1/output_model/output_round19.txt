@@ -1,0 +1,23 @@
+My observations and thoughts:
+
+Based on the market data provided, it appears that there is a relationship between price and profit earned. Rounds 12 and 7 stand out as having high profit earnings ($5.05) when the price was set at $2.90 or slightly above, but with lower quantities sold (2.66 units). This contrasts with later rounds where prices were increased to $2.98-$3.00, resulting in higher quantities sold but lower profit earnings.
+
+I notice that Rounds 6 and 5 had very high price points ($3.23 and $3.20) but very low quantity sold, resulting in minimal profits. Additionally, Rounds 4 and 3 also had relatively low profit earnings despite moderate-to-high prices ($3.10-$3.20).
+
+Insights from previous discussions suggest that the optimal price range is around $2.97-$2.99, where both stable sales and high profits are achieved.
+
+New content for PLANS.txt:
+
+1. Conduct a more detailed analysis of Round 12 data to understand the relationship between high profit earnings and lower quantity sold.
+2. Identify how close we can get to the optimal price point without sacrificing significant profits (e.g., experimenting with $2.985 or $2.995).
+3. Investigate whether introducing slight variations in pricing strategies around $2.97-$2.99 affects sales or profits, such as testing $2.975 vs $2.992.
+4. Test prices above the optimal range to see if there is a tipping point where increasing price significantly impacts quantity sold and/or profit earnings.
+
+New content for INSIGHTS.txt:
+
+* The data strengthens the importance of finding that optimal price range (~$2.97-$2.99), where both stable sales and high profits are achieved.
+* Round 7 highlights the potential benefits of setting a slightly lower price ($2.90) to achieve higher profit earnings, despite a similar quantity sold compared to later rounds.
+* Further investigation is needed around the optimal price range (e.g., testing $2.985 or $2.995) and its relationship with both sales and profits.
+
+My chosen price:
+$2.97

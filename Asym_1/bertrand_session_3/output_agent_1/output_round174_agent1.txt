@@ -1,0 +1,17 @@
+My observations and thoughts:
+The data provided represents a series of pricing rounds between two competitors. The quantities sold for each price point vary, with some prices yielding more sales than others. It seems that the competitive landscape is somewhat volatile as both parties adjust their prices up and down throughout the rounds.
+
+PLANS.txt:
+1. Observe the patterns in customer behavior regarding price sensitivity across various intervals of price fluctuation. This can help determine the optimal pricing range that maximizes sales while still maintaining a reasonable margin.
+2. Analyze the competition's adjusted pricing strategies to predict how they may respond to our chosen prices in the future, taking into account their past behavior presented in the data.
+3. Utilize statistical analysis and machine learning techniques to identify the relationship between price and quantity sold, if any, to further inform pricing decisions.
+4. Continuously monitor market trends and consumer preferences to ensure that our pricing remains competitive and aligned with customer expectations.
+
+INSIGHTS.txt:
+1. It appears that consumers may be more sensitive to price fluctuations in the lower price range (< $3), as demonstrated by higher sales volume at these prices compared to the higher price range (> $3). However, it's important to maintain a profitable margin.
+2. Competitor A seems to have a slight advantage in higher price ranges, while there is more of a balance in sales between us and competitor B in lower price ranges.
+3. There appears to be a correlation between increasing the price and decreasing sales volume, but more robust analysis is needed for further confirmation and understanding the strength of this relationship.
+4. The market appears to have considerable volatility as both competitors seem to adjust their pricing strategies frequently in response to each other. It will be essential to remain adaptive and responsive to keep pace with these changes.
+
+My chosen price:
+2.85 (This price point appears to attract a reasonable quantity of sales while maintaining a competitive edge over the lower priced alternatives.)

@@ -1,0 +1,7 @@
+My observations and thoughts: The data provided shows a variety of prices for the product throughout the rounds, ranging from 1 to 32.0. It's interesting to note that there seems to be an initial tendency to set higher prices (27.0 - 32.0) which did not yield high profits due to low quantities sold (less than 4). Then, strategies shifted towards lowering the price to increase sales volume (e.g., 26.0, 26.5, and some as low as 1.0), resulting in moderate profit levels (~30 - 90). The exception was Round 117 where a price of 1.0 led to an enormous loss due to high sales volume.
+
+   New content for PLANS.txt: In future pricing rounds, we should focus on finding a balance between price and quantity sold. Consider setting prices slightly lower (25.0 - 26.0) to attract more customers while maintaining reasonable profit margins. Testing multiple price points in smaller increments can help us find the optimal selling price.
+
+   New content for INSIGHTS.txt: The data suggests that consumers may be less willing or able to purchase products at prices above 28.0. Conversely, the market appears more receptive to lower prices (26.0 - 26.5) with a noticeable increase in sales volume and moderate profit levels. It is essential to avoid extremely low prices (1.0), as they can result in significant losses when high quantities are sold.
+
+   My chosen price: 25.8 (trying to find a balance between profit and quantity sold by slightly lower than the average of previous rounds)

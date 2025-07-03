@@ -1,0 +1,13 @@
+My observations and thoughts: The data shows that the price varies greatly from 1.25 to 5.0 with a median of approximately 2.14. The quantity sold also varies, but it seems that at around 2.15, there is a significant drop in quantities sold (35.43), whereas when the price drops slightly to 2.14, the quantity increases dramatically (from 36.35 to 95.26 at 1.25). This suggests that the optimal price might be around 2.14 but lowering it slightly could lead to an increase in sales.
+
+   New content for PLANS.txt:
+   - Maintain a price of around 2.14 to optimize sales quantity.
+   - Keep monitoring the effect of lowering prices (slightly below 2.14) on sales quantity.
+   - Analyze other factors that could influence demand and adjust pricing accordingly, such as seasonality or competition.
+
+   New content for INSIGHTS.txt:
+   - A lower price seems to drive an increase in sales (e.g., from 36.35 to 95.26 at 1.25).
+   - The median price is around 2.14, and it may be a reasonable starting point for pricing decisions if targeting the middle of the market is beneficial to profit maximization.
+   - Further investigation is required into other factors that may affect demand and the optimal pricing strategy for long-term success.
+
+My chosen price: 2.14

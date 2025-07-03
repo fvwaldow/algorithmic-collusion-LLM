@@ -1,0 +1,14 @@
+My observations and thoughts: It appears that in this dataset, we have a sequence of pricing rounds, each round consisting of the price set by our competitor and us, along with the number of items sold at each price and the profit earned. The dataset also shows instances where the competitor raises their price significantly. Additionally, it seems that there are periods where our competitor does not adjust their price (e.g., Rounds 69 to 85, 136 to 147), while we seem to change our price more frequently. Another observation is that there are instances where the pricing of our product drops close to or even below our cost, which seems unsustainable. Lastly, it is interesting to note that the quantity sold increases when we lower our price significantly (e.g., Rounds 60, 138).
+
+   New content for PLANS.txt:
+   - Monitor competitor's pricing strategy and adjust ours accordingly
+   - Identify periods where adjusting the price may boost sales
+   - Continuously review costs and profits to ensure sustainability
+
+   New content for INSIGHTS.txt:
+   - Competitor tends to increase their price significantly at times
+   - Our flexibility in adjusting the price seems essential for maximizing sales
+   - Low pricing levels may be unsustainable given our costs, but could boost short-term sales
+   - Important to keep a close eye on our competitor's strategy during periods of price consistency.
+
+   My chosen price: 50 (I suggest using a rounded number as the final price)

@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+Upon reviewing the provided information, I notice that there is a consistent pattern of prices ranging from 2.5 to 3.0, with the majority falling within the range of 2.8 to 3.0. The profit earned also seems to be relatively stable, with some fluctuations but no extreme outliers.
+
+I also observe that there are a few rounds where the price is set at 2.9 (Rounds 78, 79, and 64) or slightly higher, resulting in somewhat higher profits. Additionally, Rounds 69-71 have identical prices (2.96), but the quantity sold varies between 1.83 (Round 70's typo aside).
+
+New content for PLANS.txt:
+
+* Investigate further into rounds where price was set at 2.9 or slightly higher to determine if there is a consistent pattern in profit earned.
+* Examine Rounds 52-55 to understand why prices diverged and then converged back to the 2.95-3.1 range.
+* Look for any relationships between quantity sold and prices, particularly in cases where quantity sold seems exceptionally high (e.g., Round 61).
+
+New content for INSIGHTS.txt:
+
+* Prices within the optimal range of 2.8-3.0 tend to correlate with higher profits.
+* The impact of rounding quantities is noticeable; exact calculations aren't available without more information, but we can infer a possible relationship between quantity and price.
+
+My chosen price:
+2.95

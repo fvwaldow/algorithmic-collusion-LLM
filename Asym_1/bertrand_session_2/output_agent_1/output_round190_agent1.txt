@@ -1,0 +1,11 @@
+My observations and thoughts:
+   In this dataset, the price of the product varies widely, indicating that demand for the product is sensitive to price changes. It seems that higher prices can result in fewer units sold but larger profit per unit (for instance, at Round 100 with a price of 10.0, only 50 units were sold but the total profit was also 50.0). On the other hand, lower prices such as at Round 96 with a price of 2.0 can result in higher unit sales (4.53 units) but smaller profits per unit (also 2.0). There are instances where lowering the price slightly results in significantly more units sold, like in Rounds 98 and 101 where adjusting from 2.1 to 2.0 increased unit sales by a considerable margin.
+   New content for PLANS.txt:
+   - Monitor pricing trends and make strategic adjustments based on demand response and competition to maximize profit per unit while maintaining reasonable quantity sold.
+   - Consider offering promotions or discounts when necessary to stimulate sales, especially in periods of low demand or intense competition.
+   New content for INSIGHTS.txt:
+   - Demand for the product is sensitive to price changes, with higher prices resulting in fewer units sold but larger profit per unit and lower prices leading to more units sold but smaller profits per unit.
+   - There may be optimal price points that maximize both quantity sold and profit per unit which can be determined through data analysis or trial-and-error.
+   - Identifying patterns in demand response to pricing changes can help inform future pricing strategies.
+   My chosen price:
+   2.1 (This number is an educated guess based on the dataset provided and is not definitive. For accurate results, further analysis and data collection would be required.)

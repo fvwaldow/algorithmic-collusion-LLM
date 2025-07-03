@@ -1,0 +1,16 @@
+My observations and thoughts:
+
+The data provided includes a sequence of pricing rounds with various prices and corresponding quantities sold, leading to different profit amounts. There is an apparent trend where higher prices initially lead to fewer units sold, but as the price decreases, more units are sold, potentially increasing overall profit. The fluctuations in profit suggest that demand is sensitive to price changes, and there might be an optimal price point between $12. and $13. that maximizes profitability while maintaining sufficient sales volume.
+
+New content for PLANS.txt:
+```
+Adjust the price incrementally to find the sweet spot where we maximize profit per unit sold without drastically reducing sales volume. Consider implementing a dynamic pricing strategy based on real-time demand analysis.
+```
+
+New content for INSIGHTS.txt:
+```
+Historical insights show that initial high prices led to lower quantities sold, causing fluctuations in profit due to varying costs per unit. As we decreased the price to lower figures, sales volume increased, impacting total profit positively while demonstrating elasticity in customer demand. 
+```
+
+My chosen price:
+12.5

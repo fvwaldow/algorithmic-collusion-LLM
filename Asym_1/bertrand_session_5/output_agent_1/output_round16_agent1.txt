@@ -1,0 +1,15 @@
+My observations and thoughts:
+    - The previous prices show a trend of setting the price slightly above the competitor, but this resulted in no sales most of the time. In rounds 14-15 where the price was set lower than the competitor, sales volume increased significantly while still maintaining a decent profit margin.
+    - Based on data from previous pricing experiments, it can be inferred that a balance between price competitiveness and targeting within the customer's willingness-to-pay range is beneficial for driving both sales volume and profitability. However, further optimization is required to find the optimal balance.
+
+   New content for PLANS.txt:
+    1. Continue implementing a dynamic pricing strategy that targets a mid-range within their willingness to pay range (e.g., 3.0 -> 4.0). This should focus on smaller incremental reductions and careful monitoring of both profit earned and sales volume at each adjusted price point.
+         a. Regularly review previous rounds where lower prices resulted in higher sales volume while maintaining a reasonable profit, such as round 15, to serve as guidance for future price adjustments.
+         b. Increase the frequency of A/B tests by selecting strategically placed price points near the competitor’s price to identify winning strategies that balance profitability and sales volume quickly.
+     2. Adapt dynamic pricing approach as needed to take advantage of emerging market trends or competitive actions within the upper end of the customer’s willingness-to-pay range, ensuring price reductions are incremental and not so significant as to lead to lower overall profits.
+
+   New content for INSIGHTS.txt:
+    1. When setting a price closely reflecting the competitor's, it is crucial to consider the impact on profitability vs. quantity sold. Finding the optimal balance between these two factors remains key to maximizing long-term profit optimization.
+     2. A dynamic pricing strategy that includes A/B testing and incremental price adjustments is effective in optimizing pricing for long-term profit maximization. Care should be taken when testing prices closer to the competitor’s price point, as it may lead to increased sales volume at the cost of potentially lower profits.
+
+   My chosen price: 3.50

@@ -1,0 +1,18 @@
+based on the provided data, here are some observations and thoughts:
+- The highest profit earned is consistent at 12.81 during Round 200 with a price of 9.5 and a quantity sold of 2.03. This indicates there may be an opportunity to try prices around this range to increase profits while maintaining sales volume.
+- The most frequent price observed was 9.75, which suggests it may be a competitive price point within the market that can yield a stable profit (averaging around 9.8 per round).
+- Interestingly, during Round 233 the quantity sold increased significantly to 99.96 at a low price of 0.1, however, the total profit earned was negative due to undercutting the market which led to a loss of -309.88. This demonstrates that setting prices too low can lead to a decrease in overall profits despite increasing sales volume.
+- In rounds where the price was higher than 9.75 (e.g., Rounds 219, 224), the profit earned appears to have decreased, indicating that the optimal pricing might be found within the range of 9.6 to 9.75. 
+
+New content for PLANS.txt:
+- Investigate prices in the ranges 9.5 to 9.75 as they seem to generate a stable and high profit while maintaining reasonable quantity sold, starting with a trial price of around 9.6.
+```markdown
+Consider experimenting with prices between 9.5 - 9.75 for an optimal balance of profit and volume. Monitor closely and adjust as needed based on market dynamics.
+```
+New content for INSIGHTS.txt:
+- Experimentation with higher pricing can lead to decreased profits if sales volumes drop significantly (e.g., Rounds 219, 224).
+```markdown
+Carefully consider the balance between revenue and quantity sold when adjusting prices; higher prices may generate more profit per sale but may also reduce overall volume sales.
+```
+My chosen price:
+9.6 (as it is within the range that had provided a high profit while maintaining reasonable amounts of quantity sold)

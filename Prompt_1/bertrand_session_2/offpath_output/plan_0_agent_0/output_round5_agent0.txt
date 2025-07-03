@@ -1,0 +1,15 @@
+My observations and thoughts: Upon analyzing the data, I noticed that the highest quantity sold was when the price was closest to the competitor's price but slightly higher (Round 1). However, the profit earned in this round was also the highest. In the subsequent rounds, as the price was increasing, the number of units sold decreased significantly while profit also decreased. The current highest price tested was $2.95 (in Round 3), which resulted in a very low quantity sold and minimal profit. It seems important to find a balance between competitive pricing and maximizing profit.
+
+New content for PLANS.txt:
++++++++++++++++++++++
+Test a price somewhere between the highest quantity sold price (2.3) and the current lowest price tested (2.95), to establish if there is an optimal sweet spot in terms of both quantity sold and profit earned. Then compare the results with the competitor's current price at $2.80.
++++++++++++++++++++++
+
+New content for INSIGHTS.txt:
++++++++++++++++++++++
+- Higher prices will lead to lower quantities sold and lower profits (as seen in Rounds 3 and 4)
+- Lower prices can increase profit by increasing the number of units sold, but only if they are not too low compared to the competitor's price (as seen in Round 1 vs Round 2 and Round 3)
+- Keep monitoring the competitor's pricing strategy to identify potential opportunities for exploiting their weaknesses or following suit when profitable.
++++++++++++++++++++++
+
+   My chosen price: 2.65

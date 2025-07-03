@@ -1,0 +1,13 @@
+My observations and thoughts:
+The data provided seems inconsistent as it contains extensive pricing details from different rounds ranging from 0 (suggesting no sales) up to high values like 31, indicating that there might be anomalies or erroneous readings in the dataset. Notably, the highest profit evidently occurs for lower prices (around 2.28 and 2.3), suggesting that keeping prices in this range could generate higher profits, assuming these values accurately represent actual sales data rather than glitches or entries.
+
+New content for PLANS.txt:
+Investigate the occurrence of zero sales values (rows marked with 0) to determine if they are errors or reflect real-world scenarios. Consider refining profit calculations by weighting recent rounds more heavily to adapt to possibly changing market conditions.
+
+New content for INSIGHTS.txt:
+Profitability appears highest in the range of $2.28 to $2.3, with significant variations outside this suggesting either data anomalies or a highly volatile market. Future rounds should emphasize maintaining prices within this profitable range while being cautious about zeros indicating potential data errors.
+
+My chosen price:
+2.3
+
+This price selection assumes we are working with valid sales data and seeking to maximize the noted profit range without ignoring the occasional spikes that might suggest market anomalies rather than consistent trends.

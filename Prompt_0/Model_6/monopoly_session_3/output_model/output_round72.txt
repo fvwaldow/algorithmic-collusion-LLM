@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+After reviewing the provided data, it's clear that there are several patterns and correlations worth exploring. The optimal price range appears to be between $17 and $22, as this is where the highest profit margins were observed (Round 72 is missing in the dataset, but Rounds 68-70 show consistent sales of around 59 units at a price of $19). However, prices above $25 seem to have a sharp decline in demand.
+
+It's also worth noting that there are significant fluctuations between round prices and quantities sold. I'll analyze and update my previous plans for the optimal pricing strategy.
+
+New content for PLANS.txt:
+1. Investigate the impact of setting a slightly lower price below the identified optimal range ($17-$20) to see if it's possible to increase demand while maintaining or increasing profit margins.
+2. Analyze the effect of rounding prices up or down from the optimal price points (e.g., $19, $20, $21, etc.) to determine if there are any subtle variations in customer behavior that could be exploited for increased profitability.
+3. To address the breakdown in the relationship between quantity sold and profit earned at higher prices, consider conducting additional research on the concept of price elasticity and potential changes in consumer preferences over rounds.
+
+New content for INSIGHTS.txt:
+* As previously mentioned, there is a strong correlation between high quantities sold and profit earned within the optimal price range ($17-$22). However, further analysis indicates that this relationship does not necessarily translate to significantly higher profit margins as prices approach $25 (e.g., Round 65: $25 and 11.92 units).
+* A careful review of rounds shows a consistent pattern where significant variations in quantities sold are often accompanied by price changes around optimal levels (e.g., moving from ~$19 to $20-$21), while large deviations from the optimal range ($17-$22) usually result in substantial declines in quantity sold and profit earned.
+
+My chosen price:
+19

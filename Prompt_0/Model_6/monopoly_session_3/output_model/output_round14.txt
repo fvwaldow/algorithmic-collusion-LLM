@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+After carefully reading through the provided information, I have observed that:
+
+* The product has been sold at different prices over various rounds, resulting in varying profit margins. There is a notable trend of higher profits when selling for $19 or below ($538.82 at Round 1 and Rounds 4, 7).
+* The quantity sold tends to decrease when the price increases (e.g., R9-R11). This suggests that raising prices may lead to decreased demand.
+* Although not directly evident from this data, Rounds 6 shows a very low quantity sold for $28.0, indicating it is above what customers are willing to pay. Rounds 13's results ($19) are consistent across several rounds (3,1).
+* The highest profit earned per unit is seen during Rounds 4 and 7 when prices were set at $19.
+
+Given the above observations, we should focus on optimizing our pricing strategy around the optimal peak profit price of $19-$22 for the primary item.
+
+New content for PLANS.txt:
+* Run an experiment with different combination of premium features in tiers and dynamic loyalty discounts to increase customer retention. (Note: The dynamic discounts based on customer loyalty is a key component, which we initially outlined but requires further exploration)
+* Investigate further market research to determine whether our demand is lower than supply or vice versa.
+
+New content for INSIGHTS.txt:
+The provided data has consistently shown Round 7 & Rounds 4 as outliers ($19): The profit earned on these rounds, at almost 6 times and 9 times of those of round 5 indicates that the higher price may generate a significantly higher revenue if marketed properly. The $19 mark might be our optimal threshold.
+
+
+My chosen price:
+$19

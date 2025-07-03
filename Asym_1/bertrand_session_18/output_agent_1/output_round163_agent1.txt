@@ -1,0 +1,15 @@
+My observations and thoughts: This dataset represents consecutive pricing decisions made by a business for a single product during 100 rounds. The data includes the current price and competitor's price, as well as the quantity sold and profit earned. From this, we can see fluctuations in trends over the rounds, with prices going up and down, some periods with increased sales and others with decreased sales. It appears that there might be an optimal price point around $30, but it is not consistent throughout the data, possibly due to changes in competition or other factors.
+
+   New content for PLANS.txt:
+   1. Identify patterns in pricing decision making and adjust based on those trends.
+   2. Monitor competitor's prices closely and adjust accordingly.
+   3. Experiment with lower prices during periods of low demand, aiming to increase market share.
+   4. Regularly reassess profit margins and adjust pricing as needed to maintain a target average profit per unit.
+
+   New content for INSIGHTS.txt:
+   - Pricing strategy appears variable but is primarily focused on maintaining or increasing profits.
+   - During periods of low or high competition, the business may adapt its pricing strategy accordingly.
+   - Experimentation with lower prices during periods of low demand seems effective in capturing a larger market share.
+   - It is important to monitor trends and react flexibly to external factors, such as changes in competitor pricing or overall demand.
+
+   My chosen price: 28.0

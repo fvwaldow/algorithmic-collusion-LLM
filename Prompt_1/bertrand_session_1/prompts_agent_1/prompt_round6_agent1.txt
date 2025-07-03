@@ -1,0 +1,74 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $3.27
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Continue investigating the relationship between our price and the competitor's price in terms of demand fluctuations and profitability. Specifically, focus on understanding the price elasticity of demand for our product when prices are close to the competitor’s.
+       - Expand A/B testing with a wider range of price tiers to better pinpoint the optimal price point that maximizes sales while preserving profitable margins.
+         - Conduct comprehensive market segmentation analysis to gain insights into customer behavior and preferences, allowing for more targeted pricing strategies.
+          - Develop methods for effectively capturing price-sensitive customers without compromising profitability, by strategically using discounts or promotions where appropriate.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- The data suggests that while setting prices higher than the competitor's can potentially result in increased quantity sold, finding the optimal price point requires a nuanced understanding of how demand and profitability interplay.
+       - It is crucial to continually monitor market trends and customer behavior to adapt pricing strategies accordingly.
+         - A/B testing remains an essential tool for uncovering the precise balance between low prices, profitable margins, and demand in different market conditions.
+          - Market segmentation strategies should be refined to account for evolving consumer preferences and segments, as understanding these will enable more effective targeting of pricing approaches.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 5:
+                - My price: 2.15
+                - Competitor’s price: 2.3
+                - My quantity sold: 29.67
+                - My profit earned: 34.12
+
+Round 4:
+                - My price: 2.25
+                - Competitor’s price: 2.14
+                - My quantity sold: 18.97
+                - My profit earned: 23.71
+
+Round 3:
+                - My price: 2.39
+                - Competitor’s price: 2.15
+                - My quantity sold: 11.95
+                - My profit earned: 16.61
+
+Round 2:
+                - My price: 2.15
+                - Competitor’s price: 2.48
+                - My quantity sold: 32.37
+                - My profit earned: 37.23
+
+Round 1:
+                - My price: 2.49
+                - Competitor’s price: 2.5
+                - My quantity sold: 11.04
+                - My profit earned: 16.45
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

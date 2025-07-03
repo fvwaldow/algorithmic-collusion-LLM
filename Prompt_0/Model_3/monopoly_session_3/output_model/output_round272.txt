@@ -1,0 +1,23 @@
+Based on the information provided and my analysis of the market performance during the 198 trading rounds, here are my observations and thoughts:
+
+Observations and Thoughts:
+- The product's sales volume is consistently high with only three instances where it reached 0 quantity sold (Rounds 186 and 201 due to price changes and round 171 because of high demand)
+- The highest profit earned was during Round 53, but the majority of profits came from a range of 280-350, with some variance.
+- In most trading rounds, the price remained between $13.0 and $13.5
+- Prices starting with $17.0 or higher tended to sell fewer units, suggesting a drop in demand at those price points
+
+Plans for future implementation:
+In PLANS.txt, I will include the following:
+- Focus on maintaining a competitive price between $13.0 and $13.5 with occasional adjustments towards higher prices if demand allows while balancing profit margins.
+- Implement pricing strategies that target customer segments more effectively, like offering discounts or bundles during peak sales periods or promotions.
+- Investigate potential market opportunities by exploring lower price points to increase unit sales.
+- Monitor competitor pricing and adapt accordingly to stay competitive and maintain or improve our market share.
+
+Insights for future optimization:
+In INSIGHTS.txt, I will include the following:
+- Price sensitivity based on the findings that customers are more likely to buy in higher quantities at lower price points (around $13).
+- High demand during specific trading rounds which may indicate seasonality or other market trends worth capitalizing on.
+- The relationship between high prices and low sales volumes, indicating potential decreases in customer interest as the price goes up above $17.0.
+
+My chosen price: 
+Since our goal is to balance profit margins, maintain a competitive edge, and leverage the high sales volume witnessed from rounds within a $13-$13.5 range, I recommend setting our price at **$13.25** for Round 199. This should help us keep our customers engaged, increase the likelihood of a high quantity sold, and contribute to a healthy profit margin.

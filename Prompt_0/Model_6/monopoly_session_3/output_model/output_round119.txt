@@ -1,0 +1,11 @@
+My observations and thoughts:
+Based on the provided data, it is clear that there are two distinct price ranges with varying sales quantities. Below $20, the quantity sold decreases as price increases (e.g., Round 45: $19.5, 54.98 units; Round 41: $20.75, 42.56 units). On the other hand, above $20, the quantity sold is relatively low and seems to be unaffected by small changes in price.
+
+New content for PLANS.txt:
+Consider testing prices around $21-23 to see if we can achieve a balance between revenue maximization and sales volume. In this range, prices are still above the average sale price ($19.37) but may be closer to an optimal price point for the market.
+
+New content for INSIGHTS.txt:
+One major insight from these data is that increasing prices beyond $20 does not lead to significant growth in sales quantity. However, there is also a clear floor effect at lower prices; below a certain threshold, we risk losing revenue rather than gaining it. It is crucial to find the optimal price balance between these extremes.
+
+My chosen price:
+22

@@ -1,0 +1,13 @@
+My observations and thoughts: This dataset contains information about a product and its price compared to a competitor's product. The data includes the number of items sold at each price point, total profit earned, and the competitor's price. It appears that a lower price (6.49) tends to result in more unit sales and less profit, while higher prices (up to 8.5) lead to fewer sales but higher profits per sale. However, it is important to note that there are fluctuations in sales at each price point, suggesting that other factors such as marketing or product quality may also be influencing demand.
+
+   New content for PLANS.txt:
+   - Monitor the impact of different pricing strategies on unit sales and total profit.
+   - Continuously assess market demands and competitor's pricing strategy to adjust pricing accordingly.
+   - Test price increases strategically in order to maximize profits per sale while maintaining or increasing overall profitability.
+
+   New content for INSIGHTS.txt:
+   - Lower prices drive higher unit sales, but may not be the most profitable choice in some cases.
+   - Higher prices generate less sales but can lead to a larger profit per item sold. Find an optimal balance between these two factors for maximum overall profitability.
+   - Be aware of market dynamics and competitive landscape when making pricing decisions. Adjust price based on changes in those factors.
+
+   My chosen price: [6.99] (This is the average price observed throughout the dataset, with significant sales and profit being generated at this price point.)

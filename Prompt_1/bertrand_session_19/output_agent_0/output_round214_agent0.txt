@@ -1,0 +1,11 @@
+My observations and thoughts: The dataset provided shows historical prices and quantities of a product by your competitor, as well as the price you set for the same product each round. It appears that when you match or slightly lower your price compared to your competitor, you see significant increases in quantity sold. Conversely, raising your price too high leads to a decrease in sales volume, although higher revenue per sale is generated. Additionally, there are several instances where you failed to sell any product at all (e.g., Round 132), which may indicate that the competitive pricing at that time made it unprofitable for buyers. It seems essential to find an optimal balance between competitive pricing and maximizing profits.
+
+New content for PLANS.txt:
+Analyze each round's previous competitor price, sales volume, and revenue in order to make informed decisions on adjusting the pricing strategy. Consider setting prices slightly lower than your competitor or matching their price when appropriate, but be cautious not to undercut yourself excessively. Monitor for trends over several rounds and adjust the strategy accordingly to ensure maximum profits are being achieved while still staying competitive in the market.
+
+New content for INSIGHTS.txt:
+- Setting higher prices leads to a decrease in sales volume, but increased revenue per sale (e.g., Round 118). However, this approach is risky and may not lead to overall profit maximization.
+- Matching or slightly undermining your competitor's price tends to yield significant increases in sales volume (e.g., Round 50, 67, etc.). This pricing strategy may be more beneficial for achieving overall profit maximization.
+- Finding the right balance between competitive pricing and maximizing profits is essential for success in this market. Iterate the pricing strategy based on trends observed over several rounds to optimize revenue generation.
+
+My chosen price: 18.5 (choosing a lower price in order to match or slightly undercut competitor and increase volume of sales)

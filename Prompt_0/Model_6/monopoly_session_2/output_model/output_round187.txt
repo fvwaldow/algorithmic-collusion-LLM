@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+* The data shows a consistent pattern of fluctuations around a central point, with prices ranging from 4.98 to 5.08 and quantities sold ranging from 82.67 to 85.51. This suggests that the demand is relatively stable, but there may be some seasonality or other factors affecting it.
+* There appears to be a "sweet spot" around 5.02-5.03, as prices above this range (e.g., 5.04, 5.05) tend to result in lower quantities sold and slightly lower profit earnings. Conversely, prices below this range (e.g., 4.99) also result in lower quantities sold and similar or slightly higher profit earnings.
+* The price of $5.15 is the highest recorded so far, but it results in a relatively low quantity sold and high profit earned due to the higher selling price.
+
+New content for PLANS.txt:
+
+* We should investigate further why prices above 5.03 tend to result in lower quantities sold. Is this due to diminishing marginal utility, increased competition, or other factors?
+* We should also explore the reason behind the higher profit earnings when selling at $5.15 compared to other high prices like $5.04 and $5.05.
+* To optimize profit earnings, we may want to experiment with pricing between 4.99 and 5.03, trying to find the optimal price-point within this range that balances quantity sold and profit earned.
+
+New content for INSIGHTS.txt:
+
+* A sweet spot exists around $5.02-5.03 for pricing, as prices above and below this range tend to result in lower quantities sold and lower or similar profit earnings.
+* The relationship between price and quantity sold appears to be non-linear, with diminishing returns at higher prices.
+
+My chosen price: 5.02

@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+* The data suggests that there is a sweet spot for pricing at around $2.95, as it yields higher profits ($4.27) compared to other prices.
+* There are fluctuations in profit margins when the price is set too high or too low, with some rounds experiencing relatively lower profitability.
+* It's worth investigating why setting the price to $2.92 seems to consistently result in a profit of $4.72, whereas higher prices lead to decreased profits.
+
+New content for PLANS.txt:
+
+1. Investigate and confirm whether there is truly a sweet spot at around $2.95.
+2. Consider increasing the price incrementally from $2.95 to identify the optimal upper limit for higher profitability.
+3. Perform sensitivity analysis on key variables (price, quantity sold) to quantify their impact on profit margins.
+
+New content for INSIGHTS.txt:
+
+Noting that:
+* Priced around $2.95 tends towards maximum profit
+* High-priced rounds underperform, potentially indicating a decrease in demand
+
+My chosen price: 2.95

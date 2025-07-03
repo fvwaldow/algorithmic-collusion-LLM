@@ -1,0 +1,18 @@
+My observations and thoughts:
+   The data provided shows the sales of a product across multiple pricing rounds against a competitor's price. One observable pattern is that the sales volume tends to rise when the product price is lower than the competitor's, but with decreasing returns as the difference in price narrows. However, there are instances where higher prices result in non-zero sales. This suggests that a pricing strategy somewhere between the minimum competitive price and the maximum profitable price might optimize the sales volume.
+
+   There are also outliers like rounds 36 and 82 where an exceptionally low price leads to no sales, indicating that there might be a floor price below which there is limited demand. Similarly, round 104 shows unusually high sales at a competitive price, suggesting the potential for a pricing mistake or an anomaly in demand.
+
+   New content for PLANS.txt:
+   - Analyze the impact of price differences on demand volume and adjust prices accordingly while considering the profit margins.
+   - Monitor outliers and investigate any discrepancies to account for potential market fluctuations or pricing mistakes.
+   - Develop a method to find an optimal price range that maximizes sales volume without compromising profits.
+
+   New content for INSIGHTS.txt:
+   - A lower price generally attracts more customers, but there are diminishing returns as the gap in price decreases compared to the competitor's price.
+   - There seems to be a floor price below which demand is minimal.
+   - Higher prices can sometimes result in non-zero sales, indicating that customers may value the product despite a higher cost.
+   - Analyze pricing patterns and account for unusual observations (e.g., round 104) to refine pricing strategy.
+
+   My chosen price:
+   24       (This number represents a price point where we can compete with the lowest competitor's price while attempting to maximize our profits.)

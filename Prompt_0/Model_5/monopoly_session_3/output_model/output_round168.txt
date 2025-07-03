@@ -1,0 +1,17 @@
+My observations and thoughts: 
+
+The provided data indicates a consistent profit margin around $551.98 per transaction, achieved with prices ranging from $18 to $27, and quantities from 40 to 69 units. There seems to be multiple instances of successful pricing at $18.01 for quantities around 68-69 units yielding the $551.98 profit. There's also a notable performance with prices around $21-$24, achieving similar profits with varying quantities. However, higher prices such as $27 and above seem to sell fewer units (between 5 and 6) with lower profits ($97-$100). 
+
+New content for PLANS.txt: 
+
+- Continue testing the $18.01 price point for larger quantities (close to 70) to see if we can optimize further.
+- Experiment with slightly lower prices around $20.50 to test if it can achieve consistent $552 profit margin with higher sales volume, similar to the successful $21-$24 range observed.
+  
+New content for INSIGHTS.txt: 
+
+- High-volume sales (around 68-70 units) at lower prices ($18-$20) seem to be highly profitable.
+- Prices above $24 result in significantly fewer sales but maintain a consistent, yet lower, profit margin.
+  
+My chosen price: 
+
+20.50

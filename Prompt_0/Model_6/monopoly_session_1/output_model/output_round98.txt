@@ -1,0 +1,16 @@
+My observations and thoughts:
+
+Based on the market data provided, it's clear that there are two optimal price ranges: $2.95-$3.00 and $2.97-$2.98. The majority of the highest profit values ($4.05, $5.05, $4.72) are achieved at prices within this range. However, the data also suggests that selling smaller quantities at higher prices can result in greater profit earned (e.g., Round 6 with a price of $3.23 and Round 12 with a price of $2.90). The data does not provide a straightforward recommendation for a single optimal price given the vast range of input values.
+
+New content for PLANS.txt:
+
+* Investigate whether we can achieve higher quantities sold by setting a price within the optimal ranges ($2.95-$3.00, $2.97-$2.98) and targeting users with average purchasing habits.
+* Analyze the quantity sold in Round 12 to determine if it was unusual compared to other rounds with $2.90 as the price.
+
+New content for INSIGHTS.txt:
+
+* The highest profit earned is heavily influenced by the price, suggesting a possible non-linear relationship between price and profit.
+* The quantity sold decreases as prices increase beyond $3.00, while profit earned first increases then slightly decreases due to reduced quantities sold at very high prices (e.g., Round 38).
+
+My chosen price:
+2.97

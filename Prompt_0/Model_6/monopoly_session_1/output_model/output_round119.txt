@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+* The data suggests that there is a significant drop-off in sales at prices above $3.00.
+* The profit earned per unit also decreases as the price increases beyond $2.97.
+* There are a few rounds where a high price ($3.01, $3.02) results in a relatively low profit earned ($3.48, $3.36), but overall it seems that prices above $2.97 lead to decreased profits.
+
+New content for PLANS.txt:
+
+* **Target Price Optimization:** Use historical data to optimize the target price between $2.90 and $3.00, taking into account the optimal balance of profit earned per unit and sales volume.
+* **Price Experimentation:** Conduct a series of price experiments within the optimized range to refine the optimal price.
+
+New content for INSIGHTS.txt:
+
+* **Optimal Price Range:** The data suggests that prices between $2.90 and $3.00 may be an optimal range, balancing profit earned per unit and sales volume.
+* **Negative Impact of High Prices:** Prolonged exposure to high prices ($ > $2.97) results in decreased profits and lower sales volumes.
+
+My chosen price: 2.95

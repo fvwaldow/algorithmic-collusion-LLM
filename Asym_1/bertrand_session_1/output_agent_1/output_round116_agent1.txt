@@ -1,0 +1,10 @@
+My observations and thoughts:
+   It appears that the price of the product is fluctuating significantly throughout this data set, with a wide range from 2.00 to 5.40. The quantity sold also seems to vary dramatically based on the price chosen. Interestingly, when the price was initially high (above 3.00), there were no sales reported. However, as the price decreased, sales increased up until a point (~2.15-2.25). After this point, while the number of sales remains high, the increase in cost seems to outweigh potential profits, resulting in lower overall profit for each sale.
+
+   New content for PLANS.txt:
+   Based on the data provided, it appears that setting a price between 2.15 and 2.25 could lead to a high number of sales while still maintaining substantial profits per unit sold. It may also be beneficial to adjust the price based on competitor pricing, as it seems that undercutting the competition (such as when the price was set at 2.00) results in significantly more sales than prices above the competitive range.
+
+   New content for INSIGHTS.txt:
+   Overall, price elasticity of demand appears to be moderately high, with a noticeable decrease in quantity sold when the price increases beyond certain thresholds (above ~2.15-2.25). Furthermore, there seems to be a saturation point of demand between 2.15 and 2.25, as increasing the price further does not significantly increase profits, and may even lead to lower overall profit due to reduced sales quantities. Lastly, it's important to monitor competitor pricing strategies, as undercutting them can result in a considerable increase in sales while also protecting market share.
+
+   My chosen price: 2.15

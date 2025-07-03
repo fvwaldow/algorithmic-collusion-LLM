@@ -1,0 +1,9 @@
+My observations and thoughts: It appears that this dataset represents a competitive pricing game where two competitors set prices for an unknown product at each round. The competitor's price is given in the first column (my_price), while the competitor's price is shown in the second (competitor_price). I observe that some rounds have unusual values, such as negative prices or very low prices, which makes me suspect they could be errors or special promotions. It is also interesting to note that there is no clear winner or strategy to discern in this dataset.
+
+   New content for PLANS.txt:
+   In order to devise a successful pricing strategy, we need to analyze the data more thoroughly to discover if any trends can be detected between the competitor's prices and our own sales figures. Additionally, we should examine the impact of price changes on our profits in different market segments.
+
+   New content for INSIGHTS.txt:
+   Initial observation shows that a lower price is not always the best strategy as it may yield fewer profits. This suggests that understanding the customer valuation and willingness to pay is crucial in setting effective prices. Furthermore, there are instances where extreme pricing (either very high or low) seems to hurt both competitors, implying that careful consideration of market conditions can lead to better outcomes for both parties.
+
+   My chosen price: 2.85

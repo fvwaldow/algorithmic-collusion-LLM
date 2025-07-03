@@ -1,0 +1,22 @@
+Based on the given data, here are my observations and thoughts:
+
+1. The profit earned per round varies significantly depending on the price set for the stock. Higher prices tend to result in lower quantities sold but a higher profit per unit, while low prices lead to larger quantities sold but minimal profit per unit.
+2. In Rounds 46-50, there is a noticeable increase in both the price and quantity sold compared to earlier rounds. The increased sales could be a result of market demand or other external factors influencing the stock's performance. 
+3. Round 19 had the second-highest profit earned, with a selling price of $15.00 and a quantity sold of 88.08, translating to a total profit of $440.40.
+4. The data shows a cycle of high-price, low-volume trading followed by low-price, high-volume trading with small periods of stable prices and volumes, such as Rounds 36-41 where the price fluctuated between $13.1 and $13.2 per stock.
+5. The average price over all rounds is $13.85, suggesting that neither consistently low nor high prices are optimal for maximizing profit. 
+6. The highest profit earned was in Rounds 46-50 when the price was increased significantly, indicating an opportunity to increase profits by adjusting the stock's price upward. However, it is important to consider market demand and potential customer reactions when implementing such changes. 
+
+For PLANS.txt:
+- Develop a detailed plan that considers factors influencing stock prices in the market. 
+- Research and analyze historical trends to predict future price movements. 
+- Incorporate feedback from previous rounds, such as adjusting prices based on how it impacts sales quantity and profit.
+- Consider implementing tiered pricing strategies to reach a wider range of customers while maintaining profitability. 
+
+For INSIGHTS.txt:
+- Identify consumer price sensitivity by observing the correlation between price changes and demand (i.e., quantity sold).
+- Evaluate potential risks associated with significant price increases, such as decreased sales volume or customer backlash.
+- Investigate if there is a market sweet spot for pricing - a price point where both high volume and high profit can be achieved simultaneously.
+- Examine opportunities to optimize revenue by adopting dynamic pricing strategies based on market conditions. 
+
+My chosen price: Given the observations from the data, I would recommend testing prices in the range of $14.00 - $15.25 for the next round as this appears to drive a balance between high profitability and significant sales volumes. The final decision should weigh both market trends and internal company goals into account. Remember, the goal is always to maximize overall profits while maintaining adequate sales volume.

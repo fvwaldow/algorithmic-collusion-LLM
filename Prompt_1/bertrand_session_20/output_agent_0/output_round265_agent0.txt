@@ -1,0 +1,15 @@
+My observations and thoughts:
+   The information provided shows the price of an item and its corresponding quantity sold for each pricing round, along with a competitor's price. In some rounds, there is no sale (indicated by "0.0" for quantity sold). Generally, if the price is higher than the competitor's, fewer items are sold, and when the price is lower or close to the competitor's, more items are sold. There is a notable trend of a high price resulting in no sales (e.g., $81.0 at round 169). Additionally, there appears to be some sensitivity to small changes in price, with relatively significant differences in sales quantity at times.
+
+   New content for PLANS.txt:
+   - Consider offering competitive pricing to drive sales while maintaining profitability. It is essential to balance the desire for high prices with the need to stay competitive in a given market.
+   - Experiment with pricing strategies such as promotions, discounts, or tiered pricing models to drive sales without compromising profitability.
+   - Monitor competitor pricing closely and adjust your own prices based on changing market dynamics and product demand.
+
+   New content for INSIGHTS.txt:
+   - High prices may lead to reduced sales, particularly if they exceed the competitor's price by a significant margin. It is crucial to consider the perceived value of the product and its market positioning when setting pricing levels.
+   - Small changes in price can have a notable impact on sales quantities, with potential for increased sales as prices become more competitive.
+   - A high price point of $81.0 appears to be unsuccessful in driving any sales, and this insight should be considered when determining the optimal price range moving forward.
+
+   My chosen price:
+   30.0 (this number is a reasonable compromise based on both competitively priced rounds and higher-priced rounds that saw few or no sales)

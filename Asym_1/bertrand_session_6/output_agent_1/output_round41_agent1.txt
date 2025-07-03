@@ -1,0 +1,18 @@
+My observations and thoughts:
+    - The data shows a clear trend of higher sales volume at lower prices ($2.5) but also a sharp decrease in profits. When the price is lowered from $3.95 (highest number of units sold was 0.1), profits increased, but sales volume dramatically decreased. This suggests that while lowering the price may increase sales volume, it significantly reduces profitability.
+    - In Rounds 20 to 35, there seems to be an experimentation with pricing ($4.85, $4.30, $4.70, $4.35, and $4.25), which resulted in no sales and minimal profit. This indicates that customers are sensitive towards high prices as well.
+    - The competitor's prices are generally lower than mine, but it seems that their price fluctuations may have little to no impact on my own sales volume and profit (with the exception of Rounds 20-35).
+
+ New content for PLANS.txt:
+  1. Conduct a thorough analysis to understand the optimal pricing range balancing both sales volume and profitability more accurately.
+   2. Develop a strategy to adjust prices gradually within the learned optimal price range to improve long-term performance.
+   3. Continue analyzing competitor's pricing trends and potential impact on customer demand for our product.
+   4. Implement A/B testing with small, incremental price changes over longer intervals for reliable insights into customer demand sensitivity.
+
+ New content for INSIGHTS.txt:
+  1. Customer sensitivity towards pricing is high when the competitor's prices are lower or higher than our own.
+   2. Lowering the price below $3.95 results in increased sales volume but substantial reduction in profitability.
+   3. Aggressive pricing experimentation (Rounds 20-35) seems to have no significant impact on competitor's sales volume or profit, and should not be explored further at this time.
+   4. It is unclear if the higher pricing levels are preventing potential customers from purchasing the product or if they are simply not as interested in it. Further research might be needed to understand customer preferences better.
+
+   My chosen price: 2.75 (balancing sales volume and profitability requires finding a price point where volume decreases less drastically than at $3.95 while still maximizing profit)

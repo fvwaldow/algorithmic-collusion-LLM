@@ -1,0 +1,12 @@
+My observations and thoughts:
+   - The current prices are close to each other compared to previous rounds (Rounds 1 & 2), which might explain the higher sales in Round 2 even with a lower price.
+   - There seems to be an inverse relationship between price and quantity sold, with lower prices leading to higher quantities sold and higher prices leading to lower quantities sold. However, higher prices lead to greater profit per unit when units are sold.
+   - It's also worth noting that in some rounds where the competitor had a considerably lower price (Round 7, Round 6), the competitor still sold fewer units as compared to other rounds with similar or slightly higher prices (Round 8, Round 5).
+   New content for PLANS.txt:
+   - Continuously monitor and analyze sales trends across different pricing strategies in order to identify the optimal price point that maximizes profit.
+     - Develop a machine learning model to predict customer buying behavior based on price sensitivity and other market factors.
+   New content for INSIGHTS.txt:
+   - Adjusting prices more dynamically, taking into account various market conditions such as competitor actions, can help optimize profits in the long run.
+     - Sales trends seem to suggest that striking a balance between attracting customers with lower prices and maintaining acceptable profit margins is crucial for success.
+
+  My chosen price: 6.37 (The goal here is to strike a balance between being competitively priced while maintaining healthy profit margins)

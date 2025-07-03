@@ -1,0 +1,11 @@
+My observations and thoughts:
+   From the given data, it appears that the price of the product varies significantly throughout the rounds, ranging from 0.0 to 15.0. The quantity sold also fluctuates based on the price change. There are several instances where lowering the price results in a higher number of items sold, suggesting that the market price is optimal somewhere between 2.75 and 3.25. However, there are also instances where the product was not sold even at cheaper prices, such as rounds 195, 194, 202, and parts of round 200. This suggests that offering a lower starting price may help attract initial customers because when the price is too high (e.g., round 187-193), the product is not sold at all. But once a stable customer base is in place, gradually increasing prices can be considered to maximize profit.
+
+   New content for PLANS.txt:
+   Maintain initial pricing strategy of varying the price range from 2.75 to 3.25 to encourage product sales and attract customers. Continuously monitor the market response to different prices and adjust the pricing strategy accordingly.
+
+   New content for INSIGHTS.txt:
+   Lowering the starting price can help attract initial customers and build a customer base (rounds 173-176, 184, 185). Raising the price after establishing a customer base may help to maximize profits (rounds 172, 180, 183, 192). However, offering extremely high prices, such as rounds 177-181 and parts of round 200, can result in no sales at all. Additional research into target market pricing preferences may provide further insights for future pricing strategies.
+
+   My chosen price:
+   3.0

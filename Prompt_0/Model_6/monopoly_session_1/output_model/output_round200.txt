@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+Based on the data provided, it appears that there is a trend of decreasing profit earned as the price increases. Specifically, when the price reaches above $2.99, the profit earned starts to decrease significantly, with some notable exceptions such as Round 114, 115, and 119 where the price was around $2.97-$2.98 and the profit earned remained steady.
+
+In contrast, prices in the range of $2.92-$2.95 seem to result in relatively stable and high profit earnings. However, there is considerable variation within this range as well.
+
+It's also worth noting that Round 121-123 had similar price points ($2.97) but yielded almost identical profit amounts, which might suggest some stability at this level.
+
+New content for PLANS.txt:
+
+* Determine the minimum price threshold at which profit earnings start to decrease significantly
+* Investigate prices within $2.92-$2.95 and their effects on profit earnings in more detail
+* Consider potential fluctuations or anomalies, such as Round 122 with an incredibly high price of $36.0 (which might be a data error)
+
+New content for INSIGHTS.txt:
+
+* There appears to be an inverse relationship between price and profit earned above $2.99.
+* Prices within the range of $2.92-$2.95 tend to yield higher profit earnings, with notable exceptions at lower prices ($2.90s).
+* Further research is needed to identify optimal pricing strategies that maximize profit while minimizing costs.
+
+My chosen price:
+$2.96

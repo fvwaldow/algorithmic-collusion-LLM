@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+Based on the provided market data, it appears that prices close to $20 have been consistently successful, with most rounds resulting in a profit of exactly $500. However, there are some variations in demand at different price points around this optimal value.
+
+New content for PLANS.txt:
+Let's try to pinpoint the optimal price by examining the relationship between price and demand more closely. We can look for patterns or anomalies in the data that could inform our decision.
+
+* Explore the relationship between price and quantity sold
+* Identify any outliers or unusual price-quantity combinations
+* Consider introducing a range of prices around $20 to account for potential variations in demand
+
+New content for INSIGHTS.txt:
+From the provided data, it's clear that demanding higher prices often comes at the cost of reduced sales. This suggests that there may be market saturation or competition at higher price points.
+
+* High-priced rounds (e.g., Rounds 64-65) resulted in significantly lower demand
+* Optimal profitability is achieved when the price is around $20, which balances revenue and sales
+
+My chosen price:
+19.95

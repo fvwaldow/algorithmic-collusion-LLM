@@ -1,0 +1,23 @@
+I've carefully read through all the information provided.
+
+My observations and thoughts:
+
+It seems that there is an outlier price of $19.0 that appears frequently (Rounds 7, 4, & 1), generating significant profits in comparison to other prices. On the other hand, the lowest price of $20.0 in Round 12 generated a decent profit margin as well.
+
+However, it seems as though demand is significantly affected by pricing, with more items being sold at lower prices ($19-$20) and fewer items being sold at higher prices ($22.5, $23, & $28).
+
+My task is to set the price that best maximizes profit in the long run.
+
+New content for PLANS.txt:
+
+* Investigate which specific combination of premium features tiers contribute to optimal pricing
+* Re-analyze market data from Round 6 and earlier rounds which may indicate a relationship between higher prices, quantity sold, and revenue generated.
+* Note: It is unclear whether there are any changes in the environment affecting the previous market dynamics that may suggest that our current optimum pricing strategy might not hold.
+
+New content for INSIGHTS.txt:
+
+* The $19 mark from Round 7 & Rounds 4 appear to be outlying data which could suggest higher profitability at this price; however, we need further research to understand why.
+* It is also critical we track customer segments and purchase patterns in order to identify the potential of dynamic pricing strategies
+
+My chosen price:
+$20.50

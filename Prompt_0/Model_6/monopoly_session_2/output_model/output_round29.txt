@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+The provided market data shows a clear trend that higher profit margins are associated with a narrow price range ($4.99-$5.12). The majority of the highest profits were earned when the price was around $5.04-$5.05, which falls within this optimal range. However, there is a noticeable decrease in profitability when prices deviate from this range.
+
+One potential explanation for this pattern could be that customers are sensitive to small changes in price and are more willing to purchase at prices within the perceived 'sweet spot' (around $4.99-$5.12). Another possibility is that there might be underlying market forces or behaviors influencing these results, such as competition from similar products.
+
+To further refine our understanding of this phenomenon, we should prioritize exploring this optimal range and gather more information on consumer behavior.
+
+New content for PLANS.txt:
+1. Test moving exactly to the upper bound ($5.12) within the established optimal price range.
+2. Investigate why sales significantly drop when prices exceed $5.05 (e.g., Round 13 vs Round 15, $4.95 in Round 3) and whether there is any correlation between quantity sold and increased competition.
+
+New content for INSIGHTS.txt:
+1. Higher profits are associated with a price range of approximately $4.99-$5.12.
+2. This optimal price range seems to be associated with stable increases in profitability when prices move within this narrow band, as demonstrated by consistent profit numbers across multiple rounds.
+
+My chosen price: 5.04

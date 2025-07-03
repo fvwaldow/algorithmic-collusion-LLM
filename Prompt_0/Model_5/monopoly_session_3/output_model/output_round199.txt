@@ -1,0 +1,14 @@
+My observations and thoughts:
+The data provides a detailed record of different pricing strategies over numerous rounds, with varying prices, quantities sold, and resulting profits. It shows considerable fluctuation in price points used—ranging from as low as $5.73 to as high as $27.0, indicating a responsive approach based on market conditions or other unknown factors. The highest profit earned was during Round 100 at $97.45 with a relatively higher price point. There is repetition in some strategies; for example, pricing at $20 was used more than any other single price point (appearing 16 times), indicating it may be a benchmark or safe-zone strategy. Despite the frequency of lower prices, there are also instances where much higher prices were set to achieve significant profits, suggesting an adaptive strategy that balances risk and reward.
+
+New content for PLANS.txt:
+Analyzing Round 100's success with a higher price ($27.0) yielding substantial profit ($97.45), consider periodically testing higher price points while carefully monitoring market response to ensure demand remains robust. Also, reflect on the prevalence of $20 pricing — although common and seemingly safe, evaluate if there's room for experimentation or improvement by adjusting prices slightly upwards during periods of confirmed high demand. 
+
+New content for INSIGHTS.txt:
+- The dataset indicates a diverse strategy where lower prices aren't consistently the driver of volume; rather, there seems to be a calculated approach that sometimes includes higher prices to achieve substantial profits.
+- Identify patterns in successful rounds (e.g., Round 100); investigate the circumstancing factors enabling these successes for strategic insights.
+- Continue monitoring the balance between quantity sold and profit across varying price points to refine future pricing decisions, particularly exploring opportunities to raise prices without a sharp decline in sales volume. 
+
+My chosen price: 25
+
+Explanation: Based on observing diverse successful strategies including high-profit rounds achieved with relatively higher prices (like Round 100 with $27.0), I propose setting the price at $25 initially for the next pricing round to test whether this mid-range price can similarly achieve a healthy profit while maintaining sales volume. This choice balances risk by drawing from successful high-end strategies without immediately jumping to the highest recorded price ($27.0).

@@ -1,0 +1,12 @@
+My observations and thoughts:
+The dataset reveals a pattern of price adjustments and their corresponding profits throughout various pricing rounds. Notably, prices fluctuate significantly in range from $1.25 to $27.00, with quantities sold varying from 5.73 to 99.94 units. The dataset shows multiple occurrences where lower prices ($1.25, for instance) result in substantial losses, while higher prices generally yield more profit. Interestingly, certain price points (like the repeated $19.5 with quantity of 54.98) suggest consistent demand and potentially optimal pricing.
+
+New content for PLANS.txt:
+Analyze profitability peaks across similar price ranges to identify potential optimal pricing strategies. Investigate why lower prices like $1.25 lead to negative profits, possibly due to high volume or other unaccounted costs. Consider implementing dynamic pricing based on observed patterns of high-profit segments without the large-scale losses seen at very low prices.
+
+New content for INSIGHTS.txt:
+High prices typically correlate with higher profit margins; however, they seem to come with lower sales volumes. The repeated occurrence of $19.5 with substantial quantity indicates a balanced approach possibly worth repeating as a baseline strategy. Explore the reasons behind consistent demand around these price points—whether it reflects customer segmentation or external market factors.
+
+My chosen price: 20.00
+
+This choice is based on recurring high profit margin around $20.00 with satisfactory sales volume, suggesting a mid-range pricing strategy that balances profit with appealing affordability while avoiding the negative impacts observed at very low prices.

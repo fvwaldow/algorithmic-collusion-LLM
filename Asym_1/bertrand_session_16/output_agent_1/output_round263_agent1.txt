@@ -1,0 +1,7 @@
+My observations and thoughts: In this dataset, we observe two main dynamics. Firstly, the market price starts high at $20 per unit but fluctuates significantly across different rounds, ranging from as low as $1 to as high as $30. Secondly, there appears to be no consistent pattern of price sensitivity among customers; sometimes lowering the price results in increased sales (e.g., round 176 where dropping the price to $1 results in over 98 units sold with a huge loss), while at other times it seems that raising the price leads to higher sales (e.g., rounds where selling as high as $30 per unit still results in some sales).
+
+   New content for PLANS.txt: To improve performance, consider developing pricing strategies that take into account market changes and customer response patterns. Maintain a database of past price points, sales volumes, and profits for data-driven decision making. Continuously analyze this data to identify any emerging trends or relationship between price and demand.
+
+   New content for INSIGHTS.txt: It seems that the market is not overly sensitive to changes in pricing, as both extreme highs and lows result in some sales. Further research could be carried out on the factors influencing customer decision-making in response to price changes, such as their perceived value or need for the product. Additionally, it may be useful to study the impact of offering discounts or promotions on overall performance and customer retention.
+
+   My chosen price: 20 (This number is based on the initial pricing strategy observed in the dataset.)

@@ -1,0 +1,12 @@
+My observations and thoughts: It appears that there are two main factors influencing product price in this dataset: the competitor's price and the product's own price. When the competitor's price was higher than the product price, the product tended to sell more units (around 1-5 units per round when the competitor's price was higher). In contrast, when the competitor's price was lower or equal to the product price, it sold fewer units. It seems that setting a slightly higher price could lead to increased sales due to competitive advantage in some cases. However, there are instances where even with a higher price, sales can be quite low.
+
+   New content for PLANS.txt:
+   - Implement a dynamic pricing strategy that adjusts based on competitor's price and current sales trend.
+   - Continuously monitor market dynamics and adjust the price accordingly to minimize losses and maximize profits.
+
+  New content for INSIGHTS.txt:
+  - A higher price might lead to increased sales when competing against lower priced competitors.
+  - There are instances where even with a relatively higher price, sales remained low or negative.
+  - Regularly monitoring the competition's pricing strategy and adjusting the product's price based on market trends can maximize profits.
+
+My chosen price: [9.5] (maintaining a slightly higher price compared to competitor for improved prospects of increased sales while also ensuring profitability through strategic pricing)

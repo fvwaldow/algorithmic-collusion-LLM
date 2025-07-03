@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+* The data suggests that prices around $5.02-$5.04 are optimal, with the maximum profit earned being $155.63 in Round 87 at a price of $5.04.
+* There is a slight drop-off in quantity sold when prices reach or slightly exceed the optimal range ($5.03 and above).
+* Sales volume remains stable between $4.98 and $5.02, but there seems to be a decrease in sales as prices approach $5.05.
+* Increasing prices above $5.05 results in significant drops in sales volume, with some rounds showing no sales at higher price points (e.g., Round 14).
+
+New content for PLANS.txt:
+1. **Delve deeper into the optimal range**: Investigate the effect of small price intervals ($0.01) within the optimal range ($5.02-$5.04).
+2. **Explore upper price limits**: Test the impact on sales volume of prices up to or slightly above $10.07, while considering potential profit maximization.
+
+New content for INSIGHTS.txt:
+* The drop-off in quantity sold at higher price points is more pronounced than previously observed.
+* It appears that prices between $5.04 and $5.05 may be associated with decreased sales volume, warranting further investigation.
+* Increasing prices above the optimal range does not guarantee substantial profit gains, highlighting the need for a nuanced understanding of the relationship between price and profit.
+
+My chosen price:
+$5.02

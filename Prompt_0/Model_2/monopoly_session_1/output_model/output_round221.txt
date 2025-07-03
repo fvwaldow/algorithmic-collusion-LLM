@@ -1,0 +1,18 @@
+My observations and thoughts:
+   The data provided is a record of 250 consecutive price adjustments for an unknown good or service. The overall trend seems to indicate a gradual decrease in the average price over the course of these adjustments, from around 2.1 to 2.11 (rounded to two decimal places). However, there are several instances where the price increased, and some periods showing rapid increases followed by quick decreases.
+
+    The dataset also includes the quantity sold for each pricing round, which can be used to analyse demand elasticity. For example, in some cases, a decrease in price can result in a larger increase in quantity sold (high demand elasticity), while in other instances, an increase in price might actually lead to a more substantial growth in quantities sold (low demand elasticity).
+
+   New content for PLANS.txt:
+   To further analyse this dataset and inform pricing decisions, I will perform multiple tasks:
+   - Determine key factors influencing the price changes such as consumer behavior, market trends, and external variables.
+   - Examine demand elasticity by calculating how sensitive the quantity of goods sold is to changes in price.
+   - Identify patterns and trends that can help better forecast potential pricing adjustments.
+
+   New content for INSIGHTS.txt:
+   - The pricing strategy appears to be adaptive, as shown by the fluctuation between increases and decreases in price throughout the dataset.
+   - There is potential for analyzing demand elasticity based on the recorded quantity sold with each pricing adjustment.
+   - Identifying patterns and trends can help in understanding consumer behavior and market conditions.
+
+  My chosen price:
+   2.1 (This is simply the middle value of the minimum and maximum prices, serving as a reasonable starting point for future pricing decisions.)

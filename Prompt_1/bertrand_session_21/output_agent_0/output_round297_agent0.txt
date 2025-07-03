@@ -1,0 +1,11 @@
+My observations and thoughts: It appears we have data from 200 pricing rounds, each round containing the seller's price, the competitor's price, the quantity sold, and the total profit earned by the seller. It is evident that the seller has tried various pricing strategies like undercutting the competition, matching the competition, or pricing higher for superior products. The data shows fluctuations in both pricing and sales quantities over time but some patterns such as a strong relationship between the seller's price and quantity sold can be noticeable throughout.
+
+   New content for PLANS.txt:
+   Analyze trends in pricing, sales, and profit over time to identify key insights that help inform future pricing decisions. Develop algorithms for predicting optimal prices based on historical data. Test variations of these algorithms to optimize performance.
+
+   New content for INSIGHTS.txt:
+   - Prices above 15 seem to lead to increased sales and profit compared to prices around the competitor's price or lower.
+   - Undercutting the competition significantly may not always result in more sales, especially if the seller's perceived quality is lower.
+   - A moderate-priced product with better marketing could generate higher sales and profits compared to a superior but overpriced one.
+
+   My chosen price: [17] (I chose 17 as it seems that prices above 15 generally lead to increased sales and profit. It is not the highest price in our dataset, which might be too risky, but also not the lowest, which might not maximize potential earnings.)

@@ -1,0 +1,7 @@
+My observations and thoughts: It appears that there is a range of prices in this data set, with the minimum price being 25 and the maximum price being 41. The quantity sold at lower prices tends to be higher, while the profit earned decreases as prices decrease. However, when prices increase, the quantity sold also decreases significantly, resulting in lower profits. Additionally, there seems to be some consistency with the same product having a minimum selling price of 25 across multiple pricing rounds.
+
+   New content for PLANS.txt: Experiment with lowering the minimum-selling price slightly to gauge its impact on quantity sold and profit earned. Maintain pricing strategy to maximize profit while not sacrificing too much on overall sales volume.
+
+   New content for INSIGHTS.txt: The relationship between price, quantity sold, and profit seems non-linear and dependent on the competitive landscape. Lower prices may encourage more sales but result in lower profits per sale. Conversely, higher prices may lead to fewer sales but high profits per sale. It is essential to maintain a pricing strategy that balances both quantities and profits.
+
+   My chosen price: 28 (This number is a rounded average of the minimum, maximum, and median prices seen in the data set.)

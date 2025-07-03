@@ -1,0 +1,82 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $14.54
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Continue testing dynamic prices using machine learning algorithms, but consider implementing more frequent adjustments based on real-time demand and competitor behavior.
+2. Implement a tiered pricing strategy with improved quantity discounts to further incentivize larger transactions.
+3. Offer free shipping when customers reach a specific order threshold as an ongoing promotion.
+4. Test offering bundled products at a discounted price and explore other cross-selling and upselling opportunities.
+5. Regularly monitor competitor pricing and adjust prices accordingly while maintaining profitability and market competitiveness.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. A dynamic pricing strategy, tailored to real-time demand and competition, can help optimize profits further.
+2. Tiered pricing with more attractive quantity discounts may encourage larger transactions, leading to increased sales and profitability.
+3. Offering free shipping as a sustainable promotion can boost sales while encouraging customers to reach the required minimum order threshold.
+4. Bundling products at a discounted price and leveraging cross-selling and upselling strategies can lead to higher profits and customer satisfaction.
+5. Regularly monitoring competitor pricing remains essential for staying competitive in the market and maintaining profitability.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 2:
+
+
+
+                - My price: 12.0
+
+
+
+                - Competitor’s price: 11.9
+
+
+
+                - My quantity sold: 0.09
+
+
+
+                - My profit earned: 0.8
+
+Round 1:
+
+
+
+                - My price: 12.0
+
+
+
+                - Competitor’s price: 11.5
+
+
+
+                - My quantity sold: 0.09
+
+
+
+                - My profit earned: 0.8
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

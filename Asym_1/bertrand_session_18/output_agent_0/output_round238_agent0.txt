@@ -1,0 +1,11 @@
+My observations and thoughts:
+   This dataset shows the sales of a product over time, with each entry representing a new pricing round. The number of items sold in each round is provided, along with the price at which the item was sold and the competitor's price. The data includes instances where the product was not sold (indicated by a zero quantity) or when there was no competition (indicated by 'None'). It is interesting to note that the competitive landscape and sales figures change over time, suggesting that strategic pricing may be necessary to maintain market share.
+
+   New content for PLANS.txt:
+   In order to remain competitive, it would be beneficial to stay informed about changing market conditions and adjust prices accordingly. Analyzing historical data can help in predicting trends and making data-driven decisions about price adjustments. It may also be important to consider the impact of changes in our competition's pricing strategy on our own sales.
+
+   New content for INSIGHTS.txt:
+   By examining the data, we can see that there are instances where a higher price results in fewer sales (e.g., Round 167) and instances where a lower price does not guarantee a higher number of sales (e.g., Round 74). This suggests that while price plays a role in consumer decisions, other factors such as brand perception, product quality, and promotion strategies may also influence sales figures. Additionally, it appears that our pricing strategy has an effect on our competitor's prices (e.g., when the competitor matches or adjusts their price to be closer to ours).
+
+   My chosen price:
+   28.0 [This is a suggested starting point based on the observed trend in the data, but it would be important to test and adjust as necessary.]

@@ -1,0 +1,12 @@
+My observations and thoughts: It looks like we are given historical price data for a good and the quantity sold over time. The quantities sold seem to be relatively consistent at around 2 units per round, with some variation. Some prices were very low (0.05) which resulted in massive losses (-94.94), while other prices seemed to have much higher profit margins (for example, 3.67). It also appears that increasing the price slightly above the competitor's price does not seem to affect sales negatively too significantly, but a lower price (2.85) seems to maintain steady sales.
+
+   New content for PLANS.txt:
+   - Maintain constant pricing of 2.85, ensuring that it remains the same as the competitor's price while still maintaining profitability.
+   - Investigate possible market segmentation opportunities to explore selling in additional markets or to different consumer groups with varying price sensitivities.
+
+   New content for INSIGHTS.txt:
+   - It may be profitable to maintain a steady pricing strategy as slight changes above or below the competitor's price do not appear to significantly impact sales.
+   - Exploring market segmentation opportunities could help tap into new markets and consumer groups, potentially increasing profits.
+
+  My chosen price:
+  2.85

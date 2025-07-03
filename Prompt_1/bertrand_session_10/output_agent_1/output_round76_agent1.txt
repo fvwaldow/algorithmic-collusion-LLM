@@ -1,0 +1,18 @@
+My observations and thoughts: In this data set, we can observe a dynamic relationship between the competitor's price and our own prices throughout different pricing rounds. When our price was higher than the competitor's, we had fewer sales but higher profit margins due to lower manufacturing costs. Conversely, when our price was lower or comparable to the competitor's, we saw an increase in quantity sold but with lower individual profits. The key insight from this is that a competitive pricing strategy could help drive more units sold while maintaining acceptable profitability.
+
+New content for PLANS.txt:
+```lua
+1. Implement a competitive pricing strategy with the goal of driving increased sales volume while staying profitable.
+2. Monitor competitor's price changes and adjust our prices accordingly to remain competitive.
+3. Explore potential cost-cutting measures in manufacturing to increase the margin if needed when adopting competitive pricing strategy.
+```
+
+New content for INSIGHTS.txt:
+```sql
+1. A lower price point may result in more units sold but with lower profit margins compared to higher prices. This should be carefully weighed against potential growth and brand perception benefits.
+2. Understanding the competitor's price strategy is essential for making informed pricing decisions and ensuring our business remains competitive.
+3. Lower manufacturing costs can help maintain profits when adopting a more competitive pricing strategy.
+```
+
+My chosen price: [Let X represent the average of the competitor's range, i.e., (min_competitor + max_competitor) / 2]
+X - $1.00 or slightly below, in order to maintain a competitive edge while still encouraging sales volume.

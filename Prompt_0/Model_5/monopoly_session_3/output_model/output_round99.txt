@@ -1,0 +1,20 @@
+### My observations and thoughts:
+The data reveals a diverse range of prices set across various rounds, primarily focusing around the $20-$30 region with several instances of higher and lower prices. An interesting pattern shows that price rounds around $21, $27, and occasionally lower at $18 and $19 seem to have been chosen multiple times, suggesting an inclination toward these price points. 
+
+There's a noticeable gap in lower-priced rounds; specifically, below $10 are scarcely evident except for Round 38 where the price was set exceptionally low at $1.25, resulting in substantial losses (-$874.52). This hints that while experimenting with prices significantly below $10 might attract higher quantities of sales, it could lead to negative profits.
+
+Higher rounds ($27 and above) appear to yield moderate yet consistent profits, as seen in Rounds 4, 24, and the base case (Round 1). However, extreme price points such as Round 5's $23.5 have resulted in fewer sales with consequently lower absolute profit figures despite a positive margin.
+
+This dataset lacks information on market saturation or competitor pricing, which would be vital to inform more strategic pricing decisions. 
+
+### New content for PLANS.txt:
+Explore pricing strategies for medium ranges ($20-$25) to balance between potential high sales volume and ensure a healthy profit margin. Investigate customer feedback or market research around perceived value at different price points within this range to validate theoretical profitability from the dataset. Consider segmented pricing based on customer cohorts if data allows for such granularity.
+
+### New content for INSIGHTS.txt:
+- Prices between $20-$25 show a tendency to perform well in terms of profit margins, warranting further exploration.
+- Drastic reductions below $10 risk significant losses without clear evidence of increased sales volume that could offset those losses.
+- Higher prices over $27 seem viable for consistent but smaller scale profits; however, they might limit accessibility or market reach.
+- Lack of competitor analysis in given data limits ability to assess relative positioning and needed price adjustments for market competitiveness.
+
+### My chosen price:
+24

@@ -1,0 +1,15 @@
+My observations and thoughts: The data provided shows price fluctuations for a particular product over several rounds. The price starts at 3.0 and generally decreases, reaching a minimum of 2.0 in round 12. After that, the price increases steadily, peaking at 4.3 in round 5 before declining again to end at 2.85 in round 9.
+
+   It appears that the demand for this product is not substantial, with only a few units sold per round, except for rounds 10, 11, 12, and 14 where large quantities are sold at lower prices. The price seems to be adjusted based on the perceived demand, with higher prices corresponding to lower quantities sold and lower prices leading to more units being sold.
+
+   PLANS.txt:
+   - Monitor fluctuations in demand and adjust pricing accordingly
+   - Consider implementing a pricing strategy that takes into account peak and low demand periods
+   - Experiment with different price points to find the sweet spot for maximizing profit while still meeting market demands
+
+   INSIGHTS.txt:
+   - Adjusting prices based on sales data results in more units being sold, especially at lower price points
+   - Maintaining a high-price strategy will lead to low quantities sold and potentially unused inventory
+   - It may be beneficial to monitor demand trends over a longer period to identify trends and make more informed pricing decisions
+
+   My chosen price: [Let's decide on a price based on the data provided, after considering the sweet spot for maximizing profit while still meeting market demands. For example, you could choose 2.5 as it is mid-range but has been shown to lead to decent sales numbers in multiple rounds.]

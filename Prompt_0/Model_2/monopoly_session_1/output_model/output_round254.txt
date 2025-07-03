@@ -1,0 +1,11 @@
+My observations and thoughts:
+   It appears that the data shows the quantity of items sold and their corresponding revenue gained through selling those items. The prices seem to fluctuate widely, from as low as 0.0 (at Round 162) to as high as 40.0 (at Round 162). There are also instances where the quantity remains constant at 35.43, while the price varies significantly. It's intriguing that there are rounds where no items were sold despite higher prices being set.
+
+   New content for PLANS.txt:
+   To increase sales and revenue, consider implementing a pricing strategy that takes into account historical data on what price ranges lead to more unit sales. A dynamic pricing strategy may be beneficial due to the varying demand at different times. Furthermore, investigate patterns in the data to identify underlying factors that might influence sale quantities.
+
+   New content for INSIGHTS.txt:
+   Price sensitivity seems to vary across different rounds, with lower prices usually resulting in higher quantities sold. However, it's essential to note that certain price points such as 2.14 have consistent sales, suggesting a potential sweet spot for this product. Additionally, observe that there are fluctuations in both high and low prices when no units were sold, indicating the importance of understanding customer preferences and market dynamics.
+
+   My chosen price:
+   2.14 (This number was derived from identifying a consistent price where sales quantities remained relatively stable)

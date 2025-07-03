@@ -1,0 +1,10 @@
+My observations and thoughts: It appears that the data presented shows daily transactions of a product over several hundred days, with each entry containing the price charged, the quantity sold, and the profit earned. One can observe that the price fluctuates between approximately 2.0 and 2.5, with some patterns such as lower prices leading to higher quantities sold (i.e., days numbered 185-188) and periods of higher prices resulting in fewer sales (i.e., day 193). However, there seems to be no definitive relationship between the price charged and profit earned, with both high and low profits occurring across a range of prices.
+
+   New content for PLANS.txt:
+The new pricing strategy should take into account factors such as customer demand and the overall sales volume. By closely monitoring the data, we can identify trends in price sensitivity and adjust our prices accordingly to optimize profits. Additionally, it may be valuable to analyze customer feedback and other factors that influence purchasing decisions.
+
+   New content for INSIGHTS.txt:
+One potential insight from this data is that lower prices (between roughly 2.0 and 2.1) seem to result in higher sales volumes, although the profit earned per sale may be lower than at higher prices. On the other hand, higher prices seem to lead to fewer sales but potentially higher profits per sale. Another observation is that there does not appear to be a clear relationship between the profit earned and the price charged, as high-profit days occur across various price points. It might be worth testing different pricing strategies to determine the optimal balance between maximizing sales volume and profit margins.
+
+   My chosen price:
+2.1

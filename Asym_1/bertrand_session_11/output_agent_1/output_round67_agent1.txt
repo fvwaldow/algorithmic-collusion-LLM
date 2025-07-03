@@ -1,0 +1,11 @@
+My observations and thoughts:
+   This dataset represents a competitive pricing game where two entities are trying to sell a product. The numbers represent the price at which each entity is selling, as well as the quantity sold for each round. For example, in round 1, Entity A was selling at $13.87 while Entity B was selling at $3.0, and no units were sold by Entity A. As we can see, both entities have tried various pricing strategies with varying degrees of success, showing a struggle between supply and demand and competition. It is interesting to note that in many rounds, both entities are pricing their product competitively close to each other, but there are also instances where one entity's price significantly diverges, which can lead to more or fewer sales.
+
+   New content for PLANS.txt:
+   In order to increase sales and remain competitive, I plan on analyzing the patterns of successful pricing strategies in our past rounds as well as those of our competitor. Based on that analysis, I aim to set a price that is low enough to attract customers while still generating reasonable profit margins. I will pay close attention to trends such as consumer behavior during certain times or when we have promotions, and adjust my pricing strategy accordingly.
+
+   New content for INSIGHTS.txt:
+   From the presented data, it appears that consumers tend to buy more when the price is lower but competitive (for example, rounds 16, 24, and 5). However, setting a very low price can lead to a loss of profitability as seen in round 18 and some later pricing rounds. It may also be beneficial to observe competitor pricing trends, as observed in round 1 (where higher pricing led to no sales). Additionally, pricing stability (comparing entity A with rounds 30, 17, and 5) seems to be a strategy that has achieved reasonable success in terms of both quantity sold and profit earned.
+
+   My chosen price:
+   5.25

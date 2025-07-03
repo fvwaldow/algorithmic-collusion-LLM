@@ -1,0 +1,13 @@
+My observations and thoughts:
+Considering the provided market data and past conversations (present in PLANS.txt and INSIGHTS.txt), I notice that there's a significant decrease in quantity sold above around $20-$21. This indicates that there might be a price ceiling or an optimal price range where profit margins are maximized without sacrificing too much revenue.
+
+New content for PLANS.txt:
+* Test the upper limit of price elasticity at lower prices ($19.0 - $20.5) since quantities sold decrease significantly above around $20-$21.
+* Investigate another round at a lower price point, such as $18.0 or below, to see if it affects sales negatively (Round 40 had almost $540 in profit selling quantity over 59 times), and keep track of units per sale as opposed the sales amounts, because at this scale it could be either case that the product sells better - less price sensitivity and more units sold = less of a profit due to no increase in pricing but decrease price elasticity 
+* Calibrate pricing strategy around $20.5-$21.25 considering its past performance before going any higher
+
+New content for INSIGHTS.txt:
+It seems we've established that there's a pressing need to refine strategies and stay within more profitable ranges without sacrificing much revenue while avoiding the low price ceiling issue by testing upper limits of price elasticity, therefore it would be beneficial (profit-wise) to implement price adjustments while maintaining relatively good quantities.
+
+My chosen price:
+20.5

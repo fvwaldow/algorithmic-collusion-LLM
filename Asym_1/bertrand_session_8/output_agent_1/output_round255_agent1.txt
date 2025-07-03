@@ -1,0 +1,13 @@
+My observations and thoughts:
+The data provided includes the price of a product offered by the company and its competitor along with the quantity sold and revenue earned in each round, for a total of 165 pricing rounds. This dataset allows us to observe variations in sales volume and revenue across different prices and to determine which competitor pricing strategies are most effective.
+
+New content for PLANS.txt:
+In order to optimize pricing strategy, we should consider a few key insights gained from analyzing the data. Notice how lowering the price results in an increase in sales volume and revenue within certain ranges of the competition's price (e.g., rounds 162, 166, 167). On the other hand, maintaining the same price as the competitor at a higher level tends to result in fewer sales (e.g., rounds 169, 170). Therefore, an ideal approach could be setting the price lower than the competitor while ensuring it remains competitive within the market.
+
+New content for INSIGHTS.txt:
+- Lowering prices within a certain range of the competitor's price can lead to increased sales volume and revenue (e.g., rounds 162, 166, 167).
+- Maintaining the same high price as the competitor may not be advantageous since it often results in fewer sales (e.g., rounds 169, 170).
+- It is crucial to adapt pricing according to the competition while ensuring the product remains competitive within the market.
+- By studying and analyzing this dataset, we can develop more informed pricing strategies that benefit our company's sales volume and revenue over the long term.
+
+My chosen price: 6.98

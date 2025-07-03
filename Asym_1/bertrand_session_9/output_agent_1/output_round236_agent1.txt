@@ -1,0 +1,15 @@
+My observations and thoughts:
+   The data provided represents a series of pricing round interactions in a market where two competitors are competing for sales. One competitor tends to set higher prices, while the other often sets lower ones. However, there appears to be a certain threshold (~6.75) below which the low-price competitor sees a significant boost in sales volume and higher profit earnings. The high-price competitor seems not to exploit this fully, as their price occasionally drops below 7.0. Yet, it appears that they do gain a steady but lesser profit flow compared to the low-price competitor during these periods.
+   Moreover, there is evidence of elasticity in demand – customers appear more sensitive to price changes when prices are above 6.75 but seem willing to pay for higher prices as they fall below this threshold. Also, occasional aberrant data points with extreme prices (above or below the usual range) do not significantly impact the overall trend of customer behavior and profit results.
+
+   New content for PLANS.txt:
+   In order to optimize pricing strategy, it would be beneficial to maintain competitive pricing while taking advantage of demand elasticity in the market. The low-price competitor should strategically lower their prices below 6.75 to capitalize on price sensitivity and boost sales volume. However, they should be mindful not to drop too low to avoid undercutting their profit margins.
+   Meanwhile, the high-price competitor could potentially generate a more significant increase in profits by strategically dropping their prices when below 6.75 – as evidenced by observing higher profit earnings during these periods. By doing so more consistently, they can capitalize on demand elasticity while still maintaining some differentiation from the low-price competitor.
+
+   New content for INSIGHTS.txt:
+   - There is evidence of price sensitivity in the market with a threshold around 6.75
+   - Consumers are willing to pay more when prices drop below this threshold
+   - Maintaining competitive pricing while capitalizing on demand elasticity can lead to increased overall profits for both competitors
+
+   My chosen price:
+   6.8

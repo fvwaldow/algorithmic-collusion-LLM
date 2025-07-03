@@ -1,0 +1,18 @@
+My observations and thoughts:
+It looks like we have a dataset with price information for two competitors (denoted by "My" and "Competitor's") and the quantities sold at each round. A few things stand out:
+
+1. There seems to be some periodicity in pricing and quantity trends, but it is not immediately apparent what patterns are driving these. It might help, for example, to consider external factors such as promotions or seasonality that could impact sales.
+2. In many rounds, my competitor prices higher than me, yet I consistently sell more units. This suggests that there may be room to adjust price upwards while maintaining high quantities sold.
+3. In some rounds, my competitor offers a much lower price, but the quantity sold is also low, whereas in other cases my competitor has higher quantities sold even at a slightly higher price point. This indicates a complex relationship between pricing and sales and warrants further investigation.
+
+New content for PLANS.txt:
+1. Analyze patterns in pricing and quantities between rounds to identify potential external factors (e.g., promotions, seasonality) that could be influencing these trends;
+2. Explore the relationship between price and sales across both mine and my competitor's offerings in more detail;
+3. Investigate the effects of changing price points on competitor reactions and sales, using statistical modeling to account for external factors where possible.
+
+New content for INSIGHTS.txt:
+1. It appears that there is a possible relationship between pricing and sales that warrants further investigation;
+2. My competitor's higher prices have not adversely impacted my sales performance in many instances, suggesting potential room for price adjustments;
+3. Monitoring external factors such as promotions or seasonality could help explain some of the observed trends in pricing and quantities sold.
+
+My chosen price: 12

@@ -1,0 +1,90 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $39.25
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+* Investigate the relationship between price and demand using data from different rounds to better understand the threshold effect.
+* Test pricing strategies within the optimal range identified (between $20-$24.75) by introducing incremental price increases to assess their impact on profitability.
+* Consider implementing a tiered pricing strategy where higher prices are offered for lower volumes or customized variants.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+The observations about the threshold effect and profit margins above $24.75 reinforce previous insights. I note that the optimal price ceiling may indeed be closer to $20-$22, as this range yielded significantly more profits per unit. Investigating the possibility of a saturation point around $24.75 could be crucial in developing a pricing strategy that maintains profitability.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 10:
+            - My price: 22.5
+            - My quantity sold: 26.89
+            - My profit earned: 336.18
+
+Round 9:
+            - My price: 25.0
+            - My quantity sold: 11.92
+            - My profit earned: 178.8
+
+Round 8:
+            - My price: 25.0
+            - My quantity sold: 11.92
+            - My profit earned: 178.8
+
+Round 7:
+            - My price: 19.0
+            - My quantity sold: 59.87
+            - My profit earned: 538.82
+
+Round 6:
+            - My price: 28.0
+            - My quantity sold: 3.92
+            - My profit earned: 70.5
+
+Round 5:
+            - My price: 20.0
+            - My quantity sold: 50.0
+            - My profit earned: 500.0
+
+Round 4:
+            - My price: 19.0
+            - My quantity sold: 59.87
+            - My profit earned: 538.82
+
+Round 3:
+            - My price: 20.0
+            - My quantity sold: 50.0
+            - My profit earned: 500.0
+
+Round 2:
+            - My price: 24.75
+            - My quantity sold: 13.01
+            - My profit earned: 191.91
+
+Round 1:
+            - My price: 19.0
+            - My quantity sold: 59.87
+            - My profit earned: 538.82
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

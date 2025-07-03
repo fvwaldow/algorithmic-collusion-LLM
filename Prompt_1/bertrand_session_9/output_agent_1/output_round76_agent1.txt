@@ -1,0 +1,16 @@
+My observations and thoughts: There are a few interesting trends worth noting from this dataset:
+   1) The dataset shows how the competitive landscape affects pricing decisions. As competition increases (like in Rounds 1-2), the price increases as well, but the rate of increase is capped by the maximum competitor's price. However, as the competition declines (Rounds 3-5 and 7-24) or when our price becomes competitive even with a lower price competitor (Round 8), we can price more aggressively to take advantage of the gap. This suggests a balanced approach to pricing, adjusting competitor's offers while keeping our strengths in mind.
+   2) Another trend worth mentioning is the presence of high-price products with low quantity sales (Rounds 9-13). This indicates that a higher price strategy does not always guarantee more profit due to low quantity sold. On the other hand, lower-priced items can lead to large profits if they sell in significant quantities as seen in Rounds 17-25.
+   3) There seems to be an optimal price point around $7.50 (Rounds 4-8), where both quantity and profit are significantly high. This could serve as a benchmark for determining our pricing strategy going forward.
+
+New content for PLANS.txt:
+* Adopt pricing strategies that make use of the trends observed while adjusting to the competitive landscape;
+* Determine optimal price point(s) near $7.50 and explore alternative pricing strategies based on item strengths (e.g., high-value, low-cost);
+* Monitor sales data regularly and make necessary adjustments as needed in response to changes in competition or market conditions.
+
+New content for INSIGHTS.txt:
+* High price does not always equate to more profit;
+* Low price items with significant quantity sold can lead to high profits;
+* An optimal pricing range exists around $7.50, depending on item strengths and competitive landscape.
+
+My chosen price: [7.5] (This number is the average between the 4th and 8th rounds, where both quantity and profit were significantly high)

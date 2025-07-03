@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+There are fluctuations in prices set across different rounds which indicate an adaptive strategy based on profit margins. A significant number of rounds (rounds 1 to 30) have consistent pricing at $19.5 for considerable quantities, suggesting high demand or profitability at that price point. 
+
+Notably, a few outlier rounds such as Round 39, Round 8, and Round 7 show prices higher ($20.5 and $21.5 respectively) with lower volumes sold, possibly indicating attempts to target different market segments or test higher price points for potentially higher profit margins per unit but at reduced sales volume.
+
+Some rounds display substantial losses, particularly Round 38 where the price was set very low ($1.25), resulting in a considerable negative profit ($-874.52).
+
+There is repeated emphasis on the $27 (Rounds 4, 13, and recurrent in initial rounds) and $21 (Round 23, Round 21) price points possibly due to past successful or benchmarking against favorable conditions.
+
+The quantity sold varies significantly from as low as 4.74 to high as 99.94 units per round, indicating flexibility in targeting either niche market segments with less demand (higher price, lower volume) or mass markets with more commoditized products (lower price, higher volume).
+
+New content for PLANS.txt:
+Consider analyzing demand elasticity across different price points to better understand the relationship between cost and consumer behavior. Investigate why low prices incur such losses to inform future strategies, especially for bulk sales. Explore segmentation of customers to tailor pricing more effectively rather than applying a uniform strategy blindly. 
+
+New content for INSIGHTS.txt:
+The data shows that while periods of consistent mid-range pricing ($19.5) deliver stable profits, deviating towards either very low or unusually high prices results in significant fluctuations—either losses (low price) or untested potential gains (high price). There seems to be a sweet spot around the mid-range which should be further investigated for optimal pricing. 
+
+My chosen price: 19.5

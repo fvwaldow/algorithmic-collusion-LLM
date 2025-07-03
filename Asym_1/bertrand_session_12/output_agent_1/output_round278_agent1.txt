@@ -1,0 +1,14 @@
+My observations and thoughts:
+   The data provided shows a long-term price war between the company and its competitor. There are several instances where the company slightly increased its price above the competitor's, but generally both prices remain close, with the competitor having a slightly higher price in about half of the pricing rounds. Interestingly, there are a couple of instances where the company drastically increases its price (round 183 and 185). In those cases, no sales occur for the company.
+
+   When the company initially dropped its price to $6.0 (Round 200), it led to significant increase in sales volume, demonstrating the elasticity of demand at lower prices. However, as the price slowly increased, sales volume started falling off again but not uniformly.
+
+   There seems to be a correlation between high product pricing and low sales volume, except for certain anomalous cases where high pricing led to zero sales (e.g., Round 183 & 185), while lower prices could lead to increased sales (e.g., Round 200).
+
+   INSIGHTS.txt:
+   - Identify the sweet-spot price: While keeping an eye on the competitor, gradually raise the price until a noticeable impact is observed in the sales volume, then lower it slightly but maintaining profitability to maximize sales (round 200 vs later rounds may serve as a guide)
+   - Monitor pricing patterns of the competitor: Adjusting prices based on competitor's movements could help stay competitive and potentially attract sales from undecided consumers.
+   - Experiment with high-priced promotions: Evaluate if a limited-time, strategically priced promotion at a higher price point, can induce customer interest, while ensuring the overall average revenue per sale remains beneficial (Round 183 & 185 could serve as a cautionary example).
+
+   My chosen price:
+   8.21 (based on average of prices throughout the provided data and keeping in mind the sales volume trends observed)

@@ -1,0 +1,15 @@
+My observations and thoughts:
+   The data provided represents the sales of a product at different price points over 100 rounds. It seems that the optimal price for this product is around 2.8-3.0, with sales significantly dropping when the price exceeds 3.0 or goes below 2.7. It also appears that the competition's price varies between 2.74 and 3.1 but tends to stay closer to the lower end of this range.
+
+   PLANS.txt:
+   - Maintain a competitive price to attract customers while maximizing profit.
+   - Monitor sales data to ensure we stay within the optimal pricing range (2.8-3.0).
+   - Regularly check competitor's prices and adjust ours accordingly to maintain a slight advantage in terms of cost.
+
+   INSIGHTS.txt:
+   - Customers appear to be sensitive to price increases above 3.0, leading to lower sales volumes.
+   - Price points closer to 2.7 seem to discourage customers from purchasing this product despite the lower price compared to competitors.
+   - Competitive pricing can attract a higher volume of sales while still maintaining profitability.
+   - Keeping track of competitor's prices is essential to staying competitive and minimizing any potential loss of market share.
+
+   My chosen price: 2.85 (This number is taken from the optimal range found through observations, as 2.85 is close to both the floor and ceiling where sales volume decreases significantly)

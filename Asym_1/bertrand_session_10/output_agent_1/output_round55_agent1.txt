@@ -1,0 +1,18 @@
+My observations and thoughts:
+    - From the market data, it appears that prices between $6.5 and $10 have resulted in a significant number of units being sold. However prices below $6.5 usually lead to large quantities being sold but with low profit, while prices above $10 result in very few or no sales.
+    - The competitor's price doesn't seem to have a direct correlation with the quantity sold and profit earned for my product, suggesting that my strategy should not always rely on matching the competitor's price to maximize profit.
+    - However, the highest profits are made when my sales volume is moderate (ranging from 5-30 units per round), as seen in Rounds 50, 51, 52 and 53 where prices ranged between $7.41 to $8.45.
+    - In dynamic pricing, I should keep an eye on the maximum price the customer is willing to pay ($18.82) as well as the optimal profit margin in our given range ($7 to $18.82).
+
+New content for PLANS.txt:
+   - Implement a dynamic pricing strategy that considers the sales volume and profit margins from the market data.
+   - Continuously monitor the competitor's prices, but avoid direct price matching.
+   - Set the price within the optimal profit margin range to encourage moderate sales volumes.
+
+New content for INSIGHTS.txt:
+   - Optimal sales volume is essential in maximizing our profits.
+   - Competitor's pricing has an indirect impact on our sales and profit, but adjusting our own prices based on theirs alone may not be the best strategy.
+   - Maintaining a price within the given profit margin range is crucial for maximum profitability.
+
+My chosen price:
+   $8.45 (within the optimalprofit margin range and maintaining a moderate sales volume as seen in successful rounds)

@@ -1,0 +1,17 @@
+My observations and thoughts:
+After reviewing the provided market data and files, I notice that the optimal price range for maximum profit seems to be around $2.85 (as mentioned in INSIGHTS.txt), but there are some instances where prices slightly above this range also result in high profits, especially when combined with a moderate quantity sold (e.g., Round 170). Additionally, prices below $2.85 tend to reduce the profit earned.
+
+It's essential to consider that the price at which you want to sell your goods is crucial, as it influences not only the revenue but also demand. A balance must be struck between maximizing profits and maintaining sufficient demand for the product.
+
+New content for PLANS.txt:
+* Investigate the optimal quantity sold in relation to the chosen price range
+* Analyze market trends and fluctuations in relation to our pricing strategy
+* Consider using data from rounds with high profits (e.g., Round 170) to make informed decisions about optimal selling points
+
+New content for INSIGHTS.txt:
+* There is an apparent correlation between setting the price slightly above $2.85 and achieving higher profit margins, at least when there is a moderate demand
+* The sales quantity must be taken into account in conjunction with pricing strategy to achieve maximum revenue
+* Not all variations from $2.85 impact profits negatively; some combinations can lead to favorable results
+
+My chosen price:
+Consider implementing a price slightly above the previously optimal range, approximately at $2.90 or higher, while also ensuring that this level of demand persists.

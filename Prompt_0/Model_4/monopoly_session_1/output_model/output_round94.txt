@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+From the data provided, it seems like there is a fluctuation in prices and corresponding quantities sold, along with profits earned. There appears to be some optimal price range where profit is maximized, specifically around $2.4$ to $2.6$, indicating that this could be profitable price points. Additionally, there are rounds with higher profits, such as Round 98 (Profit: $30.79$) and Round 31 (Profit: $32.2$). This pattern suggests strategic testing of various price points to find the most profitable one.
+
+New content for PLANS.txt:
+Identify and test price points within the range of $2.4$ to $2.6$ to maximize profit consistently.
+
+New content for INSIGHTS.txt:
+**Analysis and Reflections:**
+
+1. **Price and Quantity Correlation:** The data shows that there is a strong correlation between price changes and the quantity sold. Lower prices seem to result in higher sales in Round 33, while higher prices seem to reduce sales significantly in Round 27.
+   
+2. **Profit Maximization:** There are clear instances where profits are significantly higher, such as in Round 19 (Profit: $3.6$ for a price of $3.0$, and in Round 98 (Profit: $30.79$). These indicate optimal points that should be revisited to fine-tune pricing strategies.
+   
+3. **Strategy Adjustments:** The fluctuations in profit across rounds suggest that the strategy needs to adapt dynamically based on market response. Regular testing is crucial to stay ahead of competition.
+
+My chosen price:
+2.5

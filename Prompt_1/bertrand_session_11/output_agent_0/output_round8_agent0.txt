@@ -1,0 +1,13 @@
+My observations and thoughts:
+   It appears that the current pricing strategy doesn't seem to be fully optimized yet, as it doesn't maximize profit in the most effective way. The sales volume shows a slight increase when the price was lowered, but it's still not at its peak given the market constraints ($14.66 maximum price). Competitor prices are also affecting sales volume and profit.
+
+   New content for PLANS.txt:
+   - Investigate the impact of competitor pricing on our own price elasticity of demand to determine the optimal pricing range that will maximize profit while accounting for market constraints.
+       - Simulate different price points within the established market constraint to determine which will generate the highest profit per order, considering economies of scale based on volume.
+       - Test a tiered pricing structure that incentivizes larger order quantities and improves profitability by leveraging production cost savings per unit as volume increases.
+
+   New content for INSIGHTS.txt:
+   - A dynamic pricing strategy where prices are adapted according to competitor's moves has the potential to optimize profit by increasing sales volumes, as demonstrated by the increase in profit when the price was lowered compared to Round 1.
+         - The tiered pricing structure, when coupled with production cost savings per unit as volume increases, may further improve profitability.
+   My chosen price:
+   9.05

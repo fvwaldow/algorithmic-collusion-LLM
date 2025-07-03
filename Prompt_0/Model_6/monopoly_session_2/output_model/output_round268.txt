@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+Based on the provided information, it appears that there is a consistent pattern of prices ranging from 4.95 to 5.15. The highest profit earned was 156.66 in Round 175 at a price of 5.06, while the lowest profit earned was 0 in Round 204 at a price of 155.03 (although this likely resulted from no sales). 
+
+The data suggests that prices above 5.00 tend to result in higher profits, with the highest average profit per round occurring between 5.02 and 5.04. However, it is also clear that prices significantly above or below these optimal ranges can lead to decreased profitability.
+
+New content for PLANS.txt:
+
+- Investigate why Round 204 resulted in both a unique high price (155.03) and no sales.
+- Analyze the impact of slightly decreasing prices within the optimal range (e.g., from 5.02 to 4.99).
+- Consider strategies to prevent selling at the extreme ends of pricing (i.e., avoiding extremely low or high prices).
+
+New content for INSIGHTS.txt:
+
+- Optimal price range appears to be between 5.00 and 5.04, with profits peaking around 154.48 - 156.66.
+- Prices above this optimal range may result in decreased profitability due to reduced demand.
+
+My chosen price:
+5.02

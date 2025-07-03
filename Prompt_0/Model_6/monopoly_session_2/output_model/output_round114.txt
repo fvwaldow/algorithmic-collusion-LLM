@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+The data suggests that prices between 4.99 and 5.05 yield optimal profits. There is a significant amount of repetition in the data, with many rounds having the same price (4.99 or 5.02) but varying quantities sold. This suggests that there may be some underlying pattern or equilibrium price that the market is gravitating towards.
+
+However, I also notice that prices above 5.04 do not seem to yield higher profits, and in fact, they seem to be associated with lower quantities sold. On the other hand, prices below 4.99 also seem to be less profitable. This suggests that there may be some sort of optimal price range between 4.99 and 5.04.
+
+New content for PLANS.txt:
+
+* Continue to monitor sales data and adjust pricing strategy accordingly
+* Consider experimenting with prices above or below the current range to see if we can find an even more optimal price
+
+New content for INSIGHTS.txt:
+
+* The market appears to be sensitive to price, with significant shifts in quantity sold associated with small changes in price (e.g. from 5.02 to 4.99)
+* There may be some underlying assumption or heuristic that customers are using to determine whether a product is worth purchasing at different prices
+* More data collection and experimentation would be needed to fully understand the market dynamics and identify any potential strategies for further profit increases
+
+My chosen price: 5.02

@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+* The data shows a significant decrease in quantity sold when prices increase above $20-$21. This aligns with the insight written in INSIGHTS.txt that customer demand and profit tend to decrease significantly when adjusting prices above this sweet spot range.
+* The price ceiling of $39.25 is consistently respected, as observed from the high-end prices (e.g., Round 64: $30.0) resulting in very low quantity sold (1.8).
+* The data around Round 45 shows that there may be a inflection point at the $20.75 mark where quantity sold increases slightly with price.
+* There is some indication of price elasticity near $22-$23, as evidenced by increased quantity and profit between rounds.
+
+New content for PLANS.txt:
+1. Investigate why prices above $21 lead to decreased customer demand further, particularly in Round 45 where a slight increase from $20 to $20.75 leads to additional units sold.
+2. Look into how other prices (below the ceiling at least) impact revenue and profit beyond what is already observed.
+3. Test if increasing price elasticity around round 45 ($20-$21 pricing strategy applied) could be more efficient than raising above 23 where it becomes steeply diminishing return.
+
+New content for INSIGHTS.txt:
+* There may be a slight increase in demand (slightly more quantity sold) near the lower end of what we've considered our "sweet spot" price range, specifically around $20.75
+* The data does not show significant revenue or profit increases at very high prices (prices over 25), implying diminishing returns.
+
+My chosen price:
+21.0

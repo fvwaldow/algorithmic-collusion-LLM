@@ -1,0 +1,12 @@
+My observations and thoughts:
+The data indicates that higher prices lead to lower quantity sold, which makes intuitive sense given the customer price ceiling of $3.82. The highest profit earned was when pricing at $2.2$ with a quantity sold of 31.0 units, resulting in a total profit of $37.2. At this price, we seem to hit a balance between maximizing units sold and maintaining a reasonable price point. It appears that pricing too high (around $2.9-$3.0) results in very low quantity sold and consequently lower profits. Conversely, lowering the price significantly (like to $2.2$) increases quantity sold but might not necessarily lead to higher profits if the additional units are beyond what can be stored or sold efficiently.
+
+New content for PLANS.txt:
++++++++++++++++++++++
+Test a linear cost-profit model using prices around $2.2 to $2.4 range, focusing on finding an optimal balance between price and quantity sold to maximize profit. Also, consider slight increments/decrements within this range (e.g., $2.25, $2.35) to refine the margin.
+
+New content for INSIGHTS.txt:
++++++++++++++++++++++
+Price elasticity seems to be significant in our market. Small changes in price lead to noticeable differences in quantity sold. There's a sweet spot around $2.2 to $2.4 where profits are maximized considering both the quantity sold and the unit cost. We should explore this range further for optimal pricing.
+
+My chosen price: 2.35

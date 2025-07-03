@@ -1,0 +1,15 @@
+My observations and thoughts: Given the current market data, the highest profit was achieved when the price was $28 (Round 8), but the quantity sold was comparatively lower than the prices of $30 - $35 where the quantity went up to approximately 1.78 - 2.89 units. However, these higher priced rounds also had lower profits. The maximum profit earned with a single sale was in Round 4, but with an unrealistically high price ($29.5) which didn't lead to additional sales. In Round 2, the pricing was too low (-$699.22 loss), while it appeared oversaturated in Round 1 resulting in no sales.
+
+   New content for PLANS.txt:
+    - Continue with elasticity-based pricing and consider additional variants to find an optimal balance between price and volume.
+      - Analyze previous pricing tiers and their effect on sale volumes as well as profit.
+      - Experiment with a tiered, discount-based model that takes into account the number of units purchased for increased sales while maintaining profitability.
+    - Introduce customer segmentation and target specific price points to those segments, utilizing psychometric pricing strategies.
+
+   New content for INSIGHTS.txt:
+    - It is crucial to find a pricing sweet spot that maximizes both sales volume and overall profit, as demonstrated in Round 8.
+      - To achieve this objective, consider combining elasticity-based pricing with targeted promotions based on customer segments.
+      - A tiered pricing model with multi-buy discounts could optimize the balance between the two goals while increasing customer segmentation for profitable promotions.
+    - Keep in mind that price points outside the range of $28 - $51.22 are not feasible, as they do not lead to sales or result in significant financial losses.
+
+   My chosen price: 30.0 (This new price will be tested based on the plan to refine elasticity-based pricing by analyzing sale volume and profit at different tiers.)

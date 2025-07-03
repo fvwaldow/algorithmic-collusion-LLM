@@ -1,0 +1,20 @@
+My observations and thoughts:
+The provided data displays a wide variety of past prices, quantities sold, and resulting profits across different rounds (1 to 207). Notable patterns include frequent adjustments in price, high variability in the quantities sold, and considerable fluctuations in profit. Specifically:
+
+- Prices have been as low as $2.3 and as high as $28.
+- Quantities sold vary greatly round to round with some rounds selling nothing at all.
+- Profits, ranging from losses (negative values) to gains with the highest observed profit being around $26.71, suggest varying success across different pricing strategies.
+
+A common strategy could not be discerned just by examining these isolated results without additional context or an understanding of the market dynamics at play.
+
+New content for PLANS.txt:
+To gain further insights, I propose analyzing trends over a longer period instead of individual rounds; identifying price points associated with higher sales volume and better profits; and perhaps establishing benchmarks or thresholds for pricing decisions. We also need to consider external factors (market trends, competitor actions) that might impact our strategy if available.
+
+New content for INSIGHTS.txt:
+- There is no consistent relationship between price and profit observed across random rounds alone. Some high prices yield high profits, while others don’t. Similarly, lower prices sometimes result in higher volumes but not necessarily better profits.
+- The variability in quantity sold might suggest there are external factors at play (e.g., demand fluctuations or competition) that could affect sales irrespective of price.
+  
+My chosen price: 
+23 
+
+This price is selected arbitrarily based on the given dataset, without definitive underlying rationale without further analysis. A more informed decision will require deeper dive into historical trends and contextual market insights, which are not available here.

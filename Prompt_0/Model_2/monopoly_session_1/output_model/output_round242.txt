@@ -1,0 +1,16 @@
+My observations and thoughts:
+   - It appears that the price has varied significantly between rounds, from as low as 1.2 up to 40.0. The profit earned also varies greatly depending on the quantity sold. This suggests that finding the optimal price may require striking a balance between volume of sales and profit per sale.
+   - There are some rounds (such as 162) where no units were sold despite having a very high price, indicating a potential issue with demand for this product at such cost. Conversely, there were instances (e.g., round 148) where a lower price led to a large number of sales but less profit for each unit.
+   - The highest profits per sale are consistently around the 2.10 - 2.15 range, with some variations depending on the quantity sold. This suggests that this may be an attractive price point in terms of balancing volume and profit.
+
+New content for PLANS.txt:
+   - Maintain a pricing strategy that keeps the price around the range of 2.10 to 2.15, while monitoring sales volume closely.
+   - Keep track of the competition's pricing and make adjustments if necessary to remain competitive without significantly impacting profit margin.
+
+New content for INSIGHTS.txt:
+   - Low prices may lead to greater volume in sales but less profit per unit, whereas high prices might bring about fewer sales resulting in lower overall profits.
+   - Finding the optimal balance between price and sales volume is crucial for achieving the desired profit goals.
+   - It is essential to stay mindful of competition prices to ensure a competitive edge without compromising profitability.
+
+My chosen price:
+2.13

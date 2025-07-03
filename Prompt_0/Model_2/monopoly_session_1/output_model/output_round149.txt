@@ -1,0 +1,7 @@
+My observations and thoughts: The data provided shows a consistent trend in the number of units sold (quantity) relative to the price per unit. On average, the price fluctuates between 1.25 and 2.15, with the higher prices resulting in a smaller quantity sold and lower overall profit earned. Notably, some significant outliers occur when the price significantly deviates from this trend. For instance, at a price of 1.25, a high quantity of units were sold resulting in a relatively larger profit. Conversely, at prices above 2.14, less than 37 units were typically sold, leading to lower overall profits. However, there is some inconsistency when the price remains constant across several rounds and the number of units sold slightly varies.
+
+   New content for PLANS.txt: Keep a close eye on pricing fluctuations and adjust accordingly to maximize profit. Continue monitoring outliers in either direction for potential future opportunities.
+
+   New content for INSIGHTS.txt: The relationship between price and quantity sold is not consistently linear, as some significant outliers exist. However, it appears that the most profitable pricing strategy lies within the 1.25 - 2.14 range, with prices closer to ~2.11 yielding a higher number of units sold.
+
+   My chosen price: 2.11 (rounded from the average of the most profitable sales)

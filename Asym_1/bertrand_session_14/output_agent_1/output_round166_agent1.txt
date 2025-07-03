@@ -1,0 +1,10 @@
+My observations and thoughts:
+For this data set of 87 pricing rounds for a hypothetical product, I notice that the price ranges from as low as 12.5 to as high as 35.0. The competition's prices range broadly but seem to follow an upward trend towards round 60 before dropping in later rounds. My competitor sometimes changes their price based on my own price, occasionally undercutting me when I raise my price while charging higher when I lower mine. In some instances, there seems to be a correlation between my price and the number of items sold, but it's not consistent. It appears that changing the price has an effect on sales in certain situations. However, predicting how customers will react to changes remains challenging due to the varying factors at play.
+
+New content for PLANS.txt:
+In light of these observations, I plan to make a more dynamic and adaptive pricing strategy that takes into account not only my current price but also the competitor's price and observed trends in buyer behavior. I will aim to strike a balance between maximizing profits while maintaining or increasing sales volume. To accomplish this, I will use statistical modeling techniques and Machine Learning algorithms to forecast optimal prices based on historical data.
+
+New content for INSIGHTS.txt:
+By analyzing the provided data set, I have gained insights into some factors influencing pricing decisions. Firstly, customer demand seems responsive to price changes within certain ranges, although the specifics are difficult to quantify due to shifting trends in the competition's prices and other external factors such as promotions or seasonality. Secondly, my competitor's pricing strategy appears to be reactive, adjusting their own price based on mine in some cases. Lastly, there is likely a tipping point at which increasing the price too much may lead to significantly fewer sales but also higher profitability per transaction. Therefore, it's crucial to understand and navigate this balance when making strategic pricing decisions.
+
+My chosen price: 17.5

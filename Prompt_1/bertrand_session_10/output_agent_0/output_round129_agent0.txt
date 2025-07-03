@@ -1,0 +1,16 @@
+My observations and thoughts:
+   - The data provided represents sales and profits from varying prices of a product over several rounds. It appears that there is a correlation between the price of the item and the quantity sold, with higher quantities being sold at lower prices and fewer quantities at higher prices (with the exception of Round 42 where a much higher price led to no sales). However, this relationship does not consistently translate into higher profits - in some cases, lower prices seem to yield higher profit margins.
+   - Certainly there seems to be a sweet spot for optimal pricing based on the data provided, but finding it is a balancing act between quantity sold and profit margin. It is important to consider the costs associated with producing the item as well when setting the price.
+   - Given that we are only looking at the profits from sales, there may be additional factors at play, such as the total production cost of the item and the time it takes to produce one unit, which could influence whether a particular price is advantageous or not. A more comprehensive analysis would consider these factors.
+
+New content for PLANS.txt:
+   - Observe the relationship between price, quantity sold, and profit margin over several rounds of pricing. This will help identify trends and determine the optimal price for maximizing profitability while also considering costs associated with production.
+   - Keep track of the various prices tested to see if certain price points consistently yield higher profits or sales, and take note of any insights that can be gained from analyzing the data over time.
+
+New content for INSIGHTS.txt:
+   - The relationship between price, quantity sold, and profit margin is not straightforward, with lower prices sometimes resulting in higher profit margins (e.g., Rounds 50, 49). A balance must be struck between maximizing sales through low prices while maintaining a reasonable profit margin.
+   - Prices that are too high may yield fewer sales but potentially higher profit margins per unit sold, whereas lower prices can lead to greater quantities sold with potentially lower profit margins per unit. It is important to consider the overall impact of these factors on total profitability.
+
+My chosen price:
+ 6.15
+Keep in mind that this number represents my personal interpretation of the data and optimal pricing strategy, but actual optimal pricing decisions may vary based on factors such as production costs and time required to produce one unit.

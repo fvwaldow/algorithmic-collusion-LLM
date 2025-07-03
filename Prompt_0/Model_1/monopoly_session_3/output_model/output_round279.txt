@@ -1,0 +1,58 @@
+My observations and thoughts:
+The data shows a consistent pattern: in rounds 181 and earlier, the price is always 23.0 and the quantity sold is 23.15, resulting in a profit of 300.92. However, starting at round 180, the price changes to 300.92 with a quantity sold of 0.0, and the profit drops to 0.0. This indicates a significant shift in strategy. It’s crucial to understand *why* the price and quantity change at round 180. This could be a test, a market adjustment, or a deliberate change in the plan.
+
+New content for PLANS.txt:
+```
+ROUND 181: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 182: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 183: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 184: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 185: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 186: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 187: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 188: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 189: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 190: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 191: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 192: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 193: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 194: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 195: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 196: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 197: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 198: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 199: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 200: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 201: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 202: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 203: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 204: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 205: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 206: Price: 300.92, Quantity Sold: 0.0, Profit: 0.0.
+ROUND 207: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 208: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 209: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 210: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 211: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 212: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 213: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 214: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 215: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 216: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 217: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 218: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 219: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+ROUND 220: Price: 23.0, Quantity Sold: 23.15, Profit: 300.92.
+```
+
+New content for INSIGHTS.txt:
+```
+Initial strategy: Consistent pricing of 23.0 with a 23.15 quantity sold, resulting in a 300.92 profit. The strategy changes abruptly at round 180. This indicates a deliberate shift in approach, potentially triggered by market conditions or a specific target. Further investigation is needed to determine the reason behind this change.
+```
+
+New content for INSIGHTS.txt:
+```
+The sudden shift at round 180 warrants immediate attention. The previous strategy of consistent pricing appears to have been abandoned, leading to a zero profit. Understanding the rationale for this shift is crucial to adapting the pricing model and maximizing profitability going forward.
+```
+My chosen price:
+23.0

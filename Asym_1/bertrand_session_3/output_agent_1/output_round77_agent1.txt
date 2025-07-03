@@ -1,0 +1,21 @@
+My observations and thoughts: The data provided represents a pricing game between two competitors, where the objective seems to be maximizing profit while selling a certain quantity of goods.
+
+There are several patterns visible as the pricing strategy evolves. Initially, both competitors price their goods high (3.15, 3.0) but sell very little (0.73, 1.32). Over time, there is an apparent attempt to lower the price to increase sales, with our competitor being slightly more aggressive in this regard (their minimal price was as low as 2.5). However, they seem to raise their price again after round 8, likely due to a decrease in demand or increased profitability at lower prices. Conversely, our competitor often raises the price following periods of lowered prices to maximize profit.
+
+The quantity sold appears to be influenced more by the competitor's move than pricing changes from our own company (except for some rounds where pricing is very low). In addition, there seems to be an attempt at a pricing strategy based on the inverse relationship between price and demand - when prices are lowered, sales increase, but overall profitability decreases. This strategy does not seem sustainable as high quantities of goods are sold only in specific periods with lower-than-average prices.
+
+PLANS.txt:
+- Observe competitor's pricing movements in the short and long term
+- Assess impact on sales quantity and profit for different pricing levels
+- Maintain a pricing strategy that emphasizes maximizing profit while aiming to sell enough goods to remain competitive
+- Test various pricing strategies, such as matching competitor's moves or attempting to outperform them with more aggressive pricing strategies
+- Adjust the plan based on market reactions and competitor responses
+
+INSIGHTS.txt:
+- The relationship between price and demand is inverse but does not seem sustainable in the long term due to profitability constraints
+- Price changes appear to impact sales quantity primarily, although a lag effect seems evident (e.g., a price increase may lead to a period of reduced sales)
+- Profit margins are typically higher for our competitor when they raise prices after periods of lower pricing, indicating they prioritize maximizing profit over increasing sales
+- When prices reach a certain point that is more attractive to customers, sales spike significantly (e.g., round 20 with a price of 2.65)
+- It may be beneficial to consider strategic partnerships or diversification in order to maintain competitive advantage when our competitor's pricing strategy proves effective for extended periods.
+
+My chosen price: To begin, I suggest starting with a moderate price point closer to the average (around 2.9). This will help preserve profit margins while demonstrating that we are keeping up with market trends and remain competitive against the opposition. However, it's essential to closely monitor competitor reaction, sales quantities, and profitability. Ultimately, I expect the need for a more aggressive pricing strategy if desired results are not observed (e.g., increased sales, higher profit).

@@ -1,0 +1,17 @@
+My observations and thoughts:
+   It appears that the given data represents a series of rounds where two products with different prices compete against each other. The number of units sold (quantity_sold) along with the revenue gained for each unit sold (price) is provided for each round. In addition, there are instances where the price of one product drops significantly or rises at a lower rate than its competitor (competitor's price). One notable exception is Round 169 where my product's price was extremely low compared to the competition resulting in an unprecedented surge in demand and heavy losses. It seems like the key factor influencing sales is price more than quality, with customers more likely to buy a cheaper option, even when the difference in price is not substantial (ex: Round 168 versus 167).
+
+   New content for PLANS.txt:
+   - Study competitor pricing strategies and customer response to better understand market dynamics: Inform decisions on optimal product pricing and marketing efforts.
+   - Analyze specific rounds where our price was lower (or slightly higher) than the competition yet had a significant impact on sales: Identify patterns, if any, in order to optimize pricing strategy when similar situations arise.
+   - Consider experimenting with various pricing tiers or bundles: Determine if offering multiple price points can help capture a wider customer base and increase overall revenue.
+   - Monitor market trends and customer preferences for potential future adjustments in product offerings or pricing.
+
+   New content for INSIGHTS.txt:
+   - Our customers seem to be most sensitive to small price changes, making it essential to carefully manage pricing strategy.
+   - The lower the price, the higher the demand (examples include Round 176, 168, and 163), but keeping costs consistent while adjusting prices downward may lead to losses or operating at a deficit (such as seen in Round 169).
+   - A moderate pricing strategy, balancing price competitiveness with profitability, appears to be the most effective approach.
+   - Regularly tracking and assessing competitor pricing moves is crucial to maintaining market competitiveness and maximizing revenue.
+
+   My chosen price:
+   2.9 (with a slight flexibility of +/- 0.05 depending on specific circumstances, but leaning towards the lower end whenever possible based on observations)

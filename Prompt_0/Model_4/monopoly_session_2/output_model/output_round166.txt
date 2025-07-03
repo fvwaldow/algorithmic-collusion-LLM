@@ -1,0 +1,12 @@
+My observations and thoughts:
+I have noticed a few patterns in the profit earned based on the quantities sold and prices. Initially, there were significant profits when large quantities (like 3.73) were sold at higher prices (20.0 or above). However, as prices started to drop, especially after price 12.5, the focus shifted towards maintaining a steady profit through consistent sales, which is evident from many rounds where the quantity sold and price align to achieve a consistent profit of around 0.45 to 0.6. 
+
+New content for PLANS.txt:
+Adjust our prices more dynamically, focusing on achieving the target profit of about 0.6 per unit sold rather than trying to maximize profits in single high-value rounds. This approach could enhance the consistency of our earnings and mitigate risk associated with volatile market conditions.
+
+New content for INSIGHTS.txt:
+Understanding the market's price elasticity is crucial. In earlier rounds, there was a substantial profit when quantities were large, indicating potentially high demand. As prices dropped, the focus shifted towards maintaining steady profits per unit sold, suggesting that customers may have become more price-sensitive. It's vital to continue monitoring this trend and adapt our pricing strategy accordingly to optimize consistent earnings while staying competitive.
+
+My chosen price: 12.5
+
+This price seems to balance between achieving a stable profit and maintaining customer appeal, based on the observed patterns in profit per round and quantity sold.

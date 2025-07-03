@@ -1,0 +1,17 @@
+My observations and thoughts: The data provided is a listing of price and quantity pairs for each round in a series of hypothetical sales transactions between a business and its competitor. It appears that the goal is to determine an optimal price strategy given the competitive landscape. Some trends can be observed such as when the business lowering its prices tends to increase the volume of sales, but at the cost of reduced profit margins per unit sold. Additionally, it seems there are instances where increasing the price results in a decrease in the number of units sold, but with an increased average profit per unit. It may also be useful to note that occasionally raising or lowering the price does not seem to significantly affect sales volume.
+
+   New content for PLANS.txt:
+   - Continue monitoring competitor pricing and sales data.
+   - Implement a price sensitivity analysis using collected data to better understand how changes in price may impact our profit margin.
+   - Use regression modeling techniques to create a predictive sales model that can aid in making informed decisions regarding future pricing strategies.
+   - Regularly adjust the predicted optimum pricing based on current market conditions and updated competitor insights.
+   - Continuously analyze sales data after each price change to assess the effectiveness of our pricing strategy and make necessary adjustments as needed.
+
+   New content for INSIGHTS.txt:
+   - Consumer responsiveness to price changes varies depending on the current market conditions, product features, and competitor activity.
+   - Lowering prices can lead to increased sales volume but may result in reduced profit margins per unit sold.
+   - Increasing the price may cause a decrease in the number of units sold but potentially higher average profit per unit.
+   - It's crucial to regularly review pricing decisions and make adjustments as needed based on market conditions and competitor activity.
+   - Developing a predictive sales model can help with decision-making when it comes to pricing strategies.
+
+My chosen price: 28.0 (This is neither the "best" nor the most profitable choice, but I see it as a middle ground that takes into consideration both current average prices and trends in the data.)

@@ -1,0 +1,15 @@
+1. Observations and thoughts:
+From the market data, we can see that higher prices lead to decreased quantity sold but increased profit per unit due to lower production costs. A price of $13.0 resulted in a higher quantity sold (94.27 on average) than a low price of $1.0 which led to a high loss (-899.55 on average). The maximum price tested was $15.95 in Round 16, which still resulted in reasonable profit ($496.7). Therefore, it is essential to find the right balance between pricing and quantity sold to maximize profit while staying within customers' willingness to pay ($27.28 as the maximum price threshold).
+
+2. New content for PLANS.txt:
+- Continue testing different pricing strategies within the range of $13.0 - $27.28 to identify optimal price points. Specifically, try incremental increases from current $14.5 and explore tiered pricing, volume discounts, or product bundling.
+- Conduct A/B tests on different days of the week and times of the day to understand demand patterns.
+- Monitor customer response, loyalty, and long-term profits when testing these strategies.
+
+3. New content for INSIGHTS.txt:
+- In addition to systematically exploring price points and analyzing demand elasticity, consider using promotional discounts, tiered pricing, or product bundling to increase revenue.
+- Monitor external factors like seasonality, competitive offerings, and macroeconomic trends to ensure long-term profit maximization while maintaining agility and responsiveness.
+- Be prepared to adapt pricing strategies based on data-driven observations.
+
+4. My chosen price:
+Considering the current market data and insights, I suggest starting with a price of $15.0. This is above the average sold quantity price point of $13.0 but well within the maximum price threshold of $27.28, allowing for some room to test different strategies without risking customer acceptance. Monitor the reaction to this price and make data-driven adjustments accordingly.

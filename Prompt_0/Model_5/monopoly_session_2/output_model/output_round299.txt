@@ -1,0 +1,16 @@
+My observations and thoughts:
+While observing the provided data, several patterns emerge regarding pricing strategies and their corresponding profits. 
+
+1. The highest single-round profit appears repeatedly with the price point of $10.5 for a quantity of 0.59, garnering a consistent profit of approximately $4.32. This suggests that this combination could be a reliable baseline strategy.
+   
+2. There are various other stable profit ranges, such as around $3.5-$5.7 per round with different price-quantity combinations, indicating multiple viable strategies depending on available inventory or market conditions.
+   
+3. Variations also show seasonal patterns; for instance, periods with higher profits around $174-$180 suggest specific high demand ( potentially holiday) times when pricing closer to $6 might yield significant returns over larger quantities.
+
+New content for PLANS.txt:
+Explore testing the baseline strategy of pricing at $10.5 with 0.59 quantity for a consistent, reliable profit margin. Investigate historical data to identify if this pattern correlates with peak demand or off-peak periods for further fine-tuning. Additionally, prepare alternative price points around the $3.5-$5.7 range for varied market conditions.
+
+New content for INSIGHTS.txt:
+The reliability of a strategy centered at $10.5 and 0.59 quantity (yielding approximately $4.32 per round) warrants further investigation. Moreover, seasonality seems crucial — the substantial profits around ~$174 over a different volume range (~62 units) hint at high-demand periods when higher volumes could be acceptable or even preferable.
+
+My chosen price: 10.5

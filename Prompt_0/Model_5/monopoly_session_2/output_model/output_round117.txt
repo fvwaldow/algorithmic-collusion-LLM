@@ -1,0 +1,10 @@
+My observations and thoughts:
+There are multiple periods of repeated prices, quantities, and profits throughout the provided data. Occurrences of price points between $10.45 - $11.5$, with quantities ranging from $0.17$ to $1.1$ are noticeable. The profits fluctuate between $1.41$ to $4.62$. Notably, there isn't a clear correlation between price and profit or quantity sold and profit that could straightforwardly guide pricing decisions.
+
+New content for PLANS.txt:
+Given repeated results with similar ranges of prices, quantities, and profits, it seems beneficial to focus on narrower price band testing around the observed frequent middle values ($10.45 - 10.6$) to gather more granular data. This will help in understanding subtle relationships between pricing points and their impact on sales volume and profit margins within this range.
+
+New content for INSIGHTS.txt:
+The data shows high variability, indicating that factors other than price (possibly demand fluctuations, day-specific promotions, external market changes) significantly influence sales and profitability. Given the range of profits associated with similar pricing ($1.41 - $4.62$), it seems critical to consider these external variables in future analysis or control strategies.
+
+My chosen price: 10.55

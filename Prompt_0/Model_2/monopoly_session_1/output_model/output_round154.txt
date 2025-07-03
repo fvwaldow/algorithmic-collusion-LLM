@@ -1,0 +1,7 @@
+My observations and thoughts: This data represents the selling prices and quantities of an item for a number of rounds. At first glance, it appears that the price varies from round to round but the average quantity remains relatively consistent around 36-37 items per round. It should be noted that in some instances, the price spikes significantly, such as from Round 95 to Round 94 and Round 89 to Round 90. This may suggest that raising the price too high leads to a decrease in demand.
+
+   New content for PLANS.txt: It is necessary to continue monitoring the impact of price fluctuations on demand in subsequent rounds. Analyze the average quantity sold per round and establish a link between price and sales volume to determine an optimal pricing strategy. In general, it may be advisable to avoid significant price increases while focusing on strategies to incentivize customers to purchase more items at current prices.
+
+   New content for INSIGHTS.txt: The data suggests that there is an inverse relationship between the selling price of the item and the quantity sold per round. By raising the price beyond a certain threshold, there is a significant decrease in demand. This highlights the importance of careful pricing considerations to maximize profitability while minimizing lost sales due to high prices. Additionally, it may be beneficial to monitor market trends and competitor pricing strategies to stay competitive and inform potential future pricing adjustments.
+
+   My chosen price: 2.14

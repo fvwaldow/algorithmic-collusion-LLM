@@ -1,0 +1,20 @@
+My observations and thoughts:
+  It looks like we have 91 pricing rounds of data to consider. The price ranges from 12.00 to 13.78, with the mean being around 12.54 and a standard deviation of approximately 0.60.
+
+  There are multiple trends worth noting:
+   - Prices tend to be lower when our competitor's price is higher than ours, suggesting that customers are more sensitive to small differences in our price compared to the competition.
+   - When our price is only slightly higher than the competitor (12.50 vs 12.60), our quantity sold increases by a noticeable amount compared to when it's much higher (like 13.78 vs 12.90).
+   - There are some cases where we raised the price (e.g., Round 43 from 12.5 to 13.78), but this seems to have resulted in a significant decrease in quantity sold.
+
+ New content for PLANS.txt:
+   - Continue monitoring competitor's prices and make adjustments accordingly, prioritizing keeping our price slightly below theirs.
+   - Analyze more closely the relationship between pricing and quantities sold to identify any additional trends or patterns.
+   - Consider increasing our marketing efforts in case of a significant price increase.
+
+ New content for INSIGHTS.txt:
+   - Customers are price-sensitive but not overly so, as raising our price only slightly doesn't impact the quantity sold significantly.
+   - When the competitor raises their price, it’s beneficial to adjust ours downward to capture more market share.
+   - Increasing marketing efforts seems necessary in some cases of higher pricing to maintain sales volume.
+
+ My chosen price:
+ 12.50

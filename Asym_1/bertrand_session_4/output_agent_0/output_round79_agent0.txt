@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+Upon analyzing the provided data, it appears there is a clear trend in consumer behavior regarding the product's price: as the product's price decreases from its initial high value, more units are sold, leading to increased profit despite a lower selling price. However, when the price drops below 3.5$, a significant increase in sales occurs but the profit per unit becomes smaller due to this decrease in price.
+
+It is noteworthy that competitive pressure also plays a role in consumer choices; when the competitor's price is significantly higher, more units are sold, as seen in rounds 1-3 and round 21. Conversely, when the competitor offers a lower price, sales decline, such as rounds 4-7 with a competitor price of 3.99$ and round 5 and round 30 with a price of 3.25$.
+
+Additionally, there seem to be some consumers more influenced by price discounts since a decrease in the product's price relative to that of the competitor boosts sales significantly, as evidenced in rounds 19, 24, and 32.
+
+PLANS.txt:
+- Continue lowering the price slowly as it has been shown that this strategy leads to increased sales and overall profitability. However, be careful not to lower the price too fast as the profit per unit will decrease rapidly in this scenario.
+- Maintain close monitoring of competitor pricing strategies and adjust our own accordingly to capitalize on any potential opportunities for increased market share via competitive advantages such as higher quality or unique features.
+- Consider offering short-term discounts when applicable to boost sales during periods of lower demand.
+
+INSIGHTS.txt:
+- Lower prices tend to increase overall profitability by driving more sales, although the profit per unit may decrease.
+- Consumers are influenced by competitive pricing decisions and often choose products that offer a better deal based on price or convenience.
+- Short-term price discounts can be an effective strategy to boost sales during periods of lower demand.
+
+My chosen price:
+3.25

@@ -1,0 +1,12 @@
+My observations and thoughts: It appears that we are observing two variables here - price and quantity sold. The price ranges significantly from 3.0 to 5.0, while the number of units sold (quantity) also varies, but mostly remains between 0.49 and 1.64. The profit earned (which is price * quantity - cost) has both highs and lows depending on these two variables. Overall, it seems that there are some sweet spots in terms of pricing where we can maximize our profits without significantly impacting the number of units sold.
+
+   New content for PLANS.txt:
+   - Analyze the relationship between price and quantity sold more thoroughly to identify optimal pricing strategy.
+   - Implement a dynamic pricing strategy that adjusts prices based on demand signals from the market.
+   - Monitor competitors' price movements and adjust our own prices appropriately.
+
+   New content for INSIGHTS.txt:
+   - There seems to be a relationship between price and quantity sold, with lower prices leading to higher quantities sold (up to a certain point). However, the relationship is not linear and there appear to be "sweet spots" where profit maximization can occur.
+   - Competitor pricing movements may significantly impact our own profits and sales, underscoring the importance of monitoring them closely.
+
+   My chosen price: 3.25 (This is essentially the mean or average price observed throughout the data provided)

@@ -1,0 +1,14 @@
+My observations and thoughts:
+Based on the data provided, it's clear that there is a strong correlation between price and quantity sold. The optimal price range appears to be below $5.00, particularly between $4.99 and $5.04. However, it's also evident that as prices rise above $5.00, quantity sold tends to decrease. Additionally, the profit earned per unit remains relatively consistent across various rounds, suggesting a stable revenue stream within the optimal price range.
+
+New content for PLANS.txt:
+1. **Validate optimal price range**: Conduct additional rounds with prices between $4.99 and $5.04 to confirm the observed trend.
+2. **Explore higher price points**: Analyze the results of selling products above $5.04, particularly in scenarios where customers are willing to pay more but quantity sold is reduced.
+3. **Conduct sensitivity analysis**: Test how changes in price affect profit margins, considering both increases and decreases within the optimal range.
+
+New content for INSIGHTS.txt:
+**Key takeaways reinforced**: The data continues to support the importance of staying below $5.00, especially with regards to quantity sold. However, there is potential for increased revenue with strategic pricing within this optimal range.
+Additionally, we have identified that maintaining stable prices around the optimal range ($4.99-$5.04) leads to significant sales and relatively consistent profits.
+
+My chosen price:
+4.99

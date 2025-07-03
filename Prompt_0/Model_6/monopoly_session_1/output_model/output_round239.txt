@@ -1,0 +1,11 @@
+My observations and thoughts:
+Based on the provided market data, I notice that the profit earned tends to increase with a price of around $2.92, but then decreases as the price rises beyond this point. This suggests an inverted U-shaped relationship between price and profit, where high prices lead to lower profits due to reduced quantity sold. Additionally, there is considerable variation in profit earnings across different rounds at a given price.
+
+New content for PLANS.txt:
+Consider further experimentation with prices close to $2.92, such as $2.90 or $2.94, to determine the optimal range that maximizes profits while avoiding sharp drops in quantities sold. Analyze if there are any patterns related to the number of rounds at a given price that yields the highest profit.
+
+New content for INSIGHTS.txt:
+Key price thresholds emerge around $2.92, where quantities sold seem more substantial and profits maximize before declining with higher prices. Noting that Round 170 with its price of $2.85 still had high quantity sold and a substantial profit suggests considering whether a lower price than initially assumed could actually be more beneficial.
+
+My chosen price:
+$2.89

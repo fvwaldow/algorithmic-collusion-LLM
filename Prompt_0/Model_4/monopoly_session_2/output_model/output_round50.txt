@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+From the provided MARKET DATA, it seems that prices around $11.50 to $12.00 have the highest quantity sold (between 0.09 and 0.17 units) without significantly impacting profit loss in comparison to lower-priced periods. Notably, prices as low as $10.50 led to a high quantity sold (0.59 units), indicating strong demand elasticity at this point. 
+
+However, the profit per unit is maximized between $11.40 and $11.75, balancing quantity sold and price to yield the highest profit margins. Additionally, the correlation between price points and sales volume highlights that while lower prices can attract more customers, they do not always maximize profit per unit sold. 
+
+The dynamic pricing strategy mentioned in PLANS.txt is a good approach; it should be tested further by gradually adjusting prices during high and low demand periods to assess elasticity, ensuring that promotional costs are covered. Monitoring customer feedback closely is crucial for adapting these strategies.
+
+New content for PLANS.txt:
+<details>
+Add another pricing strategy involving periodic discounts tied to key customer segments, such as students or corporate buyers, during mid-week sales days. This could attract niche markets, potentially increasing overall sales volume without significantly discounting the product. Implement these discounts during weeks when our inventory is high, ensuring enough units are available to meet demand without overcommitting resources.
+</details>
+New content for INSIGHTS.txt:
+<details>
+It appears that there's a saturation point around $10, where further price reduction does not proportionally increase sales volume or maximize profit. At this point, customers seem less sensitive to price changes and more focused on acquiring the product at any cost. Hence, maintaining a minimum effective price of $12 could help sustain perceived value in the market without needing to aggressively reduce prices.
+</details>
+My chosen price: 
+
+$11.50

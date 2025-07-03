@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+* The product has a consistent demand at $20.00, with most rounds showing a quantity sold of 50.
+* Prices above $21.00 decrease demand significantly, but the profit per unit remains relatively high due to the higher price point.
+* There is no clear evidence that prices below $19.00 increase demand substantially.
+* Round 11 and Round 13 show an unusual high quantity sold at a low price ($19.00), with a respectable profit earned of $538.82.
+
+New content for PLANS.txt:
+
+1. Test the upper bound: Try increasing the price to see if we can achieve higher profits with fewer sales. Target $22.50.
+2. Validate lower prices: Investigate whether offering discounts or promotions will increase demand and revenue.
+
+New content for INSIGHTS.txt:
+
+* Higher prices reduce demand but maintain high profit per unit, indicating a premium product.
+* Lower prices may not be effective in driving up demand beyond the original price point ($20.00).
+* Fluctuations in quantity sold at very low prices might indicate anomalies or special circumstances rather than a new pricing strategy.
+
+My chosen price:
+
+$21.25

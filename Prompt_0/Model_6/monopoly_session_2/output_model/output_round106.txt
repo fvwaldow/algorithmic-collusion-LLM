@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+Based on the provided data, I notice that there are multiple instances of prices ranging from 4.99 to 5.12, with quantity sold fluctuating but generally around the high 80s. The profit earned is relatively consistent within these price ranges. The outliers (e.g., Round 1-3 and Rounds 18-20) suggest a higher demand at slightly lower prices.
+
+I also observe that increasing prices by 0.01-0.05 leads to some decrease in quantity sold, but the profit earned remains stable or increases marginally. This indicates a relatively elastic demand curve within this price range.
+
+New content for PLANS.txt:
+
+* Investigate the relationship between price and quantity sold using regression analysis.
+* Examine the impact of pricing on long-term sales by monitoring the data over several rounds.
+* Consider experimenting with smaller increments (e.g., 0.005) to understand price elasticity more accurately.
+
+New content for INSIGHTS.txt:
+
+* The optimal price range is likely between 5.02 and 5.07, where quantity sold is relatively stable while profit earned remains high.
+* Prices that are too high (around 5.12) may deter some customers without significantly increasing overall revenue.
+
+My chosen price:
+
+5.05

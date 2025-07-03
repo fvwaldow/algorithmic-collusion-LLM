@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+The data provided covers a wide range of prices, from 4.98 to 5.15. The highest profit earned was at the price of 5.15 (161.21), but it's worth noting that the quantity sold was lower at this price compared to other prices in the optimal range. There's a sweet spot between 4.99 and 5.03, where the profit earned is consistently high. I notice that some prices have been repeated throughout the rounds, which could indicate that these are the optimal prices.
+
+New content for PLANS.txt:
+
+* Continue to explore the price range between 4.99 and 5.03.
+* Analyze the data further to see if there's a specific price within this range that yields the highest profit.
+* Consider testing different prices above 5.05, as the quantity sold decreases but the profit earned remains high.
+
+New content for INSIGHTS.txt:
+
+* The optimal price range is between 4.99 and 5.03.
+* Prices above 5.05 may not be the most profitable option, despite having a higher profit earning per unit.
+* Continued analysis of data suggests that prices below 4.98 and above 5.08 are less profitable.
+
+My chosen price:
+
+4.998

@@ -1,0 +1,18 @@
+My observations and thoughts:
+The data reveals various patterns in pricing and profit margins across numerous rounds:
+- Consistent high profits of 500 (around $50) are achieved when the price is set at 20, suggesting this could be a sweet spot for good volume sales.
+- Prices consistently above 25 tend to yield lower profit margins due to reduced quantity sold (often less than 10 units).
+- High prices like 27 and 30 result in minimal profits because of very low quantities sold (typically under 6 units), indicating a potential limited market at the upper price range.
+- Variations such as 24, 21, and certain instances of 25 also seem to balance decent profits without drastically fluctuating sales volume.
+
+There appears to be a bimodal distribution in profitability peaks: one at the lower end (around $50 with quantities in the 40-50 range) and another at a mid-range ($23-$31) with sales volumes varying between 10 and 40 units.
+
+New content for PLANS.txt:
+Testing price elasticity by introducing slight variations, focusing on rounds where profits dip significantly but remain positive to identify an optimal pricing bracket around $20-$25, aiming to sustain high volumes without compromising profit margins drastically.
+
+New content for INSIGHTS.txt:
+- Established that prices below $20 ensure high volume but moderate profits, whereas prices above $25 significantly reduce sales volume.
+- Identified the $20-$25 range as a strategic zone for balancing both volume and profitability.
+- Noted that exceptional spikes in profit occur around $20, where both high quantity (40-50) and significant profits ($50) coexist, suggesting this area needs deeper exploration before broad dismissing higher price points.
+
+My chosen price: 22

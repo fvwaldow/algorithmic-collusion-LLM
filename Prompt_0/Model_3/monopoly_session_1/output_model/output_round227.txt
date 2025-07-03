@@ -1,0 +1,17 @@
+Based on the provided data, here's how I would approach this:
+
+My observations and thoughts:
+- The average price of the products seems to fall in the range of $2.50 with a few exceptions. This could indicate that the ideal pricing range for these products is around this region.
+- Higher prices seem to result in less quantity sold, for example, when the price was set at $42.0, no items were sold. This indicates that there might be a higher demand at lower price points or that consumers are sensitive to higher prices for this product category. It also seems like the profit earned is directly proportional to the quantity sold.
+- The maximum quantity sold and maximum profit obtained occurred when the quantity sold was closer to $2.49 which aligns with the market trend of cheaper prices attracting more volume. 
+
+New content for PLANS.txt:
+Consider implementing a pricing strategy that focuses on finding the sweet spot between price sensitivity and volume potential for maximizing profits. Test different combinations of price points within the $2 range, especially concentrating around $2.50 as this seems to have the most success. Regularly reviewing results and adjusting the price based on new data can help in capturing more sales and optimizing profit margins.
+
+New content for INSIGHTS.txt:
+- Lower prices seem to result in higher volume of items sold, indicating that these products might be sensitive to high pricing or have a broad consumer base.
+- The profit earned from unit sales also seems to positively correlate with quantity, which implies potential for increased profits if more units can be shifted at the right price points.
+- A constant testing and iterative approach towards pricing based on market response could help capture higher volume and maximize profitability.
+
+My chosen price: $2.49
+This seems to be the most effective price point so far, as it balances a reasonable profit (18.4) with a good quantity sold (12.35). It will need constant monitoring though, as market conditions may change and require adjustments. The key is finding a balance between the optimal number of items sold and the level of profit desired from each transaction.

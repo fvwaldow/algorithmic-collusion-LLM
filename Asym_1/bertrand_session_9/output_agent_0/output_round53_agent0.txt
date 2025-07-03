@@ -1,0 +1,13 @@
+My observations and thoughts: Firstly, it is useful to observe that the highest profit was obtained in round 40 where the price was set at $7.0 while the competition's price reached as high as $12.0. Secondly, it appears that setting prices higher than the competitor has led to lower sales volume but maintaining a competitive price seems more advantageous for maximizing profit in most cases. Thirdly, there doesn’t seem to be a conclusive trend regarding the optimal pricing strategy, therefore A/B testing should be employed to identify an optimal price point given different price ranges and patterns within sales data. Fourthly, based on insights from the existing data it looks like taking dynamic discount strategies or tiered pricing into account is worth exploring as it may help optimize profits for different volume levels.
+
+  New content for PLANS.txt:
+    - Carry out A/B testing to find the optimal price point that maximizes profit within various price ranges, considering the customer's willingness to pay may shift over time.
+      - Further explore dynamic discount strategies or tiered pricing as a potential approach to optimize profits at specific volume levels.
+        - Implement additional statistical analysis to discover patterns within sales data at different price points and quantities sold across multiple rounds.
+
+  New content for INSIGHTS.txt:
+    - The balance between profitability and sales volume is crucial, while constantly monitoring market trends is important in maximizing long-term profit.
+      - A competitive pricing strategy may be more advantageous compared to setting prices higher than the competition, as seen in multiple rounds.
+        - There is no clear trend demonstrating a consistently effective pricing strategy, so ongoing experimentation should be conducted to identify the optimal approach.
+
+My chosen price: 6.75 (This number lies between the average price ranges at which higher profit was achieved and will provide a good starting point for A/B testing.)

@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+After analyzing the provided data, I notice that there is a high variance in sales quantity across different price points. For instance, Round 55 and Round 73 both have a sale quantity of 59.87, but at different prices (19.0 and 19.0 respectively). This suggests that price sensitivity may vary between customers.
+
+Also, there are multiple rounds where the same or similar price results in significantly different profit earnings, such as Rounds 63 and 64, where the price is 24.8 and 30.0 respectively, with corresponding quantities sold of 12.79 and 1.8, but resulting profits earned being189.24 and 35.97.
+
+New content for PLANS.txt:
+
+* Investigate and analyze customer price sensitivity to refine our pricing strategy
+* Identify optimal price range that balances profit margins with sales volume
+
+New content for INSIGHTS.txt:
+
+* High prices (above $20) do not necessarily translate to higher profit earnings due to decreased sale quantities
+* Lower prices (around $19-$20) often result in increased sale quantities and corresponding profits
+* Identify rounds where significant changes occurred in price or quantity, such as Round 75 with 54.98 quantities sold at a price of 19.5.
+
+My chosen price:
+
+$19.50

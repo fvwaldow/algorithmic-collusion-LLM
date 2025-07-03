@@ -1,0 +1,23 @@
+First, let's analyze the given market data for the product being sold:
+
+1. My price for each round is in the range of 2.49 to 2.75.
+2. The quantity sold ranges from 0.53 to 12.35 depending on the pricing strategy.
+3. Profit earned varies between $8.3 and $18.4, with some rounds not generating any profit or even resulting in a loss (e.g., Rounds 2 and 4).
+
+Observations and Thoughts:
+- The product seems to have more demand at higher prices (ex. Round 7 at $2.69 had an equal quantity sold as Round 12 at $2.50, but the former generated almost double the profit).
+- Rounds with a significantly lower price point (e.g., Round 1, Round 3) resulted in almost no profit due to high volume but low unit price.
+- There seems to be an optimal price range between $2.49 and $2.69 that maximizes both quantity sold and profit earned (ex. Rounds 9, 10, 15, 16, and 17).
+
+PLANS.txt:
+- Continue focusing on the optimal price range between $2.49 and $2.69 to balance both quantity sold and profit earned.
+- Conduct further market research to identify trends and consumer preferences in this price range.
+- Test various pricing strategies such as dynamic pricing or discounts to improve flexibility within the profitability window.
+
+INSIGHTS.txt:
+- Pricing plays a key role in determining both the amount of quantity sold and the profit earned.
+ Higher prices are generally associated with increased profits, despite potentially lower volume.
+- The product's price elasticity suggests that there may be room for slight price increases without significant impact on demand.
+- Consumers seem to respond to pricing strategies within a specific range, as demonstrated by the consistently higher profit and quantity sold in that zone (ex. Rounds 9-12).
+
+My chosen price: Given the observations made, I would recommend setting my price at $2.50. This price point is still in the optimal range identified ($2.49 to $2.69) and has a history of generating both high quantity sold and profit earned. Additionally, rounding up to the nearest cent might give consumers more comfort in purchasing the product, assuming there is no strict preference for the exact decimal points.

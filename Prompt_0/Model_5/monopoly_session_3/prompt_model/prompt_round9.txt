@@ -1,0 +1,87 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $28.01
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Validate lower-priced tier hypothesis by testing prices of $19.5, $19.0, and $18.5 while monitoring sales volume and competitor responses closely. The objective is to maximize profit per unit sold amidst potential increases in quantity.
+   - Expand customer surveys on interest in value-added services, particularly those indicating a willingness to pay more for convenience or enhanced features.
+2. Continue supplier negotiations, targeting a unit cost of <$0.9 with at least a 10% volume increase (compared to Round 7). Set interim goals if 5% can't be achieved immediately and maintain open dialogue with new potential suppliers.
+3. Deepen competitive surveillance to assess not just pricing but also the dynamic capabilities of competitors—specifically, their responsiveness to price changes and new product offerings.
+   - Prepare contingency plans for rapid adjustments in response to competitor actions, ensuring a flexible pricing strategy that can adapt swiftly.
+   
+4. Proceed cautiously with introduction of tiered services if surveys support significant customer interest, ensuring no cannibalization of core sales volumes initially identified as optimal (> $20).
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Reinforced observation that lower prices drive higher volume, making the sub-$20 price point a critical testing zone. Empirical data from Round 7 ($19.5, 45.02 units, $547.67 profit) indicates potential for greater gains by further refining this strategy.
+2. Supplier negotiation results are promising but require sustained pressure to secure the desired cost reductions; a strategic, long-term partnership seems necessary beyond immediate discounts.
+3. Preliminary interest in value-added services warrants further validation through deeper market segmentation and detailed customer interviews to outline specific service offerings and prices that could command premiums without undermining mainstream sales.
+4. Heightened awareness of competitors' dynamic pricing strategies shows a need for continuous real-time monitoring and agile adaptation, possibly through automated systems or regular rapid response team meetings to quickly pivot price strategies in response to external shifts.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 8:
+            - My price: 19.0
+            - My quantity sold: 59.87
+            - My profit earned: 538.82
+
+Round 7:
+            - My price: 20.5
+            - My quantity sold: 45.02
+            - My profit earned: 472.67
+
+Round 6:
+            - My price: 21.5
+            - My quantity sold: 35.43
+            - My profit earned: 407.5
+
+Round 5:
+            - My price: 23.5
+            - My quantity sold: 19.78
+            - My profit earned: 267.05
+
+Round 4:
+            - My price: 27.0
+            - My quantity sold: 5.73
+            - My profit earned: 97.45
+
+Round 3:
+            - My price: 27.3
+            - My quantity sold: 5.12
+            - My profit earned: 88.53
+
+Round 2:
+            - My price: 27.5
+            - My quantity sold: 4.74
+            - My profit earned: 83.0
+
+Round 1:
+            - My price: 27.0
+            - My quantity sold: 5.73
+            - My profit earned: 97.45
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

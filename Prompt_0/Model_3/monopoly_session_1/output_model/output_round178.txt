@@ -1,0 +1,17 @@
+Observations and Thoughts:
+1. The trading environment appears to be competitive with prices fluctuating around a range of 2.0 - 2.7. Majority of the quantities sold were within this price range, indicating that customers are more likely to purchase when the price is around these levels. A significant dip in price to 1.0 occurred in round 99, leading to a high quantity sold but no profit due to the low margin.
+2. The optimal price seems to be around 2.5 - 2.6. In these rounds (46, 86, and 108), a high profit was achieved along with comparatively reasonable quantities sold. This suggests there might be a balance between demand and pricing that can lead to higher profits for the business.
+3. Price sensitivity of customers varies in this trading environment. For instance, the highest quantity sold in a single round (at price 1.0) didn't correspond to a significant profit due to the low margin. This suggests customers are drawn to lower prices but they are willing to pay more when convinced of the value offerings for higher priced items.
+4. The highest profit in an individual round was in round 46, with $32.48 which indicates potential patterns or strategies could be more effective at certain times. This might help make informed decisions during different trading periods.
+5. There is a correlation between higher profit and certain price ranges, particularly 2.5 - 2.6. Hence, setting a price within these ranges may yield better results in terms of both quantity sold as well as profit earned.
+In light of these observations:
+
+New content for PLANS.txt:
+- Adopt pricing strategy around the range of 2.5 to 2.6 since it seems to yield higher profits while maintaining a good quantity of sales.
+- Implement dynamic pricing where prices are manipulated based on demand patterns or external factors like market conditions and customer behaviour. This will enable better price optimisation.
+
+New content for INSIGHTS.txt:
+- Leverage the relationship between prices, quantities sold and profits to make informed pricing decisions which balance profit maximization with high quantity sales.
+- Identify potential patterns in the data for different price sets that result in both higher sales volume and higher profits as these could be leveraged for future rounds of trading.
+
+My chosen price: 2.5 - 2.6 considering this is the range where there's a balance between quantity sold and profit earned, showing it appeals to customers and also generates revenue. This should be subject to dynamic adjustments based on market conditions and customer sensitivity at different stages.

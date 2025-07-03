@@ -1,0 +1,17 @@
+My observations and thoughts: The data provided shows the evolution of a market where prices fluctuate widely over time. There are instances where increasing price led to an increase in quantity sold (ex: Round 104, 105), while there were other times where it had no effect or even decreased sales (ex: Round 108). The data also indicates that there are points of price inelasticity, such as Round 100, where a high price did not affect the number of units sold at all. It seems that the competitive market dynamics play a crucial role in pricing strategies, and being aware of these market conditions is essential for making informed decisions.
+
+New content for PLANS.txt:
+```makefile
+Adjust prices strategically to respond to market conditions and competitor actions while ensuring profitability.
+Continuously monitor and analyze sales data to identify trends and patterns that can guide pricing decisions.
+Develop a flexible pricing strategy, recognizing that a static price may not always be optimal in this highly dynamic market.
+```
+
+New content for INSIGHTS.txt:
+```makefile
+- The competitive landscape significantly impacts pricing decisions, as observed by the constant shift in competitor prices throughout the data.
+- Price elasticity varies over the course of this market: some points are price inelastic (ex: Round 100) while others follow more traditional demand-supply relationships (ex: Round 104).
+- Flexibility is essential when pricing products, as a static price may not always be optimal given the fluctuating nature of this market.
+```
+
+My chosen price: 2.1

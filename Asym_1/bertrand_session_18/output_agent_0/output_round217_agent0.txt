@@ -1,0 +1,15 @@
+My observations and thoughts: The data provided is a table of pricing strategies and sales quantities for products at different price points, represented by "Round xxx". It seems that there are alternating patterns of higher prices (30+) and lower prices (25-29, occasionally 19-24). In general, higher prices result in fewer sales but generally more profit per sale. Lower prices lead to significantly more sales but less profit per sale. There are notable exceptions where the higher price point has more sales than expected (e.g., Round 130 and some others) and instances of aggressive promotion that drive higher-than-expected sales at lower price points (Round 26.5, Round 35.48). It seems that competition is present as there are occasionally smaller differences between the prices of similar products, but overall there's a trend towards variability in pricing strategies.
+
+   New content for PLANS.txt:
+   - Maintain an observation of price point-to-sales ratio to help guide future pricing decisions.
+   - Keep an eye on competitor pricing to ensure competitiveness while maximizing profits.
+   - Utilize sales promotions sparingly but strategically when sales begin to decline.
+   - Investigate the factors that contribute to unexpected high and low results in sales quantity.
+
+   New content for INSIGHTS.txt:
+   - Higher prices, while less frequently used, tend to generate more profit per sale on average. However, they lead to fewer overall sales.
+   - Lower prices result in a larger volume of sales but lower individual profit contributions. This can be useful when trying to increase market share quickly or maintain it during periods of high competition.
+   - Aggressive promotions at low price points can drive significantly higher-than-expected sales, which should be considered as part of the overall pricing strategy.
+   - Periodic variability in pricing appears to help keep the product mix fresh and interesting to customers. However, it may dilute brand identity if not managed carefully.
+
+My chosen price: 28.15 (The median price point in the provided dataset)

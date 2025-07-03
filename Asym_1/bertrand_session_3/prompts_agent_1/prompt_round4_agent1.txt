@@ -1,0 +1,62 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $5.2
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Continue exploring the tiered pricing strategy by refining segments and prices for value seekers, loyal customers, and price sensitive customers as outlined in previous plans.
+- Introduce targeted promotions during periods of low demand or excess inventory to attract price conscious customers without compromising overall profitability.
+- Optimize dynamic pricing strategy by intensifying A/B testing across different tiered prices to analyze sales data more thoroughly.
+- Analyze customer feedback and preferences to tailor segments and promote appropriate offers for higher profit margins.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- The current tiered pricing approach requires further refinement to cater to a wider range of customers, potentially increasing market share and maximizing profitability long term.
+- Introducing targeted promotions is essential in attracting price sensitive customers during periods of low demand or excess inventory while preserving overall profitability.
+- Rigorous A/B testing can help determine the optimal combination of tiered prices for profitable sales across various customer segments.
+- Customer feedback plays a significant role in identifying preferences and tailoring offers to maximize profits.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 3:
+                - My price: 2.95
+                - Competitor’s price: 3.5
+                - My quantity sold: 2.09
+                - My profit earned: 4.07
+
+Round 2:
+                - My price: 3.0
+                - Competitor’s price: 3.05
+                - My quantity sold: 1.39
+                - My profit earned: 2.78
+
+Round 1:
+                - My price: 3.15
+                - Competitor’s price: 3.0
+                - My quantity sold: 0.73
+                - My profit earned: 1.57
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

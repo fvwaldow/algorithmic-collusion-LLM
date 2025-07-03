@@ -1,0 +1,24 @@
+Here's my response based on the provided information:
+
+**My observations and thoughts:**
+
+Based on the market data, it appears that we have identified an optimal price range of $2.97-$2.98, as indicated by the consistent profitability across multiple rounds (Rounds 19-15) at these prices. However, I noticed that the profit earnings show some variation when compared to lower price points ($2.90 and $2.92). This merits further investigation.
+
+Furthermore, it's worth noting that in Round 12, where we sold for $2.90, the quantity sold was significantly higher (2.66) compared to other rounds at similar prices. This could indicate a relationship between quantity sold and profit earned, particularly at lower price points.
+
+Additionally, I observed that when pricing above $3.00 ($3.01, $3.10), the profit earnings were significantly lower. Customers seem less willing to pay more than this threshold.
+
+**New content for PLANS.txt:**
+
+1. Test a slightly higher price of $2.99 (one cent increment from previous optimal range) to reassess the relationship between quantity sold and profit earned.
+2. Investigate setting a discount at lower demand times ($6/round on Round 6-10), e.g., if customer buys more than 0.9 units sold in current round, give him/her discount of $2 per unit.
+
+**New content for INSIGHTS.txt:**
+
+* The consistent profitability of our pricing strategy across multiple rounds suggests that we have identified an optimal price range ($2.97-$2.98).
+* A relationship may exist between quantity sold and profit earned at lower prices; e.g., Round 12 shows increased quantity and relatively high profit.
+* Higher-priced sales are associated with decreased customer willingness to purchase due to the ceiling observed in Round 6/7.
+
+**My chosen price:**
+
+$2.99

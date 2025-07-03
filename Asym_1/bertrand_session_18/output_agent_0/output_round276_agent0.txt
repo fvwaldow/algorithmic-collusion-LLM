@@ -1,0 +1,15 @@
+My observations and thoughts:
+   It appears that the data represents a series of price adjustments for a product, with each row indicating the seller's price, the competitor's price, the quantity sold, and the profit earned in that round. The dataset is not consistent in terms of missing values for some cells.
+
+   There seems to be no clear pattern regarding the correlation between price and quantity sold or profit earned, with both increases and decreases seen in all categories at different times. However, lowering the price drastically ( Round 202) led to a massive increase in quantity sold but a significant loss in profit.
+
+   The dataset also appears to have periods where the competitor does not provide a price or withdraws from the market entirely (Round 187 and Round 198).
+
+   New content for PLANS.txt:
+   Maintain awareness of the competitor's pricing strategy and adjust prices strategically based on observed trends, while monitoring their presence in the market. Continuously analyze the relationship between price, quantity sold, and profit earned to inform pricing decisions.
+
+   New content for INSIGHTS.txt:
+   Prices and profits do not seem to have a straightforward correlation with quantity sold, suggesting there may be external factors impacting demand or other market dynamics at play. The absence of the competitor from the market can affect sales, as evidenced in Rounds 187 and 198. Lowering prices too drastically can result in increased sales but significant losses in profitability.
+
+   My chosen price:
+   28.0 (Based on observing the quantity of sales and profits earned across several pricing rounds, this price appears to be relatively effective when the competitor is present.)

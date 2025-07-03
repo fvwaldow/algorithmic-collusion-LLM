@@ -1,0 +1,7 @@
+My observations and thoughts: It appears that there is a fluctuation in the competitor's price throughout this dataset, varying between 9.0 and 15.5. Our starting price seems to be around 13.0 which, based on the competitors' prices, seems to be a reasonable middle ground. However, at certain points when we lowered our price below the competitor, such as in Round 213, we noticed a significant jump in sales and increase in profit. Conversely, when we significantly increased our price above the competitor, such as in Round 203, we saw no sales. It's important to note that there were some rounds where a lower price than us seemed to sell more units, like in Round 198 where they were able to sell 61.61 units even with a higher price.
+
+   New content for PLANS.txt: Consider implementing a dynamic pricing strategy that adjusts based on the competitor's price and our historical sales data. This could allow us to capture more market share when our competitors are overpriced or underpriced.
+
+   New content for INSIGHTS.txt: There seems to be a correlation between our price and sales volume, as well as with the competitor's price. Dynamic pricing may help optimize our revenue stream by responding to these fluctuations in real-time. However, more historical data and testing are required before fully implementing such a strategy.
+
+   My chosen price: 13.0 (for now, we will use this as a starting point but consider adjusting based on the competitor's price and sales volume)

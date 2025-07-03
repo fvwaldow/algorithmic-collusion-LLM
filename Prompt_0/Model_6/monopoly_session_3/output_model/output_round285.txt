@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+After reviewing the provided information, I observed that the profit earned and price have been closely monitored for each round. The data suggests a general pattern where the profit earned is consistently 500 or higher when the price is set within a specific range (apparently below $20.0) and the quantity sold is around 50. However, this relationship appears to be truncated above $20.00, with some instances showing significantly lower profit earnings at similar prices.
+
+New content for PLANS.txt:
+
+1. Investigate the optimal price range that maximizes profit while maintaining a sufficient quantity sold of approximately 50 items per round.
+2. Analyze any notable deviations in profitability and prices across different rounds to identify patterns or anomalies.
+3. Consider potential correlations between price and quantity sold, as well as their respective effects on profit earnings.
+
+New content for INSIGHTS.txt:
+
+- The initial observations seem to indicate that there is an upper boundary beyond which the pattern no longer holds true (i.e., $20.0).
+- There might be a range of optimal price values within the lower bound ($18.75 - $20.00), yielding similar or identical profit earnings based on quantity sold.
+- It could also be that once you reach the threshold at or above $20.00, any adjustments result in significant losses rather than incremental gains.
+
+My chosen price:
+
+19.95
+
+Note: Choosing this specific number is partly informed by observing consistency around the given range ($18.75 - $20.99), as well as noting previous instances of $20.0 being a 'sweet spot' before encountering sharp dips past that threshold in several rounds, suggesting maintaining an optimal balance within the defined price brackets could continue to yield desired results.

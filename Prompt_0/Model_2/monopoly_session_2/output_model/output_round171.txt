@@ -1,0 +1,7 @@
+My observations and thoughts: The price range seems to be between 6.47 and 7.5, with the highest quantity sold at 7.2 (in Round 105) but the maximum profit earned is at 7.95 in Round 93 where the quantity sold is less. This suggests that there may be a trade-off between profit and quantity sold, and finding the optimal price point could help increase both simultaneously.
+
+   New content for PLANS.txt: It would be beneficial to explore prices within the range of 6.47 to 7.2 and investigate if a slightly lower price with better quantities or a slightly higher price with higher profit margins proves to be more optimal. Additionally, consider testing the effects of pricing adjustments on various market segments or subsets when possible.
+
+   New content for INSIGHTS.txt: As the price increases beyond 7.2, the number of units sold seems to decrease rapidly while still maintaining a relatively high profit margin. Conversely, when prices are lowered from 6.47, there is an initial increase in quantity sold but at the expense of decreased profit earned per unit. The sweet spot may be between these two extremes where both quantities sold and profit margins can grow together.
+
+   My chosen price: 6.95 (This price corresponds to a balanced approach, aiming for an increased number of units sold while also maintaining reasonable profit margins.)

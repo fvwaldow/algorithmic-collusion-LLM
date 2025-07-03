@@ -1,0 +1,102 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $13.87
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Implement dynamic pricing taking into account my cost, competitor’s price and the quantity sold in different rounds.
+  - Analyze the performance of tiered pricing based on bulk orders by adjusting unit prices at specific order quantities.
+* Monitor the impact of offering discounts on off-peak sales to maximize overall profitability.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- The current price range lacks an efficient balance between volume and profit, making it necessary to strike a balance between these two factors in the future pricing strategy.
+- Dynamic pricing could help capitalize on competitor’s actions while ensuring competitive pricing and maximizing profits.
+- Examining bulk order discounts (tiered pricing) can increase sales volume at a higher profit margin per unit without negatively affecting market share or quality perception.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 10:
+                - My price: 5.0
+                - Competitor’s price: 4.95
+                - My quantity sold: 4.43
+                - My profit earned: 7.98
+
+Round 9:
+                - My price: 5.75
+                - Competitor’s price: 4.5
+                - My quantity sold: 1.03
+                - My profit earned: 2.62
+
+Round 8:
+                - My price: 5.0
+                - Competitor’s price: 5.0
+                - My quantity sold: 4.7
+                - My profit earned: 8.47
+
+Round 7:
+                - My price: 4.85
+                - Competitor’s price: 4.0
+                - My quantity sold: 1.69
+                - My profit earned: 2.78
+
+Round 6:
+                - My price: 5.25
+                - Competitor’s price: 5.0
+                - My quantity sold: 3.49
+                - My profit earned: 7.15
+
+Round 5:
+                - My price: 6.0
+                - Competitor’s price: 6.0
+                - My quantity sold: 4.61
+                - My profit earned: 12.91
+
+Round 4:
+                - My price: 5.0
+                - Competitor’s price: 6.0
+                - My quantity sold: 14.43
+                - My profit earned: 25.98
+
+Round 3:
+                - My price: 4.5
+                - Competitor’s price: 5.0
+                - My quantity sold: 8.44
+                - My profit earned: 10.98
+
+Round 2:
+                - My price: 3.5
+                - Competitor’s price: 3.0
+                - My quantity sold: 2.59
+                - My profit earned: 0.78
+
+Round 1:
+                - My price: 13.87
+                - Competitor’s price: 3.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.0
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

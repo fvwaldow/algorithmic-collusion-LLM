@@ -1,0 +1,19 @@
+Based on the given data of 80 trading rounds, it is clear that the product underwent continuous fluctuations in price and quantity sold, while maintaining a consistent pattern of profit earned within each round. Following are some observations and thoughts based on this provided information:
+
+1. Consistently fluctuating prices: We notice a wide range of price points employed throughout the trading, varying from as low as 1.0 all the way up to 15.25. There seems to be no consistent pattern in regard to which price points resulted in higher profits.
+
+2. The majority of profits were made at lower price points: Overwhelmingly, more profit was earned with pricing lower than 13.99. For instance, the highest profit of 496.7 was made at 15.95, while majority of higher profits (over 400) were achieved within a range of 13 - 14.
+
+3. Price and Quantity relationship: While changes in price seemed to be associated with swings in the quantity sold (lower prices often resulting in higher quantities), there did not seem to be a direct correlation between the two variables. For example, selling at a lower price of 13.0 resulted in both high quantities sold (93.82+94.27=188.19) and substantial profit earned (300.22+291.55=691.77).
+
+New content for PLANS.txt:
+- Explore selling at lower price points, since majority of higher profits were achieved in this segment. 
+- Analyze historical performance to find optimal prices within the range of 13 - 14.
+- Consider implementing a dynamic pricing strategy to react to market demands and increase quantity sold.
+
+New content for INSIGHTS.txt:
+- Findings indicate potential profitability at lower price points, warranting further exploration.
+- A balance is needed between maintaining a competitive edge via lower prices while maximizing profits. 
+- The relationship between pricing and quantity sold isn't straightforward; they are interconnected but not directly proportional.
+
+My chosen price: Based on the analysis and insights gained from these trading rounds, I suggest implementing a dynamic pricing strategy, perhaps starting at a slightly lower than average price within the optimal range of 13 - 14 (for instance, 12.99) to attempt capitalizing on the potential profitability observed at lower prices while still maintaining profitability.

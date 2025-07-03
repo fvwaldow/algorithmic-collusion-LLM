@@ -1,0 +1,19 @@
+My observations and thoughts:
+      - From Round 36 through Round 14, the pricing strategy appeared static, with prices always slightly above competitor's average price. Despite this, there were fluctuations in profitability due to variations in quantity sold. However, by Round 15 onwards, there seems to be an improvement in sales numbers when the user's price has been lower than the competitor's price (e.g., Rounds 14, 18, and 33). An opportunity may lay with a more aggressive approach, adapting quickly to competitor price changes and seeking optimal long-term pricing based on insights from previous A/B testing rounds.
+
+   New content for PLANS.txt:
+      1. Implement a price tier strategy that follows market reactions more closely, leveraging quick adjustments in response to competitor price changes. This will help create a more adaptable and agile approach for optimal pricing (as demonstrated in Rounds 18 and 34).
+          2. Analyze and incorporate data from additional A/B tests for further improvement in identifying the most profitable pricing tiers while maintaining competitive advantage.
+              3. Investigate pricing tier combinations that maximize both sales volume and profit margin, particularly those observed in rounds with lower prices (as described in INSIGHTS.txt).
+          4. Regularly re-evaluate the chosen price against historical data to ensure long-term profitability is being maintained.
+
+   New content for INSIGHTS.txt:
+      1. Utilizing short-term adjustments in response to competitor price changes can help maintain a competitive edge (observed from Rounds 18 and 34).
+        2. Aggressive strategies, such as lowering the price temporarily, may increase sales volume, leading to higher profitability. However, it is crucial to ensure long-term sustainability and avoid undermining profitability.
+         3. Pricing tiers within a range below competitor's average price can yield both high sales and profit when adaptable strategies are employed (as described in PLANS.txt).
+         4. It is essential to regularly monitor the chosen price against historical data for continuous evaluation of long-term pricing decisions.
+
+  My chosen price:
+    17.5
+
+   This pricing strategy aims to keep prices slightly below the competitor's average while remaining flexible in adapting to price changes in a competitive environment. The chosen price will allow us to gather data for further A/B testing and observe market reactions, ultimately seeking optimal long-term pricing tiers that maximize both sales volume and profit margin.

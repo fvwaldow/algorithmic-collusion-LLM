@@ -1,0 +1,17 @@
+My observations and thoughts:
+The provided dataset represents a dynamic pricing strategy for a product where the seller competes with another seller. Overall, both sellers seem to adjust their prices frequently, mostly in response to each other. Interestingly, there are instances where neither appears to be price-taking but rather engage in a form of price competition, often resulting in higher prices and extended periods without sales (0 quantities sold). The dataset seems to suggest that the competition is particularly fierce around the selling price of 4$. At times when one seller increases their price, the other follows suit. There are also instances where increasing the selling price doesn't seem to have a direct impact on sales quantity.
+
+   New content for PLANS.txt:
+* Monitor competitor's pricing strategy more closely, ensuring we don't follow each other blindly
+* Implement flexible pricing based on sales and market conditions, avoiding long periods without sales
+* Consider offering promotions or discounts strategically to gain competitive advantage during price wars
+* Keep a close eye on the 4$ mark as it appears to be a sensitive area in terms of competition
+
+   New content for INSIGHTS.txt:
+* Pricing seems to be largely influenced by competitor's moves, with significant price increases often followed by similar adjustments
+* Long periods without sales are common during intense price competition, suggesting the need for strategic pricing flexibility
+* Higher prices don't always result in increased sales, indicating potential opportunities for strategic promotions or discounts
+* The market appears sensitive around the 4$ selling price, possibly due to it being a psychologically appealing number or a common reference point between competitors
+
+   My chosen price:
+<4.15> (slightly above the current average and the sensitive 4$ mark)

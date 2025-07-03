@@ -1,0 +1,19 @@
+My observations and thoughts:
+    - By observing the market data, I can see that lower price points appear to increase sales volume (quantity sold), such as in Rounds 10, 33, and 36 where my price was $5.9, $6.05, and $6.1 respectively, despite competitor's prices being higher.
+    - While lower prices boost sales, it is crucial to ensure profitability. For instance, in Rounds 8 and 21 where the price was relatively high ($7.85 and $7.0), fewer units were sold but a decent amount of profit ($42.89 and $83.11) was still earned.
+    - There seems to be potential in testing prices below $6.5, as evidenced by rounds 10, 33, and 36 which indicate a slight growth in sales volume. However, it is important to monitor the impact on profitability carefully.
+    - It may be beneficial to examine the role of competitor behavior more closely during periods of price alterations, as adjusting our prices in response could potentially lead to improved results (e.g., Round 36 where my price was lowered compared to the competitor's).
+
+New content for PLANS.txt:
+    - Analyze trends and patterns in the data related to competitor behavior especially during periods of changing their prices.
+    - Implement a strategy focused on testing prices close to the $6.5 upper limit with variations, while monitoring shifts in sales volume as well as profitability.
+    - Investigate potential correlation between price sensitivity and sales volume while taking into account our own production costs and profit goals.
+    - Continue employing machine learning algorithms for deeper insights into market data and customer preferences.
+
+New content for INSIGHTS.txt:
+    - Adapt pricing strategy in response to competitor behavior as it may lead to increased sales or improved profitability.
+    - Test prices close to $6.5 upper limit to explore growth in sales volume, but ensure that profit margins are maintained.
+    - Analyzing the correlation between price sensitivity and sales volume is crucial to drive better pricing decisions.
+    - Machine learning algorithms can provide a deeper understanding of market data and consumer preferences.
+
+My chosen price: $6.1 (close to $6.5 upper limit, yet still maintaining a good balance between sales volume and profitability as seen in Round 36)

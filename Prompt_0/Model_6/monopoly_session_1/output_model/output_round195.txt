@@ -1,0 +1,16 @@
+My observations and thoughts:
+
+Upon reviewing the provided data, I notice that there is a significant decrease in profit when prices are set near or above $3.00. The highest profit of $4.72 was achieved at Round 100 with a price of $2.92. There are no extreme outliers or unusual patterns in the data.
+
+New content for PLANS.txt:
+
+* Investigate the optimal pricing range between $2.80 and $2.95 to maximize profits.
+* Analyze the relationship between price and quantity sold to determine if there is a optimal threshold.
+* Consider implementing price discounts or promotions to encourage sales at higher quantities.
+
+New content for INSIGHTS.txt:
+
+* The data suggests that prices above $3.00 lead to decreased profit margins, indicating a potential optimal pricing range between $2.80 and $2.95.
+* There appears to be an inverse relationship between price and quantity sold, where higher prices result in lower quantities sold.
+
+My chosen price: $2.92

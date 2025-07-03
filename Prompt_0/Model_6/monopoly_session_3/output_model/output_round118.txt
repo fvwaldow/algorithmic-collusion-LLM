@@ -1,0 +1,16 @@
+My observations and thoughts:
+
+From the provided data, it's clear that there is a trade-off between price and sales quantity. As the price increases, the number of units sold decreases, resulting in a decrease in revenue. Additionally, there are several instances where the profit earned is significantly lower than expected due to high prices being paired with low sales quantities.
+
+New content for PLANS.txt:
+
+* Continue to analyze the relationship between price and sales quantity to identify an optimal price-point that balances revenue and sales.
+* Consider implementing a tiered pricing strategy to incentivize customers to purchase at higher price points, while capping maximum prices at 30-40% above average customer willingness-to-pay.
+
+New content for INSIGHTS.txt:
+
+* High prices (above $25) result in significantly reduced sales quantities, likely due to limited demand and budget constraints among customers.
+* Middle-range prices ($20-$24.9) tend to be associated with moderate sales quantities and decent revenue.
+* Pricing above 30 dollars is largely ineffective, resulting in low sales and minimal profit.
+
+My chosen price: $23

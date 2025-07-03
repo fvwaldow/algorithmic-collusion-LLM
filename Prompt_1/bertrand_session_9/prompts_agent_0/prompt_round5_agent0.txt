@@ -1,0 +1,114 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $9.3
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Analyze and compare the effectiveness of various discount types (percentage vs flat rate) on sales velocity and overall profit further in Round 3.
+    2. Refine bundle offerings by fine-tuning the cost/value ratio to optimize perceived value without compromising overall profit margins.
+    3. Investigate the impact of timing and frequency of promotions on different customer demographics to better calibrate discount strategies for long-term profitability in Round 3.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Offering bundle deals could potentially increase sales velocity while maintaining or even improving overall profit by appealing to customers who value cost savings and convenience.
+    2. Time-sensitive promotions may help drive sales in the short term but require careful calibration to avoid undermining long-term profitability.
+    3. It's essential to monitor customer demographics and adjust promotional strategies accordingly, as the effectiveness of discounts might vary between market segments.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 4:
+
+
+
+                - My price: 7.49
+
+
+
+                - Competitor’s price: 7.5
+
+
+
+                - My quantity sold: 16.97
+
+
+
+                - My profit earned: 72.79
+
+Round 3:
+
+
+
+                - My price: 7.99
+
+
+
+                - Competitor’s price: 7.8
+
+
+
+                - My quantity sold: 10.45
+
+
+
+                - My profit earned: 50.08
+
+Round 2:
+
+
+
+                - My price: 8.0
+
+
+
+                - Competitor’s price: 8.5
+
+
+
+                - My quantity sold: 11.21
+
+
+
+                - My profit earned: 53.79
+
+Round 1:
+
+
+
+                - My price: 8.0
+
+
+
+                - Competitor’s price: 9.0
+
+
+
+                - My quantity sold: 11.53
+
+
+
+                - My profit earned: 55.33
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

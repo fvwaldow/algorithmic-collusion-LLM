@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+From the market data provided, it appears that demand decreases as the price increases beyond $2.95. There is significant fluctuation from round to round, especially in the upper range of prices (beyond $2.98). However, most prices have some level of stability around $2.92 to $2.97.
+
+Additionally, Round 122 has a large anomaly, with a price of $36.0 and no quantity sold - this likely indicates an error in data collection for that round.
+
+New content for PLANS.txt:
+
+1. Continue to collect data on the product's demand curve to better understand how prices affect sales.
+2. Investigate pricing strategies within the current limit ($2.95) to maximize revenue, as any increase beyond this may result in decreased demand.
+3. Consider revising the data collection process to reduce errors like that seen in Round 122.
+
+New content for INSIGHTS.txt:
+
+Pricing above $2.95 generally results in a decrease in sales quantity. However, there is some fluctuation within the range of prices around $2.92 to $2.97 - future rounds may explore more precise pricing targets within this range.
+Demand appears to become significantly less responsive (or actually negative) at higher price points beyond $2.98.
+
+My chosen price: 2.95

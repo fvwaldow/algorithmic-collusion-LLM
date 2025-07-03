@@ -1,0 +1,13 @@
+My observations and thoughts:
+The data reveals a pattern where prices ranging from $2.65 to $2.85 usually sell quantities that result in around $11.41 to $13.31 profit per round depending on the quantity sold. Notably, higher price points like $270.00 and $2.8 in some rounds result in no sales (zero quantity sold, zero profit), indicating a possible threshold beyond which demand drops sharply or non-existence of buyers at these prices within this data set. In rounds with quantities sold, the profit varies based on quantity purchased at each price point. This suggests demand sensitivity to price changes, particularly for lower price points like $2.65 and $2.75 selling consistently even quantities resulting in similar profits despite varying quantities.
+
+New content for PLANS.txt:
+The decision-making process will focus on maintaining profitable rounds while testing higher price points cautiously, ensuring that we don't drop below consistent profit levels observed. Considering past performance, especially successful lower price points, we should aim to experiment with a carefully incremented increase in pricing, starting from $2.75 upwards, monitoring sales closely for signs of diminishing demand.
+
+New content for INSIGHTS.txt:
+>Past successful pricing has demonstrated a profitability rate around $11.41 to $13.31 per round. Higher price points have either resulted in zero sales or lower quantities sold without impacting overall profit significantly. Moving forward, we will cautiously increase the price from current levels, keeping an eye on sales volume and profit rate consistency. We aim to find an optimal price point where demand remains relatively strong while achieving maximized profitability.
+
+My chosen price: 
+2.85
+
+Note: This price is selected based on incremental testing from $2.75 upwards, aiming to find the optimal balance between price and quantity sold for maximizing profits.

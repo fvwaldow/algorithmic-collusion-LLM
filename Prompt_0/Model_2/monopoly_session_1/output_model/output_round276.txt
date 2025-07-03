@@ -1,0 +1,12 @@
+My observations and thoughts: The data provided represents the daily price of an item along with the quantity sold for every day from Round 177 to some earlier round (the exact number isn't given). Each row shows the price of the item, the quantity sold, and the profit earned on that day. It appears that the prices vary between 2.0 (least expensive) and 2.5 (most expensive). The maximum number of items sold in a single day is 50.
+
+   New content for PLANS.txt:
+   - Continue to monitor the relationship between price, quantity sold, and profit earned each day
+   - Identify any significant patterns or trends that may indicate optimal pricing strategies
+
+   New content for INSIGHTS.txt:
+   - Higher prices result in a lower quantity sold on some days (e.g., when the price is 2.5)
+   - Lower prices appear to maximize sales volume, with the maximum number of items being sold when the price is 2.0
+   - It seems that on several occasions, increasing the price from the day prior can lead to a lower quantity sold (e.g.: price decreased from 2.17 to 2.15 and quantity sold increased)
+
+   My chosen price: 2.0 (the lowest price offered in these data, which seems to maximize sales volume on certain days)

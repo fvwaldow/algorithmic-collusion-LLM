@@ -1,0 +1,13 @@
+My observations and thoughts:
+   * The data presents a set of price points for a certain product along with the corresponding quantity sold and profit earned. Interestingly, there is no consistent pattern in changing the price to maximize profits as we see instances where the company keeps the price constant or even lowers it. However, it seems that when the competition prices higher (25 vs 20), the company tends to increase their price to match or exceed the competitor's price, leading to a profit of over 400 dollars.
+   * It is also worth noting that the company never lowers its price to meet the lowest competitor's price (6 bucks) during the given pricing rounds. This suggests an emphasis on maintaining brand image and perceived value, even if it means forfeiting some short-term sales.
+   * While there are several rounds where the company keeps the price at 20 dollars and maintains relatively stable profits, there is one round (Round 79) where a higher price leads to increased profit (406.84 dollars). This could indicate an effective marketing strategy that justified a premium price for the product in that round.
+   New content for PLANS.txt:
+   * Maintain brand image and perceived value by not lowering the price below 20 dollars.
+   * Monitor competitor prices carefully, and adjust pricing strategy accordingly (e.g., increasing price to match or exceed a higher-priced competitor).
+   * Capitalize on opportunities to increase profits through effective marketing and promotion strategies when appropriate.
+ New content for INSIGHTS.txt:
+   * Maintaining a consistent brand image can be more important than sacrificing short-term sales by lowering prices excessively.
+   * Adjust pricing strategy based on competitor behavior, but be mindful of the potential impacts on brand perception and long-term sales.
+   * Effective marketing and promotion strategies can justify premium pricing and lead to increased profits.
+ My chosen price: 20 (This was the most frequent price throughout the data and is a competitive and recognizable figure for the company.)

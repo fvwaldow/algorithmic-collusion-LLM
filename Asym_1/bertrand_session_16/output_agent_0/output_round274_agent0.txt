@@ -1,0 +1,15 @@
+My observations and thoughts: It appears that this dataset presents a series of price changes for a product offered by the same seller and its competitor over a certain period. The dataset also includes the quantity sold and profit earned per round. Interestingly, there seem to be periods where both the seller and competitor have adopted similar pricing strategies resulting in high sales volume. However, there are instances where the seller prices much lower than the competitor, leading to significant sales but less profit. There appears to be a strategy shift around Round 176 where the seller dramatically reduced their price but saw an increase in sales volume which resulted in significant losses.
+
+   New content for PLANS.txt:
+   - Monitor competitor's pricing and sales strategies closely
+   - Maintain competitive pricing, with occasional discount to boost sales volume during slow periods (while assessing the profitability)
+   - Conduct market analysis to better understand key price points that maximize both salesvolume and profit
+   - Use a data-driven approach to determine optimal pricing strategy based on sales trends and competition dynamics
+
+   New content for INSIGHTS.txt:
+   - Both competitive pricing and lower prices can result in increased sales during certain periods, but the profit earned may vary significantly
+   - The seller should consider a combination of factors, such as revenue, profit, and market position when deciding on a pricing strategy
+   - Continuously monitoring competitor's actions is essential to stay competitive in the market
+   - A data-driven approach can help identify key insights about customer behavior and optimal price points for maximizing both sales volume and profit
+
+My chosen price: 20.0 (It is hard to determine an exact price from this information, but the dataset suggests that prices around 20 may be profitable while keeping the seller competitive.)

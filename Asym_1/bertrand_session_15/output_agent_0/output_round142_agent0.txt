@@ -1,0 +1,15 @@
+My observations and thoughts: It appears that my competitor's price strategy fluctuates widely, going as low as $4 per unit and as high as $60 per unit in different rounds. However, it seems that their prices are initially set higher and then lowered to drive sales, likely in response to my pricing or market conditions. They often lower the prices when I increase mine, suggesting a sensitivity to price changes. Despite this, they manage to maintain reasonable profits, with some rounds showing significant profits.
+
+   New content for PLANS.txt:
+   * Monitor competitor's price strategy closely to anticipate shifts in pricing and adjust accordingly.
+   * Consider implementing a similar strategy of lowering prices strategically to increase sales when necessary, but ensure profitability remains high by adjusting quantity sold or product quality if needed.
+   * Keep an eye on market trends and conditions to align our pricing with customer demand and value perception.
+
+   New content for INSIGHTS.txt:
+   * Competitor is sensitive to price changes, lowering prices when they sense a need to increase sales.
+   * Our competitor maintains reasonable profits even in rounds where they lower their prices significantly.
+   * Our competitor's high-low pricing strategy may be designed to target different market segments and capture various customer groups.
+
+   My chosen price: [The chosen price will depend on a variety of factors, including current demand, cost of goods, and the competitor's average pricing. For now, let's assume that a price around the median of our competitor's pricing over this dataset would be appropriate. To find the median, add up all the competitor prices, divide by the number of data points, and round to the nearest whole number.]
+   [For example: (4+12+...+30)/51 = 18.66, which would round to 19]
+   My chosen price: 19

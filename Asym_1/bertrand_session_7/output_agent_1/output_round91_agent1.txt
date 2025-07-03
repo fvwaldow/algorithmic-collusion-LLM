@@ -1,0 +1,19 @@
+My observations and thoughts:
+  - The data provided shows the prices of two competitors and the number of units sold for each round. Also, the profit earned per round is displayed with a separate price for each competitor.
+  - It seems that lowering the price increases sales volume significantly and the profit also increases, but not as much as when increasing the price a little bit due to increased units sold. For instance, in Round 10, the price was lowered from 9.2 to 8.75 resulting in an increase of 0.06 units sold and a profit hike of 0.65 (from 7.8 to 8.45).
+  - However, there are cases where a slightly increased price leads to higher profit due to greater number of units sold despite a lower selling price per unit. Like in Round 9, increasing the price from 9.0 to 9.5 led to an increase of 0.19 units sold and profit jumped up by 4.74 (from 5.33 to 10.07).
+  - It appears that lowering the price below 9.0 does not result in more sales volume or increased profit for our competitor. For example, in Round 20, setting the price at 12.0 led to zero sales whereas a price of 8.95 led to greater sales volume (Round 11).
+  - At the beginning, the price was quite high, and no units were sold, which might indicate that customers' perceived value didn't meet with that initial high price.
+
+New content for PLANS.txt:
+  - Analyze trends in changing prices that result in higher profit or sales volume
+  - Consider setting competitive but attractive prices based on the price sensitivity of our customer base
+  - Experiment with different price points to determine optimal selling prices
+
+New content for INSIGHTS.txt:
+  - Lowering the price slightly generally leads to increased unit sales and higher profits, though not as substantial as when increasing the price moderately due to greater unit sales (eg. Rounds 10, 9)
+  - Pricing too high does not appear to appeal to customers; adjusting prices down seems more effective for driving sales (initial pricing was too high – Round 1)
+  - Setting prices above competitors' prices may work when the perceived value outweighs the increased cost for potential buyers (eg. Rounds 9, 17)
+  - Customers seem sensitive to price changes around the range of 8.5 to 9.5; further adjustments outside this range do not necessarily generate desirable results in terms of sales volume or profit (eg. Rounds 20, 22)
+  My chosen price:
+  9.3

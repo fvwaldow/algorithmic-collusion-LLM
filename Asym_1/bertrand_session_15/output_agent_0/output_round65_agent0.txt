@@ -1,0 +1,13 @@
+My observations and thoughts: The data shows a dynamic market with prices varying greatly from 1 (0.02 quantity) to 39 (seems to be the maximum price point). There are instances where lowering the price significantly (from 39 to 2 (round 2, 8, and 9)) led to increased sales. However, consistently pricing at or around 1 seems detrimental as it leads to significant losses despite high quantities sold (rounds 3-7). Prices from 16 to 24 seem more stable with moderate profits (rounds 5-20, 22, and 25). There is also an interesting trend where the price fluctuates between higher and lower prices over several rounds. This indicates that the market might respond well to tactical pricing adjustments.
+
+   New content for PLANS.txt:
+   - Analyze historical data for patterns and trends. Identify the range of optimal prices based on quantity and profitability.
+   - Develop a dynamic pricing strategy that considers adjusting the price up or down based on market response in each round.
+   - Study customer behavior to understand their sensitivity to price changes.
+
+   New content for INSIGHTS.txt:
+   - Lowering the price can lead to increased sales and profits, but be careful not to go too low as it may become a habit and impact long-term profitability.
+   - Aim for pricing between 16 and 24 as they provided modest profits without risking significant losses.
+   - Be mindful of market trends, adjust the price accordingly, and monitor customer response to pricing changes.
+
+   My chosen price: 16 (Based on historical data indicating stability and profitability in that range)

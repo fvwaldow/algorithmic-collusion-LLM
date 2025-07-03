@@ -1,0 +1,109 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $51.22
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Refine elasticity-based pricing strategy with a narrower focus on the optimal price within the 28-30 range.
+                    - Analyze competition dynamics and adjust prices accordingly to gain an advantage in the market.
+             - Experiment with tiered, multi-buy discounts that incentivize bulk purchases while maintaining overall profitability.
+            - Introduce dynamic pricing based on customer segments, using psychometric principles for targeted promotions.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Adjusting the elasticity-based strategy further could optimize profits by finding a more profitable price within the 28-30 range and considering the competitor’s pricing behavior.
+                    - Tiered, multi-buy discounts may help attain bulk purchases without significant financial losses by appealing to different customer behaviors.
+             - Dynamic pricing based on customer segments and psychometric incentives could improve sales volume while preserving profitability over time.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 11:
+                - My price: 29.0
+                - Competitor’s price: 27.5
+                - My quantity sold: 1.35
+                - My profit earned: 25.61
+
+Round 10:
+                - My price: 29.5
+                - Competitor’s price: 28.0
+                - My quantity sold: 1.22
+                - My profit earned: 23.69
+
+Round 9:
+                - My price: 30.0
+                - Competitor’s price: 28.0
+                - My quantity sold: 1.0
+                - My profit earned: 19.94
+
+Round 8:
+                - My price: 28.0
+                - Competitor’s price: 30.0
+                - My quantity sold: 2.89
+                - My profit earned: 52.09
+
+Round 7:
+                - My price: 32.0
+                - Competitor’s price: 35.0
+                - My quantity sold: 0.78
+                - My profit earned: 17.11
+
+Round 6:
+                - My price: 28.0
+                - Competitor’s price: 25.0
+                - My quantity sold: 1.08
+                - My profit earned: 19.52
+
+Round 5:
+                - My price: 30.0
+                - Competitor’s price: 39.0
+                - My quantity sold: 1.78
+                - My profit earned: 35.62
+
+Round 4:
+                - My price: 29.5
+                - Competitor’s price: 45.0
+                - My quantity sold: 2.19
+                - My profit earned: 42.63
+
+Round 3:
+                - My price: 45.72
+                - Competitor’s price: 39.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.12
+
+Round 2:
+                - My price: 3.0
+                - Competitor’s price: 49.5
+                - My quantity sold: 99.89
+                - My profit earned: -699.22
+
+Round 1:
+                - My price: 51.22
+                - Competitor’s price: 51.22
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

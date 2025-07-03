@@ -1,0 +1,58 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $51.22
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Evaluate dynamic pricing across various quantity ranges to offer competitive discounts that encourage bulk purchases without compromising marginal profits.
+   - Implement limited-time premium pricing during peak seasons or special promotions to create a sense of urgency and value associated with the product.
+   - Carry out A/B testing by introducing different pricing tiers, closely monitoring sales, customer feedback, and shifting towards the most profitable tier.
+   - Collaborate with marketing to strengthen the brand image and justify higher prices as well as enhance long-term customer loyalty.
+   - Test various promotional bundles offering added value or discounts on related products in order to stimulate repeat purchases.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Implementing dynamic pricing can help generate more sales without undermining profits by adjusting prices based on the quantity purchased and customer response over time.
+   - Limited-time premium pricing will help capitalize on surges in demand during specific periods while cultivating a perception of high quality or exclusivity associated with the product.
+   - A/B testing will provide valuable insights into which pricing strategy generates the highest long-term profitability by tracking sales, customer feedback, and market trends.
+   - Collaboration with marketing helps create a strong brand image that justifies higher prices and fosters customer loyalty over time.
+   - Offering promotional bundles enables cross-selling opportunities and encourages repeat purchases.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 2:
+                - My price: 3.0
+                - Competitor’s price: 49.5
+                - My quantity sold: 99.89
+                - My profit earned: -699.22
+
+Round 1:
+                - My price: 51.22
+                - Competitor’s price: 51.22
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

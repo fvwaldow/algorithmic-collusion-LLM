@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+Based on the market data provided, it appears that there are several price levels that achieve similar profit margins. Specifically, prices of $4.99 and $5.04 seem to be particularly profitable, with very similar quantities sold and profits earned across multiple rounds. This suggests that there may be some sort of "price elasticity" at play here.
+
+However, upon closer inspection, it seems that the quantity sold is actually slightly higher for $4.99 prices, especially in Rounds 42-41. Additionally, profit margins seem to drop off fairly significantly as prices exceed $5.04 (Rounds 46 onwards).
+
+One potential strategy could be to test prices below and above these thresholds further to see if there are indeed differences in profit margins.
+
+New content for PLANS.txt:
+1. **Test optimal range of profits**: Investigate the price point at which the drop-off in quantity sold becomes more pronounced, aiming to identify a sweet spot where profit margins peak beyond $5.04.
+2. **Investigate sub-$4.99 pricing options**: Given that prices around this level have consistently been the most profitable so far, try experimenting with slightly lower prices to see if there's room for improvement (below the initial price of $5.04 at least).
+
+New content for INSIGHTS.txt:
+
+* It seems that while higher prices may reduce quantity sold, they also don't seem to result in significantly higher profit per unit - potentially because the increased cost per unit outweighs the reduced selling price.
+* Lower starting prices ($4.99-4.98) also show stability in earning over a wide range of rounds (up through at least Round 40 for instance), thus indicating their effectiveness in generating consistent income.
+
+My chosen price:
+$4.99

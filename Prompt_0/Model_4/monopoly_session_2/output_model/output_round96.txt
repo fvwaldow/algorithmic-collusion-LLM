@@ -1,0 +1,10 @@
+My observations and thoughts: 
+I notice consistent fluctuations in profit based on varying quantities sold. The highest profits seem to occur around a quantity of 0.23, suggesting a sweet spot in terms of demand and supply. The lowest profit occurs with a quantity of 0.01, indicating a low-demand threshold. There's a noticeable pattern where prices around $12 yield steady profits (around $0.8), showing a stable customer base likely to pay this price. Prices around $13 and $12.5 generate varying profit rates due to the changing quantity sold, hinting at elasticity in pricing.
+
+New content for PLANS.txt:
+Adding to our current strategy, let's aim for quantities around 0.23 when setting the price slightly above $12. This will likely ensure high profits without significantly risking demand. For lower-demand scenarios, consider dropping the price closer to $12 to attract more buyers, although this could reduce profit margins per unit sold.
+
+New content for INSIGHTS.txt:
+In the observed cycles, we see an important correlation between price ($$ ) and quantity sold (Q) that forms a consistent pattern for predicting profit (P). Specifically, holding a constant price increases Q when P is around $0.8, indicating stability in consumer behavior at this point. Conversely, lower prices around $12 seem to increase demand substantially but decrease per-unit profit, providing insights into customer elasticity.
+
+My chosen price: 12.75

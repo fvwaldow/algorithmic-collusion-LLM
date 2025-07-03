@@ -1,0 +1,13 @@
+My observations and thoughts: It seems that the prices of each item appear to fluctuate, with no apparent pattern. The competitor's price can either be lower or higher than the current vendor, but most importantly, the quantities sold differ significantly based on the price. In some cases where the vendor prices higher, they sell less quantity compared to when they price lower. However, there are instances where pricing higher still results in high sales volume due to lack of competition (Round 102, 111, etc.). It seems crucial to adapt pricing based on competition.
+
+   New content for PLANS.txt:
+   - Adapt pricing according to competitor's price movements to maximize sales
+   - Monitor sales volume and consider changing prices when necessary
+
+   New content for INSIGHTS.txt:
+   - Lower prices lead to higher quantities sold (e.g., Round 108, 107)
+   - Lack of competition allows for pricing higher with substantial sales (e.g., Round 102, 111)
+   - High pricing does not always result in lower sales (e.g., Round 95, 99)
+   - Prices should be flexible to adapt to shifts in competitor's price and sales volume trends
+
+   My chosen price: 2.22 (taking an average of the range of prices between current vendor and most frequent competitor)

@@ -1,0 +1,9 @@
+My observations and thoughts: The data provided represents a total of 100 pricing rounds between two competitors for a product. During this time, the competitors' prices fluctuate quite significantly - from as low as 8.5 to as high as 25.0. It is worth noting that lower prices tend to result in higher quantity sold (e.g., when the price was 8.5, the highest quantity was sold). However, when the price becomes too low or even reaches zero profit (e.g., at round 10 and some smaller instances), the seller will incur a loss. On the other hand, prices relatively nearer to their competitor's can generate considerable profits (e.g., at round 43 and some subsequent rounds).
+
+   New content for PLANS.txt:
+   Maintain competitive pricing by tracking competitor's movements but avoid engaging in an aggressive price war. Continuously monitor the market demand to determine optimal pricing, with consideration given to generating a profit while maximizing sales volume. Establish pricing adjustment thresholds based on previous data analysis for quick reaction during pricing decisions.
+
+   New content for INSIGHTS.txt:
+   Adopting a reactive yet proactive pricing strategy may be beneficial in this scenario, as illustrated by the competitor consistently gaining an edge during their price drops and subsequent recoveries. Additionally, identifying the "sweet spot" range of prices that ensure a higher quantity sold while maintaining profitability is crucial for long-term success. Lastly, understanding market demand and its sensitivity to pricing changes is essential in making informed decisions regarding pricing adjustments.
+
+   My chosen price: 14.0

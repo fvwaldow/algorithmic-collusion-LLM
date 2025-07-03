@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+* The data suggests that prices around $19-$20 tend to result in higher sale quantities and profit earned. However, there are exceptions where lower or higher prices lead to similar results (e.g., Rounds 85, 87-88).
+* Round 89's price of $21 and Round 70's price of $21 both resulted in lower sales quantities compared to the optimal range around $19-$20.
+* There is no clear pattern that indicates a significant increase in profit earned with higher prices (e.g., Rounds 64, 65). In fact, these extremely high prices resulted in low or negative profits.
+* The price of $20 appears to be stable across multiple rounds (50s-60s), indicating that it might be an optimal range.
+
+New content for PLANS.txt:
+Let's analyze the data further by considering different pricing strategies:
+
+1. Analyze the impact of introducing a new pricing level, e.g., between $19-$20 or around $22.
+2. Investigate the effect of adjusting prices in small increments to find an optimal price point within the identified range.
+
+New content for INSIGHTS.txt:
+It's crucial to note that prices above $22 seem unprofitable based on the data (Rounds 64, 65). However, it might be beneficial to experiment with adjusting prices slightly below $22 to maximize profit.
+
+My chosen price:
+19.5

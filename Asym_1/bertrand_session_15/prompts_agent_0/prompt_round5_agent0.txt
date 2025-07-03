@@ -1,0 +1,66 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $39.39
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Test dynamic pricing strategies that consider competition and perceived value, focusing on a moderate range of price increments (e.g., $1.05,  $1.075, $1.1)
+      - Observe sales & customer behavior across multiple rounds at various price points and analyze their impact on volume of sales and profit margins.
+    - Take advantage of insights from past pricing rounds by carefully monitoring trends in both profits and quantities sold over multiple rounds to pinpoint the optimal market pricing point that balances sales volume with profit margins, taking into account the competitor's price and perceived value.
+     - Regularly reevaluate the pricing strategy based on performance data obtained across multiple price points, to maximize opportunities for continuous optimization and profitability.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Balancing sales volume with profit margins is crucial in a dynamic pricing environment. In this case, it appears that a more conservative approach with moderate price increments may lead to positive profits while still maintaining a competitive edge against the current market leader.
+   - Monitoring sales and customer behavior across multiple rounds can provide valuable insights into identifying the optimal market pricing point that ensures continuous long-term profitability.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 4:
+                - My price: 1.07
+                - Competitor’s price: 39.0
+                - My quantity sold: 99.95
+                - My profit earned: -892.04
+
+Round 3:
+                - My price: 1.02
+                - Competitor’s price: 35.0
+                - My quantity sold: 99.95
+                - My profit earned: -897.02
+
+Round 2:
+                - My price: 1.02
+                - Competitor’s price: 24.0
+                - My quantity sold: 99.75
+                - My profit earned: -895.72
+
+Round 1:
+                - My price: 1.05
+                - Competitor’s price: 39.0
+                - My quantity sold: 99.95
+                - My profit earned: -894.54
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

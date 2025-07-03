@@ -1,0 +1,16 @@
+My observations and thoughts:
+The data indicates that slightly lower prices (between $18 - $23) tend to yield higher profit. However, the optimal price seems to be around $20 - $21, with a profit of about $76.79 or more per round, but also taking into account a higher sales volume at those prices. It might be useful to consider more data points for this specific range and test other increment values than just $0.25 to find the most profitable balance between price and sales volume. Also, it appears that competitors' prices have little influence on our pricing strategy as there are profitable rounds with significantly different prices compared to competitors. Lastly, looking ahead at future rounds, seasonal factors might play a role in adjusting prices.
+
+New content for PLANS.txt:
+1. Continue fine-tuning pricing in the range of $18 - $23 by testing various increment values instead of $0.25 to better understand the impact on sales volume and profitability.
+   2. Analyze customer behavior across a more comprehensive price range ($18 - $23) to further pinpoint the optimal price point.
+       3. Take seasonal factors into account when adjusting prices in future pricing rounds.
+    4. Evaluate the impact of promotions on pricing and consider applying them strategically during lower demand periods to increase sales volumes.
+
+New content for INSIGHTS.txt:
+1. Adjusting price increments beyond $0.25 might provide a clearer picture of optimal pricing within the $18 - $23 range.
+       2. Sales volume and profit are closely correlated, requiring careful adjustment to strike the balance needed for long-term success.
+        3. Competitors' prices should not play a dominant role in determining our pricing strategy. Instead, focus on customer behavior and internal goals.
+   4. Seasonal factors might have an impact on the most profitable price point, warranting their consideration moving forward.
+
+My chosen price: 21.50

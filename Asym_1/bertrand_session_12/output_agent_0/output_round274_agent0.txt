@@ -1,0 +1,15 @@
+My observations and thoughts:
+   The data provided shows a dynamic pricing competition between two entities. The data is organized by round number, with each round providing the price set by both entities, the quantity sold, and the profit earned. This suggests that one or both parties are adjusting their prices strategically based on market responses.
+
+   It appears that both parties are trying to undercut each other's prices in an attempt to gain a larger share of the market. However, this strategy becomes more challenging when one party sets an extremely high price (e.g., Round 183 where the price is set at 35.0). This high price seems to be uncompetitive and results in no sales for that round.
+
+   There are periods where one party holds a significant market advantage by setting a lower price, which leads to higher quantities sold (e.g., Round 182 where the lower price of 8.0 leads to 2.72 units sold compared to Round 181's 0.98 units sold at a higher price of 8.0).
+
+   New content for PLANS.txt:
+   To succeed in this competitive market, it would be advantageous to monitor the competitor's pricing strategy closely and adjust prices accordingly while maintaining a level of competitiveness that attracts customers. It may also be beneficial to analyze which price points lead to higher sales volumes.
+
+   New content for INSIGHTS.txt:
+   Prices set by both parties are dynamic and responsive to the market, with each trying to undercut the other to gain a larger market share. Setting an uncompetitive price (as in Round 183) can result in no sales. High sales volumes appear to be correlated with lower prices but require careful observation to ensure profitability.
+
+   My chosen price:
+   8.21 (This number corresponds to the median price across the data)

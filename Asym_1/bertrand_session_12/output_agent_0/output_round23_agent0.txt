@@ -1,0 +1,14 @@
+My observations and thoughts: It appears that setting a price within the range of $8 to $13 has yielded the highest profit thus far (rounds 7, 17, 40, and 70). However, it's worth noting that price variations have an impact on the quantity sold. In some cases, prices above 12.0 led to no sales at all (rounds 5, 38, and 59), while lowering the price to around $8 increased sales volume significantly but not proportionally (rounds 12 and 46). Furthermore, a higher competitor's price might create an opportunity for a pricing advantage.
+
+New content for PLANS.txt:
+- Continue using Dynamic Pricing Strategy with Machine Learning Algorithms with the focus on maintaining prices between $8 to $13 while considering market dynamics, real-time competitor actions, and previous price data.
+  - Analyze the relationship between profit margins and pricing at various points within the 8 to 13 range to determine the optimal price points for each round.
+  - Investigate offering slightly lower prices during periods of higher competition to gain market share while maintaining overall profitability.
+
+New content for INSIGHTS.txt:
+- Lowering prices may increase sales volume but might not guarantee proportional increases in profit, as costs remain constant. It's essential to assess potential losses in the short term to maximize long-term profitability.
+  - Monitor and adapt pricing strategies based on competitor actions to capitalize on market opportunities for higher profits.
+  - Utilizing machine learning algorithms for dynamic pricing allows for continuous optimization of prices within the given constraints to better compete in the market.
+
+My chosen price:
+12.00 (This price point has shown success in rounds 7,17,40 and 70)

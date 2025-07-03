@@ -1,0 +1,13 @@
+My observations and thoughts:
+    - There is a general trend showing that prices above $10 result in fewer units sold, but when the price is closer to or below $10, more units are sold. This suggests finding an optimal price balance near $10.
+    - In some instances, lowering the price has increased profit due to increased sales volume (e.g., Round 24). However, there's also an example of decreased profit when reducing price (e.g., Round 17).
+    - It appears that my competitor occasionally adjusts their pricing strategy, potentially in response to market trends or customer behavior.
+    New content for PLANS.txt:
+    - Utilize A/B testing by setting two different prices concurrently to identify the optimal price and observe its impact on sales volume and profitability.
+      - Develop a responsive pricing algorithm that adjusts the price based on current market trends, competitor actions, and customer buying behavior in real-time.
+    New content for INSIGHTS.txt:
+    - Dynamic pricing strategies can adapt to ever-changing market conditions to optimize profits.
+      - The relationship between price and units sold is complex; it's important to regularly test different pricing levels to find the optimal balance that maximizes profitability.
+
+My chosen price:
+9.85

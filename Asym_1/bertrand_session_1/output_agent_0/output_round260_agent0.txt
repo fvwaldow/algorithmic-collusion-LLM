@@ -1,0 +1,25 @@
+My observations and thoughts:
+
+* The data provided appears to be a history of pricing decisions made by the business over time. Each record includes the previous price set by the business (MyPrice) and the competitor's current price (CompetitorPrice). Additionally, it lists the number of units sold (QuantitySold), total profit earned from selling those units (ProfitEarned), and sometimes a special condition affecting the market or pricing strategy (SpecialCondition).
+* Some observations from the data:
+	+ When setting their price higher than the competitor (i.e., MyPrice > CompetitorPrice), the business tends to sell more units but at lower profit margins per unit sold compared to when they set a lower price that is closer or slightly above the competitor's price. For example, rounds 184 and 165 where the business sets a much higher price than its competitors resulted in fewer sales.
+	+ Conversely, when setting the price lower than or similar to the competitor (i.e., MyPrice <= CompetitorPrice), the business sells more units at higher profit margins per unit sold compared to rounds like 177 and 166 where they set a much higher price. For example, rounds such as 173-175, 168, and 162 had both greater quantities sold and higher profit per unit compared to rounds 176, 164, and 161.
+	+ Special conditions seem to have varying impacts on the sales and profits of this business:
+		- In round 183, the competitor increased their price by a significant amount (2.6 > CompetitorPrice); while they still had an increase in sales, it was less than rounds where the competitor maintained or slightly lowered their price, such as 47 and 75.
+		- In round 187, the business set its price to a very high value (MyPrice = 250.0), with the assumption that consumers would not purchase at such an abnormally high price; this assumption was correct since no units were sold in this round.
+* Based on these observations, it appears that setting the price slightly higher than or equal to the competitor results in more units sold and higher profit margins overall when compared to rounds where a much higher price is set above the competitor's price. However, it seems essential to be aware of special market conditions and competitor changes in strategy since those could significantly impact sales and profitability.
+
+New content for PLANS.txt:
+
+* Analyze historical data and identify patterns between market prices, sales, and profits when compared to the competitor's prices.
+* Set the new price slightly higher than or equal to the competitor, considering special conditions impacting the market if applicable.
+* Track the impact of the chosen price on sales and profit margins, adjusting as necessary to optimize revenue and profitability.
+
+New content for INSIGHTS.txt:
+
+* A higher price set above the competitor leads to fewer units sold at lower profit margins per unit. (rounds 184, 165)
+* A lower or similar price compared to the competitor results in more units sold and higher profit margins per unit sold. (rounds 173-175, 168, 162)
+* Special market conditions can significantly impact sales and profits; be mindful of these changes when setting pricing strategies. (rounds 183, 187)
+
+My chosen price:
+4.0

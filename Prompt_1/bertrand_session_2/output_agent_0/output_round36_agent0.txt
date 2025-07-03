@@ -1,0 +1,17 @@
+My observations and thoughts: Based on the historical data provided, it can be seen that there is a significant impact of competitor's price on the quantity sold and profit earned. Furthermore, a lower price results in increased quantity sold but lower profit. A higher price leads to reduced sales but higher profit due to the difference between selling price and production cost. It's also evident that competitors play a crucial role in determining the optimal pricing strategy, as evidenced by rounds where my price was significantly higher or lower than competitors leading to reduced sales.
+
+New content for PLANS.txt:
+1. Implement a dynamic pricing strategy adapted to competitor's prices, taking into account the sensitivity of quantity sold with regard to competitor’s price changes.
+2. Use historical sales data and machine learning models to better predict sales volumes at different price points in order to optimize profitability.
+3. Develop and test various pricing algorithms to determine an optimal dynamic pricing strategy.
+4. Perform market research to gain further insights into customer preferences, thereby informing our competitive positioning and pricing decisions.
+5. Regularly monitor sales data and adjust strategies accordingly to maintain profit maximization.
+
+New content for INSIGHTS.txt:
+1. Competition plays a significant role in determining optimal pricing strategies due to its impact on quantity sold and profit earned.
+2. Prices that significantly deviate from competitors may result in reduced sales, thus limiting profitability.
+3. Predictive models can provide valuable guidance when making critical pricing decisions based on historical data.
+4. Market research is essential for understanding customer preferences and their impact on pricing strategies.
+5. Implementing a dynamic pricing strategy may help maintain competitive positioning and maximize profitability.
+
+My chosen price: 1.65

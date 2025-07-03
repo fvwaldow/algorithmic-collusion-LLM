@@ -1,0 +1,12 @@
+From the data provided, we can observe that the strategy for optimal profit maximization has been variable pricing, adjusting the price of the product according to demand and sales figures. The most successful price seems to be around 13 to 13.28 with the highest profit earned in those rounds being 305.14 in round 46 when the price was 13.28 and quantity sold was 93.63. 
+
+In terms of strategy, it appears that reducing the price can significantly increase the quantity sold, as seen from rounds where the price dipped to $13.00, there was a substantial increase in the quantity sold (e.g., round 57: My quantity sold: 94.16). However, this approach also substantially lowered profit per round due to the increased cost despite the higher quantity sold (e.g., round 57: My profit earned: -287.18).
+
+On the other hand, maintaining a higher price like in rounds 46 and 47, where the profits were substantial but the quantity of goods sold was lower than when the price was reduced, resulted in a more significant overall revenue (e.g., Round 46: My profit earned: 305.14).
+
+For planning (PLANS.txt): The plan will be to continue adopting a flexible pricing strategy, adjusting prices based on demand and sales trends. Particular focus should be kept on finding the right balance between price and quantity sold to maximize profits per round, and maintaining a consistent but fluctuating price around $13 as it generally yielded good results.
+ ancora 
+For insights (INSIGHTS.txt): One important insight from this data is the importance of understanding and adapting to market demand. In the given scenario, adjusting the price based on demand and sales led to higher profits overall. However, maintaining a steady but fluctuating price just above $13 seemed to yield the best results. Future changes in price must take into account this balance between cost and quantity sold for maximum profit.
+
+My chosen price: 13.28
+The chosen price based on the data is 13.28, as it resulted in the highest profit of 305.14 while maintaining a reasonable quantity of goods sold (93.63). Maintaining similar prices or staying in this vicinity should yield good results and maximize earnings. However, constant monitoring and adaptation to market trends will be essential for continued success.

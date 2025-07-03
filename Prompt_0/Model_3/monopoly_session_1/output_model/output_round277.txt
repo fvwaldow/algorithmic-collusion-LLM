@@ -1,0 +1,16 @@
+1. Observations and thoughts:
+From the given data, it appears that the higher-priced items (2.5, 2.6, etc.) result in a higher profit per unit (17.88, 17.84, etc.), but at a potentially lower quantity sold (11.92, 8.32, etc.). The lower price point of 2.0 results in a higher total profit due to the increased volume of units sold (50, 50, etc.), but a lower individual profit per unit (50, 50, etc.). There might be an optimal balance between price and quantity needed to maximize overall profit.
+
+2. Content for PLANS.txt:
+- Monitor and compare the relationship between price, quantity sold, and profit earned per round.
+- Experiment with different price points (0.5 increments, for instance) to identify the optimal balance that maximizes profit.
+- Review competitor pricing strategies or industry benchmarks for guidance.
+- Consider implementing a dynamic pricing strategy if the market demands vary significantly over time.
+
+3. Content for INSIGHTS.txt:
+- Higher priced items tend to yield higher individual profits but lower quantities sold, while lower priced items have higher quantities sold resulting in lower profit per unit.
+- The optimal price point lies within a balance between maximizing profit per unit and total quantity sold.
+- Experimenting with various pricing strategies is essential for finding the best results for increasing overall profit.
+
+4. My chosen price:
+Considering the data, I would choose a price of 2.49 for the upcoming round as it achieves a balance between maximizing profit per unit (18.4) and total quantity sold (12.35). This choice potentially allows for higher overall profits compared to purely focusing on the highest individual profit or largest volume of units sold.

@@ -1,0 +1,14 @@
+My observations and thoughts: Throughout this dataset, it appears that the initial price of the product is set at $6.0. The product competes with various other items with pricing ranging from $0.1 to $7.0. When the price is lower than competitors, such as in Rounds 65-61 and 58, the quantity sold appears to be significantly higher. However, when the price is set above competitors, like in Round 49, the quantity sold is relatively low. It seems that the optimal price for this product lies somewhere around the competitor prices but slightly lower.
+
+   New content for PLANS.txt:
+   - Observe market competition prices
+   - Determine optimal pricing based on the observed competitors' prices and our unit cost
+   - Test a few price points (slightly lower than competitor prices) to gauge customer response and sales volume
+
+   New content for INSIGHTS.txt:
+   - Lower product prices result in higher quantity sold (Rounds 65-61 and 58)
+   - Higher product prices have a negative impact on quantity sold (Round 49)
+   - It is crucial to stay competitive with pricing while considering our unit cost as well
+
+   My chosen price:
+   5.7 (this price point provides a good balance between being competitive and maintaining profitability based on the insights from the analysis)

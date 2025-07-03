@@ -1,0 +1,12 @@
+My observations and thoughts:
+The dataset provided shows a merchant selling a product with various prices and quantities sold over time. The quantities sold per round vary significantly, even when the price remains constant, indicating potential external factors or pricing strategies influencing sales. Notably, there are repeated high-profit rounds (e.g., around $4.32-$4.6) achieved at various prices, suggesting a stable and potentially optimal pricing zone between specific values. To maximize profit, focusing on maintaining the product price within this high-profit range appears beneficial.
+
+New content for PLANS.txt:
+Analyze historical data further to identify patterns that correlate with peak sales performance during periods of high profit margins (between $4.32 and $4.6). Investigate potential external factors causing variability in lower-priced rounds that do not yield as much profit (e.g., changes in promotions, competition, seasonal trends).
+
+New content for INSIGHTS.txt:
+1. High Profit Threshold: Between $4.32 - $4.6 appears a lucrative pricing range; aim to stay within this zone while considering competitive pressures and inventory levels.
+2. Price Variability Impact: Fluctuations in prices less than $4 do not consistently yield profits over $3, highlighting the need for strategic price adjustments rather than random fluctuations below a certain threshold.
+3. Potential External Factors: Monitor for patterns correlating with sales peaks (or troughs) – such as specific days of the week, times of year, or external events (e.g., competitor promotions) that affect buyer behavior and demand.
+
+My chosen price: 10.5

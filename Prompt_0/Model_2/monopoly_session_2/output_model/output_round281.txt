@@ -1,0 +1,11 @@
+My observations and thoughts:
+   It appears that we have a dataset providing information about the sales quantities and profit per unit for this product at various prices from rounds 183 to 217. There is some variation in both price and quantity sold, with some periods of higher prices accompanied by lower quantities (such as round 190 with a price of 7.2) and some periods of lower prices with higher quantities (rounds 186, 188, and 194 with a price of 6.5). The profit earned per unit also varies, but generally seems to decrease when the price is lowered.
+
+   New content for PLANS.txt:
+   To maximize profits, it appears that we should aim to set a price slightly above the 6.5 range without going too high and decreasing sales quantities significantly. It would be beneficial to analyze this trend further by using a statistical method or machine learning model to predict the optimal selling price based on historical data and market demand.
+
+   New content for INSIGHTS.txt:
+   Historical data shows that when prices are set around 6.5, there is a good balance between profit per unit and total quantity sold. It seems that customers are willing to pay this price range, but going higher results in diminishing returns due to lower sales quantities. Additionally, it may be advantageous to look into potential seasonal trends or other market factors that could affect demand and justify slightly adjusting the selling price accordingly.
+
+   My chosen price:
+   6.7

@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+* The data suggests a complex relationship between price and sales quantity. There are multiple instances where the same price is associated with different quantities sold (e.g., Round 31 and Round 33, both with a price of $2.98 but differing on the quantity sold).
+* The profit earned does not seem to directly correlate with the price charged. For example, in Rounds 37 and 38, prices are relatively high ($3.11 and $3.11), yet the profit earned is lower compared to other rounds.
+* There's a noticeable increase in sales quantity from Round 42 to Round 37, but this trend reverses after Round 37.
+* The highest price of $3.11 was associated with the lowest quantity sold (Round 38).
+
+New content for PLANS.txt:
+
+1. Investigate the underlying factors driving the fluctuations in sales quantities and profit earned for specific prices.
+2. Check if there's a consistent minimum or maximum threshold on both side of the "profit vs price" relationship.
+3. Conduct statistical analysis to derive a meaningful relationship between price, quantity sold, and profit earned.
+
+New content for INSIGHTS.txt:
+
+1. Prices are mostly in the range $2.90-$3.10 with some outliers above this range (e.g., Round 44's $3.03 and Rounds 38-39's $3.11).
+2. There appears to be a downward trend from Round 36 onward, where quantity sold increases until it drops sharply post-Round 37.
+3. The impact of pricing on the sales quantities is unclear; further research required.
+
+My chosen price:
+$2.97

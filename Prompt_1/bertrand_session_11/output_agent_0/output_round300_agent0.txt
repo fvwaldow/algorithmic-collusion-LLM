@@ -1,0 +1,13 @@
+My observations and thoughts: It appears that the provided data shows a record of price and quantity sales for two competing products over 201 rounds. The prices range quite significantly (from as low as 5.0 to as high as 120.0), while the quantity sold per round can span from less than 3 units up to 31.26 units.
+
+Inspecting the data, it looks like there are instances where a price drop leads to higher unit sales (e.g., when our competitor lowers their price and we see increased demand for their product), but there is also evidence of consumers being willing to pay more when perceiving a higher value in our product.
+
+One noticeable pattern is that our product tends to outsell the competition when our price falls around 8.95 - 9.0, despite them sometimes pricing as low as 5.0 or offering high prices up to 120.0. However, there are times where increasing our own price slightly (e.g., from 8.8 to 8.9) can lead to increased sales.
+
+PLANS.txt: To capitalize on the observed trends and maximize profits, it would be beneficial to set prices within the range of 8.8 - 9.0 when facing direct competition. This price range has shown signs of driving both demand for our product and a competitive edge over the competition.
+
+In situations where we perceive that our product offers higher perceived value or differentiation, we may consider pricing slightly above the 8.95 - 9.0 range as a means to capitalize on consumer willingness to pay more. However, price increases must be closely monitored and justified by a clear understanding of the consumer's perceived value and product positioning.
+
+INSIGHTS.txt: The data suggests that consumers are sensitive to price changes and will make purchasing decisions based on perceived value, competition, and demand fluctuations. It is essential for our pricing strategy to take into account these factors while being flexible enough allow adjustments, as seen in the instance of increased sales when our product was priced at 8.95 - 9.0 despite the competition occasionally pricing much lower.
+
+My chosen price: 8.95

@@ -1,0 +1,18 @@
+My observations and thoughts:
+   1. The dataset shows the price and the quantity of a product sold by the company (denoted as 'My price') and its competitor across 50 pricing rounds.
+   2. In most cases, the company's prices are significantly lower than its competitor. However, it seems that increasing the price above a certain threshold leads to a drastic decrease in sales quantity.
+   3. There is a pattern where the sales quantity increases as the price decreases, up until a certain point (around 20-25) where it starts stabilizing or slightly decreasing even with lower prices.
+   4. It appears that setting the price above 20 in most cases will result in heavy losses for the company due to minimal or no sales.
+   5. Competitor's pricing strategy seems to involve a higher average price, yet their sales quantities are not always significantly greater than the company.
+
+New content for PLANS.txt:
+   - Keep observing patterns in competitor pricing strategies and analyze possible advantages or disadvantages in copying those strategies for our product.
+   - Continue monitoring the profitability of different price points to identify a 'sweet spot' where we maximize profits without risking large losses due to minimal sales quantities.
+   - Explore alternative promotional strategies (e.g., discounts, bundles) that can help increase sales volumes with lower prices without incurring heavy losses.
+
+New content for INSIGHTS.txt:
+   - Evidence suggests that a higher-priced competitor product is less appealing to consumers, as seen by the steady or decreasing sales quantities at higher price points compared to the company's offerings.
+   - A more aggressive pricing strategy could help increase market share against our competitor, especially considering our lower prices in most comparisons.
+   - Maintaining a competitive pricing model is crucial for attracting consumers and achieving profitability, although over-reliance on discounts or constant price reductions might dilute the perceived value of our product.
+
+My chosen price: 12 (Aim to stay slightly under the median price while trying to maximize profits)

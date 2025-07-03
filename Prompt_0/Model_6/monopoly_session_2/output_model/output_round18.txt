@@ -1,0 +1,23 @@
+My observations and thoughts:
+
+* The data shows that as price increases, profit initially increases but then begins to decrease after a certain point (around $5.02). This suggests that there is an optimal price range where the balance between revenue per unit and sales quantity is maximized.
+* The price elasticity analysis mentioned in INSIGHTS.txt seems crucial to better understand how changes in price impact sales volume and profit. I will continue investigating this approach.
+* From Round 12 onwards, there seems to be a consistent decline in sales quantity when increasing the price above $4.99. This indicates that prices significantly higher than this ceiling may result in reduced demand due to potential customer dissatisfaction or sensitivity of customers' budget constraints.
+* Notable trends observed across rounds are:
+	+ Rounds 11-10 show repeated instances of selling at $4.99 with consistent profit earnings, suggesting a stable equilibrium.
+	+ Round 7 ($5.12) demonstrates the highest revenue per unit but also features lower sales quantity compared to competitors around $4.99 to $5.10 in later rounds.
+* I want to explore potential long-term impacts on customer loyalty and future sales when fluctuating prices around $5.
+
+New content for PLANS.txt:
+
+1. Continue testing higher prices around $5 to see if profitability increases further without sacrificing too much in terms of quantity sold (verified trend observed across multiple rounds).
+2. Revise the price elasticity analysis plan by conducting a regression or time-series forecasting to better understand how changes in each individual round's prices impact sales volume and profit, focusing on the behavior beyond Round 16.
+3. Investigate if setting prices slightly above $4.99 could result in higher profitability without inducing significant losses in quantity sold.
+
+New content for INSIGHTS.txt:
+
+Based on observations from multiple rounds and historical data analysis, it appears our revenue-maximizing price range is indeed centered around $5 but also influenced by customer preferences and potential elasticity in purchasing behavior due to the competitive landscape. A suggested approach moving forward would include experimenting with smaller increments above or slightly below the current equilibrium while maintaining thorough monitoring of market responses.
+
+My chosen price:
+
+4.99

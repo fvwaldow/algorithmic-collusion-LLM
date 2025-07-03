@@ -1,0 +1,14 @@
+My observations and thoughts:  
+The data reveals varying prices and corresponding sales volumes across multiple 'rounds,' ranging from 2.31 (USD) to 28.0 (USD). Several distinct patterns appear:
+
+- Regular occurrences of zero sales when the price is set at extreme values (e.g., around $25 or $28), suggesting a threshold or sensitivity level for customers where prices above or below this mark lead to no transactions. This indicates there exists an optimal 'sweet spot' pricing range rather than a linear relationship between price and quantity sold, revealing potential non-linear demand behavior.
+- Significant sales volumes at moderate price points ($2.3-$2.5), indicating customer preference for affordability without drastically low prices.
+
+New content for PLANS.txt:  
+Investigate the 'sweet spot' pricing range to refine a model for optimal prices between $2.3 and $2.5, focusing on maximizing sales volume within this zone while monitoring potential market sensitivities or saturation points near extremes (especially around $19, 25, and 28). Include a sensitivity analysis to anticipate customer response to different price intervals within this range.
+
+New content for INSIGHTS.txt:  
+Potential evidence of non-linear elasticity in demand indicated by the distinct zones of high and low sales. Confirming or refuting this through further testing is crucial for model development. Explore whether offering slight discounts at certain intervals within this range could trigger additional volume increases, or if there are upper limits where price hikes result in declining sales regardless of perceived value.
+
+My chosen price:  
+2.4

@@ -1,0 +1,13 @@
+My observations and thoughts: The data from each round shows the impact of price on quantity sold. Initially, lowering prices (round 97) significantly increases quantity sold due to increased demand, but at a loss. However, increasing prices incrementally, as seen from round 86 to present, leads to gradual increase in profit over time. Competitors' prices play an important role, such as in rounds 90 and 93 where lowering price slightly compared to the competitor increased sales (but not dramatically). It appears there is a balance between price and quantity sold for optimal profit.
+
+   New content for PLANS.txt:
+   - Analyze competitors' prices more carefully and adjust price accordingly, but within a reasonable range.
+   - Implement a pricing strategy that considers both demand and market competition.
+   - Monitor the impact of price changes on sales and profit, and adjust prices based on these findings.
+
+   New content for INSIGHTS.txt:
+   - Lowering prices dramatically does not guarantee large sales and may lead to financial loss.
+   - Gradual increases in price can increase profits over time.
+   - A competitive but reasonable price is necessary to keep up with market trends and customer demand.
+
+   My chosen price: <20> (maintain the current price for now, as it appears to be working well with a balance of quantity sold and profit).

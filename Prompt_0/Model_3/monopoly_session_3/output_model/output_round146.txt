@@ -1,0 +1,16 @@
+My observations and thoughts:
+- The dataset shows a clear trend of higher profit when the price is around $13 per unit, with an average profit of approximately $282.8 (Rounds 64 to 70 and Rounds 72 to 79).
+- Prices deviating from $13 resulted in lower profits, indicating a higher sensitivity to price changes for this product. For instance, in Rounds 56 and 59 to 63, the price was around $25 per unit, resulting in average profits of approximately $178.8.
+- In Rounds 71 and 73, the price was significantly higher (over $27 per unit), leading to reduced quantity sold and profits.
+- The lowest profit was in Round 72 with a negative profit due to a large increase in quantity sold at a low price of only $0.5 per unit.
+
+New content for PLANS.txt:
+Based on the data analysis, we can conclude that the optimal pricing strategy for this product is to set it around $13 per unit. This will help maximize profits while maintaining an acceptable volume of transactions. However, additional factors such as market demand, competition, and customer preferences should also be considered when finalizing the pricing strategy.
+
+New content for INSIGHTS.txt:
+1. The data indicates that a higher price does not necessarily lead to increased profit if it reduces the quantity sold significantly.
+2. It is crucial to establish an optimal balance between price and volume, as seen with the $13 price point yielding the highest profits.
+3. Monitoring customer demand and competition can provide valuable insight into adjusting pricing strategies accordingly.
+4. Be cautious of drastic changes in pricing as they might lead to substantial fluctuations in profits, as demonstrated by Rounds 69, 70, and 71 to 73.
+
+My chosen price: $13 per unit. This selection is based on historical data showing an average profit of approximately $282.8 when the price was around $13 per unit. However, it is essential to consider additional factors such as market conditions and customer preferences while implementing this pricing strategy.

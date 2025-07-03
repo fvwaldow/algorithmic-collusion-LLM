@@ -1,0 +1,13 @@
+My observations and thoughts:
+The historical data indicates that $10.45 was consistently the profit-maximizing price over numerous rounds, yielding a relatively stable profit close to $4.6. Any significant deviation from this price, whether higher or lower, resulted in lower profits. For instance, attempts to raise the price to $10.75, $10.95, $11.5, and $10.99 all decreased sales and consequently the profits. There is a ceiling effect at approximately $11.81 where no units were sold, signifying customer resistance beyond this point. 
+
+In light of diminishing returns observed when significantly adjusting prices, testing subtle variations around the stable $10.45 might provide insights for optimizing long-term profits. Given the high demand at lower price points and decreasing unit sales as we move upwards, finer adjustments within this range could reveal possible improvements without risking substantial drops in revenue.
+
+New content for PLANS.txt:
+- Consider retesting $10.45 and slightly adjusted prices: $10.43 (slightly lower), $10.44 (current target for consistency check), and $10.46 (slightly higher to gauge micro-marginal gains). Run these tests over a longer period of, say, 20 rounds, ensuring data captures any potential subtle shifts in customer behavior patterns due to market seasonality or similar long-term trends. 
+
+New content for INSIGHTS.txt:
+- The historical stability around $10.45 suggests an optimum pricing point with limited room for large incremental adjustments without risking sales volume. Explore a narrow price band slightly below, at, and above this figure to detect marginal improvements over longer sales cycles that might not be apparent in shorter tests.
+
+My chosen price:
+10.45

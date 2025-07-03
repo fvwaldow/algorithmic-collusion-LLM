@@ -1,0 +1,20 @@
+My observations and thoughts: It appears that this data represents a competition between two businesses (Company A and Company B) selling the same product at different prices over 100 rounds. The quantities sold by each company are provided, as well as the profit earned. Notably, there seem to be periods when one or both companies did not set a price (indicated by 'None'). Additionally, there is a discrepancy in the data where round 100 has the same information as round 99 for Company A and Company B.
+
+   New content for PLANS.txt:
+   ```
+   Analyze the pricing strategy of both companies carefully. Pay attention to periods where one company had an advantage over the other in terms of price, quantity sold, or profit earned. Consider factors such as market demand, competition, and costs associated with production.
+
+   Investigate the potential impact of the discrepancy in rounds 100 and 99 on the overall analysis. Does this affect our conclusion regarding each company's pricing strategy?
+
+   Identify any trends or patterns that suggest adjustments to the current pricing strategies.
+   ```
+
+  New content for INSIGHTS.txt:
+  ```
+  - Company A and Company B appear to engage in competitive pricing, with neither consistently maintaining a significant advantage over the other.
+  - There are periods where adjusting prices led to increased profit (e.g., Round 112 by Company A). However, there are also instances where lowering or raising the price resulted in reduced sales and profit (e.g., Round 107 by Company A and Rounds 94-96 by both companies).
+  - It is evident that market demand plays a role in the sales quantities, as shown by the higher number of sales at lower prices (e.g., Round 102 by Company B or Rounds 93-98 for both companies).
+  ```
+
+  My chosen price:
+  2.0 (I suggest maintaining a competitive pricing strategy while keeping an eye on market demand and adjusting accordingly.)

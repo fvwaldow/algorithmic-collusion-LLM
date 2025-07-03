@@ -1,0 +1,13 @@
+My observations and thoughts: After analyzing the market data, I have found that the highest profit per unit was earned during Round 44 ($260.59) with a price of $12.75 when the competitor's price was at $40.58. However, this high profit was due to an unusually large quantity sold, which seems to be an outlier. At other times, the highest profit per unit was earned around the $14-15 mark even with higher quantities sold and lower profits ($39.72 in Round 30 and $30.88 in Round 21). The price was also competitive compared to the competitors'. With this in mind, it appears that a competitive price within the range of $13.xx - $15.xx will maximize profit long term.
+
+   New content for PLANS.txt:
+   1. Perform regression analysis on market data to pinpoint an optimal price point within the established profitable range.
+      - Test different competitive price scenarios to see if there's room for market differentiation and long-term revenue growth.
+        - Gather additional insights about specific customer purchasing behavior related to price changes in order to fine-tune pricing strategy over time.
+
+   New content for INSIGHTS.txt:
+   1. It is important to identify patterns in customer demand that correspond to competitor price changes, as this information can help achieve long-term revenue growth and market differentiation.
+      - Be mindful of outliers in the data, but also consider other factors that may have influenced them (e.g., promotions, seasonality).
+        - It is essential to recognize customer sensitivity to pricing changes by thoroughly examining price elasticity at various points within our profitable range.
+
+   My chosen price: 14.50

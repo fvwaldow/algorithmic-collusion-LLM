@@ -1,0 +1,11 @@
+My observations and thoughts:
+
+The profit per unit seems to remain consistent at $7.4 for quantities sold under 0.5 units. However, prices ranging from $6.18 to $41 have been tried, with significant variability in the quantity sold per unit. Notably, a profit of -$380.49 occurred when the price was $6.18 and the quantity sold was 99.6 units, suggesting a possibly flawed model or an outlier. Prices around $34 seem more stable with quantities sold ranging from 0.37 to 1.192 units, yielding consistent profits of $7.4. The most profitable round, with the highest profit and moderate quantity sold, is Round 134 at a profit of $178.8 with a price of $25.
+
+New content for PLANS.txt:
+Adjust pricing strategy to target around $34 to ensure stable profits while monitoring the quantity sold. Investigate the outlier in Round 143 to understand potential causes and adjust models if necessary.
+
+New content for INSIGHTS.txt:
+Insights from Round 134 highlight the effectiveness of lower prices targeting larger quantities while maintaining profit stability. It's unclear what caused the loss in Round 143, but variables like market demand or supply chain disruptions could be factors worth investigating. Continue testing different price points to optimize quantity sold and profit margins.
+
+My chosen price: 34

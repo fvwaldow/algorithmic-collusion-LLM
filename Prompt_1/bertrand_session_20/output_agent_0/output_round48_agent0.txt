@@ -1,0 +1,11 @@
+My observations and thoughts:
+    The data shows that a higher price doesn't guarantee higher sales or profit. For instance, a price of $43.75 led to no sale at all in round 14 compared to a price of $28.5 in round 19 that resulted in 3.08 units sold with $57 profit. Also, the competition's pricing seems to be affecting sales as well. For example, a lower price ($32.5) in round 5 led to a sale compared to a higher price ($33.0) in round 2.
+
+   New content for PLANS.txt:
+    Implement dynamic pricing strategy that adjusts according to the competition's pricing and the previous sales data. Use machine learning algorithms to predict the optimal price based on these factors. Also, consider offering discounts strategically during periods of lower demand or excess inventory.
+
+   New content for INSIGHTS.txt:
+    Pricing should be flexible and adaptive to market conditions in order to maximize sales and profit. Offering discounts can stimulate demand but should be done carefully as it may signal a lack of confidence in the product's value.
+
+   My chosen price:
+    30.5 (this price point seems to have had mixed success - it has led to a sale in rounds 3,6 and 7 with some profit made, but also resulted in low sales in rounds 1 and 8)

@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+Upon reviewing the market data, I notice that the profit earned is consistently highest when the price is around $5.07-$5.15 (Rounds 7, 6, and 4), with a slight dip at higher prices ($5.12 in Round 7 and $5.1 in Round 6). There's also an interesting trend where the quantity sold decreases slightly as the price increases beyond this range.
+
+I also observe that despite the minor fluctuations in quantities sold due to price adjustments, these do not significantly detract from overall revenue (as mentioned in INSIGHTS.txt). This suggests that even slight adjustments around $5 can yield a positive impact on earnings.
+
+Considering the current market data for Round 13, where the chosen price is $5.05 and profit earned is $156.12, it seems we're still within the optimal range ($4.95-$5.15).
+
+New content for PLANS.txt:
+Prioritize testing minor price increments between $5.07 and $5.10 to further refine our estimate of the optimal price point within this slightly higher end of the identified range.
+Conduct a comparison analysis between Round 13 data and Round 5 data (both with the same price of $5.05) to understand how sales and profits have developed over time.
+
+New content for INSIGHTS.txt:
+The insights from previous rounds confirm that being near or at the optimal window ($4.95-$5.15) yields higher profit earnings. Furthermore, our analysis suggests a more nuanced understanding where higher price points (up to $5.07, but below the maximum $10.07 cap) produce slightly lower quantity sold, yet still generate more revenue due to the premium added to individual sales.
+
+My chosen price:
+5.075

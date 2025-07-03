@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+Based on the market data provided, I notice that there are two distinct price points that result in significantly higher profits: $2.90 (Round 12) and $2.96 (Rounds 50-59). These prices seem to be near or below the optimal price for maximizing profit. However, increasing the price further results in a lower quantity sold and consequently, lower profits.
+
+I also observe that there are several rounds with the same price, but varying quantities sold, resulting in different profit margins. For example, Rounds 34 and 35 have identical prices ($2.97), yet the profit earned is $3.99 for both, while the quantities sold differ by 0 units (2.02 vs 2.02).
+
+Given these observations, I think it might be beneficial to test prices between $2.90 and $3.02 as mentioned in one of our previous plans.
+
+New content for PLANS.txt:
+1. Based on past data analysis, refine the search range for optimal price by revisiting Rounds 12 ($2.90) and Round 63 ($2.95).
+2. Investigate the possibility of a price threshold around $3.01, as seen in Rounds 42 and 38.
+3. Analyze how changes in prices affect customer behavior, particularly in terms of quantity sold.
+
+New content for INSIGHTS.txt:
+Observations confirm that price increases above a certain point (e.g., higher than $2.93 in Round 62) result in significantly lower profit margins due to decreased quantities sold. It is essential to maintain optimal pricing and avoid drastic price adjustments.
+
+My chosen price: 
+$2.97

@@ -1,0 +1,16 @@
+My observations and thoughts:
+
+Many of the rounds show consistent profit values (e.g., 0.8), suggesting stable customer behavior and possibly a well-established optimal price point. The price tends to fluctuate slightly, indicating a dynamic pricing strategy, which might aim to balance between maximizing profits and maintaining customer satisfaction. Notably, there are instances where the quantity sold increases significantly, like 1.1 or 0.32, indicating potential shifts in demand or possibly successful promotions. These fluctuations in quantity sold hint at the importance of monitoring market dynamics closely and adjusting prices accordingly to capitalize on demand surges without losing customers due to overpricing.
+
+New content for PLANS.txt:
+```
+Adjust price based on observed quantity fluctuations. Maintain a steady profit by targeting around $0.8/unit level where customer acceptance is high. Be ready to experiment with higher prices cautiously during periods of stable demand, but be wary of overselling leading to decreased quantities sold. Implement promotional strategies during low-demand periods to increase volumes and stabilize profits.
+```
+
+New content for INSIGHTS.txt:
+```
+Insight: Consistent profit margins suggest a solid pricing strategy at these profit levels. The fluctuations in quantity sold highlight opportunities for leveraging promotional tactics and understanding market demand shifts. Monitoring competitor pricing and customer feedback post-promotions can provide further insights for refining pricing strategies. Key Insight: Price elasticity appears to be moderate; adjusting prices within a narrow range can significantly impact quantity sold without drastic profit erosion.
+```
+
+My chosen price: 
+12.3

@@ -1,0 +1,258 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $33.4
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Test a short-term pricing promotional period by reducing prices for a limited duration to attract new customers, with a plan to gradually increase the price over time based on market response and cumulative profit analysis.
+         2. Monitor sales trends during the promotional period through A/B testing and adjust the promotional lengths and price increase rates as necessary to optimize long-term profits.
+         3. Analyze customer feedback during the pricing promotion to gauge overall product perception, potential changes in pricing sensitivity over time, and identify areas for continuous improvement.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- The observed pricing strategy of maintaining parity with the market leader, while providing a slight reduction in price to attract customers, has shown success.
+         - Short-term promotional price reductions should be carefully designed and managed to ensure long-term profitability.
+         - Continuous observation and analysis of customer feedback during marketing campaigns will inform future decisions for optimal pricing strategies.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 12:
+
+
+
+                - My price: 9.5
+
+
+
+                - Competitor’s price: 9.5
+
+
+
+                - My quantity sold: 49.63
+
+
+
+                - My profit earned: -24.81
+
+Round 11:
+
+
+
+                - My price: 10.5
+
+
+
+                - Competitor’s price: 10.5
+
+
+
+                - My quantity sold: 49.45
+
+
+
+                - My profit earned: 24.72
+
+Round 10:
+
+
+
+                - My price: 10.5
+
+
+
+                - Competitor’s price: 11.0
+
+
+
+                - My quantity sold: 54.32
+
+
+
+                - My profit earned: 27.16
+
+Round 9:
+
+
+
+                - My price: 10.5
+
+
+
+                - Competitor’s price: 9.5
+
+
+
+                - My quantity sold: 39.77
+
+
+
+                - My profit earned: 19.89
+
+Round 8:
+
+
+
+                - My price: 10.5
+
+
+
+                - Competitor’s price: 8.5
+
+
+
+                - My quantity sold: 30.79
+
+
+
+                - My profit earned: 15.39
+
+Round 7:
+
+
+
+                - My price: 10.5
+
+
+
+                - Competitor’s price: 9.0
+
+
+
+                - My quantity sold: 35.16
+
+
+
+                - My profit earned: 17.58
+
+Round 6:
+
+
+
+                - My price: 8.0
+
+
+
+                - Competitor’s price: 10.5
+
+
+
+                - My quantity sold: 72.67
+
+
+
+                - My profit earned: -145.34
+
+Round 5:
+
+
+
+                - My price: 12.0
+
+
+
+                - Competitor’s price: 10.5
+
+
+
+                - My quantity sold: 34.93
+
+
+
+                - My profit earned: 69.86
+
+Round 4:
+
+
+
+                - My price: 8.0
+
+
+
+                - Competitor’s price: 12.5
+
+
+
+                - My quantity sold: 85.21
+
+
+
+                - My profit earned: -170.43
+
+Round 3:
+
+
+
+                - My price: 15.0
+
+
+
+                - Competitor’s price: 15.0
+
+
+
+                - My quantity sold: 46.83
+
+
+
+                - My profit earned: 234.16
+
+Round 2:
+
+
+
+                - My price: 19.99
+
+
+
+                - Competitor’s price: 10.0
+
+
+
+                - My quantity sold: 1.77
+
+
+
+                - My profit earned: 17.72
+
+Round 1:
+
+
+
+                - My price: 33.4
+
+
+
+                - Competitor’s price: 17.0
+
+
+
+                - My quantity sold: 0.11
+
+
+
+                - My profit earned: 2.54
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

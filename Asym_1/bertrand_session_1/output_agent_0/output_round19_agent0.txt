@@ -1,0 +1,19 @@
+My observations and thoughts:
+    - From the market data, we can see a trend that prices above 2.3 result in lower quantity sold and profit, while prices around 2.3 have relatively higher sales and profits. This indicates that the optimal price to maximize both revenue generation and profitability is around $2.3. However, going below $1.95 may not be beneficial due to low profit margins (as seen in Round 17 where the price was $3.5).
+    - It's important to note that when prices exceed the competitor's price as in Rounds 10, 11, and 12, sales increase significantly but profit earnings are not necessarily higher. This suggests that maintaining a competitive price while staying above the minimum production cost of $1 is crucial for maximizing profits.
+    - Furthermore, it seems essential to observe trends and make pricing adjustments accordingly. For instance, in Rounds 4 and 9, setting the price lower than the competitor's created significantly more sales (37.45 vs. 0.0) despite having a higher production cost of $2.85.
+
+New content for PLANS.txt:
+  1. Implement a pricing strategy that dynamically adjusts the price to be slightly below the competitor, while keeping in mind the production cost of $1, with the goal of maximizing both revenue generation and profitability.
+          - Monitor competitor’s actions closely and make price adjustments promptly.
+          - Adjust prices upward when experiencing low demand to increase profit margins.
+      2. Develop and maintain a dashboard that tracks key pricing metrics such as volume sold, profits earned, ROI for each round, and the average price vs competitor’s price.
+         - Utilize this data to continually optimize the chosen pricing strategy.
+         - Incorporate machine learning techniques to analyze past market conditions and predict future performance of different price points.
+
+New content for INSIGHTS.txt:
+   - Maintaining a competitive price that is slightly lower than the competitor while staying above production cost results in higher sales and profitability.
+     - Monitoring competitor’s pricing actions and making adjustments promptly can lead to increased market share and profits.
+      - It's essential to analyze the impact of different pricing strategies on both revenue generation and profit margins, as one might not always lead to better results than the other.
+
+My chosen price: 2.25

@@ -1,0 +1,20 @@
+**My observations and thoughts:**
+
+The data provided is a collection of historical sales records from multiple rounds, with various prices per unit ranging from nearly $5 to over $10.5. Prices frequently oscillate around certain ranges, often clustered between $9.50 and $11:
+
+- **Price Clusters:** Notably, the price $10 appears in many entries (rounds 104, 119, 132, etc.), whereas higher prices like $10.68 (round 140) or as low as almost $6 (round 25) also show up but less frequently.
+- **Sales Volume Patterns:** Some rounds demonstrate consistent sales volumes around certain units per transaction—for example, many round reports indicate transactions between 0.5 to 1 unit sold.
+- **Profit Margin Considerations:** A recurring profit margin is reported at approximately $4 - $6 per sale across different pricing points. This suggests a relatively stable profit despite varying prices.
+- **Outliers and Exceptions:** There are a few markedly different sales volumes, such as with round 25 where nearly 63 units were sold for the lowest recorded price of about $5.99 or round 171 selling at a higher unit volume when priced at $10.25.
+- **Price Sensitivity:** Some rounds indicate that slight price adjustments (e.g., $10.44 vs. $10.45) can impact units sold, hinting at price sensitivity in markets, though the scale of these differences is usually very small.
+
+**New content for PLANS.txt:**
+A detailed strategic plan should aim to identify which prices optimize profit margins while maintaining volume. Given consistent low-volume sales even with higher prices and higher volumes under lower prices suggests a possible need for aggressive discounting or identifying niche segments willing to pay premiums. 
+
+**New content for INSIGHTS.txt:**
+Insights derived include:
+1. A broad price range of $5.99 to over $10, indicating a market segment open to varied pricing without drastic customer churn.
+2. A general profit stability between $4 and $6 per sale across different price points suggests efficient cost management.
+3. Opportunities for differentiation through bundle deals or targeted promotions rather than solely price adjustments may be more impactful on volume expansion. 
+
+**My chosen price:** 10

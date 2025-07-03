@@ -1,0 +1,49 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $13.87
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Test dynamic pricing based on demand: Adjust prices in real-time based on changes in demand and competitor's tactics.
+  - Conduct A/B testing with various price points: Determine a range of price points (e.g., $3, $5, and $7) to find an optimal balance between profit and sales volume.
+  - Monitor customer behavior at different price levels: Observe patterns in customer actions such as conversion rates, bounce rates, and average order values across various pricing tiers.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Dynamic pricing may help capture market opportunities and maintain a competitive edge in a rapidly changing environment.
+  - A/B testing can provide valuable data to optimize the pricing strategy over time based on actual customer behavior.
+
+Let's start by executing the A/B test with price points $3, $5, and $7. Once we gather sufficient data, we can adjust our strategies accordingly. Until then, my chosen price would be based on the initial testing results.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 1:
+                - My price: 13.87
+                - Competitor’s price: 3.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.0
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

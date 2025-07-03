@@ -1,0 +1,14 @@
+My observations and thoughts:
+    - In instances where the competitor's price is lower than mine (Rounds 4, 6, 7, 8), sales decrease despite maintaining similar profitability. Lowering my price slightly could potentially increase my quantity sold and remain profitable. Conversely, in instances where my price is significantly lower than the competitor (Round 3), a higher volume of sales was observed without sacrificing profits substantially.
+    - It appears that prices above $10 are not conducive to selling more units despite a high profit margin in Round 3, while prices below ~$6 also decrease sales in Rounds 2 and 7-8.
+    New content for PLANS.txt:
+    - Implement a dynamic pricing strategy that continuously monitors market conditions and competitor's prices.
+          - Fine-tune pricing to balance profit margins with demand potential, by adjusting the price in response to changes in sales volume.
+    - Investigate methods for identifying optimal price points through statistical analyses based on historical data.
+
+  New content for INSIGHTS.txt:
+    - A dynamic pricing strategy can facilitate adaptations that maximize both profit and demand potential by taking advantage of market dynamics.
+          - The correlation between price and quantity sold will be crucial in determining optimal prices for our product.
+    - Continuously analyzing competitors' pricing, combined with monitoring sales volume, is vital for ensuring a competitive advantage while maintaining strong profitability.
+
+  My chosen price: 7.0

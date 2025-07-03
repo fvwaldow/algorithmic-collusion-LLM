@@ -1,0 +1,13 @@
+**My observations and thoughts:**
+
+The provided data shows a detailed account of transactions with various prices over time, yielding different levels of profit. Notably, there's repetition in many records suggesting either consistent demand for the same price or testing the market with recurring pricing strategies. There are instances with high profits and significant losses, indicating volatile market conditions. It's evident that adjusting prices significantly can lead to considerable variances in profit margins, emphasizing the need for strategic pricing rather than arbitrary fluctuations.
+
+**New content for PLANS.txt:**
+Explore the correlation between quantity sold and price points during high-profit rounds (such as Round 12 with P=20.0, Q=50.0 yielding $500.0). Investigate if there's a sweet spot or an optimal pricing zone that consistently maximizes profit without drastic fluctuations in sales volume. This could be achieved through statistical analysis to identify patterns or use machine learning models for predictive pricing optimization.
+
+**New content for INSIGHTS.txt:**
+Insight 1: Avoid drastic price drops as seen in Round 38 (P=$1.25, Q=99.94) leading to significant losses (-$874.52). 
+Insight 2: The consistent high profits observed between Round 12 and Round 20 with P ranging from $19.5 to $21.0 and Q around 50-40 units suggest a robust demand within this price bracket, implying the pricing range might represent an effective market equilibrium.
+
+**My chosen price:**
+20

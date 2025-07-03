@@ -1,0 +1,17 @@
+My observations and thoughts:
+   - Based on provided market data and previous pricing strategies; there appears to be a delicate balance between competitive pricing and maximizing profit. Prices that are too close to, or above the competitor's price, may lead to decreased sales volume (as seen in rounds 14-17). However, prices below the competitor's are not profitable due to the low quantity sold (rounds 6-9)
+   - Profit seems to be directly related to the number of units sold. Finding a sweet spot between profitability and sales volume is essential for optimal profit maximization.
+
+New content for PLANS.txt:
+1. Conduct a more robust regression analysis including linear regression, polynomial regression, and spline models to pinpoint profitable price ranges that balance profitability and sales volume based on the competitor's price while considering any other contributing factors.
+2. Continuously monitor market trends using machine learning algorithms. Develop indicators to quickly respond to significant changes in demand or competitor actions by adjusting prices accordingly within a range that maximizes profit.
+3. Expand product line-up based on customer feedback and insights gathered from analyzing sales data. Offer multiple tiered pricing options, focusing on creating a diverse range of products within the optimal price window.
+4. Continuously negotiate with suppliers to potentially reduce production costs in an attempt to improve long-term profitability while maintaining product quality and meeting demand.
+
+New content for INSIGHTS.txt:
+1. Aggressive pricing strategies such as underpricing competitors or pricing too close to competitors can result in reduced sales volume.
+2. Profitability is tightly linked with the number of units sold, finding an equilibrium between price and quantity is crucial for maximizing long-term profit maximization.
+3. Diversifying product line-up based on customer preferences will allow for flexibility in pricing strategies to increase overall profitability while catering to a wider audience.
+
+My chosen price:
+2.04

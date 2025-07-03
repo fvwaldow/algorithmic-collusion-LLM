@@ -1,0 +1,14 @@
+My observations and thoughts:
+   It appears that the prices have fluctuated significantly throughout this data set, with some instances of exceptionally high or low prices which resulted in either no sales (negative profit earned) or very large profits. One interesting trend I noticed is that when the price is close to the competitor's price, there tends to be a higher quantity sold, such as in rounds 106, 98, and 97. However, if the price is significantly lower than the competitor (e.g., round 102), the quantity sold increases dramatically but the profit remains negative due to the low price.
+
+   New content for PLANS.txt:
+   - Consider pricing within a range of competitors' prices to maximize sales volume while avoiding significant losses.
+   - Monitor competitor price changes and adjust appropriately to maintain competitiveness.
+   - Implement various strategies, such as promotions or discounts, to attract customers when dealing with highly competitive prices in the market.
+
+   New content for INSIGHTS.txt:
+   - Pricing too low creates an imbalance between sales volume and profitability.
+   - Closely watching competitor pricing strategies and making informed decisions can provide a competitive advantage.
+   - A price that is close to the competitor's price often results in more sales than prices that are substantially higher or lower.
+
+   My chosen price: 15.0 (This pricing strategy aims to balance between maximizing sales volume and profitability by staying within the same price range as competitors.)

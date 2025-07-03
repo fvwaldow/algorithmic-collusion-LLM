@@ -1,0 +1,20 @@
+1. Observations and thoughts:
+
+From the given data, it's clear that there is a general trend of fluctuating prices with varying quantities sold per round. Here are some key observations and insights:
+
+a. The profit earned and price don't always have a direct correlation. For instance, selling 50.0 units at 2.0 might yield the same profit as selling lower quantities (e.g., 11.92) but with higher prices (e.g., 2.6).
+b. The highest profit earned in one round is 18.4 (Round 137, 142, etc.) while sometimes the same or even more significant quantities are sold at lower profits (e.g., Rounds 74 and 157).
+c. It seems that the optimal price falls within a range of 2.49 to 2.6. A higher selling price can be maintained without significantly affecting the quantity of products sold, which could contribute to an overall increase in profit.
+
+2. New content for PLANS.txt:
+- Analyze historical pricing trends to identify key patterns and outliers for better understanding of customer responses to price changes.
+- Explore a range of prices within 2.49 - 2.6 to determine the optimal price point that maximizes both quantity sold and profit earned.
+- Implement periodic price adjustments while monitoring sales data to respond to changing market trends.
+
+3. New content for INSIGHTS.txt:
+- Identify significant shifts in quantities sold and profits earned with varying prices. This will help in predicting market response and make more informed pricing decisions.
+- The optimal sweet spot for pricing appears to be between 2.49 - 2.6, which maximizes profit without negatively impacting sales volume.
+- Recognize that while higher profit can sometimes come from selling more significant quantities at a lower price, maintaining a slightly higher price within the identified range often yields better results.
+
+4. My chosen price:
+Based on historical data and analyzing the range of prices where maximum profits were earned (2.49 - 2.6), my recommended price would be near the upper end of that range, specifically at 2.55. This should maximize profit while still allowing for a reasonable volume of products to be sold.

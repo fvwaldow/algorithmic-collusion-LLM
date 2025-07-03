@@ -1,0 +1,9 @@
+My observations and thoughts: This data is a sequence of the price changes and corresponding quantity sold for two products, with information on profit earned for each transaction. Notice that in many cases, our product's price was lower than the competitor's, leading to more sales. The price fluctuations appear frequent between both products. I believe there might be valuable insights here for optimizing pricing strategies.
+
+New content for PLANS.txt:
+Our main observation is that setting competitive yet lower prices leads to a higher number of sales compared to when we match our competitor's price, especially when the competitor holds a high price. Therefore, we should maintain a slightly lower base price while keeping an eye on the competitor's pricing strategy for potential adjustments accordingly.
+
+New content for INSIGHTS.txt:
+In rounds 1-67 and 80-82, our product had a lower base price than the competitor, leading to more sales. In rounds 68-79, however, we matched or slightly overpriced our rival, causing a decrease in sales. Furthermore, by observing when either product takes off without price competition (rounds 50-100 for our product, round 81 for the competitor), we can analyze market demand during those periods and potentially leverage that information to further optimize pricing strategies in the future.
+
+My chosen price: 1.37

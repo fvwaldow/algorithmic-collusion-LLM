@@ -1,0 +1,14 @@
+My observations and thoughts:
+
+Based on the historical data, it appears that prices between $2.90 and $3.00 result in higher profits ($4.27 in Round 37 and $4.72 in Rounds 10 and 9). However, setting a price too low (like $2.90, as seen in Round 12) leads to high volumes but lower profit per unit. Setting the price around or just below $3 seems to strike a balance between quantity sold and profit earned.
+
+New content for PLANS.txt:
+1. **Refine price range further**: Identify an optimal price within the profitable range ($2.90-$3.00) that balances the trade-off between quantity sold and profit earned per unit.
+2. **Investigate price elasticity**: Analyze how sensitive the market is to changes in price within this optimal range, with a focus on Rounds 12-14 where lower prices led to unusually high profits.
+
+New content for INSIGHTS.txt:
+* **Price sweet spot at $3.00?**: Setting the price slightly above or around $2.90 could potentially exploit the existing price elasticity observed in historical data.
+* **Current profitability vs optimal pricing**: The current trend shows a tendency towards higher profit with increasing quantity sold; however, without precise optimization of price and price sensitivity, there is room for improvement.
+
+My chosen price:
+3.02

@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+Given the data from 120 rounds of prices and corresponding profit earnings, it appears that there is no significant correlation between price and profit. The highest profits are earned at both low (Round 100: $5.15) and high prices ($5.15 in Round 100, $5.08 in Round 90). However, looking more closely at Round 120's data seems to indicate that higher prices often result in lower sales, as shown by the sharp decline from Round 119 ($5.01) and later sales.
+
+New content for PLANS.txt:
+
+* Investigate factors other than price that could be influencing profit earnings (e.g., seasonality, marketing campaigns, competition).
+* Develop a more strategic pricing approach to optimize profit, considering the trade-offs between higher prices and lower demand.
+* Consider conducting an experiment with different price offerings at similar sales times to better understand how customers react to price changes.
+
+New content for INSIGHTS.txt:
+
+* Despite some variations over time, profits show high stability (most values for profit per item fall between $1.50 and $2.00) across the 120 rounds examined.
+* Prices beyond a certain threshold don't appear to bring increased sales or profit revenue; instead, price rises above this threshold are consistently associated with decreased sales.
+* The data suggests there is not much elasticity in this market product regarding its pricing.
+
+My chosen price:
+4.99

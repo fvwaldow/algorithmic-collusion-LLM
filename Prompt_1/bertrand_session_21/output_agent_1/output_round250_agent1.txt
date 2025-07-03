@@ -1,0 +1,15 @@
+My observations and thoughts: This dataset represents a continuous game of price adjustment between two competitors, with each change affecting the other's profitability in return. It is evident that there are fluctuations in the chosen prices, as well as changes in the market response (quanity sold). Some noticeable patterns include:
+   - At higher prices (around 45 and above), the quantity sold reduced significantly or became 0, indicating a price sensitivity in the market
+   - At lower prices (below 13), both competitors saw an increase in quantity sold but their profit margins suffered
+   - Interestingly, there were several periods where one competitor set a lower price at times to capture more market share and increase their respective sales
+
+New content for PLANS.txt:
+Develop pricing strategies that balance profitability and market responsiveness. Consider the competitor's moves and identify opportunities to capitalize on any observed weaknesses or price sensitivity in the market. Maintain a flexible approach and monitor competitors' reactions closely to make informed decisions.
+
+New content for INSIGHTS.txt:
+- Competitors can significantly influence each other's profitability through strategic pricing adjustments
+- A higher market share does not always guarantee increased profits; it's important to consider the cost and margin associated with capturing more market share
+- Margin erosion is a risk at both high and low price points, but the balance between profit maximization and market penetration should be carefully weighed in pricing decisions
+
+My chosen price:
+<17> (The average of the current competitive prices)

@@ -1,0 +1,15 @@
+My observations and thoughts:
+
+* From the market data, I notice that there is a general trend of increasing price leading to decreasing quantity sold. This suggests a negative relationship between price and demand.
+* The profit earned also shows a trend where lower prices lead to higher profits due to increased sales volume, but high prices result in very low or even zero profit (e.g., Rounds 28-26).
+* Notably, prices 21.25 have been consistently sold in large quantities across multiple rounds, yielding relatively stable and high profits (Round 30 is an example of this at $424.73). These prices seem to fall within a "sweet spot" where the demand isn't reduced significantly while maintaining higher margins.
+* Another interesting observation is that the profit earned drops off more quickly when we move into higher price tiers, than it does when moving up from low tiered prices (Rounds 27-28 and Round 33). This pattern hints at a possible limit to increasing prices at $39.25.
+
+New content for PLANS.txt:
+We need to further investigate what happens around the peak profitability zone near $21-$22 range before proceeding with testing new pricing strategies or tiers in higher price ranges given the rapid decrease in profit from R32-R27 after reaching peaks.
+
+New content for INSIGHTS.txt (in addition to current insights):
+A clear understanding of demand and elasticity is needed as it varies greatly across different rounds; understanding price ceilings may also be critical to further adjustments. The product currently shows resilience when adjusting prices within a certain range without drastically reducing profitability.
+
+My chosen price:
+21.5

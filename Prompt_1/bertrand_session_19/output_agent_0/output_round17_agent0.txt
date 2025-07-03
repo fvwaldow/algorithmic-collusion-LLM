@@ -1,0 +1,21 @@
+My observations and thoughts:
+      - It seems that competition plays a significant role in determining sales quantity. The higher the competitor's price, the more units I sell (e.g., Round 12, Round 6, Round 5). However, setting my price too low can result in decreased profit (Round 9), and setting it excessively high may deter customers altogether as no one bought when both prices were identical (Round 1).
+      - Bundles or discounts for larger quantities could be a good strategy to incentivize higher purchases and increase the number of transactions. However, the current price does not allow much room to provide significant discounts without drastically impacting profit.
+      - More in-depth analysis is necessary to identify the optimal pricing sweet spot that maximizes profit.
+
+New content for PLANS.txt:
+  1. Perform a more detailed analysis of past price, quantity sold, and profit data to pinpoint the ideal pricing range;
+     a. Use regression analysis to model the relationship between these variables.
+     b. Test various price points within this range to find the best balance between sales volume and profitability.
+  2. Monitor competitor pricing strategies closely.
+     a. Adjust prices accordingly to maintain a competitive edge while maximizing profits.
+     b. Consider implementing strategic bundle offers or promotions when appropriate to drive higher sales volumes.
+  3. Regularly evaluate and update the current pricing strategy based on performance and market trends.
+
+New content for INSIGHTS.txt:
+  1. Competitor pricing has a direct impact on the number of units I sell, with higher competitor prices leading to increased sales volume (when my price is competitive).
+  2. Pricing too low can decrease profitability while pricing excessively high may deter potential customers in certain market conditions.
+  3. A deeper analysis of the historical pricing data and competitive landscape will be essential to determine an optimal pricing strategy that maximizes long-term profitability.
+
+My chosen price:
+    Since there is room for adjustment, and I want to maximize profit while keeping my competitiveness in mind, let's set the price as $19 for the next round. This small decrease from the current price might entice more customers without sacrificing too much on total profit earned.

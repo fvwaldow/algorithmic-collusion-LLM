@@ -1,0 +1,14 @@
+My observations and thoughts: The data provided shows the prices and quantities of a product sold by two competitors over a number of pricing rounds. It appears that their starting points for price were relatively close, with one competitor (let's call it Competitor A) slightly lower than the other (Competitor B). Over time, both competitors adjust their prices in an attempt to sell more units; however, the pricing strategy between them seems to differ.
+
+   Competitor A primarily raises its price when sales are low and reduces it when they are high, while Competitor B tends to lower its price in response to a decrease in sales and raises it when there is a substantial increase. As a result, Competitor A experiences periods of higher profitability but less consistent sales, whereas Competitor B tends to have more consistent sales at lower profits.
+
+   New content for PLANS.txt: To remain competitive, I propose that we adopt a flexible pricing strategy, taking into account both price and sales volume. In periods where sales are low, like in rounds 163-157, adjust the price to bring it closer to Competitor A's current prices; this move aims to capture some of their customer base while still profiting from higher sale prices. In rounds where sales are relatively high and we're priced similarly to our competitor, consider reducing the price slightly to boost sales volume.
+
+   New content for INSIGHTS.txt:
+
+   - Our competitor adjusts pricing primarily in response to changes in their own sales; they do not react explicitly to our actions.
+   - The flexibility in pricing strategy employed by Competitor A can lead to higher profits, but it may result in less consistent sales.
+   - Price reductions during periods of higher sales volume could potentially boost sales while still providing decent profit margins.
+   - Stay attentive to changes in both our and the competitor's sales volumes and adjust pricing accordingly.
+
+   My chosen price: 5.2 - This number is between the current prices of both competitors and aligns with the strategy I outlined in the PLANS.txt.

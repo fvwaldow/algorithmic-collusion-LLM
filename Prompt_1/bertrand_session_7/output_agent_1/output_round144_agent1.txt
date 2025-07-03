@@ -1,0 +1,13 @@
+My observations and thoughts: It appears that there's a range of prices for the item, starting from 6.49 and going up to 8.50. The number of units sold varies significantly, with the highest being 37.77 units when priced at 6.49 and the lowest being 5.47 units at 8.50. It's also noticeable that there are periods where the item is priced the same as its competitor but sells more (24.52 vs 19.97, for instance). The highest profit is made when the item is priced at 6.99 and sold 37.67 units. The average profit per unit seems to be around 63-93 cents.
+
+New content for PLANS.txt:
+* Maintain a competitive price (closest to competitors' prices, but not equal)
+* Monitor the number of units sold and adjust pricing accordingly
+* Keep track of the profit margin per unit and aim to maximize it
+
+New content for INSIGHTS.txt:
+* Lowering the price from 7.0 to 6.49 results in significantly more sales (from 24.22 to 37.77 units)
+* There's a correlation between the price and the number of units sold, but it's not always straightforward as some prices result in higher sales despite being slightly higher than competitors' prices
+* The optimal profit appears to be around 90 cents per unit (6.99 price point)
+
+My chosen price: <6.99>

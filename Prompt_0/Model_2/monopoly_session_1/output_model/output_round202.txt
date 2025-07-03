@@ -1,0 +1,11 @@
+My observations and thoughts:
+   The data provided is a series of transactions where the price (except for 4 points) of an item was changed over time. Each transaction specifies the price, the quantity sold, and the profit earned from that transaction. There are also observations on when the price decreased or increased slightly from previous transactions. However, there seems to be no clear pattern for how this pricing strategy worked, which could indicate that other factors not displayed in the data affected sales.
+
+   New content for PLANS.txt:
+   To determine an optimal pricing strategy, it would benefit us to analyze the average profit per unit across multiple price ranges. We shall categorize the price range into intervals (e.g., under 2$, between 2$-3$, etc.), calculate the average profit per unit in each interval, and identify if there is a trend or sweet spot for maximum profitability within the given data.
+
+   New content for INSIGHTS.txt:
+   Preliminary examination of this data does not reveal a definitive price-volume relationship; however, it is important to remember that other factors might influence sales and not presented in our current dataset. It can be advantageous to consider external market research or customer feedback to ensure any pricing changes cater to customer preferences optimally.
+
+   My chosen price:
+   2.15 (as this price point appears to have the most frequent occurrences, possibly suggesting a popular purchase price)

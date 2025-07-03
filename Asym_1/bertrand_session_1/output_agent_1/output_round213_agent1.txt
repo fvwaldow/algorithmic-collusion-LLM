@@ -1,0 +1,16 @@
+My observations and thoughts:
+
+It appears that we have data on the price of our product and the quantity sold for 138 consecutive rounds. The price is consistent most of the time at 2.15$, but there are instances where it's lower (2$.00 to 2.16$) or higher (up to 5.0$). The quantity sold seems to be relatively stable, ranging from around 2 to 8 items per round.
+
+It is interesting to note that when the price drops below 2.15$, the quantity sold increases significantly. However, it's unclear whether the higher prices result in fewer sales because of the higher cost or if these rounds are simply anomalies.
+
+New content for PLANS.txt:
+
+Keep the price at 2.15$ as it seems to be a balance between attracting customers and profitability. We should monitor the effects of price variations in the future, but for now, maintaining the current price should help maintain steady sales.
+
+New content for INSIGHTS.txt:
+
+Price fluctuations have an impact on the quantity sold, with lower prices leading to more sales and higher prices resulting in fewer purchases. Prices below 2.15$ seem most effective at driving sales volume but may require a closer look at profit margins when implemented.
+
+My chosen price:
+2.15

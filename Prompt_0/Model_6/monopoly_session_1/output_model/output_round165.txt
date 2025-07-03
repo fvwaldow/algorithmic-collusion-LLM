@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+* The product has a relatively consistent price range, mostly between $2.90 and $3.10, with some fluctuations up and down.
+* The profit earned per unit seems to be highest when the price is around $2.95-$2.96, suggesting that this might be an optimal pricing point.
+* There are a few outlier rounds, such as #89 and #78, where the price was lower ($2.90) but the quantity sold was higher, resulting in higher total profits.
+* It's worth investigating why there is this trend of higher quantities being sold at lower prices.
+
+New content for PLANS.txt:
+
+* Analyze the relationship between price and profit earned per unit to see if there are any patterns that can inform future pricing decisions.
+* Investigate the reasons behind the outlier rounds listed above (#89 and #78) and see if they represent sustainable opportunities or anomalies.
+* Consider running a sensitivity analysis on the price ranges to see how changes in quantity sold and profit earned might play out, perhaps using different statistical models.
+
+New content for INSIGHTS.txt:
+
+* The optimal pricing point, based on average profit earned per unit, appears to be around $2.95-$2.96.
+* This finding suggests that if we are able to maintain or increase the quantity sold at these prices, our overall profits should rise accordingly.
+* It's possible that a price floor of some kind (e.g., minimum sale to cover costs) might be beneficial given the potential upside at or below $3.10.
+
+My chosen price:
+
+2.95

@@ -1,0 +1,11 @@
+My observations and thoughts: The data provided shows the performance of pricing strategies for 64 different instances in rounds 1-64. I noticed that prices often varied from round to round, but there were also instances where a fixed price strategy was followed for multiple consecutive rounds. It appears that prices tended to fluctuate between 8.5 and 11.0 with occasional outliers. The impact of pricing on quantity sold seems to be significant, as higher priced items (9.8-11.0) had lower quantities sold compared to lower priced items (8.5-9.3). However, the relationship between price and profit is not straightforward, as higher prices also resulted in higher profits in some instances. It would be beneficial to analyze this more closely to identify underlying trends.
+
+   New content for PLANS.txt:
+
+   Continue monitoring pricing strategies implemented across different rounds. Investigate any instances of fixed or fluctuating price strategies to determine their respective impacts on profit and market response.
+
+   New content for INSIGHTS.txt:
+- Higher prices result in lower quantities sold but do not always guarantee higher profits.
+- There is no clear link between the price set and the profit earned, suggesting that external factors may be at play.
+
+   My chosen price: <9.5> (I chose this number because it is near the middle of the range of prices observed and appears to have been a profitable choice in some instances)

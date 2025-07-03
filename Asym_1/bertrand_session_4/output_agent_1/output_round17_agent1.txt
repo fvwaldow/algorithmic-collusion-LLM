@@ -1,0 +1,17 @@
+My observations and thoughts: After examining the data, previous strategies, and price constraints, I observe a pattern of price sensitivity among customers with varying demand levels at different prices. My insights suggest that the ideal pricing strategy should balance between maximizing sales volume (within customer price threshold) and maintaining profitability. Lowering our price may lead to increased demand, but it's essential to ensure we don't compromise on profit margins.
+
+   New content for PLANS.txt:
+    1. Implement a combination of dynamic pricing alongside competitor monitoring to capitalize on pricing opportunities while maintaining profitability.
+        2. Test variable pricing strategies at different volume thresholds within customer price constraint boundaries.
+          3. Analyze correlation between price and demand over multiple rounds to identify the most profitable price points.
+            4. Continuously evaluate competitor's pricing responses to adjust pricing strategy optimally.
+
+   New content for INSIGHTS.txt:
+    1. Finding the optimal price balance between maximizing sales volume within the customer price constraint and maintaining profitability is crucial.
+         2. A dynamic pricing strategy in response to changes in demand, competition, and market trends will lead to better long-term performance.
+            3. The correlation between price and demand can be used to identify pricing decisions that are more profitable than others.
+              4. Competitor analysis is essential for adapting the pricing strategy effectively.
+
+   My chosen price: 3.25
+
+In this instance, I chose a price of $3.25 since it was the round where I had the highest profit ($1.09) in the provided data with a low cost per unit of $1. This gives us enough room to maintain profitability while enticing customers towards our product within their price constraint of $5.09. Monitoring competitor’s pricing will be crucial, as market dynamics might have changed since this data was collected.

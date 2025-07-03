@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+* The current data shows a strong correlation between prices between $3-$3.32 and profits above $4 (Rounds 2-30), as noted in INSIGHTS.txt.
+* There are instances where lower prices result in higher profits, such as Rounds 12 and 11 with prices of $2.9 and $2.92, respectively, and profits of $5.05 and $4.64, respectively.
+* The customer's willingness to pay is at most $3.48, but there are instances where they purchase the product at lower prices.
+
+New content for PLANS.txt:
+
+1. **Investigate price sensitivity around anomalous rounds**: Explore the underlying factors contributing to the high profits at lower prices in Rounds 12 and 11.
+2. **Tone down prices while observing market response**: Reduce prices to a level between $3-$3.32, within the profitable range identified, but not as low as in the anomalous rounds, and observe how this affects profit levels.
+
+New content for INSIGHTS.txt:
+
+* **Pricing flexibility observed**: There appears to be some flexibility in pricing, especially considering Rounds 12 and 11 where lower prices resulted in higher profits.
+* **Current profitability may decrease if price is too low or too high**: If the price is set too low (like $2.90), it will lead to a significant increase in quantity sold but result in lower profit. On the other hand, setting it just below the maximum willingness ($3.48) doesn't necessarily maximize profits based on the historical data.
+
+My chosen price:
+$3.11

@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+The data shows a strong correlation between price and quantity sold. As the price increases, the quantity sold decreases. However, there is also a consistent profit earned of $500 when the price is between $19.0 and $20.5.
+
+I notice that prices above $21.0 consistently result in lower profits, with the exception of Round 34 where a higher price results in a similar profit to others. Similarly, I see that prices below $18.5 are not present, suggesting that customers may be more sensitive to high prices than low ones.
+
+It's also interesting to note the large variations in quantity sold between different rounds for certain prices (e.g., Round 26 and 27 with price $24.0 vs. Round 28 with same price).
+
+New content for PLANS.txt:
+
+1) Test lower prices below $19.50
+	* Specifically, try $19.25 to see if a small decrease in price can increase quantity sold while maintaining high profits.
+2) Further investigation of price elasticity at higher prices ($20-$24)
+	* Consider experimenting with slightly higher prices (e.g., $21.25) within this range to see how they affect demand.
+
+New content for INSIGHTS.txt:
+
+1) Customers may be more sensitive to high prices than low ones, meaning that a higher price limit can be set above $19 without excessively affecting demand.
+2) There is an optimal price band ($18-$20) where quantity sold and profitability are highest, which can serve as a benchmark.
+
+My chosen price:
+$20.25

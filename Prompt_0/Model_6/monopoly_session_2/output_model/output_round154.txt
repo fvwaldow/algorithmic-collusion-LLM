@@ -1,0 +1,15 @@
+My observations and thoughts:
+After reviewing the provided data, it's clear that there is a significant fluctuation in profit earned across various price points. The highest profit earned was $161.21 (Round 100) at a price of $5.15, while the lowest was $152.78 (Rounds 69-86, 88-92, etc.) at a price of $4.99. It's also noticeable that there are repeated patterns in prices and profit earned across certain rounds.
+
+New content for PLANS.txt:
+I would like to propose the following plan:
+
+1. Analyze the relationship between price and profit earned to determine an optimal price point.
+2. Consider using data from Rounds 65-70, where the price was consistently $4.99, to establish a baseline for further analysis.
+3. Investigate the impact of selling at prices above $5 on profit earned.
+
+New content for INSIGHTS.txt:
+Based on my observations, it appears that there is limited correlation between price and profit earned within certain ranges. For instance, Rounds 69-86 all show a consistent profit of $152.78 when priced at $4.99, despite fluctuation in other rounds at similar prices.
+
+My chosen price:
+$5.01

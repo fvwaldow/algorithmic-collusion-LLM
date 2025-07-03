@@ -1,0 +1,80 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $4.24
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Test static pricing around $2.0 (current price) to evaluate demand elasticity and gauge customer response.
+      - Conduct a pilot A/B testing on dynamic pricing based on time of day or day of week, using the current price as a control group.
+      - Implement value-based pricing and gather customer feedback on perceived product value to adjust the pricing accordingly.
+      - Investigate the opportunity cost of adopting skimming pricing by targeting high-value customers, considering the potential loss of cost-sensitive customers.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Prioritizing market analysis and customer feedback ensures optimal pricing choices that balance demand elasticity, customer satisfaction, and profitability.
+      - Value-based pricing can attract high-value customers and create a competitive advantage while maintaining cost-effectiveness.
+      - It's essential to assess the potential pitfalls of implementing skimming pricing and weigh the benefits against the possible loss in customer base.
+      - Continuously iterate on pricing strategies based on market feedback and changes in competitor actions.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 2:
+
+
+
+                - My price: 2.0
+
+
+
+                - Competitor’s price: 3.99
+
+
+
+                - My quantity sold: 49.99
+
+
+
+                - My profit earned: 49.99
+
+Round 1:
+
+
+
+                - My price: 2.0
+
+
+
+                - Competitor’s price: 2.0
+
+
+
+                - My quantity sold: 33.33
+
+
+
+                - My profit earned: 33.33
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

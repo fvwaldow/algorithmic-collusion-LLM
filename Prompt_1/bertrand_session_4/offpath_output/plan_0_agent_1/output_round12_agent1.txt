@@ -1,0 +1,14 @@
+My observations and thoughts: The previous prices show a trend where higher prices don't significantly increase the quantity sold (QoQ decrease in sales when price was 2.75), but do increase profit per unit sold. However, the maximum acceptable price is $3.0744723092019, so it seems crucial to find a balance between maximizing quantity sold and profit per unit. The lowest competitor's price observed was 2.43, but prices closer may lead to a price war. It could be profitable to test some dynamic pricing strategies to observe customer behavior.
+
+New content for PLANS.txt:
+Test the following:
+- Dynamic pricing strategy using competitor's price as reference when deciding upon our price. If they lower their price, adjust accordingly to maintain a competitive edge but ensure minimum profitability is met.
+- Run A/B tests with slightly different prices (e.g., 2.45 vs 2.5) to observe their impact on sales and profits.
+- Monitor the effect of our price changes over longer periods, up to a few rounds, to collect more significant data.
+
+New content for INSIGHTS.txt:
+- Increasing the price can lead to an increase in profit per unit sold but also a decrease in quantity sold (QoQ decrease in sales when price was 2.75).
+- Customers are willing to pay prices higher than the initial $2.07, but not much beyond the competitor's price of $2.43.
+- A dynamic pricing strategy seems useful for maintaining competitiveness and ensuring profitability.
+
+My chosen price: 2.41 (some buffer below the current lowest competitor's price)

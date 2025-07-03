@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+Based on the market data provided, I notice that there are some fluctuations in sales and profits among different price points. However, a persistent trend is evident throughout the data: When prices range from $2.90 to $2.98, profit earnings tend to be relatively high (above $3.75), while quantity sold fluctuates between 1.8 and 2.66 units.
+
+I also observe that attempting to sell the product at a higher price (above $2.99) does not necessarily result in higher profit earnings. In fact, setting prices above $2.98 seem to lead to decreased sales quantity and profits. This suggests that the optimal price range is somewhere between $2.97-$2.98.
+
+The Round 12 data stands out as it exhibits a significantly high profit earning of $5.05 with a relatively higher quantity sold (2.66 units) when priced at $2.9, which deviates from the general price range observed in other rounds. However, this seems to be an outlier among the collected market data.
+
+Considering these observations, my next steps should focus on refining our understanding of what constitutes the optimal price point within the provided constraints ($2.97-$2.99) and whether introducing slight variations around it can further maximize profits without sacrificing significant sales.
+
+New content for PLANS.txt:
+1. Further investigate the relationship between quantities sold at $2.92, comparing profit earnings to see if setting a lower price results in higher earnings.
+2. Since testing slightly above or below the optimal range ($2.97-$2.98) has previously demonstrated high profits and varying sales quantity, I will introduce some slight variations around this general pricing strategy.
+
+Specifically, based on previous plans (such as testing $2.985 vs $2.992), our goal is to determine if there’s any optimal point within the narrow band of prices that results in even higher profit earnings while maintaining steady sales quantities or achieving higher volumes with minimal decrease in profit margins.
+
+New content for INSIGHTS.txt:
+* Observations of high profitability alongside varying sold quantities reinforce the necessity to identify an optimal price within the established range.
+* Continued testing at and near optimal levels may be more effective than pushing prices above $2.99, as evidenced by decreased profits following attempts beyond this threshold in our collected data.
+
+My chosen price: 2.975

@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+Based on the market data I notice that there isn't a clear correlation between price increases and quantity sold. This is consistent with the insights from INSIGHTS.txt which mentions non-linear changes in quantity sold as prices increase. However, it's also interesting to note that profit earned seems to be increasing at certain price points (e.g., Round 5 vs Round 6). This suggests that while increasing prices may result in some customers opting out and not buying the product (Round 2), there are situations where selling at a higher price results in higher revenue and potentially larger profits.
+
+I'm also intrigued by the fact that quantity sold has plateaued at certain numbers, e.g. Round 5 to Round 3, but then spiked back up in Round 4. Without further data, it's hard to draw meaningful conclusions about these instances.
+
+New content for PLANS.txt:
+* Investigate price elasticity and its impact on profit margins (already listed)
+	+ Determine whether increasing price causes proportionally less quantity sold
+	+ Determine if profit increases regardless of decrease in sales due to high revenue (from previous insights)
++ Conduct a more comprehensive analysis of customer perceived value to identify opportunities for differentiation
+
+New content for INSIGHTS.txt:
+Incremental price increases have a complex effect on profit margins. While we can't draw clear conclusions from the MARKET DATA, there are indications of non-linear changes in quantity sold as prices increase.
+
+Furthermore, I've started to notice that certain price points result in similar profits or revenue streams, e.g., Round 4 and Round 1 both generate a profit of nearly $539, despite having very different quantities sold ($59.87 vs $59.87). This warrants further investigation into whether any threshold is being crossed at the cost of increasing prices above this number.
+
+My observations also suggest the value of revisiting price points that have proven successful in generating significant revenue (despite potentially low quantities), and trying to determine how we can leverage these numbers to maintain strong profit margins despite a plateauing market. The fact that Round 5 had such high sales at $20 indicates there's room for potential optimizations.
+
+
+My chosen price:
+19

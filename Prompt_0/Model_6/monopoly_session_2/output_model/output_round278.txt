@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+After reviewing the provided data, I notice a few patterns. The profit earned for each round seems to be closely tied to the quantity sold, with higher quantities resulting in lower profits due to the fixed costs implied by the significant drop-off at $155.03 (Round 204). There is also an apparent sweet spot around $4.99-$5.01 where profits are consistently high. Additionally, prices above $5.02 tend to reduce quantity sold significantly.
+
+New content for PLANS.txt:
+
+* Investigate the impact of pricing below $4.95 (e.g., $4.90) on quantity sold and profit earned to see if there is further upside.
+* Examine the relationship between price changes and quantity changes in detail, especially around the sweet spot ($4.99-$5.01).
+* Consider a "price anchoring" strategy at prices close to $155.03 (Round 204), to gauge buyer willingness-to-pay.
+
+New content for INSIGHTS.txt:
+
+* The optimal price range found is between $4.99 and $5.01, where profits are consistently high.
+* There appears to be a cliff effect around $5.02, where prices above this value result in significantly lower quantity sold.
+
+My chosen price:
+
+$4.99

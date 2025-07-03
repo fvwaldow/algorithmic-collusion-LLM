@@ -1,0 +1,11 @@
+My observations and thoughts:  
+Based on this data, it appears that I've been experimenting with various prices to find an optimal balance in terms of quantity sold and profit. There seems to be a common theme where the price is 12.5, leading to a 0.05 quantity sold, which results in a 0.45 profit. This suggests that at $12.5, the product is selling consistently but not at a very high volume. Another recurring scenario is when the price is higher, like 13.0 or 13.5, but with lower quantities sold (0.03 or 0.01), resulting in lower profits (0.26 or 0.14). These scenarios indicate that there's a trade-off between price and sales volume, which affects overall profitability.
+
+New content for PLANS.txt:  
+It seems that we are effectively testing two key price points: one around $12.5 where sales are steady but not exceptionally high, and another point around $13 or above, where sales drop significantly. Moving forward, I'll focus on conducting A/B tests between these two price levels to observe which generates better total profit, taking into account both quantity sold and the increased profit per unit at higher price points.
+
+New content for INSIGHTS.txt:  
+Previously, a significant finding was the discovery of a "sweet spot" at around $12.5, where the product was selling consistently. However, further analysis suggests that the profit margin could be improved by exploring slightly higher prices, where though quantity sold drops, the overall profit might increase due to the higher profit per unit. This insight will guide future pricing strategies.
+
+My chosen price:  
+12.5

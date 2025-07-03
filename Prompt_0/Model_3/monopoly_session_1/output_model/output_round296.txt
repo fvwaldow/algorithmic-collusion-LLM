@@ -1,0 +1,18 @@
+My observations and thoughts:
+- The dataset provided showcases a pattern of prices oscillating between 2.0 and 2.5, with occasional deviations like in Round 203 where the price was set to 120.0. There is no discernible trend in terms of increasing or decreasing prices over time.
+- The quantity sold seems to be more consistent than the pricing strategy, with a majority of rounds having a quantity sold between 11.92 and 12.35, except for Round 199 where the price was lowered to 1.0 resulting in a much higher quantity sold (98.2).
+- The profit earned also stays consistent around 17.88, which appears to be the net gain from the sale of items after accounting for fixed costs and possibly variable costs associated with each transaction.
+
+New content for PLANS.txt:
+```
+Observations:
+- Prices fluctuated between 2.0 and 2.5, with occasional deviations like the one in Round 203 where the price was unusually high (120.0).
+- The quantity sold stayed relatively consistent, mostly around 12 units. Exception was observed in Round 199 when the price dropped to 1.0 resulting in a much higher quantity sold (98.2 units).
+- Profits hovered around 17.88 in most rounds, suggesting consistency in net gain after accounting for costs.
+
+Strategies and Insights:
+- Given the consistent sales volume observed around 12 units per round, it is important to find a balance between maintaining low prices to boost quantity sold while still aiming for a profitable price of around 17.88 overall.
+- The exception in Round 199 suggests that lower prices might attract a larger customer base. Further investigation might be needed to determine if these results can consistently yield similar outcomes, or if other factors may come into play with different pricing strategies.
+- The data shows no clear trend of price increase or decrease, so implementing a dynamic pricing strategy that adjusts based on market conditions, customer behavior or competitor actions could help maximize revenue and maintain sales volume.
+```
+My chosen price: 2.49 (based on the observed pattern and average price)

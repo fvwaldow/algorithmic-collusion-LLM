@@ -1,0 +1,20 @@
+My observations and thoughts:
+       - The data shows that when the price is lowered, a significant number of units can be sold (as in Rounds 17, 20, 41, and 31) but with lower profit per unit. On the other hand, when I set the price closer to $39.39, fewer units are sold (as in Round 32), but profit per unit is substantially higher.
+       - It's essential to find a balance between volume and unit profits by setting a competitive and attractive price without compromising profitability too much. The current data doesn't seem to have an optimal price yet due to the volatility in sales quantity.
+       - Based on the insights, a tiered-pricing strategy could help maximize both short term (sales volume) and long term (profitability). Offer a lower price when buying larger quantities (bulk discounts), while maintaining a premium price for smaller quantities to ensure profitability.
+       - Continue fine-tuning machine learning models to predict the most profitable prices based on real-time market conditions, competitor's pricing, and seasonal factors.
+
+New content for PLANS.txt:
+   1. Implement tiered-pricing strategy by offering discounts for larger orders, such as 5% off when buying between 5-9 units, 7.5 % off for 10+ units, etc.
+       - Monitor effectiveness of this strategy through its impact on sales volume, average profit per unit, and overall profit earned. Iterate accordingly.
+     2. Use linear regression analyses to better understand the relationship between price, quantity sold, and profit earned within the established tiered pricing model.
+     3. Analyze the impact of regional advertising on demand and examine if it's more profitable to target specific demographics with promotions.
+       4. Adjust pricing algorithm parameters to reflect insights from tiered-pricing strategy implementation, linear regression data and competitive analysis for optimal results.
+       5. Perform more frequent market research and competitor analysis to stay updated with current pricing trends and ensure the product remains competitive in a dynamic market.
+
+New content for INSIGHTS.txt:
+    - The tiered-pricing strategy could help expand the customer base while ensuring reasonable profitability by offering discounts for larger orders.
+       - Advertising in specific regions or demographics may lead to increased sales, ultimately improving profitability even within a tiered pricing model due to better conversion rates and overall volume.
+
+My chosen price: 30
+Note that this initial starting price is based on being close to $39.39, while still allowing for a small discount for larger orders within the tiered-pricing system. This helps maximize both sales volume (short-term) and long term profitability based on the available data provided. The exact prices and percentages within the tiered pricing model would be iterated upon through algorithm updates until optimal results are achieved.

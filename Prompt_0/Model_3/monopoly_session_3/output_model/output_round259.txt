@@ -1,0 +1,16 @@
+Based on the data provided, here are my observations and thoughts:
+
+1. Price and quantity sold have had an inverse relationship in most rounds, indicating that when the price is increased, the quantity sold decreases and vice versa. This implies that the demand for the product is sensitive to price changes. 
+2. The profit earned is directly proportional to both price and quantity sold. Higher prices tend to result in higher profits even though the quantity sold may decrease. Therefore, carefully balancing price and quantity are crucial.
+3. There appears to be a sweet spot around $13.00 where both the quantity sold and the profit earned seem to maximize (example: Round 160 - 13.0 price with 94.27 quantity sold and 282.8 profit earned).
+4. In some instances, higher prices led to higher profits even when the quantity sold was lower, e.g., Round 163 -13.5 price led to 93.09 quantity sold but still resulted in a higher profit (325.8) than Rounds where a lower price like 12.85 (Round 177) led to more quantity sold but lower total profit.
+
+Content for PLANS.txt:
+- Analyze the data for any seasonal trends or patterns that may influence sales volume and pricing strategy.
+- Consider testing dynamic pricing - adjust prices based on real time demand, supply, market trends, competitor activity, etc. 
+- Explore marketing strategies to increase product awareness and potentially broaden consumer base which could offset reduced quantity due to higher prices.
+ new content for INSIGHTS.txt:
+- Demand seems elastic indicating that consumers are sensitive to price changes. The optimal balance between price and quantity is crucial to maximizing profits. 
+- There appears to be a sweet spot around $13.00, although it's key to frequently monitor both quantity sold and profit earned in order to adapt pricing strategy over time, considering factors like market conditions, competitor activities, and consumer behavior changes. 
+
+My chosen price: Based on the collected data, I propose the strategic choice of setting the price at $13.00 for maximized revenue generation considering both quantity sold and profit earned seem optimized under this rate. However frequent monitoring and adaptations should be continued to ensure optimal pricing based on market dynamics. This conclusion is subjective as it's a balance between the demand elasticity, the product value proposition, and competitor offerings in the space.

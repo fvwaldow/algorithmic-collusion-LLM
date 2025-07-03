@@ -1,0 +1,19 @@
+My observations and thoughts:
+   This is a historical record of 100 pricing rounds for a product against a competitor. It appears that the dataset includes the starting price, the competitor's price, the quantity sold, and the profit earned in each round. Interestingly, there are several instances where our product was priced above the competition but still outsold them. For example, in Round 106, our product (price: $15.00) was significantly cheaper than the competitor's ($25.00), and we sold a much higher quantity. On the other hand, there are instances where we set our price above the competition and sold very little or even lost money, such as in Rounds 114 and 103.
+   Another observation is that, toward the end of the dataset (Rounds 96-100), our pricing strategy appears to be more aggressive with higher prices, which resulted in lower quantity sales but a higher profit per sale. This seems to suggest a potential shift in target market or market dynamics over time.
+   To improve our pricing strategy going forward, I recommend the following:
+
+   PLANS.txt:
+   - Analyze market trends and competitor behavior.
+   - Develop dynamic pricing strategies that adjust our price based on the competition and demand.
+   - Test different pricing tiers to identify optimal price points for targeting various customer segments.
+   - Monitor the profitability of each pricing decision, using this information to refine and optimize future decisions.
+
+   INSIGHTS.txt:
+   - Aggressive pricing can increase profit per sale but may lead to reduced quantity sold.
+   - There are potential target customer segments that respond better to lower price points (e.g., Round 106).
+   - It's essential to consider the impact of our competitors' prices when setting our own, as seen in Rounds 1 and 11.
+   - Historical data analysis can help identify pricing strategies that are successful under different market conditions.
+
+My chosen price:
+25.0

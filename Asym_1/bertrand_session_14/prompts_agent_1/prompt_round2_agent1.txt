@@ -1,0 +1,48 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $42.58
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Conduct market research to understand the current pricing strategies of competitors and customer willingness to pay.
+   2. Test dynamic pricing (changing prices based on factors like demand) if market data suggests it could improve profits.
+   3. Experiment with setting a price slightly below competitor's average to attract more customers, while still keeping the profit margin high.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Dynamic pricing can help maximize profits by adjusting prices based on real-time supply and demand.
+   2. Setting a price slightly lower than competitors may increase sales volume if it's perceived as competitive advantage or value proposition.
+   3. It's essential to consider overhead costs (storage, labor, marketing etc.) when determining the optimal selling price.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 1:
+                - My price: 39.5
+                - Competitor’s price: 25.0
+                - My quantity sold: 0.01
+                - My profit earned: 0.33
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

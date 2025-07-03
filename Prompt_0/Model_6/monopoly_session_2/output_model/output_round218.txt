@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+Upon reviewing the data, I notice that there is a relatively stable demand for the product at around 84-86 units sold per round. The prices seem to be fluctuating, but not necessarily impacting sales significantly. There are some outliers where higher or lower prices lead to more or fewer sales, respectively.
+
+However, when looking closer at the data, I notice that setting a price between $4.98 and $5.02 tends to result in consistent sales of 85-86 units per round. Prices outside of this range (higher or lower) tend to result in lower sales.
+
+Additionally, it's worth noting that there is no clear correlation between prices and profit margins. The profit earned per unit ($152.78 - $153.35) remains relatively constant across price variations.
+
+New content for PLANS.txt:
+
+Based on the observations above, I suggest testing a price that falls within the optimal range of $4.98 to $5.02. To further refine this range and minimize risk, we should consider setting our target price as the average of the upper bound (around $5.01).
+
+New content for INSIGHTS.txt:
+
+Our findings highlight that prices have a limited impact on sales in this market. However, it's essential to acknowledge that small fluctuations can occur due to various factors, such as competition or consumer sentiment. It would be prudent to continue monitoring and updating pricing strategies based on new data.
+
+My chosen price:
+$5.01

@@ -1,0 +1,90 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $18.82
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Modify the dynamic pricing strategy by observing customer behavior trends when our prices are noticeably lower than competitors.
+            - Conduct a detailed study of how changing our price affects demand and profit.
+              - Evaluate the optimal balance between offering competitive prices and maintaining high-profit margins.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Lowering prices in strategic instances can boost sales while still ensuring profitability, given that we closely monitor market conditions and competition.
+            - A nuanced dynamic pricing strategy can lead to adaptive adjustments to maximize both demand and profit potential.
+              - Regular analysis of competitive pricing and customer response is critical for ongoing optimization.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 8:
+                - My price: 7.5
+                - Competitor’s price: 6.3
+                - My quantity sold: 1.05
+                - My profit earned: 4.53
+
+Round 7:
+                - My price: 8.0
+                - Competitor’s price: 6.3
+                - My quantity sold: 0.57
+                - My profit earned: 2.72
+
+Round 6:
+                - My price: 8.0
+                - Competitor’s price: 7.85
+                - My quantity sold: 3.07
+                - My profit earned: 14.72
+
+Round 5:
+                - My price: 7.5
+                - Competitor’s price: 6.5
+                - My quantity sold: 1.33
+                - My profit earned: 5.73
+
+Round 4:
+                - My price: 10.5
+                - Competitor’s price: 6.5
+                - My quantity sold: 0.03
+                - My profit earned: 0.23
+
+Round 3:
+                - My price: 8.0
+                - Competitor’s price: 12.5
+                - My quantity sold: 11.82
+                - My profit earned: 56.73
+
+Round 2:
+                - My price: 6.0
+                - Competitor’s price: 14.82
+                - My quantity sold: 62.23
+                - My profit earned: 174.25
+
+Round 1:
+                - My price: 13.82
+                - Competitor’s price: 16.0
+                - My quantity sold: 0.01
+                - My profit earned: 0.1
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

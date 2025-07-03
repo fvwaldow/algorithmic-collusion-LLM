@@ -1,0 +1,26 @@
+My observations and thoughts:
+
+Based on the data provided, it appears that the relationship between price and profit is not always linear. There are instances where a higher price leads to higher profits (e.g., Rounds 119-120), but also times when a lower price results in higher profits (e.g., Rounds 89-90).
+
+I've identified several potential pricing strategies to explore:
+
+1. **Pricing at the upper bound of profitability**: In Rounds 117 and 118, prices above $20 led to significant decreases in profit margins. This suggests that setting a price high enough to capture most of the market may not be optimal.
+2. **Exploring mid-range prices around $20**: Several rounds (e.g., Rounds 105-106) show that pricing near or at $20 can result in consistently high profits, perhaps due to balancing demand and supply.
+3. **Lowering price for higher quantities**: In some instances (e.g., Rounds 93 and 101), lowering the price slightly results in maintaining profit levels while achieving slightly higher sales.
+
+Given these considerations, my next decision should prioritize finding a balance that allows for consistent profits without sacrificing too much market share.
+
+New content for PLANS.txt:
+
+* Investigate the impact of incremental price changes near $20 on profits and sales volumes.
+* Compare the effectiveness of pricing at optimal points versus maximizing revenue in each round.
+* Look into ways to reduce transaction costs or improve product offering to augment profit margins.
+
+New content for INSIGHTS.txt:
+
+* The data suggests that customer demand responds well to prices around $20, potentially indicating a sweet spot for this market.
+* Pricing decisions heavily influence sales volume; small adjustments can have noticeable effects on the number of units sold.
+
+My chosen price:
+
+$20

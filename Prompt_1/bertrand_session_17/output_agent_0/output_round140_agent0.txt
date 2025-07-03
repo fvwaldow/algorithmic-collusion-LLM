@@ -1,0 +1,13 @@
+My observations and thoughts: The data provided shows the quantity sold (in hundreds) and profit earned for different product prices for each round. Over 50 rounds of pricing, there seems to be a pattern emerging where the optimal price range is between 12 and 14. When the price is higher than that (up to 17.5), the quantity sold decreases even though profit per item increases. Conversely, when the price is lower than 10, even though the quantity sold goes up significantly, profit per item remains low.
+
+   New content for PLANS.txt:
+   - Maintain a mid-range pricing strategy (between 12 and 14)
+   - Analyze competition's prices to adjust ours accordingly while staying competitive
+   - Monitor the effect of price changes on both sales volume and profit margin
+
+   New content for INSIGHTS.txt:
+   - A higher price does not guarantee more profits if fewer items are sold
+   - Lowering the price can increase sales volume significantly, but the profit per item remains relatively low
+   - Adjusting the price strategy between 12 and 14 appears to maximize both sales volume and profit margin
+
+   My chosen price: 13.5

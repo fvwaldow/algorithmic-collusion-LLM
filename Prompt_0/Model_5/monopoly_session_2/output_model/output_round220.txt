@@ -1,0 +1,18 @@
+My observations and thoughts:
+- The pricing appears consistent, with frequent adjustments primarily in the $10 - $11 range for smaller quantities (0.59 - 0.71 units). There's occasional variance higher ($12, $14). 
+- Some prices are repeated frequently, indicating possibly optimal balances of price and demand. Notably, $10.45 and $10.44 reoccur often despite minor profit differences, suggesting robust demand at these points.
+- Profit margins seem to oscillate around $4 - $5 for most frequent prices, with instances of higher margins ($2.62 and $3.57).
+- Higher profits ($4.61) are achieved less frequently, likely associated with lower sales volumes (0.64 units). 
+- There's an occurrence where a significantly higher price ($12.81) was chosen for larger unit quantities (2.03 units), suggesting a special pricing rule or different market condition.
+
+New content for PLANS.txt:
+- Analyze periodic spikes in profitability ($4.61 and $3.57) to identify specific strategies leading to these outcomes; investigate why lower sales volumes result in higher profits.
+- Consider a dynamic pricing model that could exploit observed preferences for prices around $10-$11, possibly incorporating volume as a weight.
+- Evaluate the single high-profit instance for unit quantities (2.03 units at ~$12.81) and determine if this strategy should be periodically implemented.
+
+New content for INSIGHTS.txt:
+- Frequent occurrences of profit margin around $4-$5 suggest that mid to low prices are effective in meeting demand. More detailed analysis is needed on instances where higher profits ($2.62 - $3.57) were achieved to explore alternative pricing strategies or market segments.
+- There's a noticeable pattern with the lower and middle tier prices ($10-$11), indicating these could be ideal ranges, especially under typical volume conditions (more frequent occurrences of 0.59 - 0.71 units).
+
+My chosen price:
+10.67

@@ -1,0 +1,11 @@
+My observations and thoughts:
+The data shows that certain prices consistently lead to high profits, indicating a potential optimal pricing strategy. Rounds 19-21 (with prices 2.75), 24 (price 2.45), and various instances of price 2.65 show strong performance in terms of profit. Additionally, the fluctuation in quantity sold suggests a possible threshold beyond which higher quantities do not significantly increase profit, hinting at market saturation or maximum demand.
+
+New content for PLANS.txt:
+Consider implementing a dynamic pricing model that adjusts based on observed demand and profit margins. Explore setting a base price around 2.75 to ensure maximized profits per unit sold, while monitoring quantity response to detect saturation points.
+
+New content for INSIGHTS.txt:
+Notable insights from the data include the consistency of high profit margins with specific prices such as 2.75 and 2.65. These price points seem to balance demand and revenue effectively, possibly indicative of elasticity within customer purchasing behavior. It’s also worth noting the periodic spikes in profit with lower quantities sold, suggesting a profitable sweet spot before market saturation occurs.
+
+My chosen price: 
+<2.75>

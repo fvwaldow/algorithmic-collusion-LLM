@@ -1,0 +1,16 @@
+My observations and thoughts:
+The market data shows that setting prices too high can lead to zero sales (Rounds 7-8). On the other hand, when selling at a lower price (Rounds 6-5), sales volume significantly increases, resulting in a decent profit but with marginally low profitability per unit sold. However, the maximum price at which the product will be sold is $3.11. Also, there seems to be some kind of impact competitors' prices have on the customer's buying decision. It would be beneficial to study these patterns more closely.
+
+   New content for PLANS.txt:
+1. Implement machine learning algorithms to analyze historical competitor pricing trends and their impact on sales volume. Use this analysis to predict optimal price ranges in real-time.
+2. Continuously monitor market data from multiple rounds to identify any discernible patterns or correlations between competing prices, customer preferences, and overall profitability.
+3. Develop a dynamic pricing strategy that takes into account these patterns while staying within the acceptable range for customers (i.e. below $3.11).
+4. Evaluate the efficiency of the implemented strategies by regularly analyzing data from multiple rounds to refine and optimize over time, keeping profitability as the primary focus.
+
+   New content for INSIGHTS.txt:
+1. Competitor pricing seems to play a crucial role in shaping customer preferences and buying decisions.
+2. Adopting a more dynamic approach that adjusts prices based on competitor actions can help capture additional sales without significantly impacting profit margins.
+3. Optimal price ranges for the product should be determined through rigorous analysis of historical market data, taking both volume sold and profitability into account.
+4. Consistent observation and refinement of strategies are necessary to maximize long-term profits as market conditions and competitor behaviors change over time.
+
+   My chosen price: 1.65 (rounding to the nearest cent will avoid tying the price with any specific round data and make it clear that this choice is based on analysis rather than specific data points.)

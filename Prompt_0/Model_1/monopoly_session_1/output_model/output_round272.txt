@@ -1,0 +1,13 @@
+My observations and thoughts:
+Okay, I've reviewed the data. There’s a consistent pattern of selling 1.8 units at a price of 3.0 with a profit of 3.6 across almost all of the data points. There are a few anomalies – Round 189 shows a different price (2.8) and a different profit (7.05), and round 188 has a different price (3.2) and a smaller profit (1.8). These could represent testing, or potentially unusual circumstances. Given the consistency of the bulk of the data, I should primarily stick with the price of 3.0.
+
+New content for PLANS.txt:
+```
+Maintain current pricing strategy of 3.0 for 1.8 units sold.  Investigate the outlier data points (rounds 187, 189, 188) to determine if there's a specific reason for the deviation, and if so, adjust pricing accordingly to maximize profit.
+```
+New content for INSIGHTS.txt:
+```
+High Correlation: There’s a strong correlation between price (3.0) and volume (1.8 units) resulting in a consistent profit of 3.6.  This suggests a stable demand at this price point.  The deviations from this pattern require further investigation.
+```
+My chosen price:
+3.0

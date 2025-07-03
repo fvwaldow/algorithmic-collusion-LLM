@@ -1,0 +1,14 @@
+My observations and thoughts:
+- In the given data, there are numerous instances of zero transactions (0.0 quantity sold) with prices ranging from 23.1 to 31.0. These points could represent either unsuccessful attempts at selling at high prices or strategies where one intends not to sell below a certain price.
+- The highest-volume transactions occur in Rounds 46, 97 (each with approximately 16.8 units sold), suggesting those pricing points might be favorable for quantity.
+- The most profitable rounds consistently seem to center around prices between $2.3 and $2.5 – indicating a potentially good sweet spot for balance between price and volume.
+- Variability between highest and lowest selling rounds is significant, indicating room for strategy that targets an optimal balance point.
+- Periods with higher sale volumes show less pronounced variation in profits, suggesting stable mid-tier prices perform well across many scenarios.
+
+New content for PLANS.txt:
+Testing price $2.4 as a middle-ground approach to leverage known volume and profitability without setting excessively high or low prices observed in other successful rounds.
+
+New content for INSIGHTS.txt:
+High volumes (16.8 units) seem achievable without drastically lowering the price. The $2.3-$2.5 bracket consistently provides good profit, suggesting it might be an optimal range to explore further given its balance of volume and revenue.
+
+My chosen price: 2.4

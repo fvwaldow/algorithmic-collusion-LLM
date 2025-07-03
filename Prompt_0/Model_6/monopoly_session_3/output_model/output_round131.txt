@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+Based on the market data provided, I notice that there are three distinct price ranges with different sales volumes: $19-$20 (high volume), $21-$22 (medium volume), and $24-$30 (low volume). The highest profit earned was in Round 53 when the price was $20.0 and 50 units were sold, resulting in a profit of $500.00.
+
+New content for PLANS.txt:
+
+* Investigate the optimal price range that yields high sales volumes while maintaining profits above $500. 
+* Analyze the impact of higher prices on sales volume.
+* Test if lower prices can boost sales without sacrificing profit margins.
+
+New content for INSIGHTS.txt:
+
+* The market seems to have a preference for prices between $19-$20, which is where the highest profit is achieved (Round 53).
+* Higher prices may deter customers and decrease sales volumes (e.g., Round 64-66).
+* Consider implementing a price strategy that takes into account the sales volume and profit at each price point.
+
+My chosen price:
+19.99

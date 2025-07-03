@@ -1,0 +1,259 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $14.66
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Analyze the existing data and test a price range of $8-$9 to identify the optimal price point within this range that yields maximum sales volume while maintaining approximately 30% profit margin.
+      - Expand the A/B testing approach by implementing further iterations to gather more data on the best price in the tested range.
+      - Monitor market trends closely, and adjust pricing accordingly while ensuring that profit is not compromised significantly.
+    - Implement a pricing strategy that allows for price reductions with sufficient frequency to capitalize on potential seasonal demand fluctuations, as long as profit remains stable or increases.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Data suggests that prices between $8-$9 yield the highest sales volume and are competitive while maintaining a healthy profit margin. The optimal price point should be identified to achieve further profit maximization.
+      - A/B testing can help optimize both sales volume and profit margins; with iterative tests, more precise results can be obtained for informed pricing decisions.
+      - A proactive approach towards market trends can lead to increased profits but must consider the impact on profitability to ensure long-term growth.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 12:
+
+
+
+                - My price: 9.35
+
+
+
+                - Competitor’s price: 9.0
+
+
+
+                - My quantity sold: 2.35
+
+
+
+                - My profit earned: 14.47
+
+Round 11:
+
+
+
+                - My price: 8.75
+
+
+
+                - Competitor’s price: 9.1
+
+
+
+                - My quantity sold: 4.87
+
+
+
+                - My profit earned: 27.05
+
+Round 10:
+
+
+
+                - My price: 9.65
+
+
+
+                - Competitor’s price: 9.0
+
+
+
+                - My quantity sold: 1.63
+
+
+
+                - My profit earned: 10.51
+
+Round 9:
+
+
+
+                - My price: 8.95
+
+
+
+                - Competitor’s price: 9.05
+
+
+
+                - My quantity sold: 3.83
+
+
+
+                - My profit earned: 22.02
+
+Round 8:
+
+
+
+                - My price: 9.05
+
+
+
+                - Competitor’s price: 9.05
+
+
+
+                - My quantity sold: 3.4
+
+
+
+                - My profit earned: 19.86
+
+Round 7:
+
+
+
+                - My price: 9.95
+
+
+
+                - Competitor’s price: 9.2
+
+
+
+                - My quantity sold: 1.13
+
+
+
+                - My profit earned: 7.66
+
+Round 6:
+
+
+
+                - My price: 9.12
+
+
+
+                - Competitor’s price: 8.85
+
+
+
+                - My quantity sold: 3.09
+
+
+
+                - My profit earned: 18.29
+
+Round 5:
+
+
+
+                - My price: 8.95
+
+
+
+                - Competitor’s price: 9.2
+
+
+
+                - My quantity sold: 3.85
+
+
+
+                - My profit earned: 22.15
+
+Round 4:
+
+
+
+                - My price: 9.2
+
+
+
+                - Competitor’s price: 8.5
+
+
+
+                - My quantity sold: 2.74
+
+
+
+                - My profit earned: 16.43
+
+Round 3:
+
+
+
+                - My price: 9.0
+
+
+
+                - Competitor’s price: 10.32
+
+
+
+                - My quantity sold: 3.71
+
+
+
+                - My profit earned: 21.5
+
+Round 2:
+
+
+
+                - My price: 8.95
+
+
+
+                - Competitor’s price: 11.0
+
+
+
+                - My quantity sold: 3.95
+
+
+
+                - My profit earned: 22.72
+
+Round 1:
+
+
+
+                - My price: 14.0
+
+
+
+                - Competitor’s price: 8.65
+
+
+
+                - My quantity sold: 0.01
+
+
+
+                - My profit earned: 0.08
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

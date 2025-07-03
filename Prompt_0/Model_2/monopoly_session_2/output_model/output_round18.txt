@@ -1,0 +1,11 @@
+My observations and thoughts: By analyzing the market data collected, I can observe that a higher price results in fewer units sold but leads to more profit when compared with lower prices within the range of $6.90 to $7.5. However, selling at the highest tested price ($8.1) led to even fewer sales and less overall profit than lower prices between $7.3 and $7.4. On the other hand, pricing slightly below $7.0 leads to an increase in units sold, but profits seem to be more volatile, which could risk sacrificing higher long-term profitability.
+
+   New content for PLANS.txt:
+      - Identify the optimal balance between cost and competitive market demands by testing a narrower pricing range of $7.2 to $7.31 (in increments of $0.01) while taking into account data on units sold, profit, customer feedback, and sustained growth rate.
+         - Perform regression analysis or other statistical tests to find the optimal price point with a high correlation between prices tested, profit earned, and sales volume to maximize long-term profitability.
+
+   New content for INSIGHTS.txt:
+      - Further investigation shows that setting the price slightly below $7.0 but still within this range is an attractive option for maximizing long-term profits while balancing quantity sold with consistent profit margins. The goal now should be to narrow down the best performing prices in this range, and adjust as data supports further increases or decreases.
+         - To ensure success, it is essential to maintain a focus on market demand rates, customer feedback, and sales trends when selecting the final pricing strategy.
+
+   My chosen price: 7.29

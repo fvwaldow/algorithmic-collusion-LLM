@@ -1,0 +1,19 @@
+My observations and thoughts:
+   In this dataset, it appears that the market price for the product fluctuated greatly throughout the pricing rounds, with both higher and lower prices being effective in certain instances. It seems that the competitive price of the product had a significant impact on sales volume, with higher-priced items experiencing lower sales volumes and lower-priced items sometimes seeing higher sales. However, there were instances where higher-priced items sold well due to high demand or unique offerings.
+
+   Tactics such as adjusting price based on competitor pricing seemed effective, but maintaining a competitive edge was crucial, as lower prices didn't always generate the highest profits. It is also interesting to note that there were several instances of success with mid-range pricing (e.g., Round 59 6.25, or Round 38 8.0). This suggests that a middle ground in price could be beneficial for capturing more market share and generating higher profits.
+
+   Another pattern to consider is the effect of lowering prices when demand was high (e.g., Round 40 7.0) versus lowering prices to boost sales when demand seemed relatively low or stagnant (e.g., Round 66 6.5). This indicates that using price as a tool to adjust supply and demand could be beneficial moving forward.
+
+   PLANS.txt:
+   - Monitor competitor pricing to adjust our own accordingly while maintaining a competitive edge.
+   - Consider implementing a more strategic approach to pricing, such as tying pricing to sales volume or market demand.
+   - Analyze patterns in successful pricing rounds to identify optimal price ranges for different product offerings.
+
+   INSIGHTS.txt:
+   - Mid-range pricing (e.g., 6.25, 8.0) can be effective in capturing market share and generating higher profits.
+   - Lowering prices when demand is high or raising prices when demand is relatively low can help manage supply and demand more effectively.
+   - A flexible pricing strategy that adapts to changes in the market may lead to increased profitability over time.
+
+   My chosen price:
+   8.0 (Round 38 was an effective pricing round, indicating a mid-range price could be advantageous)

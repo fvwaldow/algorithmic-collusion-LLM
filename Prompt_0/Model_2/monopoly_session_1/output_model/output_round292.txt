@@ -1,0 +1,13 @@
+My observations and thoughts: This dataset showcases the selling of a certain product at different prices over time. It appears that there is a trend where lowering the price can lead to an increase in sales, while maintaining a relatively consistent profit margin (with the exception of one outlier where increased quantity sold resulted in slightly reduced profit). However, it seems that there is a lower limit for the price below which no customers are willing to purchase. Also, it's important to note that changing the price does not necessarily result in linear changes in sales volume.
+
+   New content for PLANS.txt:
+   - Continue monitoring sales data at current prices
+   - Consider lowering prices strategically to boost sales volume and revenue
+   - Analyze customer behavior and purchasing patterns to determine optimal pricing range
+
+   New content for INSIGHTS.txt:
+   - Lowering prices can increase sales volume and revenue but must be done strategically
+   - There is a lower limit for the price below which no customers are willing to purchase
+   - Customer purchasing patterns need to be analyzed to determine optimal pricing range
+
+   My chosen price: 2.1 (rounded since the dataset's common price points have been around 2.1)

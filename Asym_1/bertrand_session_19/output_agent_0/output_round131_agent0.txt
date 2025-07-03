@@ -1,0 +1,14 @@
+My observations and thoughts: This dataset shows the prices and quantities (in hundreds) of a product sold by our company and its competitors over 98 rounds. The initial price was $26.0, while the competitor's prices ranged from $24.0 to $40.0. The competing firm usually had higher prices, but there were periods where the competitor had lower prices than our product.
+
+   New content for PLANS.txt:
+   - Monitor competitor pricing strategies closely; try to identify patterns and trends in their pricing behavior.
+   - Continue to adjust our own prices based on market conditions, aiming for a lower but competitive position when the competitor raises its price.
+   - Consider implementing a discount or promotional strategy during periods of increased competition or high inventories.
+
+   New content for INSIGHTS.txt:
+   - Our pricing strategy appears to be generally effective; we maintained a higher quantity sold in comparison to our competitor throughout the dataset.
+   - However, it looks like there may be areas where we can optimize our prices further, for example, when the competitor lowers its price in a given round (e.g., Rounds 54-55).
+   - During the earlier rounds (Rounds 1-20), our lower starting price seemed to give us an advantage, but as the dataset progressed and we raised our prices to match competitor levels, our quantity sold remained relatively consistent.
+   - It might be useful to investigate why the competitor lowered its price during some rounds, such as Rounds 54-55, and see if there are opportunities for us to take advantage of similar circumstances in the future.
+
+My chosen price: 26.0 (this number represents $26.00)

@@ -1,0 +1,19 @@
+My observations and thoughts:
+     - I observe that the demand for the product remains relatively stable within a price range of approximately $2.7-$3.0. However, it's important to strike a balance between profit and demand.
+     - It seems that higher prices result in lower quantity sold but increased profit per unit, while lower prices result in more units sold but lower profits per unit. This highlights the need for an optimal pricing strategy which maximizes both demand and profit.
+     - The competitor's prices have a notable impact on the product's demand. Monitoring their pricing strategies closely will help in optimizing the pricing decision.
+     - In previous rounds, higher profits were earned at certain price points that reduced demand but offered higher profit margins, such as $2.95 and $3.01. This suggests that it may be beneficial to explore higher price points while also striking a balance with demand.
+
+New content for PLANS.txt:
+    - Test further price points in the range of $2.8-$3.3, focusing on maximizing profit while considering demand sensitivity at these price points through regression techniques.
+        - Investigate potential price points that balance high profit margins with reduced impact on demand (like seen in Round 22 and Round 24).
+     - Develop a pricing strategy that account for competitor price changes, adjusting prices accordingly to optimize profits.
+      - Monitor customers' price sensitivity for different segments and adjust pricing strategies based on potential higher profits from certain segments.
+
+New content for INSIGHTS.txt:
+    - Higher profits may be achievable at price points that reduce demand but offer higher profit margins, as seen in Rounds 22 and 24. However, it is crucial to find the right balance between profit and demand.
+         - Strong consideration should be given to the potential for increased market share due to a reduced competitor presence in higher-priced segments, particularly when competitor prices increase (as observed in Round 24).
+      - Competitors' pricing decisions have a substantial impact on product demand, emphasizing the importance of monitoring their strategies closely.
+
+My chosen price:
+3.01

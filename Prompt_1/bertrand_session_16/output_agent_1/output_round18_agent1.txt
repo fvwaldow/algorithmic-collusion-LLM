@@ -1,0 +1,15 @@
+My observations and thoughts:
+   It appears that pricing slightly above the competitor's price leads to a higher profit (143.8 vs 127 when my price was 0.5 below competitor's in Rounds 9-15). However, moving too far above the competitive price results in significantly lower sales volume, which decreases overall profit (Rounds 2 & 5). The sweet spot for profits seems to be between a 0.35 to 1.5 difference from the competitor's price. A more granular approach to pricing could provide better insights into customer sensitivity and optimal competitive positioning.
+
+   New content for PLANS.txt:
+   1. Update current pricing strategy by testing with prices that are closer to the competitor’s but at more granular levels to further evaluate demand elasticity (e.g., every 0.1 or even smaller).
+     2. Implement machine learning algorithms to analyze customer responses and market data for accurate short-term adjustments, thus ensuring long-term profit maximization.
+     3. Continuously monitor and compare the effects of price changes on sales volume and overall profit across different pricing ranges to determine the optimal competitive positioning.
+
+   New content for INSIGHTS.txt:
+   1. The optimal price appears to be closer to the competitor’s price (e.g., 0.35 - 1.5 difference) compared to matching or exceeding the competitor’s price while maintaining a reasonable level of profitability.
+     2. Improved customer insights can be gained by testing more granular pricing strategies, thus leading to better price positioning and an overall increase in profit.
+     3. Machine learning algorithms will help automate the process for making accurate data-driven pricing decisions and maximizing long-term profits.
+
+   My chosen price:
+   12.35

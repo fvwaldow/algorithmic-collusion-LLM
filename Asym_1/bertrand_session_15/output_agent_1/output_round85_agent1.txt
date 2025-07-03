@@ -1,0 +1,18 @@
+My observations and thoughts:
+   * The data provided represents a simulated market with prices ranging from low (1 cent) to high (39 dollars). There are multiple instances of the initial price being lower than the competitor's, but selling more quantity with a substantial loss.
+   * As the price increases, the number of units sold decreases but the profit per unit also increases, although this doesn't necessarily mean a higher total profit in each round due to decreased quantities sold.
+   * In some rounds, higher prices result in no or minimal sales (0 or very few units), which greatly impacts the overall profit earned for those periods.
+   * There is one significant outlier where the product sells 99.95 units at a price of 1 cent each, resulting in an extreme loss. It is worth noting that this doesn't seem to correspond to any larger trend or pattern throughout the data.
+   * Observing changes over time, it appears that as the initial price decreases, the number of units sold increases, suggesting this strategy may help capture a larger market share but with lower profit margins.
+
+   New content for PLANS.txt:
+   * Analyze the relationship between price and quantity sold, keeping in mind the profit per unit as well as total profit.
+   * Investigate why there are such drastic differences in sales volume at certain extreme prices (both high and low).
+   * Explore strategies that focus on capturing a larger market share while still maximizing profit.
+
+   New content for INSIGHTS.txt:
+   * Higher initial prices seem to lead to lower quantities sold but higher per-unit profits, indicating a delicate balance between quantity and profit margin.
+   * It's important to be aware of significant changes in price and sales volume as these may indicate opportunities to adjust pricing strategy.
+   * Consider the long-term impact of various pricing decisions, as a lower initial price might lead to larger market share but lower profit margins over time.
+
+   My chosen price: Let's stick with the initial price from the first round (1.05) for now and monitor its effects on quantity sold and profit earned in subsequent rounds. We can make adjustments based on analysis of the collected data moving forward.

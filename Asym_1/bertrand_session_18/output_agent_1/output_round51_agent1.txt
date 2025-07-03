@@ -1,0 +1,14 @@
+My observations and thoughts: Based on the provided market data, it appears that price plays a significant role in shaping the quantity of units sold. A higher price leads to fewer sales but potentially greater profit per unit due to a relatively high cost basis of $1. Despite higher prices (above $28) attracting fewer customers, these instances tend to result in more profit per unit (up to round 4 when the price was $32). Conversely, prices closer to the competitor's range (rounds 50 and 2) did not yield significant profits due to lower sales volumes. As such, it seems crucial to find a balance between volume demand and profit maximization.
+
+   New content for PLANS.txt:
+   1. Continue testing prices within the range that maximizes both profit and volume (e.g., between 26-30) adjusting them slightly up or down for optimization.
+   2. Monitor the relationship between price, sales volume, and profit in the short term to better understand the market response to different pricing strategies.
+   3. Analyze long-term trends in customer behavior to identify a consistent "sweet spot."
+   4. Keep an eye on competitors' moves to determine if there are opportunities to adjust prices relative to them for potential gains.
+
+   New content for INSIGHTS.txt:
+   1. It is essential to find a balance between profit margin and volume sales in long-term pricing strategies when considering cost and customer behavior data.
+   2. Fine-tuning the price within a competitive range (closer to competitor's price) may yield lower profits but potentially higher units sold, which could be desirable depending on market conditions and growth strategy objectives.
+   3. Analyzing competitors' pricing trends can provide valuable insight into current market dynamics.
+
+   My chosen price: 27.85 (Round 19 was the most profitable price, with slightly improved profit per unit over round 15, but still maintaining a high sales volume compared to other tested prices)

@@ -1,0 +1,25 @@
+My observations and thoughts:
+
+The data shows a consistent pattern of a slightly increased profit earned at prices around $5.02 or $5.03, compared to prices below $5.01. However, there are also instances where the same price has been used and the profit earned decreases over time (e.g., in rounds 162-164). Additionally, price increases above $5.05 seem to result in decreased profit earned.
+
+Since the profit increased at prices around $5.02 or $5.03, it might be worth exploring slightly higher prices in the next round to see if this trend continues.
+
+New content for PLANS.txt:
+
+Explore higher prices within the range of $5.00-$5.05 to identify an optimal price that maximizes profit earned while considering the observed pattern.
+
+Consider implementing a slight price increase for the next round, such as:
+
+* Round X: Price = $5.02 (or) $5.03
+
+If the trend continues and the profit at these higher prices sustains or increases, this could lead to further exploration of higher price points in future rounds.
+
+New content for INSIGHTS.txt:
+
+Confirmed pattern of increased profit earned at certain price ranges ($5.02-$5.05), but with a possible ceiling on increased earnings beyond $5.03.
+
+Also noted is the inconsistent performance of the same price across different rounds, suggesting that external factors or market changes may affect profit levels over time.
+
+My chosen price:
+
+$5.02

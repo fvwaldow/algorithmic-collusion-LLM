@@ -1,0 +1,11 @@
+My observations and thoughts:
+The data provided appears to be historical pricing data from a seller competing with one or more competitors. The data shows the seller's price (`My price`) and the competitor's price (`Competitor's price`) for each round, as well as the quantity sold (`My quantity sold`) and the profit earned (`My profit earned`). It looks like the goal is to strategically set prices based on these factors in order to maximize profits.
+   New content for PLANS.txt:
+* Analyze the data to identify trends in how the choice of price affects quantity sold and profit earned.
+* Consider factors such as market competition, product demand, and production costs when determining optimal pricing strategy.
+* Experiment with different pricing strategies (e.g., high, low, variable) to see their effect on sales and profits.
+   New content for INSIGHTS.txt:
+* The optimal price appears to be around 3.0, as this is the average price at which the largest quantity of goods was sold and a profit was made (with the exception of round 154 where the price was set at 5.0).
+* Lowering the price below 2.8 in certain rounds resulted in increased sales but decreased profits, while raising the price above 3.0 did not result in significantly higher profits.
+   My chosen price:
+3.0 (This choice is based on the insights gathered from the analysis of the data and the observed trend in optimal pricing.)

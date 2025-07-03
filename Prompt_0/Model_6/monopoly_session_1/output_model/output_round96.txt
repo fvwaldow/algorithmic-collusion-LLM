@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+* The optimal price within the "sweet spot" seems to be around $2.97, as this is the price at which maximum profit has been earned in several instances (e.g., Round 95, Round 90, Round 91).
+* There appears to be a significant decline in quantity sold above the sweet spot price ($2.97). For example, when prices were raised to $3.0 or higher (Rounds 6-5), quantity sold decreased significantly.
+* It's essential to maintain a controlled pricing strategy and avoid random fluctuations to establish robustness of the sweet spot.
+* Investigating why profit decreases above the sweet spot price could potentially uncover opportunities for more optimal pricing.
+
+New content for PLANS.txt:
+
+1. Continue experimenting with prices close to $2.97, adjusting upwards by small increments (e.g., $2.98) while monitoring quantity sold and profit earned.
+2. Further analysis of Round 46 ($3.03) is necessary to determine if there was a specific reason for the decreased quantity sold despite relatively similar prices being successful in some instances.
+
+New content for INSIGHTS.txt:
+
+1. The sweet spot price remains at approximately $2.97, with maximum profit earned in several rounds.
+2. A decline in quantity sold occurs above this optimal price ($2.97), requiring investigation and control measures to optimize pricing strategy.
+
+My chosen price:
+$2.98

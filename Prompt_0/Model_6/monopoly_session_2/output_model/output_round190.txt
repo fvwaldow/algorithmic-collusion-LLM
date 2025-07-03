@@ -1,0 +1,25 @@
+My observations and thoughts:
+
+After analyzing the data, I notice that the profit earned is consistently high when the price is set above $4.99. Specifically, prices ranging from $5.00 to $5.15 have yielded significant profits. However, there seems to be a sweet spot between $5.03 and $5.06, where profits are maximized.
+
+I also observe that setting the price below $4.99 results in lower profits, with some instances of even losing money (e.g., Round 113). This suggests that maintaining a price above this threshold is crucial to achieving substantial profits.
+
+Considerations:
+
+* The quantity sold appears to be relatively consistent across different price points, which might indicate that demand isn't strongly influenced by the price.
+* There are no significant outliers or anomalies in the data that would suggest a drastic change in market conditions.
+* Given the consistency of the data, it seems reasonable to assume that the current market dynamics are stable and that further experimentation with new price points is warranted.
+
+New content for PLANS.txt:
+
+1. **Explore optimal pricing between $5.03 and $5.06**: We'll try varying prices within this range to determine which one yields the highest profits.
+2. **Monitor quantity sold and demand**: Despite consistent quantities, we should keep a close eye on demand and adjust our strategy if necessary.
+3. **Reassess profit margins at lower price points**: We'll re-examine settings below $4.99 and consider adjusting strategies accordingly.
+
+New content for INSIGHTS.txt:
+
+* Maintaining a price above $4.99 is crucial to achieving significant profits.
+* The sweet spot for pricing falls between $5.03 and $5.06, where maximum profits are earned.
+* Consistency in quantity sold indicates stable demand; however, further monitoring is necessary.
+
+My chosen price: 5.05

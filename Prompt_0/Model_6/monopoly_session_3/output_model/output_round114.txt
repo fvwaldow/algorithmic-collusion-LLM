@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+After analyzing the data, I notice that there are two distinct patterns in the price-quantity-profit data. The first pattern occurs at lower prices (around 19-22) where the quantity sold is high (40-60), and the profit earned is around 400-500. The second pattern occurs at higher prices (above 24) where the quantity sold is low (around 1-20), and the profit earned is much lower (less than 300).
+
+New content for PLANS.txt:
+
+* Based on the first pattern, I plan to maintain a price range of 19-22 to maximize sales volume and profits.
+* For Round 2, I will keep the price at $20.5 and monitor the quantity sold and profit earned.
+
+New content for INSIGHTS.txt:
+
+* High prices (>24) result in low quantities sold and lower profits, indicating elastic demand.
+* Low prices (19-22) attract high sales volumes but with smaller profit margins per unit.
+* The optimal price range seems to be around $20-$22, where the balance between quantity sold and profit earned is achieved.
+
+My chosen price:
+$20.5

@@ -1,0 +1,15 @@
+My observations and thoughts:
+    In this dataset, we have prices ranging from 2.0 (lowest) to 27.0 (highest). It's interesting to note that the maximum quantity is sold at the price points of 5.0 and 6.0. At these price points, our competitor might be pricing their product around the same range.
+    However, beyond these price points, our competitor prices significantly higher. For instance, they price at 27.0 where we have no sales while we can sell a significant amount (32.08) at much lower prices like 5.0. This suggests that our competitor might be overpricing their product significantly.
+    It's also worth noting that the highest profit is made when we price our product at 10.0, although the quantity sold is extremely low (0.42). Overall, it seems that pricing our products around the range of 5.0-6.0 might yield the highest sales volume while significantly reducing price points like 10.0 could yield high profit but with lower sales volume.
+    New content for PLANS.txt:
+    * Continue to price products in a range of 5.0-6.0 to capitalize on high sales volume opportunities.
+    * Investigate possible discount strategies or bundle deals with lower priced items to attract customers.
+    * Monitor our competitor's pricing strategy and adjust ours accordingly.
+    New content for INSIGHTS.txt:
+    * Pricing at 5.0-6.0 can result in a high sales volume, but monitoring competitor's actions is essential to remain competitive.
+    * Offering discounts or bundle deals could help attract customers and boost sales.
+    * Price points beyond the range of 5.0-6.0 might result in lower sales volume or insignificant profit.
+
+My chosen price:
+6.0

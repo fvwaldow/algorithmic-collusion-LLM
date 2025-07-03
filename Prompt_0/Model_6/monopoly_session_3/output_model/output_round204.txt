@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+Based on the market data provided, I notice that there are several price points that result in maximum profit earned ($500). These prices seem to be in the range of $19.0 to $20.99. However, I also observe that prices above $21.5 tend to result in lower quantities sold and therefore lower profits.
+
+One notable trend is that prices around $19.5 to $20.0 consistently achieve high quantities sold (around 50) and maximum profit earned ($500). There are exceptions where these prices do not result in maximum profit, but they seem to be the most reliable options.
+
+I also observe that there are several price points with similar quantities sold and profit earned, which could indicate some stability in the market. However, it is essential to note that these observations come from a single data point of 128 rounds and may change in future rounds.
+
+New content for PLANS.txt:
+- Investigate prices around $20.0 to maximize profit while maintaining high quantities sold.
+- Consider exploring price points slightly below or above the observed optimal range ($21.5) to see if there are better options available.
+- Monitor market trends and adjust strategies accordingly.
+
+New content for INSIGHTS.txt:
+- Prices around $19.5 to $20.0 consistently achieve maximum profit earned while maintaining high quantities sold.
+- Avoiding prices above $21.5 may be beneficial due to lower quantities sold at these price points.
+
+My chosen price:
+$19.95

@@ -1,0 +1,16 @@
+My observations and thoughts:
+   It appears that this dataset represents a dynamic pricing game between two competitors. The prices for the same product vary significantly across rounds, reflecting strategies of both increasing and decreasing prices based on their competitor's actions.
+
+   From the data, it seems like both competitors tend to increase prices whenever they perceive an opportunity to do so, but react quickly when faced with a lower price from their competitor. The dataset provides an interesting example of adaptive pricing strategies in competition settings. However, there doesn't appear to be a clear dominant strategy as both prices and quantities sold fluctuate over time.
+
+   New content for PLANS.txt:
+   In order to improve our pricing strategy, we should focus on predicting the competitor's movements and develop dynamic pricing models that allow us to react swiftly to changes in their offerings. Additionally, we could explore using psychological pricing tactics such as anchoring and framing to create an advantageous position for our product in consumers' minds.
+
+   New content for INSIGHTS.txt:
+   - The importance of constant competitor monitoring to stay attuned to price changes
+   - Dynamic pricing is critical for staying competitive as the data shows quick reactions can lead to increased market share and profit
+   - The need for further research on consumer behavior to identify potential psychological pricing strategies that may yield higher sales
+   - Exploring predictive models that account for both competitor actions and consumer response could optimize our pricing strategy to maximize profits in different market conditions.
+
+   My chosen price:
+   30 (Since we aim to create a middle-ground between competitive pricing and high profit margins, I choose 30 as my startingprice)

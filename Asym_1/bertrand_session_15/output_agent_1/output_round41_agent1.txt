@@ -1,0 +1,15 @@
+My observations and thoughts: The current market data shows that there is a significant range of competitor prices from $1.5 (Round 13) to $39.39. It also shows that an optimal price around $16-$18 tends to result in the highest profit, but sales volume can vary significantly (e.g., in Round 27 with a price at $15.99). The data suggests a need for more fine-tuning of the pricing strategy to maximize both profit and sales volume.
+
+   New content for PLANS.txt:
+   1. Refine the pricing strategy by utilizing machine learning models to better predict market demand.
+      - Train these models with current price data, competitor pricing, and historical sales volume data.
+   2. Use a more refined approach when testing new pricing strategies (e.g., pricing ladders) in order to find an optimal long-term pricing strategy.
+   3. Implement dynamic pricing based on competition, market demand, and other relevant factors (weather, holidays, etc.).
+   4. Conduct frequent data analysis to evaluate the effectiveness of various pricing strategies and iterate them accordingly.
+
+   New content for INSIGHTS.txt:
+    - Fine-tuned machine learning models can help identify a more accurate and profitable price range.
+    - Dynamic pricing based on competition, market demand, and other factors could lead to improved profitability.
+    - Frequent data analysis and iterative adjustments of pricing strategies are crucial for continued profit growth.
+
+   My chosen price: 18.0 (keep the price in line with the optimal range found through previous market data)

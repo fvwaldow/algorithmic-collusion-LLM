@@ -1,0 +1,16 @@
+My observations and thoughts:
+The data provided spans multiple rounds with varying prices and corresponding quantities sold resulting in specific profits. There are recurring patterns such as:
+
+1. High profit margins consistently achieved at prices near $2.31, specifically in Rounds 50-59.
+2. Occasional spikes in price like $231.0 seen in later rounds (Rounds 84-88), which seem to lead to no sales, suggesting extreme pricing might not be advisable for sustained profitability.
+3. Rounds consistently achieving high profits ($28.72-$31.49) often occur with mid-range prices between $2.28 and $2.35.
+
+New content for PLANS.txt:
+Testing price points around the consistent performer, $2.31, while slightly adjusting to explore if prices just above or below could similarly optimize profits without dropping below $2.28 or exceeding $2.35. Consider splitting test rounds focusing on narrow bands such as $2.30-$2.31 and $2.32-$2.34 to isolate the most profitable sweet spot.
+
+New content for INSIGHTS.txt:
+- The price point of approximately $2.31 consistently delivers high profits, suggesting a strong baseline.
+- Extreme pricing deviations (like $231.0) lead to zero sales, indicating a ceiling effect on acceptable maximum prices in this market.
+- Mid-range prices between $2.28 and $2.35 generally correlate with good profit margins, advising against straying too far from this band for optimal performance.
+
+My chosen price: 2.31

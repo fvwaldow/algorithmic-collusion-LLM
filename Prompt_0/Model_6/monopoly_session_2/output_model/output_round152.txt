@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+After carefully reviewing the data provided, I notice that the profit is consistently around $152.78 when the price is set at $4.99. This seems like a stable sweet spot for maximum profitability. However, there are instances where higher prices ($5.02-$5.15) result in lower profits or even losses (Round 100). It's essential to consider that these higher prices may not be sustainable long-term due to market conditions and consumer demand.
+
+New content for PLANS.txt:
+
+* Implement a price range of $4.99 +/-$0.01 to test the upper limit of profit stability while maintaining competitiveness.
+* Monitor sales data closely in case there's a need to adjust prices based on seasonal fluctuations or other market changes.
+* Consider conducting market research to understand consumer preferences and identify any potential areas for price optimization.
+
+New content for INSIGHTS.txt:
+
+* The optimal price range ($4.99-$5.02) offers a balance between revenue maximization and profit stability.
+* Higher price points (> $5.05) may not be sustainable in the long term due to lower profits or losses.
+* A more extensive analysis of sales data is required to identify any correlations with external factors (e.g., competition, seasonal patterns).
+
+My chosen price:
+
+4.99

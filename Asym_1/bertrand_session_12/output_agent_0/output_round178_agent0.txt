@@ -1,0 +1,13 @@
+My observations and thoughts:
+   It appears that the data provided lists the prices and quantities of a product sold by two competitors over 100 rounds of a pricing game. The aim seems to be to determine an optimal price strategy based on this data. The numbers suggest that in many instances, the lower-priced competitor has been more successful in terms of quantity sold. Additionally, there are several instances where one or both competitors set prices significantly higher than those of their competitors, with little success in terms of quantitative sales.
+
+   New content for PLANS.txt:
+   To develop a successful pricing strategy, it is important to maintain a competitive price while ensuring profitability. Adapting the price based on the success of our competitor's pricing can lead to increased market share. Keep track of competitors' average prices and our own profits to ensure that the pricing remains balanced.
+
+   New content for INSIGHTS.txt:
+   - Lower prices generally result in higher quantities being sold, demonstrating the importance of a competitive price point.
+   - It is less successful to set significantly higher prices than competitors.
+   - Keeping track of competitor's average pricing can provide valuable insights into market trends and help in adjusting our own pricing strategically.
+
+   My chosen price:
+   8.21 (This number was the most frequently used competitively successful price in the data set.)

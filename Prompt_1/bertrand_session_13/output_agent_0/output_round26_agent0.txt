@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+* The user's price has a positive correlation with the quantity sold when it is relatively lower than the competitor's price ($9.25 in round 11, $9.5 in round 10 produced higher sales volume). A dynamic pricing strategy seems to be effective, but the price should not exceed $14.54, as stated.
+* Quantity discounts for multiple purchases or bundle deals appear to have potential for increasing sales without sacrificing overall profitability (rounds 21, 20, 19).
+* The competitor's price does not seem to be a significant factor impacting the user's profit until it drops below $10.
+
+New content for PLANS.txt:
+- Continue implementing dynamic pricing strategy, testing different ranges (between $8.5 and $14.54) to find optimal price points that maximize profit while maintaining reasonable demand. Adjust range by analyzing market trends, competitor prices, and sales data.
+    - Investigate offering quantity discounts or bundle deals for customers who purchase multiple items based on data from rounds 21, 20, and 19.
+    - Monitor the impact of dynamic pricing strategy combined with quantity discount offers and adjust accordingly to maximize profitability without sacrificing sales volume.
+
+New content for INSIGHTS.txt:
+- A combination of dynamic pricing strategies (adjustments based on market trends, competitor prices, and user preferences) and quantity discounts or bundles can be effective in increasing sales volume and maximizing profits (rounds 21, 20, and 19 showed positive results).
+    - The competitor's price does not seem to significantly impact the user's profit until it drops below $10.
+
+My chosen price:
+9.5 (A middle ground between the lowest proven effective price at $8.5 in round 15 and the highest at $12.0, with slight adjustments made based on the competitor's price and market trends)

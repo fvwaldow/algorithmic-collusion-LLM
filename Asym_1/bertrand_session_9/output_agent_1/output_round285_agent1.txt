@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+* In general, the price of the good seems to have a strong impact on demand. When the price is low, the quantity sold increases significantly (e.g., Round 211 where the price was set at 3.5), but so does the profit earned (e.g., Round 195, where the price was set at 7.5).
+* It seems that the competition also plays a role in determining the optimal price. For example, when the competitor's price is lower, setting a similarly low price can increase demand (e.g., Round 196, where the price was set at 6.25 and the competitor's price was 7.0).
+* Interestingly, there are cases where setting a higher price than the competition can still lead to increased sales. For instance, in Round 188, the price was set at 8.5 while the competitor's price was 7.5, and the quantity sold (26.44) was much larger than any other round where the same competitor strategy was used.
+* It appears that there is some level of customer willingness to pay a premium for this good, as seen in Round 190 where the price set at 8.5 led to a relatively high quantity sold (1.18) and profit earned (6.24).
+
+New content for PLANS.txt:
+
+* Maintain awareness of the competitor's pricing strategy and make informed decisions based on that information.
+* Experiment with price points, including setting a premium at times to identify customer demand levels.
+* Monitor market trends and adjust pricing accordingly.
+
+New content for INSIGHTS.txt:
+
+* Pricing strategy significantly impacts sales volume and profitability.
+* Competitor's pricing strategy should be monitored closely to make informed pricing decisions.
+* There are opportunities to set a premium price if there is a willingness from customers to pay it, as demonstrated in rounds like 188 and 190.
+
+My chosen price:
+6.5 (this number is based on the observation that this price generates a decent volume of sales while still maintaining a reasonable profit)

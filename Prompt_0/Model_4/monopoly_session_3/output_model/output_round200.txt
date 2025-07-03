@@ -1,0 +1,12 @@
+My observations and thoughts:
+In the provided data, it is evident that prices fluctuate between $25$ and $41$, with quantities sold ranging from as low as $0.02$ to as high as $11.92$. Some rounds show negative profit, which suggests that these price points were not optimal. Positive profits indicate successful pricing strategies. Notably, there's a significant drop in profit or even negative results in some rounds despite stable quantities sold.
+
+New content for PLANS.txt:
+Consider implementing a dynamic pricing strategy that adjusts based on real-time demand and competitor prices. This might involve using machine learning to predict optimal prices.
+
+New content for INSIGHTS.txt:
+Insights gathered so far include observing the correlation between price and quantity sold, identifying patterns in which certain price ranges consistently result in profitable sales, and recognizing the impact of fluctuating market conditions on pricing effectiveness.
+
+My chosen price: $34.50
+
+Note that the chosen price aims to balance profitability with competitive positioning, leveraging insights from previous rounds where similar prices delivered successful results.

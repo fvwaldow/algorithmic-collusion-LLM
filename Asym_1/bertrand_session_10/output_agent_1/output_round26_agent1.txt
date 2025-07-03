@@ -1,0 +1,14 @@
+My observations and thoughts: The data suggests that prices around 6.5 have a consistent number of sales units and moderate profitability, especially when the competitor's price is higher. However, we can see significant spikes (e.g., Round 11) with prices below the current production cost but above the customer's maximum limit ($11.82). To optimize profit, a tiered pricing structure with bulk purchase incentives may be beneficial, as noted in the existing PLANS.txt file.
+
+   New content for PLANS.txt:
+   1. Implement a more refined tiered pricing structure with incrementally deeper discounts at higher quantity levels to promote additional savings & encourage bulk purchases
+          --- Utilize historical data to determine optimal price points per quantity tiers, taking profitability and customer response into account
+   2. Regularly re-evaluate the tiered structure to adapt to changes in competition pricing trends and market demand fluctuations
+         --- Continuously analyze how changes in competition impact sales volume at various price points within the tiered structure
+
+   New content for INSIGHTS.txt:
+     - The existing tiered pricing strategy could be improved by narrowing tiers, offering steeper discounts as quantities increase to drive more quantity purchases while maintaining profitability
+           --- Finding a balance between profit & attractiveness to customers within each price tier is critical
+     - Tailoring the tiered structure based on historical market data trends ensures an informed approach when optimizing profit maximization
+
+   My chosen price: 6.5

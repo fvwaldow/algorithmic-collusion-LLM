@@ -1,0 +1,19 @@
+Observations and Thoughts:
+The collected data shows varying price points, quantities sold, and profits earned across different rounds. A few things stand out:
+1. In several rounds, a price of $9.75 resulted in a profit of $9.8, which is the highest profit observed with this particular pricing strategy. It seems to be a stable and consistent option.
+2. Prices above $10 seem to yield higher profits on lower quantities sold, while prices around $10 might result in both higher profits and higher quantities sold. This indicates that setting the price slightly above $10 could potentially maximize both profit and quantity sold.
+3. Prices at or below $9.75 can still result in profitable scenarios, especially when adjusted with quantity sold (e.g., Round 82, where a price of $10 results in a profit of $7.47 on a quantity sold of 1.1). This suggests that pricing strategy could be adjusted slightly above cost to achieve desired profitability without a significant decrease in quantity sold.
+
+New content for PLANS.txt:
+In order to maximize profits while maintaining quantity sold, I would recommend the following strategy:
+- Continue using $9.75 as the base price for most rounds due to its consistent profitability.
+- Experiment with rounding up prices to $10 in some rounds to potentially increase average profit without significantly affecting quantity sold. For example, in Round 82, a price of $10 managed to maintain high revenue (7.47) despite having a lower quantity sold (1.1).
+- Monitor the market trends closely and adjust pricing strategy accordingly, keeping an eye on both profit margins and sales quantities. This dynamic approach can help identify potential opportunities for profit improvement or maintain stability in changing market conditions.
+
+New content for INSIGHTS.txt:
+From the analyzed data, the following insights have been derived:
+- A price range between $9.75 and $10 seems to achieve optimal results, balancing quantity sold and profit margin.
+- Pricing strategy should be flexible and adaptable, considering market trends and sales numbers in different rounds for potential improvements or maintaining stability.
+- Constant monitoring of the pricing strategy is crucial as it allows us to identify potential opportunities for increasing profits or maintaining our current returns despite changing conditions.
+
+My chosen price: Based on the provided data, my chosen price would be $9.75 due to its consistent profitability while still achieving a relatively high quantity sold. However, I'd also consider testing $10 as an alternative to see if it could yield higher profits without impacting sales significantly. It may be that slight variations in the prices around the $9.75-$10 range would provide even better results depending on market trends and consumer behavior patterns.

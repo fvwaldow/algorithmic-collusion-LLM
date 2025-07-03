@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+The data provided shows a significant relationship between price and quantity sold. For prices above $20, the quantity sold decreases significantly as the price increases. There is an anomaly in Round 88 where a slightly lower price ($20.99) results in higher demand compared to Round 89. This could be due to various factors such as customer perception of value or other market influences.
+
+The INSIGHTS.txt file already notes that prices above $24 do not correlate with increased profits. Similarly, prices around $25 and $28 have resulted in very low quantities sold. The optimal price point appears to be around $20, which has consistently resulted in a profit of $500.
+
+New content for PLANS.txt:
+
+1. Investigate the reasons behind decreased customer response to increased prices past $21, particularly in Rounds 45-63 where the demand drops significantly.
+2. Test a pricing strategy of around $20 or $20.75 on new data collected from future days as it could offer optimal results considering the current market behavior.
+3. Further investigate the anomaly in Round 88 and explore ways to consistently achieve higher demand with lower prices.
+
+New content for INSIGHTS.txt:
+
+The relationship between price and quantity sold is significant, and careful consideration should be given to this factor when determining future pricing strategies. The consistency of a $500 profit at a price point around $20 suggests that this could be an optimal target.
+
+My chosen price:
+20

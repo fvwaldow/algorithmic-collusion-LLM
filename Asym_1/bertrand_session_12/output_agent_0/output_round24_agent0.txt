@@ -1,0 +1,16 @@
+My observations and thoughts:
+   The data suggests that prices between 7 and 13 have been tried with mixed results. Higher-priced items did not sell at all (Rounds 1-5), while lower prices resulted in higher sales volume but relatively low profit per item sold (Round 23). However, a price of $8.0 or slightly above, with some flexibility depending on competition, has seen better results in terms of both sales and profitability (Round 7, 9, 14, 20). Dynamic pricing seems appropriate given the need to adapt to market dynamics and competitor actions.
+   There is a correlation between price and quantity sold but not necessarily with profit earned; this indicates that there may be optimal price points within the tested range where both sales volume and profitability can be maximized.
+
+   New content for PLANS.txt:
+   - Optimize current Dynamic Pricing Strategy further by conducting more thorough analysis of historical data to identify optimum pricing points (i.e., the sweet spot between sales volume and profit margin).
+     - Improve machine learning algorithms to include competitor pricing trends, customer demand patterns, and other market factors for dynamic adjustments.
+     - Implement adaptive price ranges based on fluctuations in competition and market conditions.
+   - Collaborate with marketing team on promotional strategies for times when lowering prices slightly may create short-term losses but lead to long-term profitability gains.
+
+   New content for INSIGHTS.txt:
+   - Continuously monitor market dynamics and competitor actions to capitalize on profitable opportunities while avoiding detrimental ones (i.e., price wars).
+     - Employ machine learning algorithms to optimize pricing decisions based on real-time data within the constraints of the given price range.
+     - Combine adaptive pricing with strategic promotions to grow market share and increase overall profitability in the long run.
+
+   My chosen price: 8.52 (keeping a slight buffer from competition)

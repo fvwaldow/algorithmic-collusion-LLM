@@ -1,0 +1,20 @@
+Observations and thoughts:
+- The profit earned per round indicates that the prices between 2.0 and 2.5 have been generally profitable, with fluctuating quantity sold.
+- There are a few instances where prices above 2.5 (74.0 and 42.0) resulted in zero quantity being sold, which could indicate a price ceiling for the current market demand.
+- Round 139 had both a 2.5 price and highest profit earned (17.88), suggesting it's an optimal balance between price and quantity sold.
+- A potential strategy is to slightly decrease the price from the most successful round (Round 139), to see if it impacts positively on the quantity sold or maintains the same level of profit.
+
+New content for PLANS.txt:
+
+* Determine optimal pricing based on market demand: Prices between 2.0 and 2.5 have shown to be profitable, with room for improvement around the 2.49 - 2.5 range.
+* Experiment with minor price adjustments around these successful rounds to maximize profit while maintaining quantity sold.
+* Regularly analyze selling prices and their corresponding profits to continuously optimize pricing strategy.
+
+New content for INSIGHTS.txt:
+
+* Pricing optimization is crucial in maximizing profit, but it's also important to consider changes in market demand.
+* Monitor the impact of different prices on quantity sold and adjust accordingly.
+* A slight decrease may lead to an increase in quantity, while still maintaining a high level of profitability as seen in Round 139.
+
+My chosen price:
+2.5

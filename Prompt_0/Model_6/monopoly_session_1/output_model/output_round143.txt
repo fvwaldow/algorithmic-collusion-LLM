@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+After reviewing the data, I noticed that the optimal price range is between $2.90 and $3.03, as it seems to yield the highest profit margin ($5.05 in Round 89). However, there are a few anomalies where prices above this range still result in relatively high profits (e.g., Rounds 56, 57, and 58). Additionally, I observed that prices below $2.90 tend to decrease the profit margin.
+
+New content for PLANS.txt:
+
+* Investigate the anomaly of high profits at prices above $3.03 (Rounds 56-58) to confirm whether this is a sustainable trend or an outlier.
+* Analyze the impact of price changes on profit margins in more detail, considering factors such as quantity sold and overall revenue.
+
+New content for INSIGHTS.txt:
+
+* Priced between $2.90 and $3.03 appears to yield optimal results, with profits ranging from $4.12 (Rounds 64-66) to $5.05 (Round 89).
+* Deviations above or below the optimal price range tend to decrease profit margins.
+
+My chosen price:
+
+$2.98

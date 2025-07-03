@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+Based on the data provided, it is clear that there have been significant fluctuations in both price and quantity sold over the 123 rounds. However, a key observation is that above $2.97, sales seem to decrease dramatically (e.g., Rounds 122-125), suggesting a strong demand for the product below this threshold. Moreover, prices around $2.90-$2.93 lead to relatively high quantities sold.
+
+Another point of consideration is that despite these fluctuations in quantity sold based on price, profit earned seems somewhat consistent at higher price points above $2.90 (e.g., Rounds 78, 79, and the more stable periods). This suggests certain pricing strategies may yield better average profits per sale than others.
+
+New content for PLANS.txt:
+
+- **Identify Optimal Pricing Threshold**: From observations, there is a significant drop-off in sales when prices exceed $2.97. We should plan to test if lowering the price around this threshold can enhance both quantity sold and profitability.
+  
+- **Maximize Profit with Price Elasticity Consideration**: Given that even at higher profits (above $2.90), profit earned per unit is relatively constant, we might benefit from pricing strategies in these zones while balancing demand considerations.
+
+New content for INSIGHTS.txt:
+
+- **Price Sensitivity Threshold Identified**: A clear price sensitivity threshold of $2.97 to $3 per unit was observed, after which sales dramatically decrease.
+  
+- **Key Pricing Zones for Max Profit (Average)**: Price ranges around $2.90-$2.93 show relatively high sales quantities and potentially higher profits.
+
+My chosen price:
+
+Given these insights and focusing on maximizing profit while balancing demand considerations, my recommended initial price round of $2.92 to test if optimal pricing can be achieved at the identified threshold, considering both quantity sold and profit earned.

@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+After carefully reviewing the provided data, it is clear that there is a consistent pattern of high profit earned at lower prices (e.g., $2.90-$3.00) and decreasing profit earned as the price increases above $3.05. The exception to this pattern occurs when the price reaches approximately $3.07, where a significant decrease in both quantity sold and profit earned is observed.
+
+It is crucial to identify potential factors influencing this trend, such as market demand, competition, or external market conditions. Another consideration is that there might be some sort of non-linear relationship between price and profitability at play here.
+
+New content for PLANS.txt:
+
+* Explore ways to analyze pricing data for other relevant products within the same category
+* Investigate whether a minimum viable price exists for our product to ensure profitability at higher sales volumes
+* Consider testing a narrow range of prices around $2.95 to evaluate the price elasticity of demand and the corresponding effect on revenue
+
+New content for INSIGHTS.txt:
+
+* Price appears to have an inverse relationship with profit, up to a point (around $3.07)
+* High profit earned achieved at lower prices ($2.90-$3.00), but above this range the trend reverses and revenue decreases
+* The existence of a potentially optimal price point where quantity sold increases as price decreases would be beneficial to investigate further
+
+My chosen price:
+
+$2.92

@@ -1,0 +1,533 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $13.02
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+Maintain current pricing strategy of $10.00 per unit. Monitor sales volume closely to ensure consistent profitability.  Consider running a promotional campaign if sales volume drops significantly.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+Consistent profit margin at $10.00 is a key indicator.  Analyzing sales volume fluctuations could reveal trends and opportunities for targeted marketing.  The two instances of lower pricing ($7.47) and higher sales volume should be investigated to understand the impact on profitability.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 293:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 292:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 291:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 290:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 289:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 288:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 287:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 286:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 285:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 284:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 283:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 282:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 281:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 280:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 279:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 278:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 277:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 276:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 275:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 274:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 273:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 272:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 271:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 270:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 269:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 268:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 267:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 266:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 265:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 264:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 263:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 262:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 261:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 260:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 259:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 258:
+            - My price: 7.47
+            - My quantity sold: 20.79
+            - My profit earned: 88.78
+
+Round 257:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 256:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 255:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 254:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 253:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 252:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 251:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 250:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 249:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 248:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 247:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 246:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 245:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 244:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 243:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 242:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 241:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 240:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 239:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 238:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 237:
+            - My price: 7.47
+            - My quantity sold: 20.79
+            - My profit earned: 88.78
+
+Round 236:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 235:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 234:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 233:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 232:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 231:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 230:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 229:
+            - My price: 7.47
+            - My quantity sold: 20.79
+            - My profit earned: 88.78
+
+Round 228:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 227:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 226:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 225:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 224:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 223:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 222:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 221:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 220:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 219:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 218:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 217:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 216:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 215:
+            - My price: 9.99
+            - My quantity sold: 1.11
+            - My profit earned: 7.55
+
+Round 214:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 213:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 212:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 211:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 210:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 209:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 208:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 207:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 206:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 205:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 204:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 203:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 202:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 201:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 200:
+            - My price: 7.47
+            - My quantity sold: 20.79
+            - My profit earned: 88.78
+
+Round 199:
+            - My price: 7.47
+            - My quantity sold: 20.79
+            - My profit earned: 88.78
+
+Round 198:
+            - My price: 7.47
+            - My quantity sold: 20.79
+            - My profit earned: 88.78
+
+Round 197:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 196:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
+
+Round 195:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

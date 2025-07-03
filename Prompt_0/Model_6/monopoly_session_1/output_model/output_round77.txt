@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+* The relationship between price and profit is inversely related, with profits increasing as prices decrease until a certain point ($2.95), after which further decreases in price no longer yield higher profits. This indicates that there is an upper limit to the profitability of this product beyond which increasing quantity sold does not compensate for decreased unit price.
+* Prices above $2.95 lead to decreased sales quantity and consequently lower profits, as supported by market data from rounds 75-77 where prices of $2.99, $2.98, and $2.96 yield $3.72, $3.85, and $4.12 in profit respectively versus the $4.27 achieved at price $2.95.
+* There is some fluctuation in quantities sold between rounds for different prices below this optimal, with quantity ranging from 1.83 (Round 57) to 2.66 (Rounds 7 & 12). This could be related to seasonal fluctuations or other factors not specified.
+
+New content for PLANS.txt:
+
+1. Analyze the impact of the observed upper limit on profits ($4.27) as a function of price - test whether this upper limit can be reached at any other prices below $2.95.
+2. Further investigate prices just above and below $2.95 to confirm that this is, indeed, an optimal point - given the data available we haven't been able to consistently observe it.
+
+New content for INSIGHTS.txt:
+
+* Observations suggest there's a trade-off between price and quantity sold which impacts total profit earned - below a certain upper limit prices above $2.95 tend not to achieve these higher profits.
+* We can also see evidence of seasonal variations given fluctuations in the markets; however, we haven't analyzed or incorporated this into our pricing plan yet.
+
+My chosen price:
+
+$2.945

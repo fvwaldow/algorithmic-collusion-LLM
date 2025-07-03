@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+* The data suggests that there is a strong negative correlation between price and quantity sold. As the price increases, the quantity sold decreases significantly. This indicates that customers are sensitive to price changes and may opt for lower priced options even if it means sacrificing some features or quality.
+* There appears to be a sweet spot around $19-$20, where the profit earned is consistently high ($504-$510 per unit). This could be an optimal price point to aim for.
+* Prices above $25 lead to significantly reduced sales, with extremely low quantities sold at prices of $30 and above.
+* The data suggests that there are multiple local optima in the pricing landscape. For example, $19.5, $20.0, and $20.25 all lead to high profit earnings, but each one is a separate peak.
+
+New content for PLANS.txt:
+
+* Investigate the possibility of introducing price tiering or promotions to incentivize customers to purchase at higher price points.
+* Analyze the sensitivity of sales to price changes in more detail, using data from nearby pricing rounds to estimate potential effects of small price adjustments.
+* Consider targeting a narrower audience with a high-end product offering (e.g. $25-$30) to maximize profit per unit.
+
+New content for INSIGHTS.txt:
+
+* High prices lead to low quantities sold due to customer sensitivity to price changes.
+* There are multiple local optima in the pricing landscape, indicating that small adjustments to price may be beneficial but could also disrupt optimal performance.
+* Data suggests that a sweet spot exists around $19-$20, where high profit earnings can be achieved with moderate-to-high quantities sold.
+
+My chosen price:
+
+19.5

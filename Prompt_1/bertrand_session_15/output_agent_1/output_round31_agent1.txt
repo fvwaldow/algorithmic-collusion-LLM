@@ -1,0 +1,15 @@
+My observations and thoughts: From the market data we have, it appears that competition is a significant factor affecting sales volume. The range of prices at which the product can be sold ($24.88) does not seem to impact the quantity sold as much as the competitor's price—lowering the price causes an increase in sales when the competitor's price is higher, but it does not always guarantee high sales volume and may even result in lowers sales if the difference between our prices becomes too small.
+   In addition to this, we notice that the highest profit earned does not necessarily correspond with the highest quantity sold ($220.69 in Round 18 compared to $213.65 in Round 27 when the profit was higher but the sales volume was lower). This suggests a delicate balance needs to be struck between maximizing profit per unit and ensuring we are meeting sufficient demand, as increasing profits at the expense of quantity sold can ultimately diminish overall earnings.
+
+   New content for PLANS.txt:
+   1. Test pricing strategies that dynamically respond to competitor actions by adjusting our price in a way that attempts to meet or slightly undercut the competitor when they raise their price, and raising our price slightly when they lower theirs. This strategy should focus on minimizing price differences while maximizing profit per unit.
+     2. Collaborate with data scientists to better understand price elasticity by analyzing how customer demand changes at different price points to inform pricing decisions and help find the ideal sales volume-profit balance.
+    3. Continue to monitor and respond quickly to competitor moves using real-time market research capabilities developed in a previous round.
+    4. Implement the feedback system as previously planned, although with an emphasis on collecting feedback on customer sensitivity to price changes, particularly in relation to their overall satisfaction with the product and likelihood of future purchases at different prices.
+
+   New content for INSIGHTS.txt:
+   1. Competitor actions have a significant impact on sales volume, so pricing strategies must account for competitor moves.
+          2. Profit per unit is not necessarily correlated with overall earnings—sales volume can greatly influence total profit.
+          3. Developing a responsive and balanced pricing strategy will be key to maximizing both profit and sales volume in the long run.
+
+   My chosen price: 25.1 (This price point aligns with previous profitable rounds, but with a slight adjustment based on a competitive response strategy.)

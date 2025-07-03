@@ -1,0 +1,19 @@
+My observations and thoughts:
+Based on the market data provided, I notice that there is a fluctuation in quantity sold across different rounds. This suggests that customers may be sensitive to price changes, which could be impacting profit margins. The fact that profit earned remains relatively stable across different prices (e.g., $500.00 in Round 3 and $500.00 in Round 5) further supports this notion.
+
+Regarding the incremental price increases mentioned in INSIGHTS.txt, this phenomenon is observed specifically with the price of $24.75 in Round 2. Here, we see a relatively small quantity sold despite a higher price, resulting only in a modest profit increase from $538.82 to $191.91.
+
+We should investigate whether increasing the price has proportionally less effect on the quantity sold (price elasticity) as well as analyze the impact of focusing on customer perceived value instead of production costs for future pricing decisions.
+
+New content for PLANS.txt:
+* Investigate price elasticity and its impact on profit margins
+	+ Determine whether increasing price causes proportionally less quantity sold 
+	+ Determine if profit increases regardless of decrease in sales due to high revenue
+* Implement a more nuanced approach by considering customer perceived value when setting the price
+	+ Review product features, target audience, and competitors' pricing strategies to identify opportunities for differentiation
+
+New content for INSIGHTS.txt:
+Incremental price increases have a complex effect on profit margins. While we can't draw clear conclusions from the MARKET DATA, there are indications of non-linear changes in quantity sold as prices increase.
+
+My chosen price: 
+28

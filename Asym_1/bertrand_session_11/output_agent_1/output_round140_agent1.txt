@@ -1,0 +1,14 @@
+My observations and thoughts:
+    The data provided represents a continuous pricing strategy for a product over 123 rounds. It appears that the main competitor's price varies significantly, ranging from as low as 3.45 to as high as 12.0. Our price also fluctuates throughout, but it generally stays close to the competition until round 50, where a moderate increase occurs and is maintained for some time. There are no consistent patterns in either the competitor's or our own pricing strategy.
+
+    There seem to be periods when we can significantly outprice the competitor (rounds 40-60) and receive a higher volume of sales, but at other times, such as rounds 30-40 and 70-90, our price is higher despite lower sales. Additionally, it appears that high prices do not always guarantee high profits; an example can be seen in round 53 where the competitor has a very high price, yet we still make more profit.
+
+New content for PLANS.txt:
+   Investigate the relationship between price, volume of sales, and profit to determine optimal pricing strategy. Experiment with adjusting our price based on changes in competitor's price and volume of sales.
+
+New content for INSIGHTS.txt:
+   - Price is not always directly correlated with both volume of sales and profits; there are instances when a lower price can result in higher total profits (e.g., rounds 40-60).
+   - It may be advantageous to adjust our pricing strategy based on the competitor's price and the volume of sales generated to maximize profits.
+   - Further research should focus on understanding the factors driving these variations in both the competitor's pricing and the profitability of different prices for our product.
+
+My chosen price: <10> (I chose the number 10 as it represents an average between the prices offered by our company and the competitor, with a slight leaning towards the higher end to encourage sales during times when the competitor raises their price.)

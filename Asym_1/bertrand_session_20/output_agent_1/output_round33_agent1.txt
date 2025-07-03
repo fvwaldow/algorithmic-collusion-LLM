@@ -1,0 +1,13 @@
+My observations and thoughts: Analyzing the market data, it is clear there's a significant impact of competitor's prices on my own quantities sold, but the relationship between my price and profit fluctuates. A possible reasoning for this would be the inverse effect - pricing too low to compete with competitors might lead to fewer sales, thus lowering profits due to production costs. However, setting the price too high may also result in fewer sales as customers' upper price limit is $55.08 and no customer was willing to purchase at prices above $35 in any round. Additionally, it seems that increasing the price by more than $1 doesn't yield substantial differences in quantities sold or profit margin
+
+   New content for PLANS.txt:
+    1. Develop a pricing strategy that finds the price range where a sufficient number of quantities are sold while maximizing profits, taking into account competitor’s prices and market fluctuations.
+       2. Use machine learning algorithms to model the relationship between price, quantity sold, and profit over time to improve pricing accuracy and optimize long-term profitability based on historical data.
+        3. Integrate a reactive pricing strategy to adjust the price dynamically in response to changes in competitor's prices or quantities demanded without compromising profitability.
+
+   New content for INSIGHTS.txt:
+    1. A dynamic pricing approach, considering market competition and history, appears crucial to maximize short-term gains while ensuring long-term profitability by adapting to the market nimbly.
+       2. It is essential to set a price within an optimal range where a satisfying quantity of products are sold without depleting the budget due to excessive production costs or sacrificing profits.
+        3. Regular analysis and monitoring of the existing pricing strategies' effectiveness based on market data should be conducted to optimize future strategies.
+
+   My chosen price: 15.00

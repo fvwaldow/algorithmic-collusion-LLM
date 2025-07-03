@@ -1,0 +1,19 @@
+My observations and thoughts: It appears that this dataset represents different pricing strategies for a product, showing the number of items sold, the total profit earned, and competitor prices for each round. The dataset spans from Round 100 to Round 113 (or Round 114, depending on how you count it).
+
+   I have noticed that there are two distinct patterns in the pricing strategies:
+   1. During most rounds, the product is priced competitively close to the average market price (around 2.15 dollars), with modest profit margins and varying number of items sold. There's a clear focus on maintaining market presence while keeping the price attractive for customers.
+   2. Occasionally, the price drastically drops or increases significantly. These price changes are usually followed by smaller quantities being sold or no sales at all. However, as shown in Rounds 102 and 113, these extreme changes can sometimes lead to unusual profits.
+
+   As for future plans, it seems crucial to maintain the competitive pricing approach most of the time, while considering occasional price drops to catch the attention of potential customers in a saturated market. Incorporating insights from Rounds 102 and 113 might help increase our profits when the circumstances are right.
+
+   New content for PLANS.txt:
+   - Maintain competitive pricing most of the time (around 2.15 dollars) to remain attractive and maintain market presence.
+   - Occasionally drop price drastically to catch attention and possibly increase sales.
+   - Monitor profit margins closely while considering unusual price changes that could potentially lead to larger profits.
+
+   New content for INSIGHTS.txt:
+   - Occasional significant price drops can sometimes lead to larger profits, as seen in Rounds 102 and 113 (but be aware of the risk of no sales at all).
+   - The competitive market requires striking a balance between profitability and maintaining appeal for customers.
+   - It's essential to remain flexible and adapt pricing based on changing market conditions and competitor strategies.
+
+   My chosen price: 2.15 (Since this figure appears to be the average market price, it would be reasonable to start with this as our base price and experiment from there.)

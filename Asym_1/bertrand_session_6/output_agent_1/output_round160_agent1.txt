@@ -1,0 +1,11 @@
+My observations and thoughts:
+   The data provided represents the sales quantity and profit earned for a product at different selling prices against the competitor's price. It appears that there is no clear optimal pricing strategy, as the profit earned varies significantly throughout the price range. However, there seems to be an increasing trend in profit as the price increases up until a certain point where it starts to decrease or level off. The fluctuations in sales quantity suggest a sensitive market, with higher prices leading to fewer sales but larger profits and vice versa.
+
+   New content for PLANS.txt:
+   In light of the sales data, it seems crucial to strike a balance between price and profit maximization. As we have observed that increasing prices can lead to higher profits up until a certain point, it is recommended to set the price slightly above the median price ($4.0) where the highest profit was consistently achieved in the given data range. This will help capitalize on the profitable trend while considering the competitive market.
+
+   New content for INSIGHTS.txt:
+   Our findings reveal that a pricing strategy based solely on maximizing sales quantity might not be ideal, as higher profits can be gained by slightly increasing the price from the median point. Additionally, it suggests a delicate balance between sales and profit when setting prices in this competitive market. Future analysis should explore other potential factors such as quality, reputation, or customer behavior that could influence this pricing dynamics.
+
+   My chosen price:
+   4.05

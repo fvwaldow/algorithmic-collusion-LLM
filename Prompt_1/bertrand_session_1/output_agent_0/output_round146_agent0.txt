@@ -1,0 +1,13 @@
+My observations and thoughts:
+   The data provided shows a competitive pricing strategy being used by the competitors, with price fluctuations occurring frequently. There is a clear trend where the product's price decreases when the competitor raises their price and vice versa. However, there are instances where a competitor lowers their price significantly, which then causes an increase in sales for that competitor (e.g., rounds 73, 62, and 49).
+
+   Additionally, we see periods of time when the product's price is higher than competitors' prices (e.g., round 76, 53, 30) resulting in zero sales for that round. This suggests that there may be a sweet spot where prices are low enough to attract customers while also providing reasonable profits.
+
+   New content for PLANS.txt:
+   Implement monitoring system to keep track of competitor's price adjustments and adjust our pricing accordingly, aiming to find the optimal price range based on competitor fluctuations as well as sales volume.
+
+   New content for INSIGHTS.txt:
+   Price sensitivity exists in the market with customers more likely to purchase when the product is priced closer to or below the competitor's prices, but beware of price wars which can lead to lower overall profits (e.g., rounds 73, 62, and 49). It's also important to find a balance between pricing high enough for profitability but not so high as to deter potential customers (e.g., round 76, 53, and 30).
+
+   My chosen price:
+   2.15 (the average of the competitor prices in most rounds)

@@ -1,0 +1,20 @@
+My observations and thoughts:
+    - Based on the provided market data, it is apparent that the price points $12.00, $13.00 and $14.00 have been tested in previous rounds. However, a price point of $15.0 was also tried during Round 1 which had the highest profit earned but might have had an adverse effect on quantity sold due to its high price. Given that no customer would pay more than $34.18, it seems that prices higher than $12.65 tested in round 24 are not feasible. The most profitable price points appear to range between $11.5 and $13.0, with the exception of $15 in Round 1. It would be worth examining the pricing tiers closer to the actual cost production ($1) and maximum acceptable price of the customer ($34.18).
+
+    - Competitor pricing plays a significant role in influencing our own price point. When our price was higher, we saw a decrease in quantity sold but an increase in profit earned as the competitor's prices were lower. Conversely, when our price was lower, though the quantity sold increased substantially, the profit earned suffered due to having a smaller margin between production cost and selling price.
+
+    - It is imperative that we maintain a balance between profit optimization and Brand Perception, as adjusting prices too close to competitor levels may harm brand value while still keeping a profitable price point.
+
+ New content for PLANS.txt:
+   1. Implement pricing strategies using narrower pricing tiers with precise increment sizes closer to 1 cent to identify the optimal price point within the profitable range, considering both quantity sold and profit earned.
+     2. Continuously track and adapt pricing in accordance with competitor reactions to our new pricing tiers, focusing on finding a balance between brand perception, profit optimization, and remaining competitive.
+     3. Conduct customer segment-specific price sensitivity analysis using machine learning techniques for tailored pricing strategies that maximize profit potential while ensuring a strong overall market position.
+     4. Assess the impact of different seasonal trends on pricing by analyzing past sales data and adjusting accordingly, while remaining mindful of competitors' moves during these trends.
+
+ New content for INSIGHTS.txt:
+   1. Pricing strategies with narrower tier sizes may offer better optimization within profit range.
+     2. Maintaining a balance between profit optimization and brand perception is essential when adjusting prices in response to competitor actions.
+     3. Utilization of machine learning techniques for understanding customer behavior across different segments can aid in crafting targeted pricing strategies that maximize profit potential.
+     4. Seasonal trends may present unique opportunities for profit optimization; however, their impact must be assessed with an awareness of competitor moves during these periods.
+
+ My chosen price: 12.30

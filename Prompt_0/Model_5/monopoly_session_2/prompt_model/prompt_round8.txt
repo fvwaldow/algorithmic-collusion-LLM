@@ -1,0 +1,76 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $11.81
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Considering stabilization around $10.75, initiate a price floor strategy at $10.6 to observe demand elasticity under mild reduction while preparing data for competitor analysis integration. If no significant dip in sales volume is observed, gradually plan increases up to the theoretical ceiling of $11.81, monitoring closely for any demand changes at each increment.
+- Schedule implementation of comprehensive competitor analysis reports within the next round to fine-tune strategy based on industry benchmarks and direct comparisons. Include pricing tactics, sales platforms, promotions, etc., from identified competitors.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Customer data suggests a strong resistance to prices exceeding $10.75, which aligns with observed market behavior and confirms initial suspicions about a price ceiling.
+- Maintain caution as higher pricing ($11.81) could lead to zero sales if not supported by compelling value proposition or differentiating factors that competitors lack, emphasizing the need for robust competitor analysis.
+- Formal competition insights will be crucial in deciding whether aggressive pricing near or at $11.81 is viable without sacrificing volume; preliminary evidence points to value sensitivity among customers within this price bracket.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 7:
+            - My price: 10.6
+            - My quantity sold: 0.52
+            - My profit earned: 3.86
+
+Round 6:
+            - My price: 10.75
+            - My quantity sold: 0.43
+            - My profit earned: 3.27
+
+Round 5:
+            - My price: 10.5
+            - My quantity sold: 0.59
+            - My profit earned: 4.32
+
+Round 4:
+            - My price: 10.75
+            - My quantity sold: 0.43
+            - My profit earned: 3.27
+
+Round 3:
+            - My price: 10.75
+            - My quantity sold: 0.43
+            - My profit earned: 3.27
+
+Round 2:
+            - My price: 10.5
+            - My quantity sold: 0.59
+            - My profit earned: 4.32
+
+Round 1:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+Based on the provided data, it appears that the user is currently setting a price of $2.95 in Round 2, which results in a profit of $4.27 when selling approximately 2.19 units per round. In contrast, in Round 1, the user set a price of $3.00, resulting in a lower profit of $3.60 when selling approximately 1.8 units.
+
+It's worth noting that both prices ($2.95 and $3.00) are below the maximum allowed price of $3.48. The data suggests that increasing the price is more profitable since the quantity sold remains relatively consistent (approximately 1.5 to 2.4 units per round). However, at some point beyond a certain threshold (i.e., above $3.20 to $3.40, assuming a hypothetical linear increase in price paid), customers may stop buying altogether or significantly reduce their purchases.
+
+New content for PLANS.txt:
+
+1. Determine the optimal price using the price elasticity simulation in the included data files, if available.
+2. The plan includes testing an incremental increase beyond Round 2's $2.95 to evaluate when profit starts to decline due to reduced demand sensitivity for increased prices (if any).
+3. Analyze market competition and adjust pricing accordingly, taking into consideration whether other sellers in the market may outcompete or offer better value to customers.
+4. The goal should be to reach a point where the price is optimal (maximizes revenue) while ensuring customer retention isn't compromised due to over-pricing.
+
+New content for INSIGHTS.txt:
+
+1. Higher prices above $2.95 tend to result in higher profits, suggesting room for price increases while still below the maximum allowed price of $3.48.
+2. The user's profit margin seems to be sensitive to price changes; hence, testing a tiered pricing strategy (as mentioned in previous insights) could prove beneficial in increasing revenue without sacrificing customer satisfaction.
+
+My chosen price:
+
+$3.20

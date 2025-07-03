@@ -1,0 +1,14 @@
+My observations and thoughts:
+The data shows that I initially attracted more customers at a lower price ($32.5, Round 1 and Round 3), generating higher profits despite selling fewer units. As prices increased, the quantity sold decreased significantly, impacting profit margin. This suggests a price elasticity where demand is highly sensitive to price changes. Implementing a dynamic pricing strategy informed by historical data and market trends could help us find an optimal balance between price and quantity sold to maximize profit while considering the upper limit of $42.58.
+
+New content for PLANS.txt:
+```
+Continue exploring dynamic pricing strategies using machine learning models to analyze real-time sales data and predict optimal prices based on market trends and competitor actions. Focus on integrating customer feedback and sentiment analysis into our decisions to ensure prices maintain perceived value while maximizing profit margins.
+```
+
+New content for INSIGHTS.txt:
+```
+From the data, it's clear that there is a significant price sensitivity in our market. Lowering the price slightly from the current levels could attract more customers without drastically reducing margins, increasing overall profit. Additionally, maintaining a mix of promotional and regular pricing can help us stay competitive without losing market share significantly. The upper limit of $42.58 acts as a ceiling; any strategy should consider nudging prices just below this threshold to explore higher volumes with acceptable profits.
+```
+
+My chosen price: 33.0

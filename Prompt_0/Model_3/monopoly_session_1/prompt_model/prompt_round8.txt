@@ -1,0 +1,84 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $3.99
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+a. Continue testing various price points between $2.50 to $3.99, taking into account market conditions and customer preferences in order to maximize profits.
+b. Implement dynamic pricing strategies based on real-time data analysis of inventory levels, seasonal demand, and time-sensitive promotions within the given range of prices.
+c. Launch targeted marketing campaigns focusing on customer segments that have shown a willingness to pay the higher end of the price range, thus increasing profit margins.
+d. Employ psychological pricing strategies like "odd" prices (e.g., $2.69 instead of $2.70) or group discounts (Buy 10 get 1 free) to influence customer perception and encourage purchases at higher price points.
+e. Monitor competitor strategies regularly and adjust pricing tactics accordingly to stay competitive within the market.
+
+3.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+a. Profit optimization can be achieved by finding a balance between sales volume and price within the range of $2.50 to $3.99, considering the cost per unit as $1.
+b. Effective pricing strategies require understanding customer preferences, market conditions, inventory levels, and competitor tactics for optimal performance.
+c. Real-time data analysis of market trends, sales volume, and profit margins should guide decision-making to maximize profitability within the price range of $2.50 to $3.99.
+d. A combination of psychological pricing strategies, targeted marketing campaigns, and continuous competitor analysis can lead to better performance outcomes in the long run.
+
+4.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 7:
+            - My price: 2.69
+            - My quantity sold: 5.95
+            - My profit earned: 10.06
+
+Round 6:
+            - My price: 2.75
+            - My quantity sold: 4.74
+            - My profit earned: 8.3
+
+Round 5:
+            - My price: 2.5
+            - My quantity sold: 11.92
+            - My profit earned: 17.88
+
+Round 4:
+            - My price: 1.0
+            - My quantity sold: 98.2
+            - My profit earned: 0.0
+
+Round 3:
+            - My price: 3.29
+            - My quantity sold: 0.57
+            - My profit earned: 1.31
+
+Round 2:
+            - My price: 1.0
+            - My quantity sold: 98.2
+            - My profit earned: 0.0
+
+Round 1:
+            - My price: 2.5
+            - My quantity sold: 11.92
+            - My profit earned: 17.88
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

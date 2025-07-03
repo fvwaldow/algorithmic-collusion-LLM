@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+* The profit earned has a strong positive correlation with the quantity sold, indicating that increasing sales can lead to higher profits.
+* There is a noticeable decrease in profit earned when the price is set at 36.0 (Round 122), suggesting that extremely high prices may not be feasible or profitable.
+* A similar trend is observed in Round 89 and 78, where the highest quantity sold is accompanied by the third-highest profit earned, indicating an optimal balance between price and sales.
+
+New content for PLANS.txt:
+
+1. Continue to monitor and adjust pricing based on previous rounds' results.
+2. Investigate further into why extremely high prices (e.g., Round 122) lead to zero profits but high prices still result in some quantity sold.
+3. Seek a sweet spot between price and quantity to maximize profits.
+
+New content for INSIGHTS.txt:
+
+* Extreme price increases can lead to zero sales, resulting in minimal or no profits.
+* There is an ongoing trend of an optimal balance between price and sales that maximizes profit earned.
+
+My chosen price:
+2.97

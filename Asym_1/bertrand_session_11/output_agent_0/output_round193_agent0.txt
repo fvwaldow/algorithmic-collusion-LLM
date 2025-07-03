@@ -1,0 +1,11 @@
+My observations and thoughts:
+It appears that we have several price points being tested against each other in this dataset. The prices seem to be influenced by market trends and the competitor's pricing strategy. There are instances where the product is priced higher yet has a low quantity sold while other times, the product is priced lower but sold more units. However, there also seems to be some floor and ceiling effects in terms of price - for example, prices below 5 or above 10 do not appear frequently. Furthermore, it looks like there could have been some periods where the competitor did not sell the product at all, which may have impacted our pricing strategy during those rounds.
+
+   New content for PLANS.txt:
+In future pricing rounds, we should take into account both our target market and the competitor's response to price changes. We should strive to maintain a competitive yet profitable pricing strategy, with adjustments based on market trends and demand. Additionally, it would be beneficial to keep track of price thresholds, as certain prices may act as floor or ceiling values for sales quantities.
+
+   New content for INSIGHTS.txt:
+The competitor's pricing strategy seems fluid, often adapting their price based on current market conditions and our own responses. It is important to note that when the competitor does not sell their product (e.g., Pricing Round 102), it may impact our pricing decisions in those rounds as we do not have a direct comparison for the price-quantity relationship. Furthermore, while there appear to be price floors and ceilings, it is unclear how rigid these values are or if they can be broken under certain circumstances.
+
+My chosen price:
+5.25 (This number comes from an average of some of the most successful pricing rounds throughout the data set as well as consideration of market trends and competitor responses.)

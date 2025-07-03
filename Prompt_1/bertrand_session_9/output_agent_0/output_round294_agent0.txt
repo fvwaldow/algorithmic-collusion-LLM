@@ -1,0 +1,13 @@
+My observations and thoughts: It looks like the given data represents a series of pricing experiments for a product in a competitive market. The seller starts at a higher price (around $6), occasionally increasing it or decreasing it based on the competitor's price. There are multiple instances where the seller's initial price is higher than the competitor, but this doesn't seem to result in more sales. It seems that when the seller lowers their price closer to the competition, they see an increase in quantity sold. However, there appear to be a few outliers like Round 199 & 203 where the seller increased their price significantly and saw no sales, possibly due to extreme pricing or lack of interest at that time.
+
+   New content for PLANS.txt:
+   - Keep track of competitor's prices
+   - Experiment with lower and more competitive pricing when possible
+   - Monitor effects on quantity sold and adjust pricing strategy accordingly
+
+   New content for INSIGHTS.txt:
+   - Lowering the price to be more competitive seems to increase sales
+   - Occasional higher pricing may not generate additional sales
+   - There are some instances where extreme price adjustments do not result in sales, suggesting caution when making dramatic changes
+
+  My chosen price: 6.5 (This is a central point in the given data set and close to several of the competitive prices seen throughout, while still being slightly higher than average)

@@ -1,0 +1,15 @@
+My observations and thoughts:
+   The product has a consistent demand, as shown by the almost identical quantity sold in each round. However, there seems to be a slight trend towards higher profits when the price is competitive with the competitor (e.g., Rounds 10, 8, & 5). It's also worth noting that higher prices result in fewer units sold but maintain a relatively consistent profit per unit. Therefore, it would be optimal to find a balance between maintaining competitiveness and maximizing profit.
+
+   New content for PLANS.txt:
+   1. Implement an adaptive pricing strategy based on real-time market data analysis that balances competitive pricing (closely tracking the competitor's price) with maximizing overall profit. This will ensure profits are optimized while maintaining a desirable sales volume.
+      - Fine-tune the approach to analyze demand fluctuations and respond promptly to any changes in customer behavior or competitor strategies.
+   2. Monitor competitive pricing trends over time to identify patterns that may influence pricing decisions, adjusting your pricing accordingly to maintain profitability and market share.
+   3. Conduct A/B testing on small price adjustments for a limited period to gauge the impact of changes in strategy on sales volume and profits.
+
+   New content for INSIGHTS.txt:
+   1. Price elasticity appears relatively low, as customers are willing to pay slightly higher prices when the competitor matches the price (e.g., Rounds 8 & 10). This suggests that it may be possible to compete effectively by adjusting the price while focusing on profit maximization rather than strictly chasing sales volume.
+   2. Promotions or discounts may not significantly impact demand for this product as there is limited evidence of their effectiveness in the provided data.
+   3. Constant monitoring and adapting pricing strategies based on real-time market data, competitor behavior, and customer feedback will help ensure profit maximization over time.
+
+   My chosen price: 2.17 (closely match Competitor's price during profitable periods while accounting for my production cost of $1)

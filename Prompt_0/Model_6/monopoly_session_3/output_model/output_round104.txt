@@ -1,0 +1,22 @@
+After carefully reading through the provided information, I have made some observations and thoughts:
+
+**My observations and thoughts:**
+
+* There is a clear trend of increasing prices and decreasing quantities sold as we move from round 1 to round 50. This may indicate that customers are becoming less responsive to higher prices.
+* The optimal price range appears to be between $19.00 and $21.75, with most rounds resulting in a profit earned of either $441.44 or $500.00. However, there is a significant drop-off beyond this range, especially at the higher end ($22.5 and above).
+* Round 15 and round 32 result in significantly lower profit earned compared to other rounds within the same price range.
+* Rounds 40-46 have very similar results with prices between $20.75-$21.5, indicating that customers are sensitive to these particular price points.
+
+**New content for PLANS.txt:**
+
+* Since the trend suggests a drop-off in demand at higher prices, I propose testing lower prices within the optimal range (e.g., $19.00-$21.00) for future rounds.
+* As we have seen success with round 32 ($22.0), consider maintaining prices around this level and monitoring results closely.
+
+**New content for INSIGHTS.txt:**
+
+* The price sensitivity data points to a narrow window of optimal pricing within the range $19.50-$21.00, possibly due to market and customer characteristics.
+* Further research into market trends and competition is recommended to ensure that our prices are optimized for long-term sustainability.
+
+**My chosen price:**
+
+20

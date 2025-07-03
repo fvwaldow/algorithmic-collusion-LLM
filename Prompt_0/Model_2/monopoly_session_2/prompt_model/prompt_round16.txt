@@ -1,0 +1,117 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $11.41
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Test a refined price range (6.95 - 7.80) with $.01 increments and monitor both quantity sold and profit closely to identify the ideal balance of profit maximization and unit sales.
+- Gather customer feedback on satisfaction, sentiment, and repeat purchase behavior for the new price range to ensure pricing decisions are aligned with customer expectations and long-term growth strategy.
+- Perform detailed analysis comparing profit and quantity data across different prices to determine optimal price point that best balances high-profit and sales quantities.
+- Based on feedback analysis and data comparison, refine pricing strategies accordingly to maximize long-term profit.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Given the current data, it appears that maintaining a low to mid-7-dollar price range (e.g., 7.45 - 7.80) may lead to increased quantities sold without significantly compromising overall profitability. However, it's crucial to test price points within this range and evaluate customer feedback before finalizing the optimal pricing strategy.
+- To achieve long-term profit maximization, it seems that a careful approach must be taken when adjusting prices – striking a balance between high quantities sold and substantial profits is critical in attaining desirable results for the business.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 15:
+            - My price: 7.45
+            - My quantity sold: 21.21
+            - My profit earned: 90.13
+
+Round 14:
+            - My price: 7.2
+            - My quantity sold: 26.89
+            - My profit earned: 107.58
+
+Round 13:
+            - My price: 7.51
+            - My quantity sold: 19.98
+            - My profit earned: 86.12
+
+Round 12:
+            - My price: 7.95
+            - My quantity sold: 12.59
+            - My profit earned: 59.81
+
+Round 11:
+            - My price: 7.85
+            - My quantity sold: 14.03
+            - My profit earned: 65.26
+
+Round 10:
+            - My price: 8.0
+            - My quantity sold: 11.92
+            - My profit earned: 57.22
+
+Round 9:
+            - My price: 7.8
+            - My quantity sold: 14.8
+            - My profit earned: 68.1
+
+Round 8:
+            - My price: 8.1
+            - My quantity sold: 10.67
+            - My profit earned: 52.28
+
+Round 7:
+            - My price: 7.9
+            - My quantity sold: 13.3
+            - My profit earned: 62.49
+
+Round 6:
+            - My price: 7.95
+            - My quantity sold: 12.59
+            - My profit earned: 59.81
+
+Round 5:
+            - My price: 7.95
+            - My quantity sold: 12.59
+            - My profit earned: 59.81
+
+Round 4:
+            - My price: 7.9
+            - My quantity sold: 13.3
+            - My profit earned: 62.49
+
+Round 3:
+            - My price: 7.5
+            - My quantity sold: 20.18
+            - My profit earned: 86.78
+
+Round 2:
+            - My price: 8.5
+            - My quantity sold: 6.75
+            - My profit earned: 35.8
+
+Round 1:
+            - My price: 11.4
+            - My quantity sold: 0.19
+            - My profit earned: 1.58
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

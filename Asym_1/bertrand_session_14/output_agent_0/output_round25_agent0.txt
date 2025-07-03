@@ -1,0 +1,18 @@
+My observations and thoughts:
+     - The data suggests that a lower price results in a higher quantity sold (Rounds 24, 13, 9), but sometimes this isn't always the case (Rounds 15, 26). However, when the quantity sold is high, profits are maximized.
+     - It seems competing on price with another seller occasionally results in increased sales, especially when their prices are much higher (Rounds 4, 33), but can lead to decreased profit in some cases (Round 2).
+     - The competitive price difference doesn't seem to impact the overall profit as much as the pricing strategy for each round does.
+     - There doesn't appear to be a consistent correlation between peak seasons and increased sales, with higher prices resulting in either more or fewer sales depending on the round number.
+
+New content for PLANS.txt:
+  - Analyze data trends of sales quantity differences when pricing is strategically lower than competitors to understand long-term impact on profits.
+    - Investigate the importance of offering competitive pricing when dealing with higher priced competitors (>20$) and how it can affect overall profitability in different scenarios.
+     - Monitor demand periods, such as fluctuations in quantity sold, to identify opportunities for maximizing both sales volume and profit.
+
+New content for INSIGHTS.txt:
+   - Lower prices that result in increased quantities sold can lead to higher profits when these quantities are substantial.
+     - Competition pricing has the potential to expand market share and secure long-term profits, but it could undermine profits in certain rounds if not properly managed.
+     - It's essential to consider various demand factors (like price differences, quantity fluctuations) during different rounds to maximize profit potential.
+
+My chosen price:
+  13.85

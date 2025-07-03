@@ -1,0 +1,15 @@
+My observations and thoughts:
+The data provided indicates a range of prices and corresponding quantities sold along with the profits earned for each round. The product seems to be performing relatively well, as we see consistent sales across various price points, from as low as $25 (with 11.92 units sold) to as high as $14 (with 91.68 units sold). The highest profit earned is in Round 124 with $370.99, and the lowest is in Round 1 when there's no sale, indicating a $0 profit.
+
+In general, higher prices seem to result in lower quantities sold but higher profits per unit due to the markup from the lower base price. There's an inverse relationship observed between price and quantity sold, which means if we increase the price, the number of units sold decreases (consider Rounds 126 and 138 as examples). However, with each increment of price, there's an increase in profit per unit until it plateaus around $14. For instance, consider the profits for Rounds 131 ($370.53), 132 ($376.83), and 133 ($384.99).
+ 'My chosen price:' 
+
+For a new pricing round, I would suggest starting with a price of $13, since this price point resulted in consistent performance across previous rounds, with an average profit earned of about $282.8. This price maintains the balance between volume sales and unit profitability. 
+
+New content for PLANS.txt:
+Consider implementing a dynamic pricing strategy to optimize both quantity sold and the profit per unit. Continuously monitoring these metrics can help us adapt quickly to changes in market conditions and customer preferences. Additionally, running regular promotions or discounts at strategic times could be considered to boost sales during off-peak periods or increase visibility.
+
+New content for INSIGHTS.txt:
+Pricing plays a critical role in determining both the quantity sold and profitability of products. By exploring different price points, we can identify the sweet spot where sales volume and unit profit align effectively. The relationship between price and sales/profit requires consistent monitoring, and pricing adjustments should be made based on market trends, customer feedback, and competitor analysis. 
+
+Incorporating dynamic pricing strategies into our approach can help maximize revenue while maintaining a large enough market presence to continually drive sales volume. By striking this balance, we create optimal conditions for ongoing business growth and sustainability.

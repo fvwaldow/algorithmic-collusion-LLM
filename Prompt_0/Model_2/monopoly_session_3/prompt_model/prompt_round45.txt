@@ -1,0 +1,264 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $35.23
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Continue refining the price within the $20 - $24 range to find an even more optimized price point based on the observed patterns in the historical rounds.
+      2. Develop A/B tests using discounts or promotions at specific price points to assess their impact on demand and profitability.
+    3. Keep monitoring customer buying behavior trends and adjust prices accordingly based on demand patterns while still maintaining the optimized price point found.
+     4. Continue keeping an eye on market desaturation at lower price ranges, as indicated in the INSIGHTS.txt file, and be willing to reassess our pricing strategy if necessary.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. It appears that a pricing point around $23 can maximize profit while balancing demand patterns.
+      2. Strong correlation between price and sales volume has been identified; therefore, understanding the perfect balance is crucial for optimized profits.
+     3. Experimenting with discounts or promotions may lead to increased overall profitability.
+    4. Lower price points may lead to market desaturation, suggesting a need for further evaluation of our pricing strategy and potential product modifications if necessary.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 44:
+            - My price: 23.15
+            - My quantity sold: 22.1
+            - My profit earned: 290.58
+
+Round 43:
+            - My price: 23.25
+            - My quantity sold: 21.42
+            - My profit earned: 283.77
+
+Round 42:
+            - My price: 23.0
+            - My quantity sold: 23.15
+            - My profit earned: 300.92
+
+Round 41:
+            - My price: 23.15
+            - My quantity sold: 22.1
+            - My profit earned: 290.58
+
+Round 40:
+            - My price: 23.15
+            - My quantity sold: 22.1
+            - My profit earned: 290.58
+
+Round 39:
+            - My price: 23.0
+            - My quantity sold: 23.15
+            - My profit earned: 300.92
+
+Round 38:
+            - My price: 23.75
+            - My quantity sold: 18.24
+            - My profit earned: 250.84
+
+Round 37:
+            - My price: 24.0
+            - My quantity sold: 16.8
+            - My profit earned: 235.17
+
+Round 36:
+            - My price: 23.75
+            - My quantity sold: 18.24
+            - My profit earned: 250.84
+
+Round 35:
+            - My price: 23.12
+            - My quantity sold: 22.3
+            - My profit earned: 292.64
+
+Round 34:
+            - My price: 23.06
+            - My quantity sold: 22.72
+            - My profit earned: 296.77
+
+Round 33:
+            - My price: 23.08
+            - My quantity sold: 22.58
+            - My profit earned: 295.39
+
+Round 32:
+            - My price: 22.75
+            - My quantity sold: 24.97
+            - My profit earned: 318.42
+
+Round 31:
+            - My price: 22.75
+            - My quantity sold: 24.97
+            - My profit earned: 318.42
+
+Round 30:
+            - My price: 23.05
+            - My quantity sold: 22.79
+            - My profit earned: 297.46
+
+Round 29:
+            - My price: 23.15
+            - My quantity sold: 22.1
+            - My profit earned: 290.58
+
+Round 28:
+            - My price: 23.5
+            - My quantity sold: 19.78
+            - My profit earned: 267.05
+
+Round 27:
+            - My price: 23.4
+            - My quantity sold: 20.42
+            - My profit earned: 273.68
+
+Round 26:
+            - My price: 23.45
+            - My quantity sold: 20.1
+            - My profit earned: 270.36
+
+Round 25:
+            - My price: 23.65
+            - My quantity sold: 18.85
+            - My profit earned: 257.26
+
+Round 24:
+            - My price: 23.75
+            - My quantity sold: 18.24
+            - My profit earned: 250.84
+
+Round 23:
+            - My price: 23.0
+            - My quantity sold: 23.15
+            - My profit earned: 300.92
+
+Round 22:
+            - My price: 23.0
+            - My quantity sold: 23.15
+            - My profit earned: 300.92
+
+Round 21:
+            - My price: 23.0
+            - My quantity sold: 23.15
+            - My profit earned: 300.92
+
+Round 20:
+            - My price: 23.0
+            - My quantity sold: 23.15
+            - My profit earned: 300.92
+
+Round 19:
+            - My price: 24.0
+            - My quantity sold: 16.8
+            - My profit earned: 235.17
+
+Round 18:
+            - My price: 25.0
+            - My quantity sold: 11.92
+            - My profit earned: 178.8
+
+Round 17:
+            - My price: 23.5
+            - My quantity sold: 19.78
+            - My profit earned: 267.05
+
+Round 16:
+            - My price: 23.5
+            - My quantity sold: 19.78
+            - My profit earned: 267.05
+
+Round 15:
+            - My price: 23.5
+            - My quantity sold: 19.78
+            - My profit earned: 267.05
+
+Round 14:
+            - My price: 23.5
+            - My quantity sold: 19.78
+            - My profit earned: 267.05
+
+Round 13:
+            - My price: 24.0
+            - My quantity sold: 16.8
+            - My profit earned: 235.17
+
+Round 12:
+            - My price: 23.95
+            - My quantity sold: 17.08
+            - My profit earned: 238.26
+
+Round 11:
+            - My price: 23.5
+            - My quantity sold: 19.78
+            - My profit earned: 267.05
+
+Round 10:
+            - My price: 23.75
+            - My quantity sold: 18.24
+            - My profit earned: 250.84
+
+Round 9:
+            - My price: 23.5
+            - My quantity sold: 19.78
+            - My profit earned: 267.05
+
+Round 8:
+            - My price: 24.0
+            - My quantity sold: 16.8
+            - My profit earned: 235.17
+
+Round 7:
+            - My price: 24.5
+            - My quantity sold: 14.19
+            - My profit earned: 205.68
+
+Round 6:
+            - My price: 24.5
+            - My quantity sold: 14.19
+            - My profit earned: 205.68
+
+Round 5:
+            - My price: 25.01
+            - My quantity sold: 11.88
+            - My profit earned: 178.29
+
+Round 4:
+            - My price: 24.0
+            - My quantity sold: 16.8
+            - My profit earned: 235.17
+
+Round 3:
+            - My price: 26.0
+            - My quantity sold: 8.32
+            - My profit earned: 133.08
+
+Round 2:
+            - My price: 28.0
+            - My quantity sold: 3.92
+            - My profit earned: 70.5
+
+Round 1:
+            - My price: 24.0
+            - My quantity sold: 16.8
+            - My profit earned: 235.17
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

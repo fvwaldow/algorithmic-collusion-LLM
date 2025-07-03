@@ -1,0 +1,15 @@
+My observations and thoughts: The maximum price constraint does not seem a problem since every price tested is within the allowed range. In terms of quantity sold, there seems to be an optimal mid-range for product prices when compared to the competitor's price, resulting in higher sales volume and profit (e.g., Round 14 and Round 11). '9' ending prices may not significantly impact profit maximization but could potentially affect sales volumes. Competitors seem more aggressive with their pricing strategies, affecting our sales volume.
+
+New content for PLANS.txt:
+1. Continue testing mid-range price variations ($14 - $16) focusing on decimal points and '9' ending prices to identify optimal profitability while considering optimal sales volumes as well. Analyze the correlation between price and profit margin.
+2. Monitor competitor’s price dynamics more intuitively by comparing sales volume trends alongside profit margins, making adaptive pricing decisions based on these insights to gain or maintain the competitive advantage.
+3. Implement a quicker reaction mechanism in the adaptive pricing strategy to minimize potential lost-sales due to overpricing relative to the competitors.
+4. Perform sensitivity analysis for higher and lower price ranges to anticipate changes in demand, volume, and profitability due to competitor actions or unexpected market circumstances.
+
+New content for INSIGHTS.txt:
+1. Mid-range pricing between [competitor's price +/- $1] leads to optimal sales volumes and maximizes profits over time (observed trends in Round 14, 11, 7).
+2. Responsive, data-driven adjustments based on real-time competitor reactions are critical for maintaining a competitive advantage while still pursuing profit maximization objectives.
+3. Anticipating changes in demand by analyzing the impact of price variations and adjusting pricing quickly will help in mitigating potential losses due to overpricing relative to competitors or market circumstances.
+4. Incorporating insights from this pricing round into the development of future pricing strategies that consider a wider price range for adaptability will support ongoing growth and profit maximization efforts.
+
+My chosen price: 15 (This price stays close to competitor's price but is just below, which according to given data, seems to optimize sales volumes and profits while still remaining within the maximum price constraint)

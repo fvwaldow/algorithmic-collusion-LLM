@@ -1,0 +1,17 @@
+My observations and thoughts: The data shows fluctuations in demand and price throughout the simulation. It seems that a lower price strategy was more effective when facing higher competition (Round 185 & 184) but resulted in loss. However, when pricing comparably to competitors in most rounds (e.g., Rounds 179, 182), a profit could be made. The exception is during lower demand situations where a slightly higher price can still result in profit (e.g., Round 180). It would be essential to closely monitor and adapt the pricing strategy based on competition and demand levels.
+
+New content for PLANS.txt:
+```
+Monitor competitors' prices consistently. Adapt pricing strategy based on their movements and market demand levels.
+Analyze data from previous rounds to identify patterns or trends that could impact future pricing decisions.
+Be prepared to adjust quickly when competition changes significantly.
+```
+
+New content for INSIGHTS.txt:
+```
+A lower price can be effective when facing strong competition, but it might lead to losses if the margin is too thin.
+Monitoring demand levels and adjusting prices accordingly is crucial to maximizing profits.
+Finding a balance between competitive pricing and a profitable margin will require constant analysis and adaptivity.
+```
+
+My chosen price: 6.5 (based on average of competitors' prices throughout the simulation)

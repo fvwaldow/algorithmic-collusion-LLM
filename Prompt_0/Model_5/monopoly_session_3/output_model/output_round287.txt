@@ -1,0 +1,12 @@
+My observations and thoughts:
+The data covers multiple rounds of transactions, with fluctuations in the price per unit (ranging from $17.50 to $26.00) and varying quantities sold ranging from single digits to over 50 units. There are several instances where a very high price was used ($180.00) but no items were sold, indicating possibly an error or strategic move in data collection. On average, profit seems highest (around $500) when prices fall within the mid-range, specifically around $20-$23 per unit.
+
+There is some volatility, with lower prices leading to larger quantities sold but relatively lower individual profits, and very high prices yielding fewer but significantly more profitable transactions. The relationship appears to be somewhat logarithmic; there’s not a simple linear correlation between price and profit or units sold in this dataset.
+
+New content for PLANS.txt:
+Consider exploring mid-range pricing ($20 - $23) as it seems to balance quantity sold with profit margin effectively from the historical data presented. Avoid extreme high and low prices unless there’s additional context not provided here indicating success under those conditions.
+
+New content for INSIGHTS.txt:
+Historical transaction data suggests a sweet spot in terms of pricing between $20-$23 provides both decent quantity sold (around 40-50 units) and appreciable profit margin (~$441 per round). This supports the idea of mid-range pricing as a balanced strategy to maximize overall earnings. Extreme low or high prices, while occasionally beneficial, come with the risk of drastically reduced transactions or very limited profit opportunities as seen in outlier rounds.
+
+My chosen price: 22

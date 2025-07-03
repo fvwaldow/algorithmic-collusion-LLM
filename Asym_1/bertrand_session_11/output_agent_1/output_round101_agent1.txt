@@ -1,0 +1,17 @@
+My observations and thoughts:
+   This data represents the sales data of a product from different competitive pricing scenarios. It appears that the market is somewhat elastic as there are many instances where both high and low prices result in sales, but high prices generally seem to lead to fewer unit sales. It's also worth noting that higher prices can still generate more revenue due to their higher per-unit price points.
+   Over time, it seems like the market is becoming more sensitive to price reductions, with more significant drops in sales when prices decrease compared to the increase when prices are raised (i.e., more elasticity on the downward slope). This may indicate that the competitive landscape has changed, and customers are getting accustomed to the lower prices set by other competitors.
+
+   Plans.txt:
+   - Monitor sales performance following price changes closely and adjust pricing strategy accordingly
+   - Analyze competitor’s pricing strategies to identify patterns or trends
+   - Continuously evaluate the elasticity of demand for our product in various price scenarios
+   - Consider targeting specific customer segments with different pricing approaches based on their sensitivities to price changes
+
+   Insights.txt:
+   - Price sensitivity varies throughout the pricing rounds, indicating that the market is elastic and customers are responsive to both higher and lower prices
+   - High-price points generate fewer unit sales but can still be profitable due to larger per-unit revenue
+   - The impact of price reductions appears to have a more substantial effect on sales than the increase when prices rise, suggesting that price competition is becoming more intense over time
+
+   My chosen price:
+   5.0 (This price lies near the mode and median of the data distribution, making it potentially sensible for a pricing strategy that balances unit sales and revenue generation. Additionally, it is near the average price and provides flexibility for adjustments based on market changes.)

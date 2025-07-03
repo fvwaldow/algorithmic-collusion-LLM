@@ -1,0 +1,61 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $3.82
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
++ Conduct further tests with incremental prices around $2.85 and $2.90, focusing on the potential sweet spot beyond $2.82 where profit can be optimized, ensuring to track demand elasticity over each round.
++ Develop a dynamic pricing engine using real-time data to adjust prices based on demand fluctuations and inventory levels.
++ Explore a subscription model for the more upscale segment identified during previous rounds, offering value-added benefits to secure ongoing sales and customer loyalty.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
++ Insights from Round 3 indicate that the transition from Round 2 to Round 3 resulted in a sharper decline in quantity sold despite an incremental price increase, highlighting the importance of understanding demand elasticity better.
++ Consider implementing a personalized customer experience strategy post-introduction of higher prices, emphasizing product quality and unique value to enhance perceived worth among potential upscale customers.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 4:
+            - My price: 2.85
+            - My quantity sold: 3.23
+            - My profit earned: 5.97
+
+Round 3:
+            - My price: 2.6
+            - My quantity sold: 8.32
+            - My profit earned: 13.31
+
+Round 2:
+            - My price: 2.82
+            - My quantity sold: 3.63
+            - My profit earned: 6.6
+
+Round 1:
+            - My price: 2.5
+            - My quantity sold: 11.92
+            - My profit earned: 17.88
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

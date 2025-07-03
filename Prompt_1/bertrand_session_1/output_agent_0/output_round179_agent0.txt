@@ -1,0 +1,10 @@
+My observations and thoughts: This dataset provides the prices, quantities sold, and profits earned by a company in various pricing rounds as it competes with a rival. The data shows that the company's profit margin fluctuates, and sometimes it undercuts its rival to attract customers (round 100). However, there appear to be consistent patterns regarding quantity sold and profit margins for certain price ranges. The data seems important for understanding pricing strategies and determining optimal prices in similar industries.
+
+   New content for PLANS.txt:
+   It would be beneficial to analyze the dataset using statistical methods to identify trends and patterns in the company's pricing, quantity sold, and profit margins. This analysis can help us determine which price ranges maximize profits while minimizing competitor undercutting (e.g., round 100). Additionally, a comparison of the company’s pricing with industry averages would be useful in evaluating overall performance.
+
+   New content for INSIGHTS.txt:
+   It appears that there is some correlation between price and quantity sold, as well as profit margin. Lower prices tend to result in higher quantities sold but lower profit margins (e.g., rounds 100, 92). On the other hand, maintaining a competitive yet reasonable price (e.g., rounds 85, 87) tends to generate high profit margins and attractive quantities sold. However, there are instances where undercutting the competitor can gain an immediate advantage in market share, such as round 100.
+
+   My chosen price:
+   To maximize profits while maintaining a competitive edge, consider price points of 2.15.

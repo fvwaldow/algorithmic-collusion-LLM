@@ -1,0 +1,17 @@
+My observations and thoughts:
+Given the production cost of $1 per unit and the maximum price a customer would pay at $11.68, there is a narrow price range for maximizing profit. It's essential to test various pricing strategies while keeping in mind the goal of long-term profit maximization.
+
+New content for PLANS.txt:
+- Test dynamic pricing strategy that adjusts prices based on market demand and time (Implement a system where prices increase as inventory depletes or during peak periods).
+- Test SKU (Stock Keeping Unit) strategy (Create similar products with varying price points to cater to different customer segments).
+- Analyze the impact of discounts and promotions on product sales (Offer occasional limited-time discounts to boost sales).
+- Investigate the potential benefits of a tiered pricing structure (offering volume discounts for large orders).
+
+New content for INSIGHTS.txt:
+- The higher the price, the fewer units will be sold, but each sale could potentially result in a larger profit margin.
+- A dynamic pricing strategy may help maximize profits by responding to market conditions, allowing for greater flexibility in price adjustments.
+- Offering discounts and promotions can drive more sales and create a sense of urgency among consumers, but at the cost of lower profits per unit sold.
+- Creating SKUs or offering volume discounts could allow for targeting different customer segments and boosting overall profitability by attracting a variety of buyers.
+
+My chosen price:
+6 (This number is chosen as an initial trial price to test the effectiveness of the strategies mentioned without pricing the product too low or too high)

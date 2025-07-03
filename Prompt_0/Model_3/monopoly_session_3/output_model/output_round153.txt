@@ -1,0 +1,23 @@
+My observations and thoughts:
+
+Based on the data provided, it is evident that fluctuations in price have had varying impacts on profit margins. For example, when the price was set at $13.00, the quantity sold seemed consistent, resulting in a higher total profit of $282.80. However, when prices were increased to $13.50 or higher, the total quantity sold decreased significantly, leading to reduced profits despite individual sales being more profitable. 
+
+When prices went above $25.00, the quantity sold plummeted and even led to negative profit (e.g., Round 72). This demonstrates the importance of a careful balance between maintaining adequate revenue by setting a competitive price without alienating customers through exorbitant pricing that deters demand.
+
+For PLANS.txt:
+
+To maximize profits while maintaining a steady flow of transactions, consider applying dynamic pricing strategies based on market trends and customer demand. Set the base price within the range where most sales occur (between $13.00-$13.50). As sales are typically higher at this price point, it contributes to overall profitability while still appealing to a large customer base. 
+
+Additionally, analyze competitor pricing and product offerings to stay competitive, adjusting the price accordingly in response to market changes. Utilize historical data (rounds 1-83 in this case) to predict the likely impact of different pricing tiers on both quantity sold and individual profit margins.
+
+For INSIGHTS.txt:
+
+Key insights include:
+1. Pricing should be set considering the balance between revenue and demand – setting a high price might seem profitable for individual sales, but it can drastically decrease the total number of transactions.
+2. Market analysis is crucial – studying competitor pricing and product offerings ensures maintaining a competitive edge in the marketplace.
+ 
+3. Dynamic pricing strategies based on historical data and customer behavior trends are essential to maintain steady revenue inflows while keeping a large customer base engaged.
+4. Adjust prices proactively, taking into account market dynamics and shifts in consumer preferences. Regularly reviewing and revising pricing policies in response to data can help refine pricing decisions that maximize profits and maintain demand.
+
+My chosen price:
+13.0 - Based on the observation that this price point yielded consistent quantities sold and a high overall profit of $282.80, it should be the base price for this product line. This pricing maintains competitiveness without discouraging consumers due to its attractiveness in terms of pricing, quantity sold, and total profit earned.

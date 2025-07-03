@@ -1,0 +1,14 @@
+My observations and thoughts:
+The product has a maximum selling price of $18.82, but no customer will pay above $10.45. Competitor's prices have a significant impact on the quantity sold, with lower competitor prices leading to more sales for my products. However, when the price is too low, there's little profit earned. The optimal pricing range seems to be between $6 to $10.
+
+   New content for PLANS.txt:
+- Fine-tune the linear regression model and logistic demand curves using historical data. This should focus on understanding the relationship between competitor price, my price, and market trends.
+         - Conduct additional A/B testing on a range of prices within $6 to $10 (e.g., test both side of the range starting from $8). Record results for both profits earned and quantity sold to better determine optimal combination that balances profitability and sales volume.
+             - Investigate the use of machine learning models specifically designed to capture competitor price changes in real-time, ensuring dynamic pricing adjustments.
+
+   New content for INSIGHTS.txt:
+- Continuously monitoring competitors' pricing strategies and swiftly adapting our pricing accordingly is critical for success in this market.
+         - It is essential to balance between price point, quantity sold, and overall profit as we make pricing decisions to optimize long-term profitability.
+             - Pay attention to moments of price sensitivity or "price elasticity" where slight price changes can significantly impact both sales volume and profitability.
+
+My chosen price: 8.0 (Adjusting to the lower range of optimal priced while maintaining competitiveness with the current competitor price)

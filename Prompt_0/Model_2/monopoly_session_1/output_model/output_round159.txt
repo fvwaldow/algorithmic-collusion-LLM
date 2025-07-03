@@ -1,0 +1,28 @@
+My observations and thoughts:
+From the data provided, it seems that the price has been fluctuating significantly throughout 100 rounds of selling the product. The highest price was at $3.0 and the lowest was at $1.2. It appears that a higher price does not necessarily result in a greater profit, as there are instances where lower prices led to more profits. Additionally, there seem to be periods where the same price is maintained for multiple rounds without any changes. This suggests that finding the optimal price may involve striking a balance between attracting customers and maximizing profits.
+
+New content for PLANS.txt:
+```python
+# Function to calculate average profit per round
+average_profit = sum(profits) / len(profits)
+print("Average profit per round:", average_profit)
+
+# Find the price that maximizes profits
+optimal_price, optimal_profit = max((price, profit) for price, profit in zip(prices, profits))
+print("Optimal price and its corresponding profit:", optimal_price, optimal_profit)
+```
+
+New content for INSIGHTS.txt:
+```python
+# Analyze the relationship between price and profit
+import matplotlib.pylab as plt
+
+plt.scatter(prices, profits)
+plt.xlabel("Price")
+plt.ylabel("Profit")
+plt.title("Price vs Profit")
+plt.show()
+```
+
+My chosen price:
+2.14 (This price appears to have a relatively high profit compared to other prices listed in the data)

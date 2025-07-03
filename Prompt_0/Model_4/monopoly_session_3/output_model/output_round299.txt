@@ -1,0 +1,13 @@
+My observations and thoughts:
+The pattern of quantity sold seems to vary significantly with price changes, suggesting that market elasticity plays a crucial role. Prices around $34 - $37 seem to yield consistent sales, indicating a possibly stable customer base within this price range. The profit earned is generally inline with the price set, except when prices hover around zero, which yields no profit due to zero quantity sold. 
+
+New content for PLANS.txt:
+```
+Update our strategy to dynamically adjust pricing based on market elasticity observed over rounds. Focus on maintaining a $34-$37 price range to ensure stable sales and profit margins. Explore deeper into customer behavior patterns at these price points to refine our targeting further.
+```
+New content for INSIGHTS.txt:
+```
+Insights from recent rounds suggest that the market may be more sensitive to price changes around $34-$37. We should monitor customer feedback at these prices for potential qualitative insights. Additionally, the observed volatility in quantity sold highlights the need for agility in our pricing strategy.
+```
+My chosen price:
+34

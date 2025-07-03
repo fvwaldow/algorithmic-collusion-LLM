@@ -1,0 +1,15 @@
+My observations and thoughts:
+   The data provided shows the selling price and quantity sold for each round for a specific product. There seems to be two types of pricing strategies being used: a fixed price in some rounds (i.e., rounds 160-163, 165) and dynamic pricing in most other rounds, where the price is adjusted based on demand (higher price leads to lower quantity sold and vice versa). The dynamic pricing appears to be effective as there are several instances of selling all available stock at a higher price.
+
+   New content for PLANS.txt:
+   * Continue with dynamic pricing strategy to maximize profits based on demand
+   * Monitor the market closely for any changes in consumer behavior or competitive landscape
+   * Consider implementing promotions or discounts during periods of low demand to boost sales
+
+   New content for INSIGHTS.txt:
+   * Dynamic pricing appears to be a profitable strategy when executed correctly
+   * Consumers are willing to pay higher prices for the product, indicating a strong market demand
+   * It is essential to strike a balance between price and profit margins to avoid overpricing or underselling
+
+   My chosen price:
+   2.14 (as this seems to be a popular dynamic pricing point with success in moving stock)

@@ -1,0 +1,19 @@
+My observations and thoughts: This dataset provides information about how different pricing strategies impact the quantity sold and profit earned for a product. A few things that stand out are:
+   - It appears there is a price point around 5.46 where quantity demanded increases significantly compared to surrounding prices, resulting in increased profits (Round 23 and possibly Round 24).
+   - However, lowering the price further from this peak (e.g., Rounds 18-20) can lead to an increase in both quantity sold and profit earned despite being below the optimal price. But this doesn't always hold true; see Rounds 8-9 where a reduction in price led to a decrease in profits even though more units were sold (quantity demanded).
+   - In cases such as Rounds 32, 31, and 30, lowering the price drastically had minimal effect on quantity demanded, but it did have an impact on profit earned.
+   - It seems important to be aware of competitor pricing when setting our own. For example, in Round 25, our competitor's high price may mean we can charge more for our product without significantly affecting the number of units sold (assuming our quality is comparable).
+
+New content for PLANS.txt:
+   - Continue observing and learning from pricing trends to determine optimal pricing strategy based on our competition and market conditions
+   - Monitor industry events and changes in demand to adjust pricing as necessary
+   - Aggressively maintain competitive advantage while considering a lower price point around 5.46, which seems to optimize both quantity demanded and profit earned under certain conditions
+
+New content for INSIGHTS.txt:
+   - A high price does not necessarily mean higher profits when fewer units are sold (example in Rounds 8-9)
+   - Lowering the price can increase quantities demanded, leading to higher profits if market conditions allow for it (example in the price reduction rounds starting with Round 17)
+   - Competitor pricing plays a significant role in determining optimal pricing strategy (example in Round 25)
+   - Market demand and trends may impact optimal pricing strategies over time (example of changing prices between Rounds 3 and 42)
+
+My chosen price:
+5.46 (or slightly higher if competition allows for it without significantly reducing quantity demanded)

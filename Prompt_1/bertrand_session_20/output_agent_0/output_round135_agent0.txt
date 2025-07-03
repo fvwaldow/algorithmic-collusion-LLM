@@ -1,0 +1,9 @@
+My observations and thoughts: The data provided represents a competition where a product's price varies each round while considering a competitor's price and the number of units sold. It appears that some pricing strategies seem to be more effective than others, as indicated by the higher numbers of units sold at certain price points.
+
+   From rounds 1-40, it can be noticed that lowering prices during certain periods led to increased sales; for example, priced at 25.0 in round 39, a large number of units were sold compared to neighboring rounds. However, raising the price also proved successful in some instances, such as selling 11.64 units at 31.0 in round 38 while the competitor's price was lower.
+
+   PLANS.txt: Continue experimenting with different pricing strategies by strategically adjusting prices based on the competition and previous sales data. Aim to maximize unit sales while maintaining profitability through monitoring competitor prices.
+
+   INSIGHTS.txt: Adjusting the price can significantly impact sales volume. It is essential to understand the market dynamics, customer preferences, and competitor strategies in order to make informed pricing decisions. Additionally, flexibility in pricing during certain periods may provide a competitive advantage.
+
+   My chosen price: 31.0 (based on previous successful instances where it led to higher sales)

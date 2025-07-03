@@ -1,0 +1,18 @@
+My observations and thoughts:
+Based on the market data presented, it appears that lowering my price to remain competitive with the current competitor costs me sales volume in the short term but increases the number of units sold overall. However, the profit earned from those additional sales is not maximized at this price point. In Round 5 and Round 4, when the price was lowered to $2.0, a significantly high quantity (approximately 50) was sold each round. But these rounds had the lowest profit margin of all.
+
+In contrast, when my price is higher than the competitor's (Round 7, Round 6), the amount of units sold decreases, but the profit earned per unit and overall profit increase. However, the sale volume is too low to achieve similar revenue as in Rounds 5 and 4.
+
+In addition, we see that I sold the highest number of units (33.33) when both my price and the competitor's were at $2.0 back in Round 1. But since then, the competitor increased their price while I kept mine the same or lowered it.
+
+New content for PLANS.txt:
+- Maintain a price higher than competitors but close to their pricing level to minimize sales volume sacrifices while still maximizing profit per unit sold.
+- Monitor immediate effect on sales volume and long-term impact on profits of each price change, keeping in mind the overall goal of maximizing profitability.
+- Develop machine learning models or regression analysis to test multiple pricing scenarios and determine the optimal price point that generates both high sales volume and maximum profit per unit sold.
+
+New content for INSIGHTS.txt:
+- Maintaining a higher price can improve the profit margins per unit sold, although this may result in lower short-term sales volumes.
+- In some cases, maintaining prices comparable to competitors can lead to increased sales volume but reduced profitability per unit.
+- A combination of competitive pricing and machine learning analysis can help determine an optimal price point balancing both sales volume and maximum profit per unit.
+
+My chosen price: 2.5 (This price is intended to be a compromise between remaining fairly competitive with the competitor while ensuring I maximize profits per unit sold.)

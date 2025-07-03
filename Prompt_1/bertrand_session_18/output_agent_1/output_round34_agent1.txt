@@ -1,0 +1,17 @@
+My observations and thoughts: From the data provided, it is evident that prices between $9 - $12 have been tested, with a focus on prices close to or slightly below $10. The price point of $10.5 has shown mixed results in profitability, ranging from -8.39 to 66.34 in profit.
+
+    It's also noticeable that a higher price, such as $12, resulted in a significantly lower number of sales but a substantial increase in profit (66.34). On the other hand, pricing too low, like $8, led to a massive loss in profit due to increased sales (e.g., around -$145 in round 6 and -$170 in round 4).
+
+    In addition, it appears that setting a price lower than the competitor's did not significantly increase the number of sales to warrant a potential loss in profit. However, there seems to be a slight advantage when the price is set higher or close to the competitor’s price (e.g., rounds 32 and 31 vs round 2).
+
+    New content for PLANS.txt:
+    + Maintain focus on prices within the range of $9 - $15, testing various increments around $10 while closely analyzing profitability vs sales quantity.
+    + Investigate setting prices slightly above or below the competitor's price to determine its impact on sales and profitability.
+
+   New content for INSIGHTS.txt:
+
+  + Prices between $9 - $12 need further exploration due to mixed results in profitability. Expanding testing up to $15 is necessary to establish upper bounds for profitable pricing without sacrificing acceptable sales numbers.
+  + Be cautious when setting prices too low, as it may result in substantial losses compared to the profit achieved at a slightly higher price point.
+  + It is essential to keep an eye on competitor's pricing strategy and make adjustments accordingly, if necessary.
+
+   My chosen price: 10.95 (testing a small increase above the last tested price)

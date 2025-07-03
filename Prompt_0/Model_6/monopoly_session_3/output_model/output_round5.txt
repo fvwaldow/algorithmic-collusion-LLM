@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+The data indicates a correlation between higher prices and decreased quantity sold, which may be influencing the profit earned. To balance price with customer demand, let's examine how increasing price impacts profit margins.
+
+Comparing Rounds 1 and 4 shows that when the price was $19.00 (Round 1), both the quantity sold (59.87) and profit ($538.82) were higher than when the price was $19.0 (Round 4). This suggests that lowering the price can increase sales but may come at the cost of reduced revenue.
+
+The market data also shows a trend where increasing prices leads to higher revenue due to lower quantities sold, as mentioned in INSIGHTS.txt. Considering this, we should test whether charging a premium for perceived value rather than production costs is the cause of increased selling prices.
+
+New content for PLANS.txt:
+* Investigate price elasticity and its impact on profit margins
+	+ Determine whether increasing price causes proportionally less quantity sold 
+	+ Determine if profit increases regardless of decrease in sales due to high revenue
+* Analyze price-setting decisions based on customer perceived value rather than production costs
+
+New content for INSIGHTS.txt:
+Incremental price increases have a non-linear effect on profit margins. A higher price of $24.75 compared to lower prices doesn't result in a clear increase in revenue as expected from simply adding more units sold, yet it does maintain some profit margin.
+
+My chosen price: 20.0

@@ -1,0 +1,139 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $5.93
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Implement a combination of competitive pricing strategies with a slight reduction in price to observe its impact on sales volume and overall profit. This can help better identify optimal pricing points that attract customers while maximizing revenue.
+      2. Re-evaluate the effectiveness of existing promotions and consider implementing more frequent or targeted promotions when necessary to boost sales.
+      3. Conduct deeper analysis of historical data by considering multiple price points, slight adjustments, and their impact on sales volume and long-term profitability. This can provide insight into potential missed opportunities or unidentified patterns that could lead to improved pricing strategies.
+      4. Regularly monitor the competitor's movements and adapt pricing strategies as needed to maintain a competitive edge while maximizing profits.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. A combination of competitive pricing, slightly reduced prices, and targeted promotions may lead to improved sales volume and overall profit (new insight).
+      2. The key lies in understanding the delicate balance between remaining competitive and maximizing profits when implementing new pricing strategies (revised insight).
+      3. In-depth analysis of historical data can reveal valuable information regarding optimal price points, missed opportunities, and unidentified patterns that contribute to improved pricing strategies (updated insight).
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 16:
+                - My price: 3.98
+                - Competitor’s price: 4.0
+                - My quantity sold: 0.04
+                - My profit earned: 0.11
+
+Round 15:
+                - My price: 3.9
+                - Competitor’s price: 4.1
+                - My quantity sold: 0.05
+                - My profit earned: 0.14
+
+Round 14:
+                - My price: 4.2
+                - Competitor’s price: 4.52
+                - My quantity sold: 0.02
+                - My profit earned: 0.05
+
+Round 13:
+                - My price: 4.05
+                - Competitor’s price: 4.75
+                - My quantity sold: 0.03
+                - My profit earned: 0.08
+
+Round 12:
+                - My price: 4.3
+                - Competitor’s price: 4.15
+                - My quantity sold: 0.01
+                - My profit earned: 0.03
+
+Round 11:
+                - My price: 4.25
+                - Competitor’s price: 4.2
+                - My quantity sold: 0.01
+                - My profit earned: 0.04
+
+Round 10:
+                - My price: 4.2
+                - Competitor’s price: 4.6
+                - My quantity sold: 0.02
+                - My profit earned: 0.05
+
+Round 9:
+                - My price: 4.35
+                - Competitor’s price: 4.2
+                - My quantity sold: 0.01
+                - My profit earned: 0.03
+
+Round 8:
+                - My price: 4.7
+                - Competitor’s price: 4.2
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 7:
+                - My price: 4.05
+                - Competitor’s price: 5.0
+                - My quantity sold: 0.03
+                - My profit earned: 0.08
+
+Round 6:
+                - My price: 4.0
+                - Competitor’s price: 5.7
+                - My quantity sold: 0.03
+                - My profit earned: 0.1
+
+Round 5:
+                - My price: 4.18
+                - Competitor’s price: 4.25
+                - My quantity sold: 0.02
+                - My profit earned: 0.05
+
+Round 4:
+                - My price: 4.7
+                - Competitor’s price: 4.19
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 3:
+                - My price: 4.49
+                - Competitor’s price: 5.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
+
+Round 2:
+                - My price: 4.75
+                - Competitor’s price: 3.99
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 1:
+                - My price: 4.5
+                - Competitor’s price: 4.99
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

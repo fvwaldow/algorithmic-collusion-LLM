@@ -1,0 +1,17 @@
+My observations and thoughts:
+   The data provided shows a dynamic market with prices ranging from 1.0 to 10.0. It appears that lowering the price does increase sales volume, but this strategy does not seem to generate substantial profit unless the sales volume is very high, such as in Rounds 153 and 159 where the lowest price of 1.0 results in a profit of 3.09 and 3.18, respectively. On the other hand, maintaining or slightly increasing the price while also strategically adjusting the sales volume can yield higher profits per unit sold. For example, in Round 142, lowering the price by a small amount increases profit despite decreased sales volume. It's also interesting to note that setting a price too high (e.g., Round 137) results in no sales at all.
+
+   The highest profit per round was achieved in Round 161 with a very low sales volume of 0.03 by setting an extremely high price at 10.0. This indicates that while this approach may not generate consistent sales, it can result in extremely high profits when executed correctly. However, relying on one-time, exceptional profits is risky and likely unsustainable.
+
+   New content for PLANS.txt:
+   - Maintain or slightly increase prices compared to current levels, while strategically adjusting sales volume.
+   - Monitor competitor's pricing strategies and adjust accordingly to maintain competitive edge.
+   - Focus on understanding the market demand and price elasticity to optimize profit potential.
+
+   New content for INSIGHTS.txt:
+   - Lowering prices can increase sales volume but may not always result in substantial profits, especially when sales volumes are low.
+   - A high price does not guarantee sales, as shown in Rounds 136, 137, and 150. However, setting an extremely high price (e.g., Round 161) can yield significant profit per unit sold with very low sales volume.
+   - It is essential to find the balance between profit per unit and sales volume to maximize overall profits.
+
+   My chosen price:
+   3.25 (the current price in this data set, as there is no information suggesting a need for significant adjustment)

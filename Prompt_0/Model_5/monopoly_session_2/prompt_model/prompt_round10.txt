@@ -1,0 +1,85 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $11.81
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Following the trend observed in Rounds 1-5, where prices between $10.5-$10.6 yielded higher profits, propose testing incremental pricing within this narrower range of $10.4 to $10.5 but with a slight adjustment towards $10.4, specifically at prices: $10.45 and $10.4. This will help pinpoint the exact optimal price without overshooting the profit peak identified between $10.5-$10.6.
+- Conduct in-depth competitor analysis to understand if there are unique selling points or product differentiations that could justify a premium, even if it means slightly exceeding the typical customer ceiling of $11.81 for niche markets or specific customer segments.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- The data supports maintaining prices within the $10.4-$10.6 range to likely maximize profits, given the observed sales volume and profit margins in previous rounds. 
+- Highlight potential market segments that may value additional unique features or benefits offered by this product, which could allow for a slight price adjustment upwards from typical customer expectations near $11.81, though this should be assessed via detailed competitor analysis for viability.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 9:
+            - My price: 10.45
+            - My quantity sold: 0.63
+            - My profit earned: 4.56
+
+Round 8:
+            - My price: 10.5
+            - My quantity sold: 0.59
+            - My profit earned: 4.32
+
+Round 7:
+            - My price: 10.6
+            - My quantity sold: 0.52
+            - My profit earned: 3.86
+
+Round 6:
+            - My price: 10.75
+            - My quantity sold: 0.43
+            - My profit earned: 3.27
+
+Round 5:
+            - My price: 10.5
+            - My quantity sold: 0.59
+            - My profit earned: 4.32
+
+Round 4:
+            - My price: 10.75
+            - My quantity sold: 0.43
+            - My profit earned: 3.27
+
+Round 3:
+            - My price: 10.75
+            - My quantity sold: 0.43
+            - My profit earned: 3.27
+
+Round 2:
+            - My price: 10.5
+            - My quantity sold: 0.59
+            - My profit earned: 4.32
+
+Round 1:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

@@ -1,0 +1,17 @@
+My observations and thoughts:
+   1. The highest selling prices were observed around 24-30 dollars, with higher quantities sold when the competitor's price was higher. However, the greatest profit in Round 20 (234.59) occurred at a lower price of 23 despite the competitor having a higher price. This suggests that while pricing below the competition might increase quantity sold, it can also maximize profit.
+   2. It's worth noting the non-linear relationship between price and demand, as indicated in the updated Strategy E. Prices around 45 and lower did not result in any sales (Rounds 3 to 6), whereas prices of 33-36 (Rounds 7 and 9) resulted in minimal sales but slightly higher profit than the minimum-priced units.
+   3. The data does not yet indicate a need for strategies that take into account the competition's product quality, customer ratings, or other factors beyond just price to optimize sales since competitor pricing seems to be the main influencing factor in current rounds.
+   4. There is a possibility of further profit maximization through more frequent monitoring and fine-tuning of the pricing strategy based on competitor moves (as per New Insight 3).
+
+New content for PLANS.txt:
+  1. Continue to monitor price sensitivity to maximize profits by adjusting prices based on immediate competitor moves (strategy A, Strategy D) while keeping an eye on demand trends (Strategy E).
+        2. Investigate in-depth the nonlinear relationship between price and quantity sold to further refine pricing strategies (updated Strategy E).
+           3. If the competition's product quality or customer reviews become more widely known in the future, consider incorporating that information into pricing strategies (New Strategy C).
+
+New content for INSIGHTS.txt:
+  1. Fine-tuning pricing strategy based on competitor moves can potentially increase profit (confirmed New Insight 3) by exploiting opportunities when the competitor's price is higher.
+        2. Further analysis shows that demand sensitivity plays a significant role in optimizing sales and profits (updated New Insight 6).
+
+   My chosen price:
+   21.0

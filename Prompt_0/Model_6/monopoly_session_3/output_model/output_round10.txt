@@ -1,0 +1,16 @@
+My observations and thoughts:
+
+Upon reviewing the market data, I notice that the profit per unit is consistently around $1 when selling at prices between $19 and $25. However, there appears to be a threshold effect where demand decreases significantly when prices exceed $24.75 (Rounds 6, 8, and 9). This is consistent with the insights noted in INSIGHTS.txt. I also observe that Round 2 ($24.75) and its subsequent rounds have similar profit margins despite higher quantities sold at lower prices in Rounds 7-4.
+
+New content for PLANS.txt:
+
+* Investigate the relationship between price and demand using data from different rounds to better understand the threshold effect.
+* Test pricing strategies within the optimal range identified (between $20-$24.75) by introducing incremental price increases to assess their impact on profitability.
+* Consider implementing a tiered pricing strategy where higher prices are offered for lower volumes or customized variants.
+
+New content for INSIGHTS.txt:
+
+The observations about the threshold effect and profit margins above $24.75 reinforce previous insights. I note that the optimal price ceiling may indeed be closer to $20-$22, as this range yielded significantly more profits per unit. Investigating the possibility of a saturation point around $24.75 could be crucial in developing a pricing strategy that maintains profitability.
+
+My chosen price:
+22.5

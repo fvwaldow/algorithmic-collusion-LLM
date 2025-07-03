@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+Based on the data provided, I notice that there is a clear inverse relationship between price and quantity sold. As prices increase, the quantity sold decreases significantly. For example, in Round 121, the price was around $2.97, and the quantity sold was 2.02 units. However, in Round 122, the price was $36.00, but no units were sold.
+
+I also notice that there are some "sweet spots" where prices between $2.85 and $3.07 result in higher profits. In particular, prices around $2.95 or $2.97 seem to consistently produce profits of around $4-5.
+
+To take advantage of these sweet spots and maximize profitability, I would like to explore price ranges within this optimal range.
+
+New content for PLANS.txt:
+
+* Explore price ranges between $2.85 and $3.07, with a focus on the optimal prices of $2.95 and $2.97.
+* Monitor quantity sold at each price point to confirm if there is indeed an inverse relationship between price and quantity sold.
+* Consider introducing smaller increments in pricing adjustments (e.g., from 0.01 or 0.05) instead of larger jumps.
+
+New content for INSIGHTS.txt:
+
+* Confirm the existence of sweet spots within a specific price range ($2.85 to $3.07).
+* Note that increasing prices above this range can lead to significant decreases in quantity sold, resulting in lower profits.
+* Consider adjusting pricing accordingly based on these findings.
+
+My chosen price:
+$2.95

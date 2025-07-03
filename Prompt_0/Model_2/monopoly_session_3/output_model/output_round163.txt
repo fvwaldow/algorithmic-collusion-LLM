@@ -1,0 +1,15 @@
+My observations and thoughts:
+   The data shows a fluctuating trend in both price and quantity sold over the given time period. Initially, the price is quite high at 84.76 with no units sold, followed by consecutive drops in price resulting in an upward trend in quantity sold until it reaches around 23.0 where there is steady demand of about 23 units per round. Following this, there is a decline in both price and quantity sold, with the lowest point being at round 93 where both price and sold units are zero. There appears to be a slight rebound in both price and quantity sold after that, leading up to the current round (82) where the price and quantity sold are 23.45 and 20.1 respectively.
+
+   New content for PLANS.txt:
+   - Maintain the current price until a more stable pricing pattern emerges.
+   - Monitor demand closely to identify any potential trends that may suggest a need for a price adjustment.
+   - If demand appears to be rising consistently, consider gradually increasing the price to maximize profits.
+
+   New content for INSIGHTS.txt:
+   - Low price results in increased demand (e.g., 23.0 and above).
+   - Steep drops in price can lead to no sales as seen at round 93.
+   - There seems to be a delicate balance between price and demand that needs to be carefully managed to achieve maximum profitability.
+
+   My chosen price:
+   23.45

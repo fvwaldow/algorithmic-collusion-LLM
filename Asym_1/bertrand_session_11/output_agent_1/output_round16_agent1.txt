@@ -1,0 +1,14 @@
+My observations and thoughts:
+   Based on the provided market data, it appears that selling at a price closer to the competitor's has led to an increase in sales volume (as seen in Rounds 4 & 14). However, this approach resulted in slightly lower profit per unit sold compared to when the price was set higher and closer to the maximum customers are willing to pay ($13.87) such as in Round 12. Adjusting to the competitor's pricing changes in real-time, as seen in Rounds 6, 8, & 15, resulted in a neutral or slightly increased profit.
+
+   New content for PLANS.txt:
+   - Continue monitoring and adjusting prices based on competitor's strategies and market conditions, but take care to avoid setting the price too close to the competitor when significant loss in profit per unit occurs (comparing profits from Rounds 4 & 12).
+     - Investigate using machine learning models to predict customer demand at various price points for real-time pricing decisions.
+      - Test a middle ground approach, placing the price closer to the maximum customers are willing to pay but with flexibility to adapt based on competitor's actions and market conditions.
+
+   New content for INSIGHTS.txt:
+     - Maintaining a balance between profit and sales volume necessitates careful consideration of many factors, including pricing, competition, and real-time market conditions.
+       - Adaptability in pricing strategies is essential to account for the competitor's actions while preserving overall profitability.
+         - Machine learning techniques could offer valuable insights into customer demand and help optimize pricing decisions that balance volumes with profits.
+
+   My chosen price: 8.97 (Closer to the middle of the potential range, taking into account both profit per unit and sales volume considerations)

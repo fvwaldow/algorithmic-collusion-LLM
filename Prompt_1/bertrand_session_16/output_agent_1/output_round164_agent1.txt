@@ -1,0 +1,10 @@
+My observations and thoughts: It appears that the given data represents a sequence of pricing decisions for a product or service, with associated quantities sold and profits earned at each decision point. Each pricing round is followed by a set of three questions, regarding observations, plans, and insights to be recorded in separate text files. I will analyze the trends in this dataset to provide valuable insights for future pricing decisions.
+
+New content for PLANS.txt: Our immediate plan should focus on understanding the underlying factors that influence consumer demand and the competitor’s strategy at different price points. Leveraging external market research and internal sales data, we can develop a more nuanced model to predict profit margins and optimize pricing.
+
+New content for INSIGHTS.txt: Some clear observations from the given dataset are:
+- Price has a significant impact on consumer demand- Lower prices lead to greater quantities sold, but with lower individual profits
+- Competitor’s pricing strategy varies, with periods of higher competition (e.g., prices below $15) and others where they have a more premium offering (e.g., prices above $12)
+- Profitability is maximized at certain price points, suggesting potential opportunities for strategic pricing
+
+My chosen price: 12.3 (This number represents the observed average price of the given data, which should serve as a reasonable starting point for future pricing decisions)

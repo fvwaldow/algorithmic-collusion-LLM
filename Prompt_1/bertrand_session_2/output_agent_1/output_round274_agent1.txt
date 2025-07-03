@@ -1,0 +1,13 @@
+My observations and thoughts: This dataset shows pricing strategies from 180 pricing rounds for a certain product, with a competitor's price also provided in most cases. It looks like the product has a base price of $1.45, but it is occasionally priced higher or lower depending on the competition. However, there are several instances where the product was priced significantly higher ($2, $4, and even $4.0) than its normal range of $1.2 - $1.75. It appears that high prices were used to capitalize on a competitor's price increase, or to offer value-added services. It would be interesting to examine the relationship between the product quantity sold and the price fluctuations to potentially identify patterns or trends.
+
+   New content for PLANS.txt:
+   - Analyze the relationship between the competitor's pricing strategy and the chosen price in each round, to determine any potential patterns or tendencies.
+   - Investigate the selling quantity of the product at different price points to identify optimal price ranges and possible demand-side factors.
+   - Examine high-price instances for the purpose of capitalizing on competitor's price increases or offering value-added services to justify higher pricing.
+
+   New content for INSIGHTS.txt:
+   - Pricing seems to be responsive to the competitor's pricing strategy, as demonstrated by many instances of price adjustments based on the competitor's price movements.
+   - The chosen price is influenced by demand-side factors, as certain price ranges appear to have higher quantities sold (e.g., $1.2-$1.75).
+   - High prices are sometimes used strategically to capitalize on competitor's price increases or to offer value-added services, despite relatively low quantities sold at these high-price points in comparison to the base range.
+
+   My chosen price: 1.45 (this is the most common price shown in this dataset)

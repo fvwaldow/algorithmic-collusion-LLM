@@ -1,0 +1,13 @@
+My observations and thoughts: It appears that a lower price around $7 may result in higher sales volume as indicated in some of the data rounds, with profit margins still maintained at $1 per item. However, there seems to be inconsistency in sales numbers for certain price points, such as $7.8 or $8.5. The optimal price point should be determined through statistical analysis of the relationship between price and profit earned.
+
+   New content for PLANS.txt:
+       - Perform linear regression analysis to find the optimal price point that maximizes the correlation between prices, profit earned, and sales volume while maintaining acceptable profit margins.
+         - Implement a new pricing strategy of testing prices within incremental smaller ranges around $7 (e.g., $6.99 to $7.01).
+           - Analyze trends in customer feedback and market demand rates to validate the statistical findings and ensure long-term profitability.
+
+   New content for INSIGHTS.txt:
+       - Inconsistent sales numbers across some price points require statistical analysis of the data to find optimal pricing range.
+         - A narrower pricing range around $7 may be most advantageous, with a focus on maximizing both sales volume and profit margins.
+           - Customer feedback and market demand rates should be carefully assessed to make informed adjustments to the pricing strategy as needed.
+
+ My chosen price: 6.99 (The smallest testable number within the new range of $6.99 to $7.01)

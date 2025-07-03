@@ -1,0 +1,10 @@
+My observations and thoughts: It appears that there's a significant fluctuation in pricing strategies between the two vendors throughout this data set. One vendor tends to price higher initially (around 10.0, 6.05, 20.0) while the other keeps their price steady at 6.0 or slightly above it (6.1, 6.15). The higher-priced vendor seems to struggle in attracting buyers compared to the lower-priced vendor, as indicated by a consistently lower quantity of units sold. However, when the higher-priced vendor reduces their price, they tend to see increased demand. This pattern suggests that the higher-priced vendor may be testing the waters for a higher initial price and adjusting based on market response.
+    New content for PLANS.txt:
+   - Analyze average cost of goods sold and overhead expenses to better estimate pricing range.
+   - Test lower initial prices more frequently to attract buyers in the short term while maintaining overall profitability.
+   - Implement more dynamic pricing strategies based on market performance, such as weekly price adjustments.
+    New content for INSIGHTS.txt:
+   - Lower starting prices seem to drive higher sales quantity.
+   - The vendor with a steadier, lower-priced strategy has consistently strong demand.
+   - Dynamic, adaptive pricing strategies based on market response may be beneficial for increasing sales volume and overall profitability.
+    My chosen price: 6.0 (This price point is the average of the two vendors' prices in this data set and falls within the range that has shown reasonable success for the lower-priced vendor.)

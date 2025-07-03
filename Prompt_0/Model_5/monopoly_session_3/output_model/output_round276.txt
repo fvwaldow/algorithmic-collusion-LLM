@@ -1,0 +1,21 @@
+My observations and thoughts: 
+
+The data shows that prices have fluctuated significantly, with various different amounts per unit sold across different rounds. Prices ranged from $20.0 up to $26.0 per unit. There's a noticeable pattern of repetition in some pricing strategies - certain combinations like $21.0 for 40.13 units were adopted multiple times, suggesting a potential optimal balance between price and quantity sold that was revisited throughout the trials. 
+
+The profit margin also varies considerably, from as low as around $133 per round to as high as $511.85 per round (in Round 199). Higher prices do seem to correlate with higher profit margins, although not consistently; this might indicate room for strategic adjustments depending on market conditions or other external factors not explicitly provided in the dataset.
+
+New content for PLANS.txt: 
+
+- Investigate if there's a specific external factor influencing these price fluctuations that isn't captured in the current data, such as competitor actions or market demand changes.
+- Analyze profit margins against volume sold to discern if there’s an optimal balance where maximum profits are achieved without severely limiting sales volume.
+
+New content for INSIGHTS.txt:
+
+- The price point of $21.0 for approximately 40 units has been a recurring strategy, indicating its potential as a baseline for further tests under varying conditions.
+- There might be an opportunity to test higher prices when Volume Sold dips and see if it doesn't negatively impact sales volume, thereby maintaining or even increasing profit margins.
+
+My chosen price: 
+
+21.5
+
+This choice reflects a slight increase (from the frequently used $21.0) to test whether a marginal price hike could maintain or even improve upon existing profit margins, considering the observed pattern of revisiting this range for its balance between price and volume sold.

@@ -1,0 +1,13 @@
+My observations and thoughts: This dataset shows the pricing strategies of two competitors over a 150 round game. At first glance, it appears that competition is fierce with frequent adjustments in prices by both parties. In general, the competitor seems more aggressive with pricing changes compared to our model, choosing lower prices but for a limited quantity. Our model often stays constant or increases price slightly even when the competitor decreases theirs. It's also interesting to observe that there are instances where significant changes happen, such as the competitor initially setting much higher prices and then drastically lowering them after several rounds.
+
+   New content for PLANS.txt:
+   - Monitor competitor’s moves more closely, focusing on their pattern of price adjustments and the quantities they sell at different price levels.
+   - Be prepared to adjust our pricing strategy quickly in response to competitor movements, while also considering the potential impact on margins and market positioning
+   - Test varying our own range of prices with limited quantity offers, to observe any reactions or changes in competitor behavior
+
+   New content for INSIGHTS.txt:
+   - Competitor is less concerned about maintaining profit margins, focusing more on volume at lower prices
+   - Our strategy of stability and consistency may not be as effective against a more aggressive pricing approach
+   - Timing of price adjustments can significantly impact competitor behavior, as seen by instances where a price drop triggers a reaction in the competitor's pricing model
+
+   My chosen price: <2.85> (It is important here to acknowledge that choosing a single number is simplistic and may not always be the ideal approach, but for this exercise, I will provide a concrete number based on the insights gathered)

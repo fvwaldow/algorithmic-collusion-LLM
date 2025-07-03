@@ -1,0 +1,11 @@
+My observations and thoughts:
+   - The prices are fluctuating between 6.49 and 7.25. There seems to be a pattern where when the price is lower, the quantity sold increases significantly but profit margin decreases. Conversely, when the price is higher, the quantity sold decreases slightly but profit margin rises moderately. The largest difference in total profit earned was observed between rounds 36 and 37, where a drop in price led to an increase in net profit by approximately $10.2.
+   - There are three possible strategies: lower the price to increase quantity sold while maintaining profitability (although this might lead to minimal profits on each individual sale), raise the price to maximize profit per unit sold or implement a more dynamic pricing strategy balancing both volume of sales and unit price.
+  New content for PLANS.txt:
+   - Implement a dynamic pricing strategy, adjusting prices depending on the competitor's price and market demand.
+   - Conduct targeted advertising campaigns in low-price rounds to drive up overall unit sales.
+   New content for INSIGHTS.txt:
+   - Lower product prices generally lead to higher volume of units sold but lower profit per unit, while higher prices result in lesser volume but higher profits per unit.
+   - Competitor's pricing seems to follow a pattern similar to the market demand; they lower their price when demand is high and raise it during low-demand periods.
+My chosen price:
+7.02

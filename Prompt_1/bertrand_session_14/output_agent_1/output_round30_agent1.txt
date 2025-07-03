@@ -1,0 +1,14 @@
+My observations and thoughts: It appears that the current pricing strategy is not consistent as there are fluctuations in prices, with some instances of prices being high for a low quantity sold compared to lower prices that result in greater profit. The competition's prices have been somewhat erratic yet seem to gravitate towards the higher end of our range. Based on the market data, it seems that a pricing tier between $10.5 and $12.75 offers some potential for profit maximization while remaining competitive against the competitor's price fluctuations. The machine learning model could be improved by learning from multiple rounds of testing to make more accurate pricing predictions in various scenarios.
+
+   New content for PLANS.txt:
+   1. Continue initial price experimentation within a tight pricing tier ($10.5 - $12.75).
+         a. Collect data on customer behavior and sales volume at each price point to train the machine learning model that will predict optimal pricing strategies under different market conditions.
+         b. Reiterate the use of machine learning techniques to analyze market reactions and adapt quickly as market conditions evolve in the long run.
+   2. Analyze data from both previous pricing tests (price points above $13) and lower price points (above $9.5) to identify trends and potential price ranges that could maximize profit while maintaining a competitive edge.
+
+   New content for INSIGHTS.txt:
+      1. Tighter pricing tiers can help identify optimal prices that balance sales volume, profitability and competitiveness against the competition.
+        2. Machine learning models can improve predictions by collecting data from multiple rounds of testing, allowing it to adapt to changing market conditions and make smarter pricing decisions.
+        3. It is important to analyze both previously tested higher and lower price points to identify optimal price ranges that maximize profitability while maintaining competitiveness.
+
+   My chosen price: 10.95

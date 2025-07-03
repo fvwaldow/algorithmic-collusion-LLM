@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+From the provided data, it appears that adjusting the price based on the competitor's price seems crucial for maximizing profit. For instance, when the competitor sets a higher price (like $7.5), decreasing my own price slightly ($6.5) has led to increased sales and higher profits. Conversely, matching or even exceeding the competitor's price ($8.0) results in fewer units sold but potentially higher revenue due to the higher per-unit cost.
+
+There also seems to be a price floor of around $6.0 and a ceiling around $7.5 for this product. Keeping the price below $6.0 doesn't seem to generate enough profit but exceeding $7.5 results in fewer sales, even when demand is high (e.g., Round 172 where there were 12.68 units sold at a higher price).
+
+In addition, it appears that the optimal selling price can be context-dependent (i.e., customer demand or competitor actions), suggesting that implementing dynamic pricing strategies could be beneficial.
+
+PLANS.txt:
+Dynamic pricing strategy: Adjust the price based on the competitor's price, targeting a competitive advantage while taking into account the potential impact on sales volume and overall profitability. Monitor market trends and customer demand to optimize pricing further.
+
+INSIGHTS.txt:
+- Increased sales and higher profits occur when lowering the price compared to the competitor in instances where they raise their price (e.g., Rounds 156, 172).
+- Maintaining a price lower than $6.0 does not lead to enough profit generation (e.g., Round 160).
+- High demand can still result in limited sales when the price is set too high (e.g., Rounds 37, 55, 79).
+- There may be room for experimentation with dynamic pricing strategies to maximize profit in response to competitor actions or shifts in market trends.
+
+My chosen price:
+6.75 (based on a combination of maximizing revenue while ensuring a competitive edge and taking into account the observed market sensitivity to pricing changes)

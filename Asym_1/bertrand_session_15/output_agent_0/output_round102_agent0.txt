@@ -1,0 +1,14 @@
+My observations and thoughts:
+   The data provided represents pricing and sales for a particular product over 40 pricing rounds. The competition's prices range extensively, from $1.02 to $37.5 per unit initially, then gradually decreasing to about $35. However, there was a significant spike at round 32 ($33.0) and round 1-3 ($1.02 - $37.5).
+   Sales numbers are not consistent across rounds; some rounds see massive sales (e.g., round 31 with 80.23 units sold), while others result in none, or nearly none (only 0.01 unit was sold in round 16 and 0.09 in round 11). Interestingly, there seems to be a correlation between high competition prices and low sales.
+   It appears that, despite the varying competitor prices, the lowest price for the product (initially $2) never led to significant sales. Meanwhile, the highest competition price of $37.5 resulted in very few (<100) units sold at each attempt, suggesting it may be unprofitable for both competitors and customers.
+   The data suggests that a moderate pricing strategy might yield better results, striking a balance between affordability and perceived value. Also, the lackluster performance of lower pricing could imply that customers are willing to pay more for this product.
+
+New content for PLANS.txt:
+   Consider entering the market with a competitive baseline price to gain traction and establish brand recognition. Gradually adjust the price upward as the competitive landscape shifts to avoid under- or overpricing. Keep an eye on competitor moves, as rapid changes in pricing may indicate a more volatile market.
+
+New content for INSIGHTS.txt:
+   - The relationship between competition prices and sales numbers is not always straightforward, with higher prices sometimes leading to fewer sales and vice versa. This suggests that customer motivation may be multifaceted, including factors such as affordability, product perception, and brand loyalty.
+   - Sales numbers tend to decrease in conjunction with competitor price surges, which leads to the following hypothesis: customers are more likely to make purchases when prices are relatively stable or on the lower side. This could be due to budget constraints, uncertainty about the competitive landscape, or an overall dislike for high-priced items.
+   - Extremely high and low competition prices may not be optimal pricing strategies, as these price points have resulted in few sales every time they were attempted (price of $37.5) or no sales (price of $1.02 – $37.5 initially). This could suggest that customers are unwilling to pay the high prices set by some competitors and may be skeptical of very low prices for this particular product.
+   My chosen price: 15

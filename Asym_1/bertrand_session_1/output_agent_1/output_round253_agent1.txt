@@ -1,0 +1,15 @@
+My observations and thoughts: The data provided represents a series of price adjustments by the seller (referred to as "My price") in competition with another seller ("Competitor's price"). The dataset ranges from Round 156 to Round 3. The seller initially set their price at $2.15, but it changed multiple times throughout the rounds.
+   The competitor's price varied significantly as well, ranging from $2.00 to $3.5. Sometimes, the seller matched or adjusted their price based on their competitor's actions, while other times they maintained a higher price even when the competitor dropped theirs.
+   It is also worth noting the number of units sold in each round, which provides insight into the market demand for the product at that specific price point. This data can help understand how sensitive the market is to price changes and how it affects supply-demand equilibrium.
+
+NEW CONTENT FOR PLANS.txt:
+   * Analyze the relationship between price and customer response, using both competitor data and the number of units sold.
+   * Consider developing a pricing strategy that takes into account market sensitivity to changes in product cost.
+   * Implement a system for monitoring competitor's prices to make informed decisions regarding adjusting own product price.
+
+NEW CONTENT FOR INSIGHTS.txt:
+   - Market demand for the product appears sensitive to price changes, as indicated by changes in units sold.
+   - The seller often adjusted their pricing based on the competitor's actions rather than relying on their initial strategy.
+   - It is essential to consider market sensitivity and competitor action when adjusting product prices to maximize profits.
+
+My chosen price: 2.X (to be determined based on the analysis)

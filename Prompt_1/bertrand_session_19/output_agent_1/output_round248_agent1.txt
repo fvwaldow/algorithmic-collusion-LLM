@@ -1,0 +1,14 @@
+My observations and thoughts: The data provided represents sales of a certain product with an initially fixed price of $20. The competitor's prices varied throughout the experiment while our price stayed mostly consistent. We observe that some changes in our own price led to increased profit, for example when it was raised to $22.5 and $23.0 despite having a higher competition price of $23.5 and $25.0 respectively. Similarly, dropping our price to $19.5 lead to a decrease in profit during round 150 when the competitor's price was still $20.0. Adjusting the price seems to be an effective strategy for increasing profits when done wisely based on competition prices and customer demand.
+
+   New content for PLANS.txt:
+   - Consider monitoring competitor's pricing changes closely, adjusting our price strategically when needed.
+   - Explore offering special promotions during periods of higher competition pricing to attract customers.
+   - Continuously analyze sales data for trends or patterns to optimize pricing decisions.
+
+   New content for INSIGHTS.txt:
+   - Significant drop in profit when price is lowered while competition maintains similar pricing (round 150)
+   - Increase in profit with higher pricing when there is less competition (round 162, 180)
+   - Strategic pricing adjustments can lead to increased profit opportunities
+   - Maintaining a consistent price while the competitor raises theirs can result in long-term profit growth (e.g., rounds 170, 150)
+
+   My chosen price: 23.0 (based on previous instances where higher pricing led to increased profit and minimal price competition)

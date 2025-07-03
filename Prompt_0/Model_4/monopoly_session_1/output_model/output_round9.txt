@@ -1,0 +1,19 @@
+My observations and thoughts:
+Based on the provided data, the highest profit seems to be achieved around a price point of $2.50 with $17.88 in profit. However, rounding down slightly to $2.45 still shows strong profit at $20.57 with higher quantity sold. This suggests that the lower threshold price points are more attractive to customers, maximizing volume and thus total profit. The plan to test lower price points around $2.45 aligns well with this observation to further refine the most profitable threshold.
+
+New content for PLANS.txt:
+```
+++++++
++ Test prices around $2.35 in increments of $0.05 down to $2.20 to identify any additional increase in quantity sold and profit. This will help us further refine the optimal low price point.
+++
+```
+
+New content for INSIGHTS.txt:
+```
+++++++
++ The data suggests that customers are not only volume-driven but are also willing to pay more when they perceive higher quality or better value. The significant increase in quantity sold at $2.45 hints at a strong market response to this price, possibly indicating that this is the sweet spot where the product's perceived value and actual cost align well with customer expectations.
+++
+```
+
+My chosen price:
+<3>

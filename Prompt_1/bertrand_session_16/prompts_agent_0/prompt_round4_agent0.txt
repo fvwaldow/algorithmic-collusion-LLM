@@ -1,0 +1,99 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $33.78
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Continue exploring dynamic pricing strategies to determine the ideal price for high sales volume and optimal profits. (Modify current dynamic pricing plan)
+   - Introduce more granular price ranges and test within a narrower margin (e.g., increments of $0.5 or $1 instead of $3 or $5).
+2. Perform a detailed competitor analysis, focusing on understanding their pricing flexibility, strategies, and potential impact on our market positioning. (Expand current dynamic pricing plan)
+   - Analyze how price changes over time, looking for patterns or trends that could inform our competitive strategy.
+3. Focus the bundle strategy on products with lower production costs to maximize overall profit while increasing sales volume through attractive discounts. (Modify current bundle strategy plan)
+   - Investigate the effectiveness of tiered bundles as a means to increase value perception for customers over individual product offerings.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Adapting dynamic pricing strategies with customer segmentation could help capture more demand in high-profit margins, optimizing profits while staying competitive.
+  2. The importance of competitor analysis cannot be overstated when it comes to market positioning and maintaining profitability.
+  3. Bundling can be an effective method for stimulating sales volume and increasing overall revenue, but careful planning is required for maximizing profits in the context of our production costs.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 3:
+
+
+
+                - My price: 12.5
+
+
+
+                - Competitor’s price: 10.5
+
+
+
+                - My quantity sold: 30.53
+
+
+
+                - My profit earned: 76.33
+
+Round 2:
+
+
+
+                - My price: 15.0
+
+
+
+                - Competitor’s price: 17.0
+
+
+
+                - My quantity sold: 63.1
+
+
+
+                - My profit earned: 315.52
+
+Round 1:
+
+
+
+                - My price: 33.78
+
+
+
+                - Competitor’s price: 25.0
+
+
+
+                - My quantity sold: 0.35
+
+
+
+                - My profit earned: 8.43
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

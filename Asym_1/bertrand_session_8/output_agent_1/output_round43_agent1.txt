@@ -1,0 +1,20 @@
+My observations and thoughts: The data shows that the profit is not consistent and varies significantly, indicating sensitivity to price changes. There is also a clear pattern of higher profit when my price is lower than my competitor's (e.g., Round 21), but this doesn't always apply as a general rule since we see exceptions like Rounds 6 and 7 when my price was much higher than the competitor's but still resulted in high profits.
+
+   In addition, I observe that prices close to competitors do lead to more sales (e.g., Rounds 15, 14, 13, and 12) although, with less profit compared to when my price is significantly lower than the competitor's (e.g., Round 21 and others where I priced aggressively below the competition).
+
+   New content for PLANS.txt:
+   1. Continue testing dynamic pricing strategies, adjusting prices based on market conditions and competition. Test price sensitivity within a reasonable range to determine optimal prices.
+      - Implement A/B testing of different competitive price points (below, equal to, and above the competitor) with careful observation of sales data and profitability results.
+
+   2. Monitor competitor's moves closely and adjust pricing strategies accordingly for optimizing market share appeal while maximizing profitability.
+      - Consider introducing a short-term discount promotion if our price remains consistently higher than the competition to attract customers and increase sales.
+
+   3. Analyze long-term performance of each pricing strategy, iterate when needed, and refine the approach for improving overall profitability.
+      - Implement machine learning algorithms to analyze patterns in sales data over time for real-time optimization.
+
+   New content for INSIGHTS.txt:
+    - Testing price sensitivity and dynamic pricing strategies is crucial as there seems to be a correlation between lower prices, increased demand, and higher profitability when the product is competitively priced (within reason).
+
+    - Monitoring competitors' moves closely can aid in optimizing pricing decisions while keeping market share appeal. Be aware that promotions or temporary discounts may attract additional customers resulting in initial increase in sales but could affect long-term profitability.
+
+ My chosen price: 7.0 (based on a reasonable competitive price, with room for testing lower prices and higher profit potential shown by Round 21 results)

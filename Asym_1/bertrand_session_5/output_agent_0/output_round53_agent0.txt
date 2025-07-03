@@ -1,0 +1,14 @@
+My observations and thoughts: The user has been testing prices within a range of 2.7 - 3.15 and the quantity sold varied considerably, with profits ranging from 1.17 to 7.92. In some instance, lowering the price led to higher sales volume and increased profitability as compared to setting a higher price. This suggests that finding an optimal pricing point which maximizes both sales volume and profit is essential. The competitor's prices have also varied but were generally higher than the user with a few exceptions, though the impact on the user's market share isn't entirely clear from the provided data.
+
+   New content for PLANS.txt:
+    1. Implement a systematic approach to testing prices within the range of 2.7 - 3.0, fine-tuning at shorter intervals (e.g., 0.02 or 0.01) and closely monitoring sales volume and profit margins during each round.
+       * Monitor competition by tracking their pricing trends, market shares, and adjust prices accordingly to maintain a competitive position within the market.
+    2. Periodically revisit previously tested pricing strategies as market conditions may change, optimize pricing based on ongoing insights gathered with an emphasis on long-term profit maximization.
+    3. Explore implementing dynamic discounting during specific periods while ensuring profitability remains maximized to gain additional sales volume.
+    4. Investigate the effects of different marketing campaigns on price elasticity and their impact on revenue and market share during various pricing rounds.
+
+   New content for INSIGHTS.txt:
+    1. Setting a lower price within the testing range resulted in higher sales volume in some instances, leading to increased profitability compared to setting a higher price.
+    2. Competitor prices have varied significantly but were generally higher than the user with some exceptions, though it is unclear how much this has affected the user's market share.
+
+   My chosen price: 3.01 (continuously adjusting the decimal in increments of .01 to find the optimal pricing point)

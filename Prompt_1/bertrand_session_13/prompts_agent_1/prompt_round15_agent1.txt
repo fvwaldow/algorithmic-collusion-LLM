@@ -1,0 +1,290 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $14.54
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+Expand A/B testing by experimenting with a variety of prices within the range of our competitor's price and the maximum acceptable price of $14.54. Continuously analyze the impact of pricing changes on sales volume and profitability. Collaborate with market research teams to gather real-time data on customer preferences, willingness to pay, and changing trends to optimize pricing strategies accordingly.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+Optimizing both the price and sales volume is crucial for long-term profitability. Striking a balance between profit margin and attracting more customers by providing competitive pricing is essential. Monitoring customer preferences, market trends, competitor's pricing strategies, and feedback data will allow continuous optimization of prices to maximize profit.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 14:
+
+
+
+                - My price: 8.95
+
+
+
+                - Competitor’s price: 8.95
+
+
+
+                - My quantity sold: 3.81
+
+
+
+                - My profit earned: 21.92
+
+Round 13:
+
+
+
+                - My price: 10.23
+
+
+
+                - Competitor’s price: 8.5
+
+
+
+                - My quantity sold: 0.77
+
+
+
+                - My profit earned: 5.42
+
+Round 12:
+
+
+
+                - My price: 9.1
+
+
+
+                - Competitor’s price: 9.45
+
+
+
+                - My quantity sold: 3.24
+
+
+
+                - My profit earned: 19.11
+
+Round 11:
+
+
+
+                - My price: 9.5
+
+
+
+                - Competitor’s price: 9.5
+
+
+
+                - My quantity sold: 1.99
+
+
+
+                - My profit earned: 12.55
+
+Round 10:
+
+
+
+                - My price: 9.85
+
+
+
+                - Competitor’s price: 9.2
+
+
+
+                - My quantity sold: 1.28
+
+
+
+                - My profit earned: 8.54
+
+Round 9:
+
+
+
+                - My price: 9.85
+
+
+
+                - Competitor’s price: 9.25
+
+
+
+                - My quantity sold: 1.29
+
+
+
+                - My profit earned: 8.55
+
+Round 8:
+
+
+
+                - My price: 9.5
+
+
+
+                - Competitor’s price: 9.0
+
+
+
+                - My quantity sold: 1.96
+
+
+
+                - My profit earned: 12.34
+
+Round 7:
+
+
+
+                - My price: 10.0
+
+
+
+                - Competitor’s price: 8.5
+
+
+
+                - My quantity sold: 1.03
+
+
+
+                - My profit earned: 6.97
+
+Round 6:
+
+
+
+                - My price: 10.25
+
+
+
+                - Competitor’s price: 8.5
+
+
+
+                - My quantity sold: 0.75
+
+
+
+                - My profit earned: 5.3
+
+Round 5:
+
+
+
+                - My price: 9.5
+
+
+
+                - Competitor’s price: 10.0
+
+
+
+                - My quantity sold: 2.01
+
+
+
+                - My profit earned: 12.67
+
+Round 4:
+
+
+
+                - My price: 10.0
+
+
+
+                - Competitor’s price: 9.0
+
+
+
+                - My quantity sold: 1.06
+
+
+
+                - My profit earned: 7.2
+
+Round 3:
+
+
+
+                - My price: 10.5
+
+
+
+                - Competitor’s price: 12.0
+
+
+
+                - My quantity sold: 0.59
+
+
+
+                - My profit earned: 4.31
+
+Round 2:
+
+
+
+                - My price: 12.0
+
+
+
+                - Competitor’s price: 11.9
+
+
+
+                - My quantity sold: 0.09
+
+
+
+                - My profit earned: 0.8
+
+Round 1:
+
+
+
+                - My price: 12.0
+
+
+
+                - Competitor’s price: 11.5
+
+
+
+                - My quantity sold: 0.09
+
+
+
+                - My profit earned: 0.8
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

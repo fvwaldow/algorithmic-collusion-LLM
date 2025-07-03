@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+Based on the data provided, it appears that there is a consistent "sweet spot" for pricing between $2.80-$3.10, as mentioned in the INSIGHTS.txt file from the previous round. In this range, the profit earned seems to be maximized, with a maximum value of 5.05 (Round 89). This suggests that prices within this range are optimal.
+
+However, there is one outlier in the data where the price is set to $36.0 (Round 122), resulting in zero quantity sold and zero profit earned. It's unclear why this price was chosen or what impact it had on the customer behavior, but it's worth noting that setting a significantly higher price than the optimal range may not be an effective strategy.
+
+In terms of the data distribution, there is a good range of prices tested within the sweet spot, making it possible to identify the optimal price. However, some data points seem to repeat themselves (e.g., multiple rounds with the same price of $2.97), which may make it more challenging to identify trends and patterns.
+
+New content for PLANS.txt:
+
+* Since we've already identified the sweet spot between $2.80-$3.10, our next step should be to fine-tune this range by testing prices within this interval.
+* We should also consider testing prices above or below the sweet spot to understand the shape of the profit function and potential trade-offs.
+
+New content for INSIGHTS.txt:
+
+* The optimal price range is between $2.80-$3.10, with a maximum profit earned of 5.05 (Round 89).
+* Testing prices within the optimal range can help identify the precise price that results in maximized profits.
+* We should be cautious when setting significantly higher or lower prices than the sweet spot, as this may lead to reduced sales and revenue.
+
+My chosen price:
+
+2.93

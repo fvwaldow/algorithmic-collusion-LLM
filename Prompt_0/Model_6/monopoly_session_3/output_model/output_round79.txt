@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+* The data shows a strong profit potential at prices around $19-$20.
+* There is an indication that higher prices lead to a significant decrease in quantity sold, with prices above $24 resulting in very low quantities sold (e.g., Round 65, price = $25.0).
+* I observed a noticeable increase in price sensitivity near the upper limit of $21-$22 (e.g., Rounds 70-72).
+* There is an indication that a balance between revenue maximization and profit margin could be achieved by adjusting prices within the lower range ($19-$20).
+
+New content for PLANS.txt:
+
+1. Test if lowering the optimal range ($19-$20) by small increments (e.g., $18.75 or $18.50) can further optimize profit without sacrificing demand.
+2. Investigate why higher prices lead to a significant decrease in quantity sold, examining the implications for long-term profitability.
+
+New content for INSIGHTS.txt:
+
+* Confirm that an upper limit on price sensitivity exists around $20-$21 through quantitative analysis of market demand data is partially confirmed. I also observed it at higher price points (e.g., Round 70-72).
+* Consider increasing prices within this lower range to achieve a balance between revenue maximization and profit margins without losing consumer interest.
+
+My chosen price:
+$19

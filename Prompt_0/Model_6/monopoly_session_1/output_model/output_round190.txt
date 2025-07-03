@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+* The data shows a consistent pattern of decreasing quantity sold as the price increases. This confirms the non-linear relationship between price and quantity sold mentioned in INSIGHTS.txt.
+* There is no correlation between price and profit earned, as even at high prices (such as $36.0), the profit earned is still very low ($0). This suggests that there may be a maximum price cap for this product or that there are other factors limiting sales.
+* Many rounds have seen extremely low quantity sold (e.g., 0 in Round 122) when the price exceeds a threshold around $2.98-$3.00. This suggests that prices above this range may not be viable.
+
+New content for PLANS.txt:
+
+* Continue to monitor and document the relationship between price and quantity sold.
+* Explore potential causes for the observed maximum price cap (e.g., market saturation, competition, or inventory constraints).
+* Consider strategies to segment customers or target specific markets where higher prices may be feasible.
+
+New content for INSIGHTS.txt:
+
+* The non-linear relationship between price and quantity sold suggests that simple linear pricing models may not be sufficient. Alternative pricing strategies, such as tiered pricing or dynamic pricing, may be worth exploring.
+* Further research is needed to understand the nature of the maximum price cap and potential ways to mitigate its impact.
+
+My chosen price:
+2.95

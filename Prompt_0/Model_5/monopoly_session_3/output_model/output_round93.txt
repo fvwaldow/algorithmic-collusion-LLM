@@ -1,0 +1,15 @@
+My observations and thoughts:
+The user provided a record of their previous 100 rounds with various prices and corresponding quantities sold along with profits earned. The pricing strategy oscillates significantly, from as low as $1.25 per unit to as high as $27.5. Notable recurring prices include $19.5 (appearing 33 times), $19.0 (14 times), and $18.5 (6 times). The profits vary greatly round by round, ranging from losses (-$874.52 in Round 38) to higher gains within the hundreds ($472.67 in Round 7). There's clear variation in sales quantities ranging from as few as 4 units to over a hundred.
+
+New content for PLANS.txt:
+- Analyze consistent profit margins per price point to identify optimal pricing.
+- Investigate correlation between high-volume sales (round 5 with 35 units sold at $21.5) and low price points to understand demand sensitivity.
+- Explore the possibility of dynamic pricing by adjusting rates in response to market demand or competitor prices if applicable.
+
+New content for INSIGHTS.txt:
+- Although Round 19-32 repeat the price $19.5 with high volume sales, profits are inconsistent likely due to varying costs not detailed here.
+- Observe that despite lower price points (like Rounds 8, 11, 12 with $18.5 and $19.0 respectively) yielding relatively good profits, these rounds don't frequently recur.
+- High profit rounding (like Round 7 with $472.67 at $20.5, or Rounds 1-4 with around $100 profits each at various prices) provides valuable price-performance data.
+
+My chosen price:
+19.5

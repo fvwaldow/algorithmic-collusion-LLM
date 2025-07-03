@@ -1,0 +1,13 @@
+My observations and thoughts:
+This data represents a simulation of a pricing strategy game between two competitors. Each round signifies a price adjustment by both competitors, and the quantity sold is based on the adjusted prices. The initial price of the product was high ($13), which resulted in no sales. Gradually, one competitor lowered their price to attract more customers, while the other increased or maintained their price. However, when the first competitor aggressively reduced their price to match the second competitor at $8.05 in Round 30, it seems they were able to sustain higher sales volumes and greater profits compared to the second competitor. It's also noteworthy that the first competitor made more aggressive price decreases than the second competitor.
+
+   New content for PLANS.txt:
+In order to compete effectively, I would propose an adaptive pricing strategy. Based on the observations from this simulation, it appears that aggressive pricing can lead to increased market share and higher profits. Therefore, it's essential to keep a close eye on the competitive landscape and be prepared to modify prices as needed. Additionally, it may be beneficial to conduct research on price elasticity of demand for our product, so we can better understand how changes in price might impact sales volume.
+
+   New content for INSIGHTS.txt:
+- Aggressive pricing can lead to increased market share and higher profits, but it requires careful monitoring of the competitive landscape.
+- Understanding price elasticity of demand is crucial when making pricing decisions to maximize profit and maintain competitiveness.
+- Sales volume can significantly impact the overall profit generation for the company.
+
+My chosen price:
+8.05 (This number matches the lowest price observed in the simulation where the first competitor was able to sustain sales while also earning more profits than their competitors)

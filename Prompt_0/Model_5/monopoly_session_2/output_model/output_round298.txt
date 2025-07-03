@@ -1,0 +1,11 @@
+My observations and thoughts:
+The data shows a wide variety of prices ranging from as low as 5.99 to as high as 10.85. There's a visible trend of adjusting prices based on volume sold, with instances where lower prices resulted in higher quantities sold compared to slightly increased prices with lesser volumes. However, exceptions exist such as consistent sales volumes and profits when pricing was similar but slightly varied. Patterns are subtle, suggesting the need for a nuanced approach to pricing rather than strict pattern-based decisions.
+
+New content for PLANS.txt:
+Monitor sales data more closely for patterns that could indicate optimal pricing points without significantly reducing volume sold. Further analyze the effect of price changes on profit margin vs. quantity sold trade-offs.
+
+New content for INSIGHTS.txt:
+Price fluctuations do not seem to have a clear linear relationship with sales volume, suggesting that there might be local optima instead of global ones. Further testing and possibly A/B experiments on smaller data subsets could clarify these relationships.
+
+My chosen price:
+10.45

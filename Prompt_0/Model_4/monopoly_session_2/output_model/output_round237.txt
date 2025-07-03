@@ -1,0 +1,26 @@
+Upon analyzing the provided data, it's clear the focus is on finding optimal prices for various scenarios aimed at maximizing profit while considering quantity sold. Observing the rounds reveals a pattern where adjustments are made based on the relationship between price and quantity sold, aiming to find a balance that results in high profit margins.
+
+**My Observations and Thoughts:**
+
+- The data suggests a structured approach to pricing, starting with specific targets and adjusting based on outcomes. There's a clear emphasis on finding the right balance, where increasing the quantity sold does not significantly reduce the profit per unit.
+- Prices seem to fluctuate around a certain range ($12.00-$12.50) for consistent results, indicating this might be an optimal price point or range. Adjustments in prices outside this range do not appear to yield consistently higher profits across varying quantities sold.
+- Profit per unit (last column) is maximized when prices are set appropriately, suggesting a direct correlation between the chosen price and the profit achieved.
+
+**New content for PLANS.txt:**
+
+```plaintext
+Plan: Focus on maintaining or slightly increasing prices around $12.00-$12.50 to maximize consistent profits per unit.
+Consider expanding quantities sold while keeping the price within this range to further boost total revenue.
+Evaluate any deviations from this plan to understand their impact on profit margins and adjust accordingly.
+```
+
+**New content for INSIGHTS.txt:**
+
+```plaintext
+Insights: The rounds indicate that prices around $12.00-$12.50 result in the most stable and high profits per unit. Adjustments within this range show resilience to varying quantities sold without drastically reducing profitability. It's essential to maintain a careful watch on market reactions post-price adjustment to ensure sustained optimal performance.
+```
+
+**My chosen price:**
+
+12.30
+```

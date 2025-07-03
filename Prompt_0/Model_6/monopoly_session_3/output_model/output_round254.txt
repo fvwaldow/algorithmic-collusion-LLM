@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+* There are significant fluctuations in the data, indicating that the optimal price is likely not a static value. Seasonality or other factors may be at play.
+* The highest profit earned was $522.34 (Round 175), at a price point of $19.5. However, this price also results in one of the lowest quantity sold values during that round (54.98).
+* A more consistent pricing strategy seems necessary to balance profit and sales volume.
+
+New content for PLANS.txt:
+
+* Investigate potential seasonal factors influencing demand
+* Examine correlation between price point and quantity sold
+* Test a range of new prices with incremental steps (e.g., adjust by 0.1-0.5 units) to observe immediate responses
+
+New content for INSIGHTS.txt:
+
+* $19.5 may be the upper limit for maximizing profit, but significant deviations from this price tend to incur substantial losses in sales volume
+* The presence of outliers in the dataset (e.g., Round 194 and 203 with unusually high prices) does not seem consequential; pricing decisions appear unaffected by these anomalies
+
+My chosen price:
+
+$19.5

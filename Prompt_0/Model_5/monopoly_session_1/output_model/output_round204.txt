@@ -1,0 +1,17 @@
+My observations and thoughts:
+- The base price fluctuates significantly across various rounds, ranging from as low as $2.28 to as high as $3.0. 
+- There are recurring values indicating potential optimal pricing zones, such as $2.3 appearing multiple times (48 instances) and $2.28 also occurring frequently (15 instances).
+- The highest profit is consistently observed around the $2.3 to $2.31 price point, suggesting this range might be optimal.
+- Occasional high profits are noted above $2.5, but these instances are less frequent.
+- There is an unexplained anomaly in rounds 138 and 139 where prices of $231.0 and $2.31 respectively yield zero sales.
+
+New content for PLANS.txt:
+Exploration of price clustering around $2.3-$2.31 has shown consistent high profits, suggesting this range as potentially optimal with minimal risk. Further investigation into potential market saturation or other external factors causing lower sales at these prices might be prudent before committing to a decision.
+
+New content for INSIGHTS.txt:
+* The data strongly indicates that the $2.3-$2.31 range is consistently associating with higher profits, suggesting it should be prioritized in future pricing strategies.
+* Prices deviating significantly from this range (especially below $2.28) did not yield consistently high profit margins, hinting caution around setting prices too low. 
+* An investigation into the anomalous rounds 138 and 139 is necessary to understand if there were external factors leading to zero sales rather than inherent weakness of those price points.
+
+My chosen price: 
+2.3

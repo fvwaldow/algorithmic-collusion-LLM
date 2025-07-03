@@ -1,0 +1,13 @@
+My observations and thoughts: Based on the provided market data, it appears that charging a high price (4.5, 4.77) has resulted in no sales, while lowering the price slightly (3.6 - 3.76) also results in very low sales. The competitor's prices are slightly higher than mine for most rounds but have a more consistent quantity sold. Considering the $1 cost per unit and the customer restriction of not paying more than $4.77, I recommend exploring pricing strategies that aim to find the Optimal Customer Price Point (OCPP) while remaining competitive with the competitor.
+
+   New content for PLANS.txt:
+    1. Test prices at various levels between the cost and the maximum price-elastic limit ($4.77).
+      2. Implement a dynamic pricing strategy that adjusts based on competitor's actions while monitoring sales and revenue to remain profitable.
+      3. Continuously optimize through testing and analysis as market conditions change.
+
+   New content for INSIGHTS.txt:
+     30. Test various price points between the cost and price-elastic limit to find OCPP for long-term profitability.
+     31. Maintain a competitive stance in pricing while monitoring sales & revenue fluctuations.
+     32. Recommend continuous optimization through testing and analysis as market conditions change.
+
+   My chosen price: 3.4 (adjusting the current highest selling price slightly while staying beneath the competitor's price)

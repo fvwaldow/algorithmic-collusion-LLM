@@ -1,0 +1,14 @@
+My observations and thoughts: The information provided is a list of 50 pricing rounds, each round consisting of the current price, competitor's price, quantity sold, and profit earned by the company. It appears that the goal is to find an optimal price strategy based on this data.
+
+   New content for PLANS.txt:
+   To start, let's analyze the trend in profits over the pricing rounds. This could give us insights into whether higher or lower prices result in increased profits.
+   1. Calculate the total profit earned in each round and sum them all to get a grand total.
+   2. Find the average profit per round by dividing the total profit by the number of rounds (50).
+   3. Analyze which price ranges yield higher profit, keeping in mind that some pricing rounds have higher quantities sold resulting in a larger profit.
+
+   New content for INSIGHTS.txt:
+   Initially, it seems like there is no clear-cut optimal price strategy as profits can fluctuate drastically throughout the 50 pricing rounds. However, some interesting patterns can be observed:
+   1. When the company's price is lower than the competitor's, more units are sold, but the profit may not always be higher due to lower prices. Conversely, when the company's price is higher than the competitor's, profit tends to increase even if fewer units are sold.
+   2. There is a slightly higher average profit in pricing rounds where the company's price is around 6.3. Additionally, it seems that price fluctuations around this range (5.9-6.7) can result in either lower or higher profits.
+
+   My chosen price: 6.3 (This number was derived from the analysis of the profit trend throughout the pricing rounds.)

@@ -1,0 +1,14 @@
+My observations and thoughts:
+Based on the market data presented, it is clear that the current pricing strategies are not working well as they result in very low sales volume and profit. In Round 14, a competitive base price was used with tiered discounts, which resulted in higher sales volume compared to the previous rounds. However, the profit earned was still relatively low.
+
+New content for PLANS.txt:
+    + Continue using a competitive base price, but adjust it to be closer to the competitor's price without crossing the maximum customer willingness-to-pay ($5.43). Test different base prices and compare their effect on sales volume and profitability.
+      + Implement a dynamic discount strategy, where smaller discounts are offered at lower quantity thresholds instead of substantial discounts.
+      + Monitor sales volume, average profitability, and market share relative to the competitor for each new pricing approach tested.
+
+New content for INSIGHTS.txt:
+    + A more competitive base price might lead to increased sales volume but might require a close monitoring of the quantity sold threshold to maintain profitability.
+      + Dynamic discounts instead of substantial discounts could incentivize bulk purchases while preserving profitability.
+
+My chosen price:
+2.95 (This price is closer to the competitor's price and aims to attract more customers without significantly reducing profit)

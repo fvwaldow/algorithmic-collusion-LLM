@@ -1,0 +1,10 @@
+My observations and thoughts:
+The profit earned per round varies greatly depending on the price and quantity sold. Consistently higher profits are observed when the selling price is around 12 to 13, with quantities sold ranging from 4 to 6. Notably, in certain rounds, such as Round 92 and Round 93, the quantity sold is zero, which results in zero profit despite a non-zero price. These instances might indicate that the chosen price is beyond the maximum willingness to pay for buyers. Conversely, higher quantities sold at lower prices (e.g., Round 104) yield significant profits, suggesting a balance between price and demand exists.
+
+New content for PLANS.txt:
+Adjust pricing strategy to test varying prices between 12$ and 13$, observing quantity sold for each. If higher quantities are sold at this range, solidify as target price; if not, adjust towards optimal price found in prior rounds with highest balance of price and quantity.
+
+New content for INSIGHTS.txt:
+Invariants: Quantity sold is zero at high prices, indicating buyer limit. Profit maxes around $12-$13 range, balancing demand and pricing. Insights: Round 93 shows zero profit despite $12.5 price; Round 92 and 93 highlight need for quantity sensitivity in pricing decisions.
+
+My chosen price: 12

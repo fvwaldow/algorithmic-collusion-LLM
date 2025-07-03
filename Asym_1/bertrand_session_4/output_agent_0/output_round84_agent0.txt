@@ -1,0 +1,16 @@
+My observations and thoughts:
+   After examining the data on prices, quantities sold, and profits earned in each round, it appears that there is a high variability in pricing strategies used by both parties throughout the course of the simulated competition. At times, lowering the price seems to lead to an increase in quantity sold (for example, Round 23 and Round 19), but this strategy does not always ensure a higher profit (such as in Rounds 10 and 14).
+   Additionally, it's important to note that there are instances where setting a higher price can still result in zero sales (Rounds 5 and 4) or insufficient profits (Round 3), indicating that customers may perceive higher priced goods as not being worth their cost.
+
+   New content for PLANS.txt:
+   To create an effective pricing strategy, it is essential to analyze the market trends observed in each round and adapt accordingly, focusing on price points and quantities that generate the highest overall profit while maintaining competitiveness with the other party.
+   Consider monitoring customer preferences and adjusting prices based on this knowledge, as well as taking advantage of opportunities to gain sales by lowering prices strategically (such as when there is a significant difference in perceived value between your product and the competitor's).
+
+   New content for INSIGHTS.txt:
+   Insights for future pricing rounds could include:
+   - Identifying patterns in customer purchasing behavior (e.g., whether customers are more likely to purchase higher priced goods when prices are lowered)
+   - Analyzing the relationship between price and profit, ensuring that increasing profits is the primary goal, rather than simply focusing on making a large number of sales or achieving the lowest price possible.
+   - Determining the optimal balance between offering competitive pricing and setting prices that reflect product value.
+
+   My chosen price:
+   3.45

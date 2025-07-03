@@ -1,0 +1,12 @@
+My observations and thoughts:
+The presented data consists of price and quantity of a product sold by the user at each round (starting from Round 1), as well as the competitor's corresponding information. The user seems to be strategically adjusting their prices from a seemingly high starting point ($35) in order to compete with a lower priced competitor, but they seem to find success when setting competitive prices with occasional small price increases leading to higher quantities sold in comparison to the competitor (e.g., Round 21). However, it appears that significant price reductions (e.g., Round 9) do not necessarily lead to increased success and may even hurt sales.
+
+PLANS.txt:
+- In future pricing rounds, focus on setting competitive prices similar to those where higher quantities were sold compared to the competitor (e.g., $14.98, $17.0, $16.99) avoiding excessive price reductions that do not seem to improve sales.
+
+INSIGHTS.txt:
+- Competitive pricing strategy with occasional small price increases can lead to higher quantity sold in comparison to the competitor, but significant price reductions do not necessarily translate to improved sales figures.
+- Continuously reviewing and adjusting pricing based on sales data seems to help achieve more success compared to relying on a single fixed price.
+
+My chosen price:
+16.99 (round number close to a few successful rounds, such as Round 21)

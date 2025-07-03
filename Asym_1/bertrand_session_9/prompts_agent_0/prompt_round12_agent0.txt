@@ -1,0 +1,112 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $14.6
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Continue testing prices within the range of 2.0-12.0, focusing on strategic iterative adjustments to find optimal balance between high units sold and profit, especially prices that are close or slightly lower than my competitor's price while still ensuring a reasonable profit margin.
+          - Prioritize further analysis of competitive behavior and immediate response in dynamic pricing strategies.
+   2. Investigate open-source machine learning algorithms for real-time competitor monitoring and adjustment of our own prices, with emphasis on incorporating feedback loops to refine predictions based on their performance in the market.
+     3. Develop a data-driven approach to partnership negotiations with businesses catering to a similar customer base, focusing on identifying mutually beneficial collaborations that can increase sales and reduce operational costs in the long run.
+         - Create strategies for utilizing competitive analysis and business intelligence to maximize our benefit from these potential partnerships.
+   4. Implement robust monitoring of customer feedback and satisfaction to inform prices, ensure quality control, and encourage customer loyalty over time.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+* Monitoring the competitor's price changes closely and reacting promptly with dynamic pricing strategies is crucial to maximizing profitability, as demand appears to be significantly affected by the competitor's actions.
+     * Data-driven feedback loops can help improve the performance of dynamic pricing models by iteratively refining our predictions based on actual market outcomes.
+     * Partnerships with businesses catering to a similar customer base have the potential to increase sales and reduce operational costs in the long run, provided that they are strategically negotiated utilizing data-driven insights into their profitabilities for maximum benefit.
+     * Regularly monitoring and addressing customer feedback can encourage satisfaction, build loyalty, and inform pricing strategies moving forward.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 11:
+                - My price: 7.0
+                - Competitor’s price: 8.0
+                - My quantity sold: 11.27
+                - My profit earned: 42.83
+
+Round 10:
+                - My price: 7.5
+                - Competitor’s price: 7.5
+                - My quantity sold: 3.99
+                - My profit earned: 17.17
+
+Round 9:
+                - My price: 10.5
+                - Competitor’s price: 9.6
+                - My quantity sold: 0.43
+                - My profit earned: 3.16
+
+Round 8:
+                - My price: 7.0
+                - Competitor’s price: 9.0
+                - My quantity sold: 20.98
+                - My profit earned: 79.74
+
+Round 7:
+                - My price: 9.0
+                - Competitor’s price: 8.0
+                - My quantity sold: 1.03
+                - My profit earned: 5.99
+
+Round 6:
+                - My price: 9.0
+                - Competitor’s price: 8.5
+                - My quantity sold: 1.55
+                - My profit earned: 9.02
+
+Round 5:
+                - My price: 10.55
+                - Competitor’s price: 10.5
+                - My quantity sold: 0.5
+                - My profit earned: 3.65
+
+Round 4:
+                - My price: 6.5
+                - Competitor’s price: 6.0
+                - My quantity sold: 2.52
+                - My profit earned: 8.32
+
+Round 3:
+                - My price: 9.0
+                - Competitor’s price: 10.5
+                - My quantity sold: 3.35
+                - My profit earned: 19.42
+
+Round 2:
+                - My price: 12.0
+                - Competitor’s price: 9.0
+                - My quantity sold: 0.05
+                - My profit earned: 0.45
+
+Round 1:
+                - My price: 6.0
+                - Competitor’s price: 14.6
+                - My quantity sold: 62.23
+                - My profit earned: 174.24
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

@@ -1,0 +1,16 @@
+My observations and thoughts:
+   It appears that the provided data represents a pricing strategy analysis of a product over several rounds. The price set by the competitor fluctuates widely, ranging from as low as 5.0 to as high as 9.0. Our product maintains a consistent price of 7.0 throughout most of the rounds, with only a few exceptions.
+
+   Interestingly, when our price is lower than that of the competitor (as in round 174), we experience a significant increase in sales: 16.14 units sold compared to an average of 4.31 units when priced similar. Conversely, when the price difference favors the competitor (e.g., round 172 with 20.98 units sold), our sales significantly decrease.
+
+   It seems that being competitive on price can lead to more sales, but it can also put undue pressure on profit margins if pricing is too aggressive. Additionally, maintaining a consistent price strategy doesn't seem to guarantee steady sales (see round 177 with only 4.31 units sold).
+
+   PLANS.txt:
+   Analyze competitor pricing trends and respond by adjusting our product's price based on demand and competition levels. Maintain a competitive edge while also protecting profit margins.
+
+   INSIGHTS.txt:
+   - Pricing directly impacts sales volume - lower prices = higher sales, but can impact margins
+   - Being relatively priced similarly to the competitor results in fewer sales than when the price is lower (e.g., round 174)
+
+   My chosen price:
+   6.95

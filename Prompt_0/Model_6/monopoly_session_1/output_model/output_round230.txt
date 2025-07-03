@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+After reviewing the information provided, I notice that the prices have been varied over time, ranging from 2.53 to 3.07. The quantity sold has also varied, with a highest value of 3.23 in Round 170. I observe that there seems to be a correlation between the price and the quantity sold: when the price is lower (around $2.85), more units are sold.
+
+New content for PLANS.txt:
+
+* Continue to analyze the relationship between price and quantity sold
+* Examine the effect of outliers on the overall trend (e.g., Rounds 148, 149, and 150 with high prices)
+* Test a middle ground price, around $2.95-$3.00, to find an optimal balance between revenue and sales volume
+
+New content for INSIGHTS.txt:
+
+* Setting a price at or near the upper end of the range (e.g., above $3.00) tends to decrease sales quantity
+* Prices within the lower-middle range ($2.85-$2.95) seem to yield higher quantities sold
+* Round 170 with a price of $2.85 yielded the highest profit earned, suggesting that customers are more willing to buy at this price point
+
+My chosen price:
+
+$2.92

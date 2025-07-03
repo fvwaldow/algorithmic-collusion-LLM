@@ -1,0 +1,14 @@
+First, let's analyze the provided data. From the given information, we can observe that in most of the rounds, the price remains fixed at 9.75 or slightly above 10, with a few instances where it drops to 96 or goes up to 98. The quantity sold does not fluctuate significantly, remaining around 1.5 for the majority of rounds.
+
+For the PLANS.txt file, we would want to maintain consistent pricing strategies that leverage these observations:
+1. Maintain a stable price between 9.75 and 10 whenever possible, as this seems to yield higher profits (e.g., a profit of 9.28 for 1.41 quantity at 9.8 or a profit of 7.47 for 1.1 quantity at 10).
+2. Whenever lower prices are tested such as 96, try to find the right balance between price and quantity that maximizes profits (as seen with the potential loss of -169.63 when price dropped significantly to 1.5 with a high quantity sold of 99.78).
+
+For the INSIGHTS.txt file:
+1. The highest average profit observed is at a price point slightly above 9 (9.6), but the sample size for this observation is low, suggesting further exploration might be needed.
+
+The best course of action to choose a new pricing strategy would depend on multiple factors such as the target market, competition, cost structure and overall sales goals. However, based on the provided rounds of information, one initial consideration could be:
+
+My chosen price: 9.8 (similar to most profitable instances observed)
+
+Remember to continue monitoring your performance closely after implementing this new pricing strategy and always be ready to adjust as market conditions change.

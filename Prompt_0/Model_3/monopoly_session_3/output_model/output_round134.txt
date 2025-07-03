@@ -1,0 +1,11 @@
+1. Observations & Thoughts:
+From the provided data, it's evident that the stock has been performing well with notable fluctuations across various rounds. Over the 60 trading periods, the average price was around 13.2, with a few instances of higher prices (e.g., round 48 with a price of 13.28). The profit-earning rounds were 36, 45, and 49 with amounts varying between $282.8 to 287.18. However, one round saw a significant loss (round 72 with -$899.55) which should be considered while setting the price.
+
+In PLANS.txt:
+Analyze price trends and fluctuations in each round to identify optimal pricing strategy. Identify potential high-performing rounds as well as reasons for any significant lows such as round 72, where a loss was incurred. Explore different strategies like dynamic pricing based on demand or historical performance.
+
+In INSIGHTS.txt:
+1. The stock generally performs well around an average price of 13.2.
+2. There may be potential benefits to adopting dynamic pricing strategies, given the significant fluctuations in prices across rounds.
+3. Identifying potential reasons for a high-loss round (72) might provide insights on areas that need improvement or adjustment.
+7. My chosen price: Considering the performance and average price of 13.2, setting the price around this value (e.g., $13.15 or $13.24) could be a good starting point, and observe its impact after each trading period. Dynamic pricing based on demand or other factors might also be considered for potential optimization.

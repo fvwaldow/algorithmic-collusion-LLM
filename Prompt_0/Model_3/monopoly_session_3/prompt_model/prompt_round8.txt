@@ -1,0 +1,80 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $27.28
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+* Test a range of prices from the current price point ($3-$27) to find the optimal balance between profitability and volume sales. Start with higher price points to identify the maximum threshold customers are willing to pay without experiencing a significant decrease in sales volume.
+   * Introduce bundle deals or volume discounts at lower price points ($10 and below) to attract a wider customer base, encourage repeat purchases, and stimulate impulse buys. This strategy may lead to increased sales volume while maintaining profitability.
+   * Regularly analyze competitors' pricing strategies and market trends to adjust the pricing structure as needed and maintain a competitive edge in the market.
+
+3.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+* The key is finding a price point that aligns with customers' perceived value while also factoring in production costs for optimal profitability. This may involve experimenting with different pricing structures, such as discounts or bundles, to encourage desired customer behavior (e.g., increased sales volume).
+   * Competitive analysis and market trend monitoring are crucial to staying ahead of the competition and ensuring that your pricing strategy remains relevant and effective in meeting customer needs and preferences.
+
+4.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 7:
+            - My price: 13.0
+            - My quantity sold: 94.27
+            - My profit earned: 282.8
+
+Round 6:
+            - My price: 1.0
+            - My quantity sold: 99.95
+            - My profit earned: -899.55
+
+Round 5:
+            - My price: 13.0
+            - My quantity sold: 94.27
+            - My profit earned: 282.8
+
+Round 4:
+            - My price: 1.0
+            - My quantity sold: 99.95
+            - My profit earned: -899.55
+
+Round 3:
+            - My price: 1.0
+            - My quantity sold: 99.95
+            - My profit earned: -899.55
+
+Round 2:
+            - My price: 1.0
+            - My quantity sold: 99.95
+            - My profit earned: -899.55
+
+Round 1:
+            - My price: 1.5
+            - My quantity sold: 99.94
+            - My profit earned: -849.48
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

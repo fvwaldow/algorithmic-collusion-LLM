@@ -1,0 +1,17 @@
+My observations and thoughts:
+    - There seems to be a complex relationship between price, quantity sold, and profit earned. The data shows that when the price is too high (e.g., 13.0), no units are sold, while prices closer to the cost of the competitor (around 8.0) result in minimal sales. Prices slightly above or below these extremes generally lead to a better balance between quantity sold and profit earned.
+    - There appear to be specific 'sweet spot' prices that lead to high profitability, such as 12.0, but these are followed by rounds where even lower prices (e.g., 8.52) result in higher profits due to increased sales volume.
+    - It seems crucial to maintain a relative competitiveness with the market price while also maximizing profit at different price points.
+
+New content for PLANS.txt:
+   - Implement a data-driven dynamic pricing strategy incorporating historical sales and profit data, focusing on finding optimal price ranges.
+   - Continuously monitor the competition's pricing to ensure our prices remain competitive while maximizing profit.
+
+New content for INSIGHTS.txt:
+  - The volume of sales matters significantly for overall profitability. Achieving a balance between price and quantity sold is essential.
+  - Being too close or too far from the competition in terms of pricing can negatively impact sales and overall profitability.
+
+My chosen price:
+ 9.52
+
+   This proposed price point is close to competitive prices (8.0 - 8.52) while aiming to capitalize on the observed 'sweet spot' range for higher profits. It also tries to build upon past insights and apply them to future pricing decisions.

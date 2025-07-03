@@ -1,0 +1,7 @@
+My observations and thoughts: The data provided represents sales and profit for each change in price, with the given range starting from Round 187 and ending at Round 203. It's noticeable that there are multiple instances where the price is kept constant for several rounds (e.g., Round 196-198). As the price increases, the quantity sold generally decreases, while profit fluctuates, with no consistent trend. The initial price of $25.45 has a lower sales quantity and profit compared to other pricing rounds.
+
+   New content for PLANS.txt: To optimize sales, consider adjusting the price strategically. As the price is currently higher than many of its previous levels, decrease it slowly until we find a sweet spot where both sales quantity and profit are maximized. Monitor this closely to avoid decreasing the price too much and impacting profit negatively.
+
+   New content for INSIGHTS.txt: Experimenting with pricing is important when seeking to maximize sales and profit. However, it's essential to be mindful of maintaining a minimum acceptable profit level. The data suggests that keeping the price low may result in increased quantity sold but could potentially lead to lower overall profit in the long run.
+
+   My chosen price: 23.15 (This number is based on the fact that multiple price changes were made around this value throughout the provided range, and it seems to have been a popular choice due to its profitability while still maintaining a decent sales quantity compared to some other levels.)

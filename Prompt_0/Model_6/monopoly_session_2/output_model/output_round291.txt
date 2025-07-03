@@ -1,0 +1,16 @@
+My observations and thoughts:
+
+The data suggests that the market has settled around a optimal price point of ~$4.99 for selling a quantity of 85 units, resulting in a profit of $152.78. Prices above this threshold seem to decrease quantity sold while prices below it decrease profitability. There is some volatility as more extreme outliers such as rounds 204 and 208 show very low quantities sold even at high prices ($155.03), but these are likely one-off events due to various market factors. The data indicates that while some experimentation with higher prices (e.g., $5.05, $5.15) may have had small successes (Round 222), the overall trend points toward a stable value of $4.99 as the best option for selling in high quantities at optimal profitability.
+
+New content for PLANS.txt:
+
+* Investigate price elasticity and how changes to prices impact quantity sold.
+* Consider implementing tiered pricing system with discounts for bulk purchases above a certain threshold to maximize revenue at lower profit margins.
+* Review the outlier rounds (204, 208) to see if there are any trends that can be improved upon.
+
+New content for INSIGHTS.txt:
+
+* A general rule of thumb has emerged where optimal buying price is consistently around ~$4.99 with high consistency in sales quantity and revenue generation. This price point strikes an effective balance between revenue potential and customer demand.
+* One-off outlier events (e.g., Round 204) should not influence pricing decisions as the probability of such anomalies recurring remains low.
+
+My chosen price: $4.99

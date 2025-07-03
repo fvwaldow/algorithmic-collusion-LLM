@@ -1,0 +1,13 @@
+My observations and thoughts: It appears that there is a strong negative correlation between price and quantity sold for most instances. This suggests that lowering the price may lead to increased sales volumes. However, there are exceptions where increasing the price doesn't seem to have a significant impact on the number of units sold (e.g., Rounds 97, 98, and 102), or where decreasing the price results in negative profits for high-volume sales (Rounds 111, 110). It seems essential to take into account both the price sensitivity and volume potential while pricing our product.
+
+   New content for PLANS.txt:
+   - Analyze the correlation between price and quantity sold more closely to identify trends or exceptions.
+   - Test various price points that might maximize sales volumes yet remain profitable.
+   - Consider implementing dynamic pricing strategies based on market conditions.
+
+   New content for INSIGHTS.txt:
+   - Pricing our product aggressively may lead to increased sales and higher overall profitability. However, it's still crucial to avoid selling at a loss or near breakeven points (e.g., Round 117).
+   - Monitor competition closely and adjust pricing strategies accordingly to maximize our competitive edge in the market.
+   - Develop flexible pricing models that allow us to react swiftly to changes in demand or competition within the market.
+
+   My chosen price: 20.0 (with the idea of being aggressive initially with our pricing while trying to stay profitable)

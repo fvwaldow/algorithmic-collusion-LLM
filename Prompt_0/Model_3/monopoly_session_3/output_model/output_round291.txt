@@ -1,0 +1,13 @@
+1. Observations and thoughts:
+
+From the provided data, it seems that the initial price point of $13 produced the highest profit with a profit of $282.8 for each round, except for two instances where the price was reduced to $12.9 and still managed to maintain a profit of $256.18 and $287.18 respectively. However, in Round 201 the price was increased to $170 which resulted in no sales but it might have been aimed at testing market response or clearing inventory. There are also two rounds where price was not mentioned for a certain round (Round 211 and 192), thus they should be included in the analysis for better understanding.
+
+For PLANS.txt:
+- Continue with dynamic pricing strategy to maximize profit, adjusting prices according to market conditions and competition.
+- Maintain a base price of $13 to ensure maximum profit while keeping the product affordable for most customers. Consider testing slightly higher prices like $12.9 or even $12.7 if the demand remains strong to boost profits. 
+  
+For INSIGHTS.txt:
+- The correlation between price and profits indicates that a sweet spot of around $13 exists. However, occasionally testing lower and higher price points can help understand customer sensitivities to pricing changes better. 
+
+My chosen price:
+$13 (the amount that consistently produced the highest profit with a base of $282.8)

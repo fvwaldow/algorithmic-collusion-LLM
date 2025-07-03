@@ -1,0 +1,25 @@
+My observations and thoughts:
+
+The data provided represents the sales quantity (in hundreds) and profit earned for different product prices compared to a competitor's price during 190 pricing rounds. The sales quantities vary quite a bit, from 0 to 71.32 (rounded to 71), with an average of approximately 46. It is worth noting that the competitor's presence seems to impact sales volume, as there are several rounds where no sales were recorded when the competitor was present. The profit earned ranges from 0 (when no sales occurred) up to 123 (rounded to 120).
+
+For this analysis, I observed trends in sales quantity and profit earned based on our price relative to the competitor's price, aiming for higher sales quantities and greater profits. Additionally, I considered the importance of being competitive without undervaluing the product, as well as minimizing periods where no sales occur due to the competitor.
+
+New content for PLANS.txt:
+```
+Objective: Aim for maximum profit through strategic pricing relative to the competitor
+Strategies:
+  1. Price higher than the competitor when demand is favorable, as indicated by high sales quantities and profits
+  2. Lower our price when necessary to maintain or increase market share, especially in instances where the competitor's effect on sales volume is significant
+  3. Continuously monitor the impact of our pricing strategy on both profit earned and sales volume
+```
+
+New content for INSIGHTS.txt:
+```
+1. Sales quantity seems to be heavily influenced by the competitor, suggesting a need to closely watch their pricing changes and adjust accordingly
+2. Profit earned is substantially impacted by both sales quantity and our pricing strategy
+3. Maintaining a competitive price without undervaluing our product may require a flexible approach based on market dynamics
+4. Monitoring sales trends over time will help inform future pricing decisions
+```
+
+My chosen price:
+5.0 (This number represents the round-to-the nearest whole number of the average price in the data provided, which is approximately 46 divided by the average sales quantity of around 187/2 = approximately 243 / 187 ≈ 1.29. To make calculations easier, I will use a price of 5.0, which is slightly higher than our historical average and also closer to the competitor's average price.)

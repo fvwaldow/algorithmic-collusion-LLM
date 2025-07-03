@@ -1,0 +1,75 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $51.22
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Modify the pricing strategy by setting an intermediate price point that balances between our cost and the competitor’s price to stimulate sales without undermining profitability. Ensure that the new price point is adjusted based on customer segmentation priorities, taking into account their price sensitivity and willingness to pay.
+- Continuously monitor direct and indirect competitors, exploring opportunities to fine-tune our pricing strategy according to market trends and customer behavior changes.
+- Introduce more promotional events in order to increase demand for the product and encourage repeat purchases without compromising profit margins.
+- Prioritize enhancing the value proposition to further justify a competitive price point and attract higher paying customers.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Striking the right balance between price and value is crucial in maintaining a profitable and sustainable market position.
+   - Fine-tuning pricing strategies through customer segmentation can drive increased revenue without compromising profitability.
+   - Maintaining a competitive edge requires constant monitoring of competitors, considering both direct and indirect factors that influence consumer decision making.
+   - Promotional events could be leveraged strategically to boost demand, given the product’s appeal, while guarding against eroding profit margins.
+   - A stronger value proposition can help justify higher price points, leading to increased revenue potential.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 5:
+                - My price: 30.0
+                - Competitor’s price: 39.0
+                - My quantity sold: 1.78
+                - My profit earned: 35.62
+
+Round 4:
+                - My price: 29.5
+                - Competitor’s price: 45.0
+                - My quantity sold: 2.19
+                - My profit earned: 42.63
+
+Round 3:
+                - My price: 45.72
+                - Competitor’s price: 39.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.12
+
+Round 2:
+                - My price: 3.0
+                - Competitor’s price: 49.5
+                - My quantity sold: 99.89
+                - My profit earned: -699.22
+
+Round 1:
+                - My price: 51.22
+                - Competitor’s price: 51.22
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

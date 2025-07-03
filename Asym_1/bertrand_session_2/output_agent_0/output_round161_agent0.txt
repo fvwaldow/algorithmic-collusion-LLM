@@ -1,0 +1,7 @@
+My observations and thoughts: In this data set, we see that the price of the product varies significantly, ranging from 0.01 to 3.9. It appears that when the price is lower (2.0, 2.05, 2.06), a higher quantity is sold. However, it's important to note that selling at very low prices, such as 0 and 0.77, led to no sales. Conversely, setting a high price, like 3.9, also resulted in no sales. It seems there might be a sweet spot for pricing the product in order to maximize profit while maintaining a steady quantity sold.
+
+   New content for PLANS.txt: Analyze the relationship between the price and quantity sold more closely to find an optimal pricing strategy that will maximize profits while maintaining sufficient sales volume.
+
+   New content for INSIGHTS.txt: Lower prices result in higher quantities sold, but very low and too high prices do not lead to sales. It may be necessary to find a sweet spot for pricing the product effectively.
+
+   My chosen price: <2.05> - To explore lowering the price slightly to see if it leads to a further increase in sales without reducing profits significantly.

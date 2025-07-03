@@ -1,0 +1,19 @@
+My observations and thoughts:
+The data provided shows a wide range of prices and corresponding profit earnings. There is no clear pattern or trend that emerges from the data alone. However, there are a few observations worth noting:
+
+* The highest profit earned was 5.05 in Round 12 at a price of $2.9.
+* The lowest profit earned was 2.46 in Round 38 at a price of $3.11.
+* Most prices cluster around the range of $2.90 to $3.10, with some outliers above and below this range.
+* There is minimal variation in profit earnings among prices in the same general range ($2.90-$3.10).
+
+New content for PLANS.txt:
+Given this data, I plan to analyze the relationship between price and profit earnings more closely. Some potential strategies to explore:
+
+* What is the optimal price point that results in the highest average profit earnings?
+* Are there any specific ranges of prices (e.g., $2.90-$3.10) where profits tend to be higher or lower than others?
+
+New content for INSIGHTS.txt:
+After reviewing this data, one significant insight stands out: **higher prices do not necessarily lead to higher profit earnings**. This is evident from Rounds 38 and 42, which report low profit earnings despite high prices ($3.11 and $3.01 respectively). On the other hand, some of the highest profit earners were at relatively low prices (e.g., Round 12).
+
+My chosen price:
+2.97

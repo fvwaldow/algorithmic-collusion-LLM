@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+* The profit earned seems to decrease as the price increases above $5.03.
+* There is a clear peak at $4.99 with a maximum profit of 152.78, but it's not entirely clear if this is the optimal price due to the volatility in prices below $4.99.
+* A consistent trend shows that whenever the price exceeds $5.05, the quantity sold drops off significantly.
+
+New content for PLANS.txt:
+
+* Investigate why profit decreases as price increases above $5.03
+* Check if increasing price further than $5.05 is worth it at all due to rapidly decreasing quantities
+* Try pricing in a range from $4.99 to $5.02, checking if this middle ground is more profitable
+
+New content for INSIGHTS.txt:
+
+* Prices significantly above $5 may not be optimal
+* Below $5.03, prices around $4.99 or slightly higher tend to produce higher revenues despite fluctuating quantities sold
+* It's still unclear what the perfect price range could be without further testing in a more controlled setting
+
+My chosen price:
+
+$4.99

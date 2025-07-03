@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+* The data indicates that prices above $2.95 tend to have lower profitability, with 4 out of the last 10 rounds having a profit less than or equal to $4.27.
+* The highest price with above-average profitability in recent rounds is still $2.97 (which had a few instances) and $2.98, but these are close to the average price of $2.95, and I worry about pushing prices too high and potentially losing sales.
+* Round 122 is an outlier with a price 20 times above the previous observations at $36; even this seems to result in zero revenue due to no sales at such a ridiculously high price.
+
+New content for PLANS.txt:
+
+* Monitor recent trends of dropping the price slightly when profitability dips
+* Avoid pushing prices dramatically higher than established averages, as evidenced by Round 122's negative results
+
+New content for INSIGHTS.txt:
+
+* Current optimal average price might be close to $2.97-$2.98, but any further increases above $3.0 risk decreasing revenue.
+* I note that the lowest selling prices like those in Rounds 151-154 ($2.92) can still result in a high profit margin as sales are consistent and steady; however, if we adjust our expectations for optimal average profit by incorporating these low-selling options, it's worth noting they still don't quite approach optimal.
+
+My chosen price:
+$2.975

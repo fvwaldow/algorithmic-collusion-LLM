@@ -1,0 +1,14 @@
+My observations and thoughts:
+This data set illustrates a fluctuating pricing strategy with various price points ranging from as low as $4.00 to as high as $11.00 per unit. There are recurring price points, indicating that the seller might be A/B testing or dynamically adjusting prices based on demand or market conditions. The volume sold also varies widely (from a single unit to over 95 units), suggesting changes in either demand or inventory levels across different time periods.
+
+New content for PLANS.txt:
+Consider implementing dynamic pricing using a model that could adjust prices based on demand trends, historical sales data, and competitor pricing. This might involve setting higher prices when lower inventory is anticipated or during high-demand periods, and lowering prices to quickly clear out excess stock or in competitive markets.
+
+New content for INSIGHTS.txt:
+Insight 1: There’s a significant profit margin on sales around $10.00-$11.00 price points, with volumes typically being smaller but maintaining steady profits. 
+
+Insight 2: Sales volumes drop significantly when prices plummet to the bottom end ($4.00 mark), suggesting potential loss leader strategies or clearance sales rather than primary sales methods. 
+
+Insight 3: There is an opportunity to test mid-tier pricing strategies ($7-$9) where neither very low volume (as at extremely low prices) nor very high margins (from top price points) are the norm, indicating untapped potential in this range.
+
+My chosen price: 10

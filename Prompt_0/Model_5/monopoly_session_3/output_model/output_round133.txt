@@ -1,0 +1,14 @@
+My observations and thoughts:
+The provided data shows a fluctuating profit margin over different price points and quantities sold. There's a significant loss in Round 38 with a price of $1.25, selling at a high quantity of 99.94, resulting in -$874.52 profit. However, the highest profit was consistently achieved around $17.0 to $18.5 with quantities between 64.57 and 76.85. Notably, there's a slight variation in profit margin even within this range, implying that precise optimization could further enhance earnings.
+
+New content for PLANS.txt:
+# Plan to focus on the $17-$18 price range due to consistent high profits. Investigate the smallest variations within this range (e.g., $17.0 vs. $17.5) to pinpoint the optimal price point for maximizing profit without excessively low sales volume. Experiment with moderate quantity levels seen successful in Rounds 36, 34, and 70-72 (~68.91 - 73.65).
+# Explore the possibility of increased sales volume without drastically lowering prices, possibly through marketing strategies or bulk discounts to mimic high-volume successful rounds (e.g., Round 52-54).
+
+New content for INSIGHTS.txt:
+# Rounds 36, 34, and 70-72 suggest that moderate quantities around 68.91 - 73.65 with prices between $17.0 - $18.5 yield the best profits. 
+# Round 38 highlights a critical failure point; avoid pricing near or below $1.25 even for high volumes, as it leads to substantial losses.
+# There's an opportunity to increase sales volume by implementing strategies similar to those that yielded roughly 73 units per sale in successful rounds without excessively dropping prices.
+
+My chosen price:
+17.9

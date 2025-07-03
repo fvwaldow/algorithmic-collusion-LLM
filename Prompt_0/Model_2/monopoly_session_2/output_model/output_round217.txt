@@ -1,0 +1,11 @@
+My observations and thoughts: This dataset represents price and quantity data for a product over 128 rounds of selling. The prices range from approximately $6.45 to $7.0 and the quantity sold varies between less than 32 units up to 48+ units. There appears to be no clear pattern or trend in price changes that correlates with the quantity sold. However, it is interesting to note that the quantity sold often increases at lower prices but decreases significantly when the price reaches around $7.0.
+
+   New content for PLANS.txt:
+   - Consider lowering prices slightly to stimulate increased sales, especially if current pricing is near or above $7.0
+   - Monitor closely the effect of changes in pricing on overall revenue and profitability.
+
+   New content for INSIGHTS.txt:
+   - While there doesn't seem to be a clear pattern in the relationship between price and quantity sold, lower prices in certain situations can result in an increase in units sold but may not always lead to greater overall sales or profit if the difference in revenue per unit is insufficient to offset the volume increase.
+   - When pricing near $7.0, it's important to note a decrease in the quantity sold, which may negatively impact total revenue and profitability.
+
+   My chosen price: 6.51 (The average of the lowest price where units were sold ( $6.48) and the highest price where units were sold ($6.52)).

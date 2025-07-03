@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+After carefully reviewing the provided information, I notice that the profit earned has a strong correlation with the quantity sold. However, the price appears to be consistently around $5, with some minor variations above or below this range.
+
+The data also suggests that there are some outliers, such as Round 100 where the price was $5.15 and the quantity sold was significantly lower than in other rounds. This may indicate an anomaly or a deviation from the usual pricing strategy.
+
+New content for PLANS.txt:
+
+1. Investigate the reason behind the outlier in Round 100 to determine if it's due to a one-time event or a systematic issue.
+2. Analyze the relationship between price and quantity sold to identify any patterns or correlations that can inform future pricing decisions.
+3. Consider implementing a more nuanced pricing strategy, taking into account factors such as time of year, demand fluctuations, or seasonality.
+
+New content for INSIGHTS.txt:
+
+The majority of rounds have prices clustered around $5, suggesting that this is the optimal price point to maximize profit given the quantity sold. However, there are some rounds (e.g., 106 and 111) where a higher price resulted in lower quantity sold but similar or slightly higher profit earned. This may indicate that customers are willing to pay more for the product in certain circumstances.
+
+My chosen price:
+
+5

@@ -1,0 +1,19 @@
+My observations and thoughts:
+The data provided shows a clear relationship between price and quantity sold. As the price increases, the quantity of products sold decreases. There is also a ceiling effect around $20-$21, where sales drop significantly beyond this point. Additionally, there are some anomalies in the data, such as Round 28 and 26, where prices were high ($24.0) but quantities sold were low (16.8), despite previous rounds showing higher quantity sales at lower prices.
+
+New content for PLANS.txt:
+Given the observed trends and limitations on customer demand, my updated plan would be as follows:
+
+1. Test pricing strategies that prioritize profit margin over quantity sold.
+2. Introduce price thresholds to identify optimal price ranges while maintaining a balance between profit and sales volume.
+3. Consider tiered pricing strategies where certain customers are offered lower prices based on their behavior or loyalty.
+
+New content for INSIGHTS.txt:
+Insights include, but are not limited to:
+
+* Higher prices tend to reduce quantity sold, particularly beyond the ceiling effect around $20-$21.
+* Significant drop-offs in demand are observed at higher price points ($22.5 and above).
+* Tiered pricing strategies could increase overall profit through targeted discounts.
+
+My chosen price:
+30

@@ -1,0 +1,13 @@
+My observations and thoughts: It appears that this data represents a series of pricing experiments for a product where the seller competes against another vendor (referred to as "Competitor's price"). The variable being adjusted here is the seller's own price. The overall quantity and profit are affected by factors such as the difference between the seller's price and the Competitor's price, market demand represented by the total quantity sold, and the perceived value of the product (as evidenced by some significantly high prices).
+
+   New content for PLANS.txt:
+   - Analyze the relationship between the seller's price, total quantity sold, and profit earned on a round-by-round basis.
+   - Investigate whether there are patterns or trends that suggest optimal pricing strategies based on the competitor's offering.
+   - Evaluate the impact of outliers (like rounds 57, 64) on overall insights.
+
+   New content for INSIGHTS.txt:
+   - Lowering the price can help increase total quantity sold significantly (e.g., rounds 41, 42). However, pricing too low might devalue the product and reduce profit (e.g., round 64).
+   - There seems to be a "sweet spot" for optimal pricing around the mid-range of the competitor's price (e.g., rounds 50, 51); still, this area may become less profitable if the competitor reduces their price as well.
+   - The seller should remain flexible in adjusting prices to stay competitive with the market and maintain profitability.
+
+   My chosen price: [Based on the findings from my insights review, I would choose a price that is neither too low nor too high. Let's select the average of the seller's price for the 50 most recent rounds; i.e., calculate the mean of prices between round 41 to 90 and pick that number.]

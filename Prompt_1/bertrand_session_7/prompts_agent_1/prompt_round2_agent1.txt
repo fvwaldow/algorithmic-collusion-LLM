@@ -1,0 +1,62 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $15.02
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Test dynamic pricing strategy to adapt to changing market conditions and maximize profit.
+    (Monitor customer demand trends, competing products' prices, and adjust dynamically accordingly.)
+  - Investigate tiered pricing strategy to cater to a wider range of budgets while encouraging bulk purchases.
+    (Divide the price into tiers based on quantity purchased, e.g., buy 10 get 1 free or discount for larger quantities)
+  - Research market trends and customer preferences for products similar to ours in various geographical locations to assess potential for adjusting prices accordingly.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- The maximum price a customer is willing to pay may indicate a ceiling for our product's pricing but leaves room for slight price adjustments to optimize profitability.
+  - Dynamic and tiered pricing have shown promising results in similar markets as they cater to various budget sensitivities and promote customer loyalty through perceived value for money.
+  - Geographical locations may provide opportunities for additional profit by targeting areas with lower production costs or stronger customer demand.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 1:
+
+
+
+                - My price: 14.99
+
+
+
+                - Competitor’s price: 7.5
+
+
+
+                - My quantity sold: 0.0
+
+
+
+                - My profit earned: 0.02
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

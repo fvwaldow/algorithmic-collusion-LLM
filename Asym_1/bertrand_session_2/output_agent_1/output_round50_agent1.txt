@@ -1,0 +1,19 @@
+My observations and thoughts:
+    - It appears that adjusting prices slightly below the competitor's price yields a higher quantity of sales and overall profit for the most part. The only exception seems to be when the user's price was significantly above ($2.59) or below ($1.79) the competitor's price.
+    - The data indicates that pricing too aggressively (significantly lower than the competitor while still within the customer’s buying range of $3.59) may not necessarily lead to increased profits due to reduced profit margins (e.g., Round 6, 7, and 5).
+    - It seems important to stay competitive with the current market scenario, adapting to changing competitor prices while keeping within the ceiling price of $3.59.
+
+New content for PLANS.txt:
+    - Regularly analyze pricing against competitor’s changes in real-time and make price adjustments swiftly (with an acceptable margin).
+        - Introduce a pricing alert system to notify of major competitor price changes.
+            - Incorporate machine learning algorithms for automating price adjustments based on competitor price movements.
+    - Collaborate with market research teams more frequently and closely to monitor and understand seasonal trends, customer preferences, and market dynamics.
+        - Implement periodic market research surveys to gather pricing insights from a representative sample of customers.
+        - Analyze competitor's marketing strategies such as promotions or bundle deals that may impact their pricing.
+
+New content for INSIGHTS.txt:
+    - Optimal pricing strategy in this scenario appears to balance price and quantity sold for maximum profitability. Aggressive-yet-competitive pricing has proven effective.
+        - Frequent competitor price tracking is essential for informed pricing decisions.
+            - Market monitoring and research are valuable inputs in maximizing profits.
+
+My chosen price: 2.07 (Keeping a slight advantage in terms of lower price compared to the competitor while still staying competitive and within the customer’s buying range of $3.59)

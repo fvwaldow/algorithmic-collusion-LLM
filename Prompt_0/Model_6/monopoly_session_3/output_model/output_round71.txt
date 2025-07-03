@@ -1,0 +1,14 @@
+My observations and thoughts:
+
+Upon reviewing the historical data, I notice that there is a significant drop-off in quantity sold and profit earnings when prices are set above $25. This ceiling effect suggests that customers are sensitive to price increases beyond this point. Additionally, I observe that the optimal range for pricing seems to be around $19-$22, as seen by the relatively high quantities sold and profit earned during these periods.
+
+New content for PLANS.txt:
+1. Investigate the impact of setting a slightly lower price below the identified optimal range ($17-$20) to see if it's possible to increase demand while maintaining or increasing profit margins.
+2. Analyze the effect of rounding prices up or down from the optimal price points (e.g., $19, $20, $21, etc.) to determine if there are any subtle variations in customer behavior that could be exploited for increased profitability.
+
+New content for INSIGHTS.txt:
+* When pricing within the optimal range ($17-$22), there is a strong correlation between higher quantities sold and profit earned. However, this relationship breaks down significantly when prices exceed $25.
+	+ A possible explanation for this phenomenon is the concept of price elasticity in demand.
+* Further analysis suggests that rounding prices to specific decimal points (e.g., 19.0, 20.0, 21.0) may have a minor impact on customer behavior, potentially allowing for incremental increases in profit margins.
+
+My chosen price: $20.50

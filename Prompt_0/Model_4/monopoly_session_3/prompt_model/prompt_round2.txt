@@ -1,0 +1,46 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $42.58
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Begin by testing a base price of $32.50. Use this as our initial point to gauge market response. If demand is lower than expected, consider reducing the price gradually to see how it impacts sales volume and profit margin.
+2. Implement a promotional strategy for the first month, possibly offering a small discount (e.g., 10%) to attract early buyers. Track sales performance during this period compared to our base price.
+3. Monitor customer feedback closely. Look for any patterns indicating what specific price points or promotions encourage more purchases. Adjust future plans accordingly.
+4. Keep an eye on the competition's pricing strategy. Use this information to refine and adapt our approach, ensuring we remain competitive without underselling our product.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+From past data, customers seem most sensitive to price changes in the range of $30-$40. This zone appears to offer a balance between affordability and perceived value. Early sales data suggests that discounts increase initial demand but may reduce long-term profit margins. It's crucial to observe how these promotions affect customer loyalty and repeat purchases.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 1:
+            - My price: 32.5
+            - My quantity sold: 0.67
+            - My profit earned: 15.06
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

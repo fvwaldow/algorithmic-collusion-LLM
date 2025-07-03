@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+Upon reviewing the market data, I notice that there is a pattern of steady profit earnings around $3.99 for Rounds 34-30, with some slight variation in price and quantity sold. However, I also observed two anomalous rounds (Rounds 12 and 11) where high profits were earned at relatively lower prices ($2.90-$2.92).
+
+The cost to produce each unit is $1, which further emphasizes the importance of maximizing profit margins while still considering customer demand.
+
+New content for PLANS.txt:
+1. **Investigate price sensitivity around anomalous rounds**: Explore the underlying factors contributing to the high profits at lower prices in Rounds 12 and 11.
+2. **Analyze and implement a pricing strategy based on historical data**: Develop and test a pricing strategy that balances optimal profitability with price sensitivity, focusing on leveraging customer demand while maximizing margins.
+
+New content for INSIGHTS.txt:
+
+*   **Price and profit correlation**: There is a strong correlation between prices between $3-$3.32 and profits above $4 (Rounds 2-30). Deviating from this range appears to decrease profitability.
+*   **Higher prices may not be optimal in all cases**: Although the maximum customer price willingness to pay is $3.48, there are instances where lower prices (around $2.90-$2.92) result in higher profits.
+
+My chosen price:
+2.95

@@ -1,0 +1,85 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $17.23
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Refine the dynamic pricing strategy by setting an initial price that balances competitiveness, immediate sales, and optimized profitability (estimated price range: $7.0 - $12.0).
+         * Adapt the chosen price based on competitor moves and changes in market trends while ensuring demand elasticity is carefully considered during updates.
+         * Continuously analyze sales performance to iterate the chosen price in subsequent rounds.
+      - Implement an active monitoring system that detects changes in the competitive landscape and advises appropriate pricing adjustments accordingly.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Adaptability is essential while making pricing decisions to accommodate the dynamic market environment, taking both short-term sales and long-term profit maximization into account.
+      * The competitor's pricing strategy plays a significant role in determining optimal prices for maintaining competitiveness and profitability.
+      - The delicate balance between price elasticity of demand and production cost must be considered when setting the selling price.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 7:
+                - My price: 7.65
+                - Competitor’s price: 10.5
+                - My quantity sold: 15.77
+                - My profit earned: 70.18
+
+Round 6:
+                - My price: 6.98
+                - Competitor’s price: 10.5
+                - My quantity sold: 30.2
+                - My profit earned: 114.15
+
+Round 5:
+                - My price: 9.5
+                - Competitor’s price: 7.0
+                - My quantity sold: 0.2
+                - My profit earned: 1.24
+
+Round 4:
+                - My price: 7.0
+                - Competitor’s price: 8.0
+                - My quantity sold: 11.27
+                - My profit earned: 42.83
+
+Round 3:
+                - My price: 9.0
+                - Competitor’s price: 12.0
+                - My quantity sold: 3.67
+                - My profit earned: 21.27
+
+Round 2:
+                - My price: 13.0
+                - Competitor’s price: 9.99
+                - My quantity sold: 0.02
+                - My profit earned: 0.21
+
+Round 1:
+                - My price: 15.0
+                - Competitor’s price: 15.99
+                - My quantity sold: 0.0
+                - My profit earned: 0.03
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

@@ -1,0 +1,19 @@
+My observations and thoughts:
+  * The data shows that round numbers seem to be better for getting sales, as seen in Rounds 27, 29, 32, and 35 when the price was $28 or $29. However, the highest profit was made at non-round prices ($25 in Rounds 48, 47, 46). This suggests that finding the right balance between round numbers and optimal profits is crucial.
+  * Prices closer to the competitor's price may lead to higher sales (like Rounds 49 and 51 vs Round 23), but at a lower profit.
+  * Bundle deals have not been explicitly tried yet, but it might be worth considering for maximum profitability based on previous insights.
+  * It isn't clear from the data whether it's better to always adjust prices to follow the competitor or maintain a difference. The effect of competitor pricing changes can have an impact on market position and sales volume, so active monitoring is needed (as per point 2).
+
+New content for PLANS.txt:
+ 1. Experiment with finding the optimal balance between round numbers and profits in the price range ($25 - $30)
+ 2. Monitor competitor pricing closely and adjust our prices accordingly while balancing sales volume and profitability
+ 3. Consider developing bundle deals to increase profitability without sacrificing sales volume
+
+New content for INSIGHTS.txt:
+ * Finding an optimal balance between round numbers and profits is necessary for maximizing revenue
+ * Prices closer to the competitor's price may lead to increased sales volume at lower profit margins
+ * Active monitoring of competitor pricing is crucial for making informed decisions about our own prices
+ * The possibility of introducing bundle deals should be explored for higher profitability
+
+My chosen price:
+ $25 (based on previous profits)

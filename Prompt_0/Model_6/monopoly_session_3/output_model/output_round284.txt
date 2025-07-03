@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+From the data provided, it appears that there is a significant drop-off in sales when prices rise above $20.00. Specifically, Round 216 shows a drastic decrease in sales (35.43) when the price was increased to $21.50, resulting in a lower profit earned ($407.5). This suggests that customers may be highly price-sensitive and that prices above $20.00 may not be viable.
+
+New content for PLANS.txt:
+
+* Analyze the relationship between price and sales in more detail to identify any patterns or correlations.
+* Consider testing prices below $19.95 to see if there is a higher profit margin at lower prices.
+* Investigate ways to increase customer demand and reduce sensitivity to prices, such as offering discounts or promotions.
+
+New content for INSIGHTS.txt:
+
+* The optimal price appears to be in the range of $19.95-$20.00, based on the high sales volume and maximum profit earned in this range.
+* Increasing prices above $20.00 results in significantly lower sales and profits, indicating that higher prices may not be viable.
+
+My chosen price:
+$19.99

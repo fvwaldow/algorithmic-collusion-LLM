@@ -1,0 +1,13 @@
+My observations and thoughts:
+The dataset shows diverse sales records across various price points. Notable prices include 10.75 for a high profit margin (around 3.27), and 10.5 consistently yielding a good profit margin (4.32). Prices below $10 also garner significant profits, especially 9.5 which generates a substantial profit of $12.81 per unit sold. Considering the patterns, setting prices around these mid-to-higher levels seems promising based on the provided data.
+
+New content for PLANS.txt:
+Investigate factors influencing varied profit margins apart from price, such as volume sold or market conditions during each round. Assess seasonality effects and competitor pricing, if any, to refine strategy.
+
+New content for INSIGHTS.txt:
+Higher prices (10.75, 10.5) garner consistent good profit margins. Mid-range prices (<$10, e.g., 9.5) also show robust returns ($12.81-$4.32). Explore non-price variables impacting these margins for strategic refinement.
+
+My chosen price:
+11
+
+This selection is based on the observed effectiveness of mid to higher ranges in the dataset and aims to test if extending slightly further can maintain or improve profit margins observed at 10.5 and 10.75.

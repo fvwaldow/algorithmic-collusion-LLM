@@ -1,0 +1,16 @@
+My observations and thoughts: The current pricing strategy seems unpredictable and inconsistent, which may lead to fluctuations in profit and quantity sold. The price range ($10.5 - $55.08) is rather wide, indicating an opportunity for optimization. The data suggests that there are instances where a higher price can be profitable (Rounds 31, 33, 37) and instances where even competitive lower prices do not lead to sales (Rounds 17, 15, 14). It seems significant to explore pricing strategies both within the competition range and exploiting profitable upper bound of customer's willingness-to-pay.
+
+New content for PLANS.txt:
+1. Test a pricing strategy based on identifying optimal prices in upper range of customer's willingness-to-pay while remaining competitive
+2. Analyze demand response pattern to determine the suitable "elasticity" price points and adjust accordingly
+3. Build a machine learning model using historical data to predict and optimize prices for maximized profit over time
+4. Investigate dynamic pricing strategies that adapt to changing market dynamics (e.g., competitor's actions, real-time demand patterns)
+5. Monitor the performance of various strategies and make data-driven adjustments as needed
+
+New content for INSIGHTS.txt:
+1. Identifying the upper bound of customer's willingness-to pay and pricing within this range can lead to increased profit.
+2. Adaptive pricing that takes into account market dynamics, such as competitor actions and demand patterns, can improve overall performance.
+3. A model that utilizes historical data for predicting optimized prices is crucial for enhancing long-term sustainability.
+4. Dynamic pricing strategies are essential to respond quickly to changing market conditions and maintain profitability.
+
+My chosen price: 45.06 (This price is calculated by finding the median between the highest profitable price ($35.0) and the customer's willingness-to-pay range maximum ($55.08). It aims to maximize profit while being competitive.)

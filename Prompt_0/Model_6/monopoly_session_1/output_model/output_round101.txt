@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+* There is a clear trend of increasing prices leading to lower sales quantities and profits. This suggests that the optimal price for the product is likely located in a sweet spot rather than at either extreme.
+* The sales quantity and profit earned have some oscillations, particularly around 2-3 dollars. However, overall there doesn't seem to be any clear indication of an optimal price other than being closer to the upper end, as evidenced by higher prices leading to lower profits, but occasionally yielding higher profits such as in round 12.
+* There are several rounds with similar price points and associated sales quantities. In particular, we have two pairs: one where both $2.97-$3.03 is accompanied by about 100-150 units sold (rounds 38-47) and another with prices between $2.92-$2.98 for roughly the same quantity of sales.
+* Considering the highest profit earned in a single round was in round 12 ($5.05), any further increases above it results in sharply reduced profits or even negative ones (as seen from round 6 onward). It seems that once we cross a certain price threshold, it is detrimental to both profit and quantity of sales; therefore, our strategy should avoid such extreme measures.
+
+New content for PLANS.txt:
+
+* Investigate what happens when pricing stays within this relatively consistent $2-3 dollar price range. 
+* Identify specific data points for analysis (in particular looking at these oscillations for potential correlations).
+* Review rounds where a significant disparity was discovered in quantities sold and explore strategies for further understanding such discrepancies.
+
+New content for INSIGHTS.txt:
+
+* A threshold exists, beyond which increasing the sale price to higher values has an unhelpful effect on both quantity sold and profit earned.
+* As we have seen with high prices ($3.0-$3.2), this seems particularly true as these extreme values have negative results; 
+* This should be kept in mind when developing a pricing strategy.
+
+My chosen price:
+
+$2.95

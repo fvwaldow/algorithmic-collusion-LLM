@@ -1,0 +1,102 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $5.43
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Experiment with lowering prices closer to the customer's price ceiling ($5.43) in a strategic manner to promote sales while maintaining profitability. To do this, implement a dynamic pricing model that adjusts the price based on competitor actions but remains within customers’ willingness to pay range (e.g., +/- 10% from round average).
+    - Implement more frequent A/B testing using narrower and strategically selected price tiers with the goal of understanding the impact on quantity sold and profit margins at these prices.
+    - Analyze customer feedback data to gauge customer response to various pricing levels.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Lowering my price towards the customer’s ceiling may increase sales volume through increased appeal, while still maintaining a profitable margin (potential pattern observed from Round 9 and some earlier rounds.)
+    - Implementing dynamic pricing allows us to respond tactically to competitor actions, potentially increasing overall profit optimization.
+    - A/B testing with narrower price tiers can help understand the impact on quantity sold and profit margins at these prices (prioritize tests near the customer’s ceiling but also test beyond for comparison purposes.)
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 10:
+                - My price: 4.15
+                - Competitor’s price: 4.2
+                - My quantity sold: 0.02
+                - My profit earned: 0.06
+
+Round 9:
+                - My price: 4.25
+                - Competitor’s price: 4.2
+                - My quantity sold: 0.01
+                - My profit earned: 0.04
+
+Round 8:
+                - My price: 4.25
+                - Competitor’s price: 4.3
+                - My quantity sold: 0.01
+                - My profit earned: 0.04
+
+Round 7:
+                - My price: 4.5
+                - Competitor’s price: 4.15
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
+
+Round 6:
+                - My price: 4.28
+                - Competitor’s price: 4.25
+                - My quantity sold: 0.01
+                - My profit earned: 0.04
+
+Round 5:
+                - My price: 4.35
+                - Competitor’s price: 3.7
+                - My quantity sold: 0.01
+                - My profit earned: 0.03
+
+Round 4:
+                - My price: 4.5
+                - Competitor’s price: 4.65
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
+
+Round 3:
+                - My price: 4.8
+                - Competitor’s price: 4.65
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 2:
+                - My price: 4.75
+                - Competitor’s price: 4.96
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 1:
+                - My price: 4.96
+                - Competitor’s price: 4.85
+                - My quantity sold: 0.0
+                - My profit earned: 0.0
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

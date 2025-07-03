@@ -1,0 +1,14 @@
+My observations and thoughts:
+The current selling range (2.8-3.6) seems to be profitable but it's not quite clear yet where the optimal price point is within this margin. By lowering the price, the quantity sold increased but so did profitability due to a higher volume of sales. Raising the price slightly led to a reduction in units sold, but also maintained or increased profit due to a higher per-unit cost. In Round 34, although the competitor's price was lower than mine, I still made more profit. This could suggest that my current pricing strategy is effective and there might be room for further increases while maximizing profit. It would be beneficial to implement machine learning algorithms into the existing dynamic pricing tool to adapt more quickly to changes in demand and competition to further optimize profitability.
+
+New content for PLANS.txt:
+- Further test pricing within the $[2.8, 3.6] range for profitability optimization, focus on pinpointing optimal price point while considering factors such as competition, market trends, and customer behavior.
+        - Implement machine learning algorithms into the dynamic pricing tool to improve its predictive capabilities and enable it to quickly respond to changes in demand and competition.
+        - Conduct additional research into pricing strategies used by successful competitors to determine potential best practices for our product.
+
+New content for INSIGHTS.txt:
+- Pricing within the $[2.8, 3.6] range appears profitable, especially with a learning component in the dynamic pricing tool to adapt more quickly to changes in demand and competition.
+        - Competitor pricing behavior will influence potential optimal price points.
+
+My chosen price:
+3.15

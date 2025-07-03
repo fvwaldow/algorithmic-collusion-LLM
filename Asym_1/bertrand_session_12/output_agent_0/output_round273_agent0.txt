@@ -1,0 +1,17 @@
+My observations and thoughts:
+   It appears that this dataset contains historical pricing data for a certain product, with the number of units sold and profit earned for each price point as well as its competitor's price. The number of units sold seems quite sensitive to changes in price; high prices result in fewer sales but higher profits per sale. There also seems to be a limit to how low the price can drop before it starts affecting profit margins significantly (e.g., the $6.0 price point).
+   The data suggests that the optimal strategy might involve setting the price slightly higher than the competition, as there are instances where doing so results in greater sales and profits. However, it's essential to strike a balance between maximizing revenue while also maintaining a competitive edge. Lower prices may be viable during certain periods or when trying to enter new markets but should ideally return to more profitable levels over time.
+
+   New content for PLANS.txt:
+   - Monitor competitor pricing and adjust ours accordingly within reasonable profit margins.
+   - Consider implementing dynamic pricing strategies (e.g., time-bound offers or tiered pricing) to drive sales during specific periods.
+   - Test various price points in targeted marketing campaigns to gauge customer response and adapt our strategy accordingly.
+   - Explore creating bundle deals or offering incentives for higher purchases to boost average order value.
+
+   New content for INSIGHTS.txt:
+   - Price is a key determinant of sales volume, with high prices typically leading to fewer sales but larger profit per sale.
+   - The optimal price may involve setting it slightly above the competition while still appealing to customers and ensuring reasonable profit margins.
+   - Understanding customer sensitivity to price changes can improve overall pricing and promotional strategies.
+   - Lower prices might be viable during certain periods or when entering new markets, but should ideally return to more profitable levels over time to maintain profitability and competitiveness.
+
+   My chosen price: 8.21

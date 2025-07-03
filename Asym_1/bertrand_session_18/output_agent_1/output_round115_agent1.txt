@@ -1,0 +1,13 @@
+My observations and thoughts:
+   It appears that the prices for the item are varying widely, from as low as 26.0 to as high as 38.75. The quantity sold also seems to be correlated with price, with lower quantities being sold at higher prices and higher quantities being sold at lower prices. The highest profits were made when the price was 30.62 (quantity sold: 1.63) in round 24, while the lowest profit was made when the price was 28.12 (quantity sold: 1.48) in round 31. However, in some cases lowering the price seems to have led to an increase in quantity sold, such as round 40 where a decrease from 29.0 to 27.0 resulted in a slight increase in quantity sold (from 1.56 to 1.15).
+
+   New content for PLANS.txt:
+   To maximize profits, it seems important to find the optimal price that balances high prices with high quantities sold. A possible approach could be to lower the price incrementally and observe the effect on both profit and quantity sold, then adjust accordingly. It might also be beneficial to closely monitor competitor's pricing strategies and adapt our own pricing accordingly.
+
+   New content for INSIGHTS.txt:
+   - Higher prices generally lead to lower quantities sold, but may result in higher individual profits per sale.
+   - Lowering the price can potentially increase the quantity sold, but may also decrease individual profit per sale.
+   - It is important to consider both individual profit and total profit when pricing our item.
+   - Competitor's pricing strategies appear to have an impact on our sales and should be carefully monitored.
+
+   My chosen price: (based on the observations above, I would recommend setting the price at a level that balances high prices with high quantities sold) 28.5

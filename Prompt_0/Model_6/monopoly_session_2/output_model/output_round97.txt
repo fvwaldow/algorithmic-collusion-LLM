@@ -1,0 +1,23 @@
+My observations and thoughts:
+
+After reviewing the market data, I notice that the profit earnings are indeed highly dependent on pricing within a narrow range. The optimal price range seems to be between $4.99 and $5.08, with prices slightly above or below this range resulting in significant changes in profit earnings.
+
+It's worth noting that Round 2 has a much higher quantity sold ($88.72) but lower profit earned ($137.52), which may indicate diminishing returns at very low prices. Conversely, Round 14 and 15 have high profit earnings despite slightly higher prices, suggesting that there is some wiggle room within the optimal price range.
+
+I also observed that prices below $4.99 result in significantly lower profit earnings or losses (e.g., Round 1), while prices above $5.08 tend to have diminishing returns (e.g., Round 7 and 8).
+
+New content for PLANS.txt:
+
+* Continue to monitor the optimal price range and try to identify any variations within it.
+* Consider setting a "sweet spot" price within the optimal range, e.g., between $4.99 and $5.04, where profit earnings are consistently high.
+* Investigate why Round 2 has such a large quantity sold but low profit earning, potentially indicating opportunities for optimizations at higher prices.
+
+New content for INSIGHTS.txt:
+
+* The effect of price on profit earnings is highly non-linear, with small changes in price leading to substantial variations in earnings.
+* Prices within the optimal range can have significant differences in profit earnings ($157.19 vs $152.2 in Rounds 9 and 8, respectively).
+* There may be "sweet spots" within the optimal price range where profit earnings are consistently high.
+
+My chosen price:
+
+4.99

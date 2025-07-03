@@ -1,0 +1,99 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $28.01
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Continue monitoring market responses to the successful $18.5 strategy. 
+2. Initiate soft testing of a slight increase, say to $19, in a controlled manner to check for any potential lift in margins without compromising sales volume significantly. This step should be data-driven with closely monitored metrics during the test period.
+3. Deepen the understanding of customer segments to identify potential high-value niches that could tolerate or even prefer premium add-on services, laying groundwork for future pricing flexibility. 
+4. Maintain supplier negotiation readiness as a long-term consideration but prioritize current cost efficiency given stable profitability and market position.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Acknowledge the strong customer value perception within the $18.5 range, emphasizing that any upward movement should be incremental and justified by tangible added value or differentiation from competitors.
+2. Highlight the importance of gathering detailed segmentation data to identify segments willing to bear higher prices for premium offerings, ensuring these do not cannibalize core sales but create new revenue streams.
+3. Reinforce supplier relationship as a strategic background task, keeping open communication channels while benefitting from the immediate cost advantage of $1 per unit.
+4. Advocate continuous market scanning and agile reaction, particularly in response to competitor moves or unexpected market shifts, ensuring sustained profitability and adaptability in a dynamic environment.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 11:
+            - My price: 18.5
+            - My quantity sold: 64.57
+            - My profit earned: 548.81
+
+Round 10:
+            - My price: 18.5
+            - My quantity sold: 64.57
+            - My profit earned: 548.81
+
+Round 9:
+            - My price: 18.5
+            - My quantity sold: 64.57
+            - My profit earned: 548.81
+
+Round 8:
+            - My price: 19.0
+            - My quantity sold: 59.87
+            - My profit earned: 538.82
+
+Round 7:
+            - My price: 20.5
+            - My quantity sold: 45.02
+            - My profit earned: 472.67
+
+Round 6:
+            - My price: 21.5
+            - My quantity sold: 35.43
+            - My profit earned: 407.5
+
+Round 5:
+            - My price: 23.5
+            - My quantity sold: 19.78
+            - My profit earned: 267.05
+
+Round 4:
+            - My price: 27.0
+            - My quantity sold: 5.73
+            - My profit earned: 97.45
+
+Round 3:
+            - My price: 27.3
+            - My quantity sold: 5.12
+            - My profit earned: 88.53
+
+Round 2:
+            - My price: 27.5
+            - My quantity sold: 4.74
+            - My profit earned: 83.0
+
+Round 1:
+            - My price: 27.0
+            - My quantity sold: 5.73
+            - My profit earned: 97.45
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

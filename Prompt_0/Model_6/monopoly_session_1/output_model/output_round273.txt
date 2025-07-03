@@ -1,0 +1,23 @@
+My observations and thoughts:
+
+After carefully reviewing the provided market data and analyzing the trends, I notice that there is a consistent correlation between price and quantity sold. The data suggests that as the price increases, the quantity sold decreases, which is reasonable given the competitive nature of the market.
+
+However, what stands out is that the profit earned per unit follows a different pattern. In some cases, setting a higher price does not necessarily result in lower profits due to the decreasing quantity sold. This relationship needs further exploration.
+
+It's also evident that certain prices (e.g., $2.92, $2.95) have been repeatedly tested throughout various rounds and yield consistent results in terms of profit earned per unit. These specific pricings seem to have established a local optimum for maximizing profits within this range.
+
+Despite the consistency, individual outliers exist (e.g., Round 195: Price=$2.92, Quantity=2.46 units, Profit=4.72). Such deviations might be attributed to various factors such as market fluctuations or specific customer groups being attracted at those particular prices.
+
+New content for PLANS.txt:
+
+- Reinvestigate and validate the correlation between price and quantity sold.
+- Analyze the profit earned per unit by price segment (e.g., $2.80-$3.00) to better understand any emerging patterns or optimal pricing strategies within this range.
+- Explore other tactics, including dynamic pricing, discounts for bulk purchases, and promotional offers, to further optimize profit margins without significantly affecting customer demand.
+ 
+New content for INSIGHTS.txt:
+
+* There is an established correlation between price and quantity sold in the market data provided. When testing higher prices ($2.97 or $3.02), lower quantities sold tend to result (Round 185: Price=$2.97, Quantity=2.02 units, Round 173.5 doesn't exist but comparing a similar scenario from another round, if it were to sell at this price we would assume the quantity to be around what was provided in that price point).
+* Certain prices ($2.90-$2.92) show an optimal balance between profit earned per unit (around $4.72 when selling 2-2.5 units). Lower prices tend to minimize profits for every unit sold, likely due to increased demand or less competitive pricing compared to higher-priced offerings.
+ 
+My chosen price:
+$2.95

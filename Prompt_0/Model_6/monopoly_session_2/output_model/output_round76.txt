@@ -1,0 +1,13 @@
+My observations and thoughts:
+
+The data suggests that the optimal price point is around $4.99, as it consistently yields a profit of approximately $152.78 across multiple rounds. However, there are instances where higher profits were reported at other price levels, such as Round 65 ($5.02) and Round 57 ($5.03). Additionally, increasing prices above $5.03 seems to have little-to-no effect on profit.
+
+New content for PLANS.txt:
+1. **Test the optimal price point with slight variations**: Repeat experiment using small increments (e.g., +$0.01) around $4.99 to determine its robustness and identify potential areas for further improvement.
+2. **Investigate the ceiling effect**: Examine the data closely between Round 57 ($5.03) and Round 62 ($5.02) to understand why profits plateau above this price level.
+
+New content for INSIGHTS.txt:
+* The optimal price point of $4.99 appears to be a sweet spot, allowing a balance between profit maximization and customer willingness to pay.
+* Prices near or slightly below the ceiling effect ($5.03-$5.02) do not seem to have a significant impact on profit.
+
+My chosen price: 4.99

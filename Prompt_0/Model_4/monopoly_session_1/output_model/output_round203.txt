@@ -1,0 +1,10 @@
+My observations and thoughts:
+The data provided shows a mix of prices and corresponding quantities sold, leading to various profit earnings. Notably, the quantity sold appears to have a strong correlation with the price set, often resulting in non-zero sales when the price is not excessively high (e.g., not at 270 or 300). There's also a recurring theme of selling quantities around 14 units when the price is 2.45 or 2.55, pointing to possibly optimal profit margins given the cost structure and market demand. The profits vary significantly depending on the price, showing a clear interest in finding the sweet spot for maximum profit without saturating sales.
+
+New content for PLANS.txt:
+Adjust prices to explore different profit margins. Focus on maintaining a balance between high quantity sold and maximizing per-unit profit. Specifically, test around prices that historically yield a good quantity sold (around 14 units) and calculate potential profits. Consider implementing a strategy where we monitor competitor pricing and adjust our own price accordingly to capture market share effectively. 
+
+New content for INSIGHTS.txt:
+Insight from previous rounds reveals that certain price ranges (e.g., 2.45-2.65) consistently result in optimal profit margins with stable sales volumes. Notably, the presence of 0.03 as a quantity sold suggests very high price points (270, 300) where demand sharply falls. There's an indication that when profit is maximized without dropping sales below a certain threshold (around 14 units), we achieve substantial earnings. Future pricing should account for these insights, perhaps experimenting with slightly higher prices from the proven range to test if there's potential for even higher margins.
+
+My chosen price: 2.60

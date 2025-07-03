@@ -1,0 +1,17 @@
+My observations and thoughts: It appears that the data provided represents a series of competition pricing decisions and their corresponding sales numbers for each round, starting from Round 40 and going up to Round 24. The dataset does not seem to include information about my initial price, and it appears to be missing data points in between these rounds. However, I can still identify some patterns that may prove useful for future pricing decisions.
+
+   For example, the pattern of increasing the price when competition prices higher seems to lead to a decrease in sales numbers (e.g., Round 32 - [8.21,9.16] vs. Round 33 - [8.21, 10.51]), whereas lowering the price in response to competitor's lowered prices often results in increased sales (e.g., Round 27 - [8.31,8.05] vs. Round 28 - [8.05,8.0]).
+
+   It seems that the key insight is finding the right balance between competition and price sensitivity in order to maximize profit while maintaining a competitive edge in the market.
+
+   New content for PLANS.txt:
+   - Analyze ongoing price behaviors of competitors and own sales numbers to identify trends and patterns
+   - Develop a pricing strategy that takes advantage of identified patterns and leverages price sensitivity when necessary
+   - Maintain a price that is below the maximum threshold that appears to be affecting sales (e.g., anything too close to [10.51, 9.0] in these data)
+
+   New content for INSIGHTS.txt:
+   - Competitor's increased prices tend to lead to decreased sales numbers
+   - Lowering our price in response to competitor's lowered prices often results in increased sales
+   - It is important to find the right balance between competition and price sensitivity to maximize profit while maintaining a competitive edge in the market
+
+   My chosen price: [8.21] (based on multiple observations of the dataset where this price led to high sales numbers)

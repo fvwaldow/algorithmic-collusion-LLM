@@ -1,0 +1,24 @@
+**My observations and thoughts:**
+
+- The profit seems to fluctuate based on the price set and quantity sold. 
+- Higher prices often lead to lower sales quantities, which impacts total profit. There's a pattern that suggests setting a price might need a balance between maximizing quantity sold and achieving a profitable price point.
+- Certain rounds show repetitive outcomes (e.g., prices around 12.5 with the same profit), hinting at a consistent behavior in these price points that could be worth exploring further. This repetition might indicate an optimal range where sales are stable but still profitable.
+- The strategy appears to involve experimenting with different prices to gauge market response without settling on a static price, suggesting a dynamic approach to pricing rather than a fixed strategy.
+
+**New content for PLANS.txt:**
+```
+1. Continue experimenting with various price points to identify the sweet spot where quantity sold balances out profit maximization.
+2. Monitor rounds with stable profits (like consistently around 0.45) to refine understanding of optimal pricing.
+3. Balance exploration for higher profits with maintaining sufficient sales quantity.
+```
+
+**New content for INSIGHTS.txt:**
+```
+Insights from previous rounds:
+- Repeated outcomes at price points around 12.5 suggest a consistent response in terms of profit per unit sold. This indicates that these prices might align well with market demand, warranting closer study.
+- Higher profits often coincided with smaller quantities sold, hinting at setting a lower price to increase sales volume could be beneficial.
+- Dynamic pricing appears effective, as static pricing might not capture shifting market conditions effectively.
+```
+
+**My chosen price:**
+50

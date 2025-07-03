@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+The given data represents a sequence of pricing decisions by an unknown entity and the response from its competitor. The prices range from as low as 1 USD to as high as 28 USD. There are instances where the original price-setter decreases its price significantly to match or even undercut that of its competitor, while there are also episodes where it maintains a higher price. The quantity sold varies greatly depending on the price and the competitor's strategy.
+
+The data also shows some consistency in the competitor's pricing strategy as it usually prices its products slightly higher than the original price-setter, though at times it matches or even undercuts their prices. Despite this, both parties appear to maintain healthy sales figures with most rounds resulting in profit.
+
+PLANS.txt:
+
+* Observe trends in quantities sold and adjust pricing strategy accordingly.
+* Maintain a competitive edge by either slightly undercutting or matching competitor's prices.
+* Analyze customer response to price changes and make strategic decisions based on that data.
+* Monitor competitor's actions and react promptly when necessary.
+
+INSIGHTS.txt:
+
+* Pricing significantly affects quantity sold, with higher prices resulting in lower quantities.
+* Customers are sensitive to price fluctuations and can react by decreasing or increasing their purchases.
+* Adopting a flexible pricing strategy allows for faster response to market conditions and customer behavior.
+* Maintaining a competitive price is important in attracting customers and securing sales, but be cautious not to undercut the prices too much as it could lead to lower profit margins.
+
+My chosen price: 20.0 (based on observed consistent pricing by both parties throughout the data)

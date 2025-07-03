@@ -1,0 +1,85 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $5.43
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Develop pricing models considering the product's perceived value and consumer psychology in addition to historical data and competitor price trends.
+     - Re-analyze the potential of loss leaders or competitive pricing strategies in attracting customers and boosting demand with improved positioning.
+  - Conduct further A/B testing in the subsequent rounds, exploring various premium, regular, and low pricing tiers to understand potential impacts on customer behavior.
+  - Develop targeted promotional strategies aimed at different segments of our customer base to test for growth opportunities and potential demand sensitivities.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- The current data suggests that the optimal price point might be higher than what was initially tested, with lower prices not leading to substantial sales in this example.
+     - Exploring differentiation strategies that provide perceived value and justify a premium over the competitor can help establish a more competitive pricing position.
+     - Carefully considering market segmentation and consumer psychology will play an essential role in optimizing the pricing strategy moving forward.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 7:
+                - My price: 4.5
+                - Competitor’s price: 4.15
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
+
+Round 6:
+                - My price: 4.28
+                - Competitor’s price: 4.25
+                - My quantity sold: 0.01
+                - My profit earned: 0.04
+
+Round 5:
+                - My price: 4.35
+                - Competitor’s price: 3.7
+                - My quantity sold: 0.01
+                - My profit earned: 0.03
+
+Round 4:
+                - My price: 4.5
+                - Competitor’s price: 4.65
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
+
+Round 3:
+                - My price: 4.8
+                - Competitor’s price: 4.65
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 2:
+                - My price: 4.75
+                - Competitor’s price: 4.96
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 1:
+                - My price: 4.96
+                - Competitor’s price: 4.85
+                - My quantity sold: 0.0
+                - My profit earned: 0.0
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

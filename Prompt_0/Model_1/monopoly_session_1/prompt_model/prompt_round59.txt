@@ -1,0 +1,331 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $4.08
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Continue testing $3.00 price point - Primary focus.
+2. Analyze sales data following each test.
+3. If $3.00 remains consistently strong – this will be a small batch to minimize risk.
+6. Implement a limited test at $3.99 *only* if $3.00 remains consistently strong – this will be a small batch to minimize risk.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+“The data overwhelmingly supports maintaining the $3.00 price point. Rounds 42-49 demonstrated consistent sales of 1.8 units with a profit of $3.60. The single round at $3.40 (Round 2) demonstrated a significant drop in sales volume (0.37 units) and profit ($0.88), reinforcing the importance of the $3.00 price point. The $3.40 test highlights the sensitivity of the market to price changes – any deviation must be approached with extreme caution. The data supports a highly cautious approach, prioritizing stability and maximizing profit margins. Given the low profit margins, aggressive discounting should be avoided. The $3.00 price point represents the optimal balance between sales volume and profit.”
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 58:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 57:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 56:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 55:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 54:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 53:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 52:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 51:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 50:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 49:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 48:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 47:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 46:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 45:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 44:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 43:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 42:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 41:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 40:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 39:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 38:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 37:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 36:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 35:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 34:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 33:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 32:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 31:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 30:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 29:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 28:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 27:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 26:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 25:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 24:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 23:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 22:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 21:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 20:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 19:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 18:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 17:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 16:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 15:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 14:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 13:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 12:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 11:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 10:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 9:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 8:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 7:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 6:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 5:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 4:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 3:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
+
+Round 2:
+            - My price: 3.4
+            - My quantity sold: 0.37
+            - My profit earned: 0.88
+
+Round 1:
+            - My price: 3.2
+            - My quantity sold: 0.82
+            - My profit earned: 1.8
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

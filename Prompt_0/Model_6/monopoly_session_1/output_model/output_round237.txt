@@ -1,0 +1,26 @@
+Here's my response:
+
+**My observations and thoughts:**
+
+After analyzing the provided data, I notice that the profit earned is significantly higher when the price is around $2.85 or lower. Specifically, Round 170 has a high quantity sold (3.23) and a high profit earned ($5.97). This suggests that setting a price below $3 might lead to more sales.
+
+However, there's also a pattern of decreasing profit earned as the price goes down. For instance, in Rounds 161-164, the prices are between $2.92-$2.94, and the profit earned is around $4.41-$4.72. This indicates that setting a price too low might lead to decreased revenue.
+
+Additionally, I notice that the prices below $3 seem to be relatively stable (at least 3-5 consecutive rounds), while higher prices result in reduced quantity sold and lower profit earned. This could indicate a sweet spot for pricing.
+
+**New content for PLANS.txt:**
+
+1. **Experiment with pricing around $2.85**: Based on the data, I'd like to experiment with setting a price slightly above or below $2.85.
+	* Investigate if this leads to continued high sales and profit earned.
+	* Consider implementing discounts or promotions at lower prices (e.g., sub-$3) to clear inventory while maintaining revenue.
+2. **Analyze the relationship between price and quantity sold**: With the provided data, it's difficult to pinpoint a precise formula for predicting quantity sold based on price. Further investigation is needed to better understand this relationship.
+
+**New content for INSIGHTS.txt:**
+
+1. Aiming for prices below $3 might be beneficial due to the observed high volume sales at these price points.
+2. However, if prices drop too low (sub-$2.9), profit earned tends to decrease.
+3. Setting a price too close to the competition's prices ($3.0) seems less effective in driving revenue.
+
+**My chosen price:**
+
+$2.90

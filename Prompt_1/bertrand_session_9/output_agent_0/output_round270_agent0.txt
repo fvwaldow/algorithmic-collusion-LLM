@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+   In this data set, we can see that the product's price largely influences its volume of sales. Lowering or raising the price significantly affects the number of units sold. For example, setting the price at $0 led to an overwhelmingly high demand (99.94 units), whereas a higher price like $7.98 resulted in selling only 19.86 units. There seems to be an optimal price range where the product is both affordable and perceived as valuable by consumers.
+
+   Furthermore, it's worth noting that the presence of competitors and their pricing strategies also impact sales significantly. When the competition offered a lower price ($6.98 vs our $7.5), they managed to sell more than us (24.75 units sold compared to 16.79). However, when the competition offered a higher price ($9.0 vs our $7.5), we were able to sell more units (11.84 units sold compared to 7.93 units).
+
+   On occasion, there are rounds where offering an extremely low price can still result in substantial sales volume despite losing money (i.e., Round 167 where a price of $0 led to 99.94 units sold but resulted in a loss of approximately $319.82). These instances should be considered cautiously, as they only provide short-term gains and can potentially lead to market saturation or damage brand perception in the long run.
+
+New content for PLANS.txt:
+   - Analyze pricing trends over multiple rounds to establish a competitive yet profitable price range
+   - Consider the impact of competitor pricing strategies and adapt accordingly
+   - Monitor consumer behavior during sales promotions (i.e., low-priced rounds) to determine if they are sustainable or not, ensuring long-term market position
+New content for INSIGHTS.txt:
+   - Lower prices tend to generate higher unit sales but may result in lower profit margins and potential damage to brand reputation
+   - Competitor pricing plays a significant role in determining the product's sales volume
+   - Consumer perception of value affects purchases, as demonstrated by overwhelming demand during rounds with extremely low prices
+My chosen price:
+   6.5 (This price seems to balance between being relatively affordable and still maintaining a decent profit margin based on the data provided)

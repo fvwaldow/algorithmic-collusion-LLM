@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+The given dataset contains 117 data points, which represent the average daily earnings of a business for each day. The prices range from $2.92 to $4.27, with several repetitions at certain price points, suggesting that these are potentially optimal revenue-maximizing prices. 
+
+However, since $2.9 appears multiple times and yields higher profit compared to other close-by prices ($2.98 and $3.00), and $4.12 for 116 of 117 observations is present with some variations as well. Considering this data pattern and the goal of revenue maximization while maintaining high profitability, we can proceed with choosing a price that appears most consistently across data points.
+
+
+New content for PLANS.txt:
+
+Analyze customer demand elasticity
+Further investigate relationship between pricing strategy and profit margins to assess whether a slight adjustment of prices could positively affect profit
+Observe competition landscape in the market
+
+New content for INSIGHTS.txt:
+
+High profitability is achieved by slightly undercharging ($2.92) than overcharging customers at upper price points like $4.27.
+Prolonged periods of low profit (data repetition every 3-10 days) occurred around values $3.79 and above.
+No significant correlation was found suggesting $99 would also be a suitable alternative in terms of maximum gains achievable using data.
+
+
+My chosen price: 
+$2.92

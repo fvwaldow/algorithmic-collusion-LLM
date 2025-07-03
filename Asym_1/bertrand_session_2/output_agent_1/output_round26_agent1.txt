@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+From the market data provided, it can be observed that sales quantities are generally higher for prices ranging from 2.05 to 2.13, with the maximum quantity sold in Round 20 (4.95 units) when the price was $2.08. This shows that a slight increase or decrease from this optimal price may affect sales volume and consequently profitability. Additionally, it can be seen that when my price is significantly higher than the competitor’s, sales drop to nearly zero as observed in Rounds 1, 2, and 4. On the contrary, setting a price lower than the competitor’s seems not to attract more customers either - see Rounds 5, 6, 7, and 9. Thus, finding the sweet spot that maximizes profit while maintaining sales quantity is crucial.
+
+New content for PLANS.txt:
+1. Analyze the correlation between prices slightly varying from the optimal price ($2.08) and determine its impact on both sales volume and profit. This will help in creating a more granular pricing model that can accurately predict optimal profits.
+2. Implement a strategy to adjust prices based on fluctuations in competitor's pricing. Analyze their response to your slight price changes and use this information for better profitability.
+3. Investigate customer behavior patterns at different price points to gain insights about their sensitivity to price changes, ultimately helping make more informed pricing decisions.
+4. Continuously monitor both short-term and long-term effects of minor price fluctuations, focusing on ensuring that sales quantities don't significantly decline when prices rise.
+5. Evaluate the existing data and determine a statistical significance threshold for observed trends, allowing us to avoid making reactive pricing decisions without proper justification.
+
+New content for INSIGHTS.txt:
+1. Price sensitivity seems to be high within the range surrounding $2.08; small price adjustments can have considerable effects on both sales and profitability.
+2. Avoid setting prices significantly higher than the competitor's as it almost guarantees a decrease in sales and profit, while setting it too low doesn’t seem to drive more customers either.
+3. Customer behavior patterns can provide valuable insights when determining optimal pricing strategies.
+4. It is essential to consider both short-term (immediate sales) and long-term (reputation and customer loyalty) effects of price changes during decision-making.
+5. Thoroughly analyze data trends before making reactive pricing decisions, as a statistically insignificant shift in sales quantity might not justify altering the price.
+
+My chosen price: 2.08

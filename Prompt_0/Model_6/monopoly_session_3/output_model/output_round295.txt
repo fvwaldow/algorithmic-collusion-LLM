@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+* The data shows a significant anomaly at Round 229 with a price of $520.0 and zero quantity sold, resulting in a profit of $0. This suggests that the seller might have been trying to test or play with extreme prices, which has no practical impact on the business.
+* Many rounds feature similar prices ($19.95, $20.00, $20.25) with roughly the same quantity sold and profit earned. This could indicate some price sensitivity in the market, where consumers are responsive to small changes in price but remain loyal to a particular price point.
+* Rounds 210 and 216 have significantly higher quantities sold ($62.25 and $35.43, respectively) compared to other rounds. These might be relevant to understand patterns of customer demand.
+
+New content for PLANS.txt:
+
+* Investigate customer behavior during rounds with high quantities sold (e.g., Rounds 210 and 216).
+* Analyze price responses in the market, particularly looking at the sensitivity near $20.
+* Research potential reasons for the abnormal Round 229 data point to understand how it could have occurred.
+
+New content for INSIGHTS.txt:
+
+* Consumers appear to have a relatively stable perception of prices around $19.95-$20.25.
+* Customers respond strongly to these price points, but not at higher or lower levels.
+* The market might be demonstrating limited elastic demand, where small fluctuations in price do not significantly change sales quantities.
+
+My chosen price:
+$20.00

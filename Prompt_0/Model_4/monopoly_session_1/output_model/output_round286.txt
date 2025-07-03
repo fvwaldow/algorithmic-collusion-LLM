@@ -1,0 +1,22 @@
+My observations and thoughts:
+The data shows a pattern of fluctuating prices with varying quantities sold, leading to different levels of profit. Notably, some price points (265, 300) result in zero sales and consequently zero profits, suggesting a possible threshold or saturation point for the product. There's also an increase in profit when moving from lower prices (e.g., 2.45, 2.65) to mid-range prices (2.75), indicating potentially higher demand at these price points.
+
+New content for PLANS.txt:
+```
+- Explore maintaining a lower price point around 2.65-$2.75 to potentially boost sales and profits, given the observed increase in profit when moving from 2.45 to 2.75.
+- Test the upper bound of demand around the 265 price by reattempting at a slightly discounted price within that range, without going below 200, to see if profits can be sustained.
+```
+
+New content for INSIGHTS.txt:
+```
+Insights from Round 190:
+- Price 2.65 results in a stable profit of $11.41, suggesting resilience against minor fluctuations.
+- Zero sales at 265 and similar prices indicate possible market saturation or threshold limitations for these price points.
+- The profit increases from $20.57 at 2.45 to $11.41 at 2.65, hinting at diminishing returns as price increases.
+Insights from Round 198:
+- Profit is maximized at 14.57 with a price of 2.57 and quantity 9.28, emphasizing the importance of balancing price and demand for optimal profitability.
+```
+
+My chosen price: 250
+
+Note that this choice is based on exploring mid-range prices to potentially discover a sweet spot between demand elasticity and margin maximization. The decision to set the price at 250 was influenced by historical insights suggesting potential higher demand at these levels, despite not yielding zero sales and profits like 265 did.

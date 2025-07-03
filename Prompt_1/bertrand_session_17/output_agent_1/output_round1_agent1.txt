@@ -1,0 +1,14 @@
+My observations and thoughts:
+   Based on the given cost of $1 per unit, and the maximum price a customer is willing to pay at $29.31, I see that we have a wide price range available for setting our price in order to maximize profit. We can take advantage of multiple pricing strategies such as dynamic pricing, tiered pricing or profit-based pricing. It would be beneficial to start by testing different fixed prices within the given range, then explore other strategies and compare results.
+   New content for PLANS.txt:
+   - Testing various fixed price points (e.g. 14, 18, 23, 27) and evaluate their impact on sales volume and profit margin.
+   - After establishing baseline profits from fixed prices, implement a tiered pricing strategy with slightly lower prices for purchasing multiple units at once (e.g. $15 for one unit, $40 for four units).
+   - Analyze the effects of dynamic pricing based on factors like time-of-day, day-of-week and seasonality by varying prices accordingly.
+   - Investigate potential profit-based pricing strategies in which we adjust prices depending on our production costs and profit goals.
+   New content for INSIGHTS.txt:
+   - Setting a too high initial price might reduce sales volume, limiting the opportunity to learn about different strategies or to achieve profitable results with higher sales volumes later on.
+   - A profitable tiered pricing strategy should take into account average order sizes and potential customer preferences for purchasing multiple units at once.
+   - Dynamic pricing could potentially increase sales during off-peak hours or seasons, but it requires accurate prediction of these factors in advance.
+   - Profit-based pricing strategies require careful consideration as adjusting prices too frequently or excessively may be perceived negatively by customers and undermine their trust.
+   My chosen price:
+   18  (For the initial test, let us begin with a mid-range price of $18 since it is between our cost and maximum customer willingness to pay.)

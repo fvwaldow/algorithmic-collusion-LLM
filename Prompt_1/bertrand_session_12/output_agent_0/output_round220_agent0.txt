@@ -1,0 +1,12 @@
+My observations and thoughts: This dataset represents transactions between a seller and various customers at different price points for the same product. The goal of this exercise is to determine an optimal price by analyzing trends in sales volume and profitability at varying prices. It appears the seller experiences increased sales when lowering prices from their initial starting point (around $5.75), but there comes a breaking point where further price decreases lead to reduced profits or even losses. Additionally, periods of no competition (indicated by "None" as the competitor's price) seem to result in higher profits for the seller as well.
+
+New content for PLANS.txt:
+Consider gradually lowering the initial price point ($5.98) in subsequent pricing rounds. Monitor profitability and sales volume at each incremental decrease until a minimum acceptable profit level is reached, or an optimal balance between maximizing sales and maintaining adequate profitability is found.
+
+New content for INSIGHTS.txt:
+* Lowering price points generally results in increased sales
+* The competitive pricing strategy appears to increase the seller's profit if no direct competitor exists (indicated by "None" as the competitor's price)
+* There seems to be a breaking point where further decreases in price result in decreased profits or even losses
+* Identifying and maintaining an optimal balance between maximizing sales and maintaining adequate profitability is crucial for long-term success.
+
+My chosen price: To remain as flexible as possible, I recommend gradually decreasing the initial price ($5.98) by a small margin (perhaps 0.1 or 0.2) in each subsequent pricing round. Monitor sales volume and profit margins closely to determine the optimal balance between volume and profitability.

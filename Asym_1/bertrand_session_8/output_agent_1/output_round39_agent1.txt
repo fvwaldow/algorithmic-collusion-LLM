@@ -1,0 +1,15 @@
+My observations and thoughts:
+    - The data shows that increasing prices too high can significantly decrease the quantity sold, while too low prices might maximize sales but yield low profits.
+    - It's also clear from the data that the competitor plays a role in setting an optimal price; if our price is much higher than the competitor, we risk losing potential customers.
+    - Lastly, there's a noticeable trend indicating that prices around 6.8 to 7.0 seem to find a balance between maximizing sales and earning profit.
+      New content for PLANS.txt:
+   1. Implement a pricing strategy based on the collected market data by:
+           a. Utilizing historical price points (e.g., 6.8) that have demonstrated good performance in terms of higher profits.
+           b. Investigate and account for competitor moves when determining strategic price ranges.
+   2. Test out lower prices within the range $6.7 – $6.9 (neighbors to existing successful price points) to better understand customer price sensitivity while continuing price optimization efforts using machine learning algorithms.
+      New content for INSIGHTS.txt:
+    - Adjust pricing strategies based on real-time monitoring of competitor actions and market trends so as to maintain competitiveness without compromising long-term profit maximization objectives.
+    - Using a combination of historical performance insights, machine learning algorithms, and lower-price tests, ensure that we can establish a comprehensive understanding of the ideal price range for our product.
+
+  My chosen price:
+    6.8

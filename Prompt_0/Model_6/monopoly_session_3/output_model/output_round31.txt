@@ -1,0 +1,14 @@
+My observations and thoughts:
+Based on the provided market data, I notice that there is a significant impact of price on quantity sold. Prices around $20-$21 seem to be optimal in terms of both revenue and profit earned, with quantities sold ranging from 37.75 to 50 units across multiple rounds. The data also suggests that prices below $19 are not favorable, as seen by the increased quantity sold and profit earned when prices rebound around this range. Additionally, there is a possible ceiling at $39.25, as indicated by no customers willing to pay more than this price.
+
+New content for PLANS.txt:
+- Test incrementally increasing prices from current round (Round 30) with subsequent pricing rounds, with the goal of reaching a revenue-maximizing point without exceeding $39.25.
+- Evaluate the impact on quantity sold at each price tier in relation to previous rounds and adjust accordingly.
+- Investigate strategies to stabilize earnings around optimal price ranges while monitoring for elasticity.
+
+New content for INSIGHTS.txt:
+- Continued observation of historical trends suggests that targeting a balance between price tier profitability and overall revenue is key. However, the relationship between these factors will be examined further as additional data becomes available.
+- Based on existing data, setting a target revenue or profit margin may help optimize strategy, yet this would need to consider customer demand elasticity.
+
+My chosen price:
+21.0

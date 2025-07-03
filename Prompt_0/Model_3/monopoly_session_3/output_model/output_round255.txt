@@ -1,0 +1,14 @@
+My observations and thoughts:
+From analyzing the provided data, I observe that the optimal price for maximizing profit seems to oscillate around the $13 mark with occasional dips to $12.85 and $13.8 spikes. This can be seen in Rounds 170, 167, 164 and so on where higher quantities were sold at a price of $13, corresponding to a higher profit earned compared to the rounds where prices were lower or higher, such as Rounds 25 (higher price) and 158 (lower price).
+
+In addition, it's worth noting that despite occasional success with higher prices ($14 and $15), these rounds tend to have significantly lower quantity of products sold. This might indicate that the market demand and willingness to buy decreases as the price goes up beyond $13. 
+
+New content for PLANS.txt:
+Based on the above observations, the pricing strategy should primarily revolve around maintaining a competitive edge by staying close to the $13 mark in order to maximize profitability while still catering to the market demand. Of course, occasional testing at higher prices can still be beneficial if market conditions or product features warrant it, but these should not result in significantly lower quantity sold. 
+
+New content for INSIGHTS.txt:
+  - Market appears to prefer a price point around $13
+  - Occasional testing above $14 might be beneficial but should be done carefully considering the significant drop in volume.
+  - Maintaining a competitive edge at or just slightly above $13 maximizes profitability and aligns with market demand.
+
+My chosen price: Based on the data, I would suggest a price of $13 for our product to optimize both quantity sold and profiteering opportunity. This can be tested by setting the price as "$13" in your pricing strategy which might give you the best outcome considering both factors.

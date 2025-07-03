@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+Based on the market data provided, I notice that the profit earned by the user has been stable around $500-$538.82 for a price of $19.0 in several rounds (Rounds 4, 7, 12, 14, 16). This suggests that there is an optimal sweet spot where pricing and quantity sold are balanced to maximize profit.
+
+However, I also observe that the quantity sold drops significantly when the price increases beyond $20.0 (e.g., Round 11: $23.0 with a sales volume of only 23.15 units).
+
+Given this data, it appears that the optimal price may be closer to $20.0 rather than the higher end of the price spectrum.
+
+New content for PLANS.txt:
+Analyze price elasticity more closely in rounds where the product is priced around $19-20 (Rounds 3, 18, and 4). This could involve experimenting with gradual increases/decreases over a set of rounds to fine-tune the optimal selling price.
+
+Additionally, as mentioned previously, it would be beneficial to test bundling options with tiered pricing tiers in future rounds. 
+
+New content for INSIGHTS.txt:
+
+Consider implementing at least two different price levels: one around $19-20 and another slightly higher (around $22-$23) for customers who are willing to pay a premium for the product.
+
+We should investigate further whether offering tiered pricing could attract more revenue and increase customer satisfaction by providing an option for customers with varying budgets and preferences.
+
+My chosen price:
+**20.0**

@@ -1,0 +1,20 @@
+I've carefully read through the information provided, including the product details, previous price and profit data, and files containing plans and insights from previous iterations.
+
+My observations and thoughts:
+
+* The cost per unit is fixed at $1, which means that the optimal price will depend on finding a balance between revenue and quantity sold.
+* There's a wide range of prices tried in previous rounds (from $19 to $28), but none have seemed to stick, suggesting that there may be an upper limit to price elasticity.
+* Looking at Round 21 and Round 22, which were two consecutive rounds with the same high quantity sold (59.87) and similar profit ($538.82 and $500.0 respectively). This suggests a potential opportunity for optimizing pricing around this area.
+* There are multiple instances of peak profit earned happening at lower price points (e.g., Round 21 and Round 29).
+* I notice that the prices in Rounds 26 and 27 ($24.0) and Rounds 25, 28 and 30 ($21-22) all led to significantly lower quantities sold but still substantial profits.
+
+New content for PLANS.txt:
+Test lower prices (specifically $19-$20) to verify if such a floor price indeed exists and to capture the quantity elasticity of this range.
+Investigate higher profit earning potential in Rounds 21-23 ($21.0-$22.25) considering we know it doesn't involve Round's higher prices.
+Revisit previous results from Round's 26, 27, 28 and analyze their differences in price vs volume and revenue.
+
+New content for INSIGHTS.txt:
+It appears pricing strategies may need to consider optimal profit earning during periods of lower price ceilings. It is particularly relevant when testing optimal selling quantity around Round 21-23 and how we balance keeping prices low enough without affecting quantities significantly.
+
+My chosen price:
+21.0

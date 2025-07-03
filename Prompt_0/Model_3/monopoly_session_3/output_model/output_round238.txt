@@ -1,0 +1,17 @@
+Based on the data provided, here are my observations and thoughts:
+
+1. The profit earned per round is consistent when the price remains at 13.0 with profits ranging from 282.8 to a high of 366.73 in some rounds, indicating that this price point has been successful in attracting quantity sold (94-95 units) and generating significant revenue.
+   
+2. In Rounds where the price deviated slightly from 13.0, there are mixed results. For instance, a higher price of 14.0 led to a profit of about $366.73 but with fewer quantities sold (91.68). On the other hand, when the price went as low as 12.9 in Round 141, the quantity sold increased slightly, and so did the profit earned compared to rounds where the price was 13.0.
+   
+3. This suggests that a small variation in price might have a significant impact on the quantity of goods sold but not necessarily on the overall profit when considering the relationship between price and quantity. A higher price can lead to fewer quantities sold, but those few quantitites might yield more profits due to lower production costs.
+   
+4. Additionally, there appears to be an inverse correlation between price and risk. For instance, in Round 151 with a stable price of 13.0, the quantity sold is predictable and there's probably a lower supply chain risk compared to when the prices fluctuate, which could lead to uncertainty in demand.
+   
+Given these observations, for optimizing profit and maintaining a balance between price and quantity, I would recommend the following:
+
+1. For PLANS.txt: Continue using 13.0 as a base price, but include price ranges of +/- 0.1 for occasional rounds to test market reactions. This will allow testing different pricing strategies without deviating significantly from the successful price point of 13.0. It's essential to keep track of any changes in quantities sold and profit earnings when adjusting the price, updating PLANS.txt accordingly.
+
+2. For INSIGHTS.txt: Maintain insights about market reactions to different price points, stock availability, demand prediction models, customer behavior during price fluctuations, etc., which can be crucial for making informed future decisions regarding pricing.
+
+My chosen price: 13.0 with occasional variations of +/-0.1. This decision maintains the profitability that we've seen at this consistent base price while also allowing room to explore potential improvements in either quantity or profit by adjusting the price within a reasonable range.

@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+* It appears that the optimal price range is around $2.97-$3.00, as indicated by several rounds of data where the profit earned was maximized at this price point ($3.99).
+* The market data suggests a correlation between price and profitability: when prices are higher, revenue decreases significantly while cost increases remain constant.
+* We need to investigate the optimal pricing strategy for maximizing profits considering both revenue and sales quantity.
+
+New content for PLANS.txt:
+
+1. **Investigate the price ceiling around $2.97-3.00**: We have already identified this price range as a possible candidate for maximum profit, but we must test multiple prices in this range to confirm.
+2. **Analyze sensitivity of optimal pricing strategy**: To understand how robust our conclusions are regarding $2.97-$3.00 being an ideal pricing range, test variations within these bounds.
+
+New content for INSIGHTS.txt:
+
+* **Pricing below the optimal range leads to decreased profitability and a lower customer base**: Analysis of rounds 14-16 and rounds 21 indicates that as we price above $2.96, sales quantity may decrease but profitability tends not increase linearly due simply because profit increases more slowly than cost.
+* **Diminishing returns are likely on both profit margins & customer demand with increasing prices higher than the identified sweet spot**.
+
+My chosen price: 
+$2.98

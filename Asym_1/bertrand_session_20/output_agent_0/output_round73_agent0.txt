@@ -1,0 +1,19 @@
+My observations and thoughts: It appears we are looking at data of a competitive pricing strategy experiment for a product or service. The dataset lists the seller's price and competitor's price in each round along with quantity sold and profit earned.
+
+  From this data, it seems that the key factors affecting the number of units sold appear to be price and competition in particular. In rounds where the seller sets a lower price than their competitors or match the prevailing market price, more units are sold. If the price is significantly higher, fewer units are sold despite potentially higher profit per unit.
+
+  Notable exceptions exist as well. In rounds 1,4,7 and 29-30, the seller sets exceptionally high prices, resulting in very low quantities sold. However, even with such a high initial price for round 1, a decrease in competitor's price leads to increased sales in round 2 and subsequent increases in quantity sold throughout the experiment.
+
+  Round 7 is interesting because it seems that competition has led our seller to set an artificially high price in order to maintain their perceived value.
+
+New content for PLANS.txt:
+- Adjust pricing strategy based on competitor prices in a similar range as ours or slightly below to attract more customers.
+- Analyze the performance of exceptional pricing rounds (ex: round 2's price decrease after an initial high price) to understand potential opportunities for increased sales without sacrificing profit.
+- Monitor fluctuations in market trends, such as competitor price changes, and adapt accordingly by adjusting our own pricing strategy to stay competitive.
+
+New content for INSIGHTS.txt:
+- Lower prices attract more customers, with higher unit sales. However, profit margins need to be carefully considered before making these decisions.
+- Being the highest priced option can significantly decrease the quantity sold without necessarily increasing the profit per unit sold.
+- Keeping a competitive price close to that of our competitors is important in maintaining market share and attracting customers who may perceive us as overpriced at higher price points.
+
+My chosen price: If forced to make a choice based on the current data, I would propose we aim for a medium-competitive pricing strategy, somewhere within the range of prices listed for rounds 4,5,10 and adjust accordingly to reflect changes in market trends or competitor actions as necessary.

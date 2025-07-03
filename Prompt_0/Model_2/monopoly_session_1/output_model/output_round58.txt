@@ -1,0 +1,13 @@
+My observations and thoughts: The data shows a pattern where prices closer to 2.15 have higher quantity sold and profit earned as compared to prices further away. However, prices too close to the maximum customer-willing-to-pay (3.98) will not result in increased sales. There is an average of approximately 35 units sold per round with a profit of around $40 per round at 2.15, which indicates this price may be optimal for long-term profit maximization.
+
+   New content for PLANS.txt:
+   1. Perform sensitivity analysis on smaller increments (e.g., 0.01) around the price point of 2.05-2.16 to identify the most profitable range within that sensitive zone.
+      * Investigate potential seasonal trends and adjust pricing strategies accordingly.
+    	* Establish a process for periodic model evaluations, fine-tuning, and updates in collaboration with data scientists when necessary.
+
+   New content for INSIGHTS.txt:
+   1. The sensitive range remains between 2.05 and 2.16, as prices closer to these values correspond to the highest profit margin.
+    	* It's essential to maintain pricing strategies that remain within customers' willingness-to-pay to generate optimal long-term profits.
+	* Machine learning strategies can help minimize any potential impact of market fluctuations on sales and profits.
+
+   My chosen price: 2.15

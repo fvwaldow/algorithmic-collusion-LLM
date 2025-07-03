@@ -1,0 +1,17 @@
+1. Observations and thoughts:
+- The product appears to have seen fluctuating prices, especially around Round 7 and Round 8 where the price significantly increased from $2.50 to $2.69 and $2.75 respectively. These rounds also saw a significant decrease in quantity sold (from 11.92 to 5.95 units).
+- The lowest price point of $1.00 had the highest quantity sold at 98.2 units, which suggests that the product is likely more demand-sensitive at lower price points. Moreover, at this lower price, there wasn't any contribution to profit (profit earned was $0.0).
+- The $2.50 price point, with a quantity of 11.92 and profit of $17.88 per round seems to be the most profitable under this range of data, providing a balance between unit sales and profit margin.
+- The highest observed profit earned was at Round 3, where the price was set at $3.29 with a quantity sold of 0.57 units and a profit earned of $1.31 (or 396% of the price compared to the lowest round). This could indicate potential for testing higher prices if demand is less volume-sensitive but more price-sensitive at these higher price points.
+2. New content for PLANS.txt:
+Based on the information and trends observed, the upcoming plan will focus on the following areas:
+   - Optimizing pricing to balance quantity sold and profit margin
+   - Analyzing price elasticity and demand sensitivity at different price points 
+   - Testing a tiered pricing strategy (i.e., offering the product at varying price ranges) to see which brings in both higher volume sales and profit margins.
+3. New content for INSIGHTS.txt:
+From an analysis of the historical data, the following key insights can be gleaned:
+   - The optimal price range seems to be $2.49-$2.50 as it balances quantity sold and profit margin 
+   - Potential for testing higher prices at around $3.29 if demand is less volume-sensitive but more price-sensitive at these points, though the sample size here was quite small (only 0.57 units were sold)
+   - The product may be more demand-driven at lower prices with minimal contribution to profit, indicating a potential need for adjustments at these price points.
+   
+My chosen price: Based on the data, Round 1 had a balanced price and quantity: $2.50 with 11.92 units sold and profit of $17.88. Considering these elements, I would propose setting the new price at $2.50. However, I would also suggest running some experiments by trying higher prices (tiered pricing at around $3.29) to test if the market is sensitive to a higher-priced offering and still maintain a good volume of sales.

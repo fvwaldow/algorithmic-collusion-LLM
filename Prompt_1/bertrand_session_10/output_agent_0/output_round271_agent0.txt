@@ -1,0 +1,21 @@
+My observations and thoughts:
+   In this scenario, we can observe that the market is both competitive and dynamic. There are multiple competitors offering the same product at different price points with varying quantities. The data shows that a lower price point (4.0) sells significantly fewer units but still generates profit, while a higher price point (10.0) can generate substantial profit for individual sales but may not consistently boost overall quantity sold.
+
+   Pricing strategy seems to have a direct impact on the number of units sold in this scenario. For example: selling at 7.0 generates around $92.3 in every round, while selling at 6.0 results in about $107.42 per round but with more consistent sales volume. Selling at the minimum profitable price (4.0) brings in less profit per unit ($5.09 compared to $67.01 for 7.0), but still generates a continuous increase in profit over time due to higher quantities sold.
+
+   It's important to note that not setting any price during a round results in zero sales and no revenue generation. The market also appears to be reactive, as competitors tend to adjust their prices based on the strategy of other vendors.
+
+PLANS.txt:
+- Establish various pricing tiers to test different profit potentials.
+- Maintain a baseline price that allows for consistent sales volume and stable profit generation (6.0 in this scenario).
+- Adjust the higher price point during competitive situations or when seeking additional profit (7.0 in this scenario).
+- Utilize lower price points (4.0) to capitalize on sales opportunities where demand is high, while ensuring profitability thresholds are still met.
+- Maintain regular monitoring and analysis of competitor pricing and response strategies.
+
+INSIGHTS.txt:
+- Aggressive pricing can result in increased sales volumes but may not always translate to overall profit increases if profits per unit don't compensate for the quantity sold (e.g., setting price at 4.0 consistently may not generate more profit than maintaining a higher price point like 7.0).
+- Adjusting high price points during periods of lower competition or increased demand can significantly boost revenue.
+- Utilizing dynamic pricing based on the competitors' strategies is an effective method to maintain and possibly gain market share by capturing shifts in consumer preferences.
+
+My chosen price:
+6.0 (maintain a baseline price for consistent profit generation)

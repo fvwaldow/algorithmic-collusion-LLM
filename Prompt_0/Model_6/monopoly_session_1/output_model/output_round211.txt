@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+Based on the provided data, there is a clear trend of decreasing sales and revenue as the price increases above $2.92. The highest profit earned was $4.72 in several consecutive rounds at a price of $2.92, but this drops to around $3.85-$4.27 when the price reaches $2.95-$2.98. At prices above $2.98, sales and revenue continue to decline significantly.
+
+It's also worth noting that prices below $2.92, such as in Rounds 122 and many previous rounds before Round 130, result in significantly lower or zero profit. This suggests that a price slightly below $2.92 might lead to increased sales and more substantial profits.
+
+New content for PLANS.txt:
+
+* Investigate the optimal price range between $2.88 and $2.92, as it seems that prices above this range do not generate high revenue.
+* Consider offering temporary discounts or promotions for a few rounds to test the effect on sales and revenue at these lower prices.
+* Monitor the sales and profit data closely in the next few rounds to refine the pricing strategy.
+
+New content for INSIGHTS.txt:
+
+* The relationship between price and revenue is non-linear, with a significant drop-off in sales and profit above $2.92.
+* A sweet spot exists around $2.88-$2.92 where prices are high enough to maintain decent margins but not so high that they deter customers.
+* Further exploration of the optimal price range is needed, as small adjustments can have significant effects on revenue.
+
+My chosen price:
+
+$2.92

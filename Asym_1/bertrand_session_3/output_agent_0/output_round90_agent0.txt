@@ -1,0 +1,13 @@
+My observations and thoughts:
+   This game appears to be a two-player zero-sum game where both players constantly adjust their prices in response to the other's actions. The focus is on maximizing profit (or minimizing loss), as shown by the inclusion of profit earned with each round. Some periods show an increasing price strategy (e.g., Round 1, Round 3, and Round 5) while others demonstrate a decreasing price strategy (e.g., Round 6, Round 7, and Round 30). It is interesting to note that although the competitors start at different prices, over time their prices converge suggesting an attempt to match each other's pricing.
+
+   New content for PLANS.txt:
+   Strategy involves monitoring competitor price movements closely, adjusting prices accordingly while staying one step ahead to maximize profit. The ideal strategy should balance high-profit periods with low-risk periods based on the current market trend and estimated competitor reaction time.
+
+   New content for INSIGHTS.txt:
+   - Competitors are price sensitive and often react strongly to steep increases or decreases in prices, causing an adverse impact on sales volume.
+   - There is a significant correlation between price and quantity sold, indicating that demand for the product is influenced by its price point.
+   - The optimal pricing strategy may be to strike a balance between attracting customers with lower prices without compromising profit margins too much.
+
+   My chosen price:
+   3.12 (This price attempts to take advantage of periods where competitors have high profits while also considering the overall market trend and potential for maintaining a steady customer base.)

@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+The data suggests a strong tendency for the prices to hover around $5.02, with occasional spikes or dips, but always within a relatively narrow range. There are also some outliers like Round 204 where the price is way out of this range ($155.03). Overall, it seems that when prices are closer to $5.00-$5.05, sales tend to be higher (e.g., Rounds 201-205). On the other hand, when prices deviate from this range, sales decrease significantly.
+
+New content for PLANS.txt:
+
+- Monitor and react to price deviations: Pay close attention to future data to prevent repeated instances of lower sales due to prices being too far off from $5.00-$5.05.
+- Target profit margin analysis: Perform a detailed analysis on the profit margin for each round, especially when there's significant variance in sales.
+
+New content for INSIGHTS.txt:
+
+- Price elasticity is evident around $5.05 and below ($5.02):
+  - Rounds where price dropped to $5.01 resulted in a sharp increase in quantity sold (e.g., Round 200 vs. Round 202).
+  - The opposite effect is observed when prices rose above $5.02, suggesting customers are sensitive to increases past the optimal price point.
+- Maintain target range:
+  - A strong preference for prices between $5.00-$5.05 has been consistently demonstrated in the data.
+
+My chosen price:
+
+4.99

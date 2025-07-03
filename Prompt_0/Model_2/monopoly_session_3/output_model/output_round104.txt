@@ -1,0 +1,16 @@
+My observations and thoughts:
+   - The price varies from as low as 20.1 (round 3) to as high as 25.01 (round 5). Generally, the price is set higher initially, then gradually decreases before increasing again towards the end of the data.
+   - Quantity sold tends to be significantly greater when the price is lower, but profit earning also tends to be higher when the price is set at around 23.5 - 24.0. This suggests that while a lower price may sell more units, it does not necessarily equate to higher profits.
+   - There are several instances where raising or lowering the price by a small amount results in a substantial difference in profit earnings (e.g., round 9 and round 10). This suggests that minor adjustments can have a significant impact on the overall profit.
+
+New content for PLANS.txt:
+- Monitor the effect ofprice fluctuations on sales and profit to optimize pricing strategy
+- Investigate the sensitivity of profits to small price changes
+- Consider using dynamic pricing where possible to adapt to market conditions more efficiently
+
+New content for INSIGHTS.txt:
+- Low prices may result in increased sales, but this doesn't necessarily correspond with higher profits
+- Small adjustments to price can leadto substantial changes in profit earned
+- It may be profitable to strategically set a moderate price rather than pursuing the lowest possible or highest attainable price
+
+My chosen price: 23.5

@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+Given the data provided, it appears that there is an optimal price range of around $2.97-$3.00, which maximizes profit. This can be seen in Rounds 26-19, where prices were consistently higher than $2.97 and quantity sold was relatively low compared to when prices were slightly lower ($2.96-2.98) but still within the optimal range. Additionally, the data suggests that reducing prices below this range can have significant negative effects on profit.
+
+A notable exception is Round 12, where a price of $2.9 resulted in significantly higher quantity sold and profit. However, examining subsequent rounds (Rounds 13-14), it seems that slightly increasing prices back to around $2.97 may have been an attempt to maintain profitability while capping revenue growth.
+
+It's also worth noting the sharp drop-off in sales at prices above $3.00 (Round 6, Round 9) and below $2.83 is not present since it cannot be attempted within this task).
+
+New content for PLANS.txt:
+
+1. **Explore potential price ceiling effects further**: Investigate how much of a revenue penalty exists when hovering around the identified optimal range versus pricing slightly above or below.
+
+2. **Investigate quantity sold dynamics at higher prices (near max revenue)**: Delve into what happens to sales figures as the upper threshold is approached, potentially providing insights into how high the peak price can go without diminishing long-term earnings.
+
+New content for INSIGHTS.txt:
+
+*   **Dynamic balance of optimal pricing and pricing elasticity**: Maintain awareness that customer sensitivity to prices may be key in maximizing ROI at optimal levels.
+*   **The importance of price adjustments on large quantities sold**: Small, targeted adjustments within the $2.97-$3.00 range can significantly impact long-term profits.
+
+My chosen price: 2.98

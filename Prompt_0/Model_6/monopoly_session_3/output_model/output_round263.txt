@@ -1,0 +1,16 @@
+My observations and thoughts:
+
+Based on the data provided, I notice that prices above $20.0 tend to result in lower sales volume and profit earned, compared to prices below $20.0. There are several instances where a price above $20.0 leads to sales volumes of 35-40 units or less, resulting in significantly lower profit earnings. In contrast, prices around $19-$20 seem to yield consistent sales volumes of 50 units and profits of $500 earned.
+
+New content for PLANS.txt:
+
+* Test the upper limit of price elasticity by setting a price slightly above the highest value that consistently yielded high sales volume ($20.0).
+* Try to replicate the results of Round 210, where an affordable price ($18.75) led to exceptionally high sales volume (62.25 units).
+
+New content for INSIGHTS.txt:
+
+* The relationship between price and profit appears to be non-linear. While prices below $20 always yield the maximum possible profit, higher prices do not necessarily result in even higher profits.
+* Pricing decisions should consider both revenue maximization and cost minimization strategies.
+
+My chosen price:
+$19.75

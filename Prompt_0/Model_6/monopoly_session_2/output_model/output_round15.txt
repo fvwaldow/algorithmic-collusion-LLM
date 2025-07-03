@@ -1,0 +1,15 @@
+My observations and thoughts:
+
+Based on the historical data provided, it appears that there is a slight increase in profit per unit as price increases from $4.95 to around $5.07. However, quantities sold decrease slightly with higher prices. There seems to be an optimal window for pricing between $4.95-$5.15, where profits are maximized.
+
+Notably, Round 13 and Round 14 show similar quantities sold for the same price of $5.05 and a slightly higher price point ($5.08) with only a relatively small increase in profit earnings. This suggests that minor price increments around $5.07 might not significantly improve profits.
+
+New content for PLANS.txt:
+Incrementally test prices between $4.95 to $5.10 at larger intervals initially (e.g., $0.05, then smaller increments as we approach the optimal point) instead of just focusing on specific points like $5.07 and $5.10.
+Run a more thorough analysis that incorporates all available historical data, rather than comparing Round 13 and Round 5 specifically, to better understand the pricing dynamics and identify trends leading to higher profit margins.
+
+New content for INSIGHTS.txt:
+Considering our goal is to maximize profits in the long term, it might be necessary to acknowledge the trade-off between premium pricing (yielding slightly lower quantities but higher units of revenue) against maximizing sales volume through lower prices. The optimal balance could depend on current market demand, target audience preferences, and competitor strategies.
+
+My chosen price:
+5.05

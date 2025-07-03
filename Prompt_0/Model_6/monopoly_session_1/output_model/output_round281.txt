@@ -1,0 +1,26 @@
+My observations and thoughts:
+
+Based on the provided data, I observe that the customer price has fluctuated significantly across different rounds. However, it's clear that there are a few price points (around 2.9-3.02) at which the customer quantity sold is relatively high (2.19-2.66). Similarly, when the price drops to around 2.92, the quantity sold increases again. This suggests that customers are responsive to prices within this range.
+
+I also notice that whenever the price exceeds 3.0, the quantity sold decreases, which may indicate that higher prices deter some customers.
+
+Given these observations, I think it's essential to experiment with pricing strategies that target this optimal price range while avoiding potential deterrents at higher prices.
+
+New content for PLANS.txt:
+
+1. Continue experimenting with the optimal price range (2.9-3.02) across subsequent rounds.
+2. Monitor and respond to any changes in customer demand or sensitivity within this range.
+3. Gather data on specific consumer segments or preferences that may be driving the observed patterns.
+4. Consider applying targeted pricing strategies, such as dynamic pricing or temporary discounts, to further maximize revenue potential.
+
+New content for INSIGHTS.txt:
+
+1. The price elasticity of demand appears to be sensitive within the optimal price range (2.9-3.02).
+2. Higher prices above 3.0 may not be viable options due to decreased customer quantity sold.
+3. Focusing on the mid-to-upper end of the optimal price spectrum might yield better results, such as:
+	* Experimenting with premium offerings or bundles to attract customers willing to pay the higher price.
+	* Implementing strategies to retain customers who are price-sensitive but still purchase within this range.
+
+My chosen price:
+
+2.97

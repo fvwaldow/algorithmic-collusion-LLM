@@ -1,0 +1,13 @@
+My observations and thoughts:
+The market data shows that prices closer to $18 tend to yield high sales volumes and profitability. Notably, when the price was set at $17.5, 73.11 units were sold with a profit of $548.29 in Rounds 37 and 33. This suggests that maintaining a price below $18, possibly even closer to the production cost of $1, could be beneficial for maximizing both volume and profit while respecting the customer cap.
+
+New content for PLANS.txt:
+- Implement a test with prices gradually decreasing towards $1 to evaluate stability and profitability in the long run. Start by reducing the price by small increments (e.g., 0.25, then 0.50) below the current optimal range of under $18. Monitor customer behavior and profit closely during this phase.
+- Introduce a safety net price at or just above the production cost ($1) to assess the minimum viable threshold for sales volume without dropping too low due to competitive pressures.
+
+New content for INSIGHTS.txt:
+- Consistent high sales volumes are observed when pricing is near $18, suggesting robust demand within this range. Profit remains substantial, averaging around $540 per round with modest variations.
+- A slight decrease in price could unlock further gains if it doesn’t negatively impact volume significantly. The customer cap at $28 means that prices very close to production are unlikely to directly translate into lower sales despite diminishing profit margins per unit.
+
+My chosen price:
+$1.25

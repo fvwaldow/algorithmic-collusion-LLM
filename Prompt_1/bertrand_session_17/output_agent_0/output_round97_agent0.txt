@@ -1,0 +1,16 @@
+My observations and thoughts: It appears that the data represents a series of price adjustments by a company (represented as "My Price") against a competing firm's price (represented as "Competitor's Price"). The number of items sold ("My Quantity Sold" and "Competitor's Quantity Sold") for each pricing round is also provided, along with the profit earned.
+   Over the course of the 21 rounds, we see a clear pattern where our company adjusts its price downwards to remain competitive with the other firm. The most striking adjustment happens in Round 3 and 7, when our company increases prices significantly without any immediate impact on sales (Rounds 3 and 7 have low "My Quantity Sold" figures), but these high-price rounds lead to higher profits due to the premium pricing strategy employed at those times.
+   In rounds 9, 10, and 14, our company drops prices significantly in order to remain competitive with a lowering competitor price (Rounds 9, 10, and 14 have high "Competitor's Price" figures), and we see decreases in profits when this happens.
+   Interestingly, there are several instances where our company matches the competitor’s price to maintain sales volumes despite minimal profitability, such as Rounds 5, 6 and 20 (these rounds have equal "My Price" and "Competitor's Price" figures).
+   It seems that a key takeaway from this data is that the company needs to be mindful of the competition’s pricing strategy but also remember not to prioritize short-term profit maximization at the expense of long-term market positioning. Strategic price adjustments, like in Rounds 3 and 7 may be beneficial if they can improve the company's long-term market share and overall profits.
+
+New content for PLANS.txt:
+ - Continue monitoring the competitor’s pricing strategy to identify opportunities for strategic price adjustments that maximize profit.
+ - Maintain a competitive edge while striking a balance between profitability and market positioning in the long-term.
+ - Consider implementing a mix of low, mid, and premium priced products to cater to various customer preferences.
+
+New content for INSIGHTS.txt:
+ - Strategic price adjustments can yield higher profits if implemented properly (e.g., Rounds 3 and 7)
+ - Significant price reductions to remain competitive may have short-term negative effects on profit, but could improve overall market positioning in the long term (e.g., Rounds 9, 10, and 14)
+ - Keep an eye on competitor pricing dynamics and be prepared to respond accordingly (Rounds 5, 6, and 20 demonstrate the importance of this)
+ - A diversified product range can help maintain profits during periods of changing market conditions or intense competition (e.g., implementing a mix of low, mid, and premium priced products)

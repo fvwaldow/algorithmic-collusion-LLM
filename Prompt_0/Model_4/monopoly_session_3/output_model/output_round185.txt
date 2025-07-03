@@ -1,0 +1,17 @@
+My observations and thoughts:
+- The profit earned fluctuates significantly with changes in price and quantity sold. Notably, there are instances where a higher price leads to zero or negative profit if the quantity sold drops to zero or very low. 
+- There seems to be a repetitive pattern of profits being around 7.4 when the quantity sold is 0.3, suggesting a consistent profit margin under these conditions. 
+- Round 105 showcases an exceptionally high profit of 12.62, indicating that substantial sales at a higher price (33.0) can lead to very profitable outcomes.
+
+New content for PLANS.txt:
+```
+Adjust pricing strategy by focusing on balancing price and quantity sold to achieve consistent profitability without sacrificing sales volume. Consider implementing promotional strategies to boost sales when the quantity sold is low, aiming especially to match the 0.3 quantity threshold for stable profit margins around 7.4.
+```
+
+New content for INSIGHTS.txt:
+```
+Repeated profits of approximately 7.4 when quantity sold is 0.3 suggest a consistent operational margin. Identifying this pattern will aid in maintaining profitability under similar conditions. The round featuring significant profit (12.62) points to potential opportunities with higher price and high volume sales. Ensure insights from these rounds are carried forward for informed decision-making.
+```
+
+My chosen price:
+40

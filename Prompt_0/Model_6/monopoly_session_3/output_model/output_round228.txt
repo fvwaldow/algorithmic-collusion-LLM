@@ -1,0 +1,27 @@
+Here's my response:
+
+**My observations and thoughts:**
+
+After carefully reviewing the extensive data provided, I notice a few things that stand out. Firstly, there is a sweet spot for prices around $19-20, where sales are consistently high (around 50 units) and profit earned is at its maximum ($500). Secondly, for every increase in price above this range, sales decrease significantly, resulting in lower profit earned. This suggests that the demand elasticity of the product is relatively low, meaning that any increases in price lead to a proportionately larger decrease in quantity demanded.
+
+In addition, I notice that there are some anomalies and outliers in the data, such as Round 125 where the sale was particularly high ($544.65), or Rounds 137-138 where prices were very similar but sales slightly deviated. These may be worth investigating further to see if they are indicative of any underlying trends or patterns.
+
+Lastly, I did not see any significant correlation between price and profit that could help identify a robust strategy for maximizing profitability in future rounds.
+
+**New content for PLANS.txt:**
+
+* Investigate the demand elasticity further by analyzing the impact of price on quantity demanded at various price points.
+* Identify any outlier data points or sales spikes, such as Round 125 ($544.65) and Rounds 137-138 ($538.82), to understand possible causes (e.g., marketing campaigns, external events).
+* Develop a model that takes into account both short-term profitability considerations (highest-profit sale strategy) and long-term sustainability concerns.
+
+**New content for INSIGHTS.txt:**
+
+* Sweet spot price range is around $19-$20, with maximum sales of 50 units and highest profit earned.
+* Demand elasticity is relatively low:
+	+ Higher prices lead to significantly lower quantity demanded.
+	+ Small price decreases can result in substantial increases in quantity demanded.
+* Potential for short-term anomalies or spikes (such as Round 125) indicates a need for additional data points and future analysis.
+
+**My chosen price:**
+
+$19.5

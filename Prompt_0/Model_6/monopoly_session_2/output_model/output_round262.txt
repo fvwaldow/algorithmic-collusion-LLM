@@ -1,0 +1,25 @@
+My observations and thoughts:
+
+The data shows a large amount of variation in prices across different rounds. However, there are some patterns observed in the data that could be useful for determining an optimal price.
+
+1.  The profit earned tends to increase with increases in price up to a certain point, but then decreases afterwards.
+2.  At higher prices (above $5.10), there's a significant decrease in sales quantity, which results in lower total profits.
+3.  Pricing between $4.90 and $5.00 seems to be the sweet spot for balancing profit earned and sales quantity.
+
+New content for PLANS.txt:
+To better understand how price affects profit and sales quantity, we could analyze different pricing strategies in future rounds. Some possible plans are:
+
+*   Test a higher price ($5.10 or above) to see if it would lead to even more profits without significant loss of sales.
+    *   This might not work well due to potential customer backlash at high prices.
+*   Keep experimenting with different price increases ($4.95, $5.00, $5.05) and observe their effects on profit and sales quantity.
+    *   Continue testing the current 'sweet spot' pricing range of $4.90-$5.00 in future rounds to ensure consistency and maximize profit.
+
+New content for INSIGHTS.txt:
+Some key insights gained from analyzing the data so far:
+
+*   Price elasticity is observed between $4.95 and $5.05 where there's a considerable change in profit earned with a slight increase in price.
+*   The upper limit of this 'elastic zone' appears to be $5.05, as higher prices above this may deter consumers from making a purchase.
+*   Sales quantity sharply decreases at prices above $5.10, resulting in significantly lower profits.
+
+My chosen price:
+$4.99

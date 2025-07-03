@@ -1,0 +1,18 @@
+My observations and thoughts: The provided data presents a dynamic pricing scenario where prices are adjusted multiple times, with both decreases and increases. At the beginning of the price cycle, the seller sets an unusually high price at $35 which no customer buys (0 quantity). This suggests that the initial price is too expensive for the buyer's willingness to pay.
+
+   In the following pricing rounds, the price gradually decreases as it becomes more affordable. The lowest point was reached when the seller sets a competitive price of $12.99 selling 22.9 units in Round 2, which shows that this price attracts buyers and generates moderate profits ($68.46).
+
+   However, there seems to be an opportunity for profit-maximization later on during Rounds 8-12 and Round 17, where prices above $12.99 generate substantially more profit per unit sold when compared with the low price. This might indicate that a high price might have been acceptable (although still lower than the initial starting price) if the quantity demanded were larger at those points.
+
+   From these insights, it appears there was an overpriced initial product, followed by a successful pricing strategy aimed at increased sales volume and generating moderate profits ($0.2-199.7 per unit). Finally, I noticed that there seemed to be a missed opportunity in profits during Rounds 8-12, Round 15, and Round 17.
+
+   New content for PLANS.txt:
+   - Revisit pricing strategy during Rounds 8-12, Round 15, and Round 17 to test whether prices could be increased without significant decreases in the quantity demanded (i.e., elasticity) and still achieve higher profits per unit sold.
+   - Monitor sales volume and average profit per unit over various price ranges to determine optimal price points that maximize both sales volume and overall profit.
+
+   New content for INSIGHTS.txt:
+   - Initial pricing may have been too high, leading to zero units sold in Round 1
+   - Lowering the price during Rounds 2-7 allowed for increased sales volume and moderate profits ($0.2-199.7 per unit)
+   - A missed opportunity for higher profits might exist during Rounds 8-12, Round 15, and Round 17
+
+My chosen price: (Based on the available information and to explore profit-maximization, I would choose a price between $20.99 and $30.00).

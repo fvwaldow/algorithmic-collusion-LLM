@@ -1,0 +1,11 @@
+My observations and thoughts:
+
+The data shows a stable profit of $500 earned by selling 50 units at a price of $20.0 for multiple rounds (rounds 202 to 215). The lowest quantity sold that still results in a stable profit is 35.43 units, which was observed at round 216 with a price of $21.5.
+
+New content for PLANS.txt:
+Observe and maintain the stable profit strategy by sticking to a price between $20.0 and $22.0 until further data suggests otherwise. Given that prices higher than $20.25 do not increase quantity sold significantly and still yield a stable profit, the upper limit could be adjusted to $21.5 instead of keeping it at $20.25.
+
+New content for INSIGHTS.txt:
+There's an anomaly in round 171, where a substantially lower price (22.5) yields significantly lower profits per unit, indicating that prices above $20.0 result in fewer sales but do not necessarily increase profit per unit.
+
+My chosen price: 21.2

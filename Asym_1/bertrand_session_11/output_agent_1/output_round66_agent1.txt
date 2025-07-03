@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+   Based on the provided data, it appears that the competition's pricing has been quite volatile, with prices ranging significantly from 3.0 to 8.97 (competitor's price). The average competitor price seems to be around 5.2, with the highest volume of sales occurring at a price of 5.0 for the agent.
+
+   Sales volumes are relatively high when the agent and competitor both have comparable prices, indicating some sensitivity to pricing. In rounds where the agent's price is significantly higher than the competitor (e.g., Round 1 with a price of 13.87), no sales were made, suggesting a lower demand at these higher prices. Conversely, at very low prices, such as 3.5 in Round 3, sales volumes are moderately high but still less than when the prices are closer to each other (e.g., Round 4 where both were 5.0, resulting in 14.43 sales for the agent).
+
+   It seems there is a sweet spot around the average competitor price of 5.2, as evidenced by rounds like Round 7 and Round 8 (prices at 4.85 and 5.0 respectively) where relatively high volumes of sales were made.
+
+In terms of plans and insights:
+
+   PLANS.txt:
+   - Monitor the competitor's pricing strategy to spot trends and opportunities for price adjustments.
+   - Continuously analyze sales volume data to identify optimal pricing levels, with a focus on balancing profitability and high demand.
+   - Implement small incremental pricing adjustments to test response in the market and gather more data.
+
+   INSIGHTS.txt:
+   - Sales volumes tend to be higher when prices are closer to the competitor's average price around 5.2.
+   - High prices (e.g., Round 1) result in no sales, while extremely low prices (e.g., Round 3) can still generate some sales although with diminishing returns compared to pricing near the competitor's average.
+   - Keep a close eye on the competitor's price changes and be prepared for potential shifts in market dynamics.
+
+My chosen price: 5.2 (closer to the competitor's average, and seems to generate high sales volumes)

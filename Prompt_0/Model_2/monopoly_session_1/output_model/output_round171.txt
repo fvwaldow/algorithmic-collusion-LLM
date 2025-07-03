@@ -1,0 +1,8 @@
+My observations and thoughts:
+   The price varies significantly throughout the data, ranging from 1.20 to 5.00 with most frequencies around 2.00-2.50. In general, higher prices lead to lower quantity sold (except when it's 2.00, where there are large quantities sold). Interestingly, when the price is 3.00 or above, no units are sold. Additionally, periods with a price of 2.14 or 2.15 have consistent sales of approximately 36.35 units. However, prices below 2.0 result in substantial quantity sold (up to 50.0 units).
+   New content for PLANS.txt:
+   Based on the observed pattern, it seems that a price between 2.0 and 2.14 could be an effective strategy to maximize sales quantities while avoiding no-sales periods. A price of 2.15 may also be efficient considering its consistent sales. However, future rounds may require adjustments as prices above or below this range may result in different outcomes.
+   New content for INSIGHTS.txt:
+   It appears that the market prefers a moderate price point around 2.0 to ensure high quantity sold with minimal price decreases (avoiding periods of no sales). Prices significantly higher than 3.0 result in no units being sold, while lower prices up to 1.20 can lead to substantial sales quantities. Additional analysis may be necessary to account for any potential external factors influencing the market trends.
+   My chosen price:
+   2.14

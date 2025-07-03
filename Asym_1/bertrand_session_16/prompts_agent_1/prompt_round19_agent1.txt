@@ -1,0 +1,154 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $43.87
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Continue to utilize the sweet spot prices ($21.5) to encourage higher sales volume, though remain flexible and responsive to competition.
+   2. Invest in more accurate predictive models of competitor’s moves to enhance profit margin adaptability.
+   3. Monitor market trends, seasonality, and social preferences to optimize pricing decisions and revenue streams.
+   4. Evaluate and refine algorithms used for demand prediction and price setting based on current real-time data.
+   5. Explore dynamic pricing strategies by fine-tuning the sweet spot price range for various market conditions.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Maintaining a lower but competitive price point encourages higher sales volume and overall profit growth, while staying adaptable to competitor's pricing strategy.
+   2. Consistent monitoring of market trends, competitor’s moves, and adaptive algorithms plays a pivotal role in making effective decisions for maximizing long-term profits.
+   3. Flexibility in price setting is crucial to respond to different market situations effectively.
+   4. Utilization of dynamic pricing strategies can help maximize profit potential across diverse market conditions and seasonality factors.
+   5. Adaptability and swift adjustments to competitive pricing patterns are essential for maintaining profit optimization.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 18:
+                - My price: 20.0
+                - Competitor’s price: 21.5
+                - My quantity sold: 7.68
+                - My profit earned: 76.79
+
+Round 17:
+                - My price: 21.5
+                - Competitor’s price: 20.0
+                - My quantity sold: 2.54
+                - My profit earned: 29.17
+
+Round 16:
+                - My price: 25.0
+                - Competitor’s price: 26.16
+                - My quantity sold: 4.76
+                - My profit earned: 71.37
+
+Round 15:
+                - My price: 26.16
+                - Competitor’s price: 20.0
+                - My quantity sold: 0.4
+                - My profit earned: 6.5
+
+Round 14:
+                - My price: 26.16
+                - Competitor’s price: 22.5
+                - My quantity sold: 1.0
+                - My profit earned: 16.23
+
+Round 13:
+                - My price: 21.5
+                - Competitor’s price: 21.5
+                - My quantity sold: 4.37
+                - My profit earned: 50.2
+
+Round 12:
+                - My price: 25.0
+                - Competitor’s price: 24.0
+                - My quantity sold: 2.61
+                - My profit earned: 39.11
+
+Round 11:
+                - My price: 21.5
+                - Competitor’s price: 24.0
+                - My quantity sold: 9.79
+                - My profit earned: 112.62
+
+Round 10:
+                - My price: 30.0
+                - Competitor’s price: 20.0
+                - My quantity sold: 0.09
+                - My profit earned: 1.74
+
+Round 9:
+                - My price: 20.0
+                - Competitor’s price: 20.0
+                - My quantity sold: 4.53
+                - My profit earned: 45.28
+
+Round 8:
+                - My price: 20.0
+                - Competitor’s price: 20.0
+                - My quantity sold: 4.53
+                - My profit earned: 45.28
+
+Round 7:
+                - My price: 24.0
+                - Competitor’s price: 20.0
+                - My quantity sold: 0.95
+                - My profit earned: 13.28
+
+Round 6:
+                - My price: 20.0
+                - Competitor’s price: 26.0
+                - My quantity sold: 26.16
+                - My profit earned: 261.63
+
+Round 5:
+                - My price: 25.0
+                - Competitor’s price: 25.0
+                - My quantity sold: 3.51
+                - My profit earned: 52.68
+
+Round 4:
+                - My price: 27.5
+                - Competitor’s price: 20.0
+                - My quantity sold: 0.24
+                - My profit earned: 4.12
+
+Round 3:
+                - My price: 25.0
+                - Competitor’s price: 25.0
+                - My quantity sold: 3.51
+                - My profit earned: 52.68
+
+Round 2:
+                - My price: 30.0
+                - Competitor’s price: 20.0
+                - My quantity sold: 0.09
+                - My profit earned: 1.74
+
+Round 1:
+                - My price: 43.87
+                - Competitor’s price: 10.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.0
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

@@ -1,0 +1,13 @@
+1. Observations and thoughts:
+Throughout the provided data, there seems to be a general trend of price increases resulting in decreasing quantity sold. For example, prices started at a low point with high volume (e.g., $1.0 price point yielded a high quantity of 99.95) but as the price increased significantly, the corresponding quantity sharply dropped (e.g., at $26.5 and $27.28, the quantities sold were only 6.91 and 5.16 respectively). However, during these increases, there has also been a notable increase in profit earned even though the quantities sold decreased. This indicates that increased pricing may have led to higher revenue per sale.
+
+Considering this information, when choosing the optimal price it is essential to balance between maximising profits while maintaining reasonable sales volumes. Therefore, it would be wise to determine where this equilibrium point lies and select a price in its vicinity.
+
+2. PLANS.txt:
+In this scenario, future strategies might include finding ways on how to maintain high profitability without significantly decreasing the quantity sold. This could involve creating higher value items or upselling, as well as focusing on effective marketing and customer engagement methods to retain customers even at slightly higher price points. 
+
+3. INSIGHTS.txt:
+Based on historical data, it's apparent that an increase in price can lead to a drop in volume, but often this is accompanied by increased profitability per sale. Thus, setting the correct price requires careful consideration of both profit margins and sales volume to reach an optimal balance.
+
+4. My chosen price: 
+After analyzing the information, it seems that maintaining the price around the range of $13 to $15 could be a good balancing point between profitability and volume sold - given this is where profits are still substantial and quantities remain above 90 (e.g., prices at $13.0, $13.25 and $14.0 each yielded a quantity over 94). For example, the last few rounds at these price points resulted in decent profits, i.e., $282.8, $325.8, and $366.73 respectively. Thus I suggest setting our next price point around this range ($13-$15), with room for potential adjustments based on market trends or new product details if available.

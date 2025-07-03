@@ -1,0 +1,11 @@
+My observations and thoughts:
+   This dataset shows a game-theory dynamic between the competitors' prices. There are instances where one competitor sets an extremely high price (e.g., $20 in Round 87), which the other competitor often does not match, leading to no sales for the first competitor. However, when both competitors keep their prices within a reasonable range, sales occur. The dataset indicates that setting prices too low may lead to missed opportunities for profit (as seen in Rounds 53-60 where my prices are much lower than the competitor's but still make less profit). There also seems to be a trend of customers being willing to pay more when the price is relatively close between competitors, suggesting that pricing competitively can help attract more customers.
+
+   New content for PLANS.txt:
+   In future pricing rounds, consider keeping prices within a reasonable range (around the competitor's price) as this appears to attract more customers and maximize profit potential. Monitor the pricing strategies of the competitors to anticipate changes and be prepared to adjust prices accordingly.
+
+   New content for INSIGHTS.txt:
+   Competitor pricing dynamics seem to have a direct impact on sales and profit. Keeping prices competitive can lead to increased customer attraction, whereas setting extremely high or low prices can result in missed opportunities or lower overall profit. It is important to adapt pricing strategies based on the competitor's actions and anticipate future changes.
+
+   My chosen price:
+   2.35

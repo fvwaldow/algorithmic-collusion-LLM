@@ -1,0 +1,23 @@
+My observations and thoughts:
+
+Upon reviewing the market data, I notice that Round 12's anomalous profit earnings ($5.05) is a significant outlier compared to the other rounds. This suggests that there might be an optimal price range where quantity sold increases significantly, leading to higher profits.
+
+I also observe that lowering prices within the optimal range (e.g., around $2.97-$3.01) doesn't necessarily lead to increased quantities sold, as seen in Rounds 40-42. However, this pattern starts to change when the price is slightly raised or lowered from the upper limit of the optimal range ($3.00), suggesting a more nuanced relationship between prices and quantity sold.
+
+Focusing on Round 12, I speculate that the increased profitability might be due to the higher quantity sold (2.66 units) rather than any significant increase in price alone.
+
+New content for PLANS.txt:
+
+1. Investigate Round 12's anomalous profit earnings by comparing it to other rounds with prices within and above the optimal range ($3.00).
+2. Analyze how changes in price affect quantity sold in Rounds 40-42, particularly focusing on the relatively low quantity sold (1.73 units) when the price was increased to $3.01.
+3. Test pricing strategies by gradually lowering or raising prices from Round 12's optimal point, while keeping an eye on quantity sold and profit earned.
+
+New content for INSIGHTS.txt:
+
+* Further testing at or above the upper limit of the optimal pricing range ($3.00) may lead to decreased profits but might also increase quantity sold.
+* Rounds 40-42 suggest that lowering prices within the optimal range ($2.97-$3.01) might not always lead to increased quantities sold, but this could change when prices deviate from this optimal range.
+* Round 12's anomaly suggests that higher profitability can be achieved through optimal pricing and quantity increases.
+
+My chosen price:
+
+2.92

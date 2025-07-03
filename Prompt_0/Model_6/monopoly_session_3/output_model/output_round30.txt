@@ -1,0 +1,17 @@
+My observations and thoughts:
+Based on the provided data, I notice a clear trend where prices below $20 result in higher sales, but with a lower profit per unit. The optimal price range of $20-$22, as identified in INSIGHTS.txt, seems to be where quantity sold and revenue converge. Prices above this range significantly impact both quantity sold and profit per unit.
+
+When comparing rounds 22, 21, and 18-17, prices at $20 result in the maximum quantity sold (50 units) but also offer a relatively stable profit ($500). Pricing around $21 seems to provide a balance between quantity sold and profit earned. However, any price increase above this, especially when approaching the market's absolute limit of $39.25, results in lower sales figures.
+
+Considering the potential demand impact at slightly elevated prices (around $23-$24), as noted in INSIGHTS.txt, further investigation and monitoring are crucial to optimizing both revenue and profit. Discounts or promotions may have a positive effect on demand but also require a precise pricing strategy to ensure they do not erode long-term profit margins.
+
+New content for plans.txt:
+- To further optimize revenue around the optimal elastic point at $20, test pricing strategies that incrementally increase above this while closely monitoring quantity sold and profit.
+- Investigate potential profit maximizers by identifying a pricing tier that strikes a balance between increasing prices near their market ceiling ($23-$24) and maintaining strong demand, with an aim to see effects on both sales and profit.
+
+New content for INSIGHTS.txt:
+- Lower price offerings at $19.0 ($21 round) before rebounding and stabilizing around $20.00 significantly impacted quantity sold compared to other rounds, despite the cost per unit.
+- Considering the historical trends observed in previous rounds and how closely quantity sold relates to pricing, aiming for a balance between maximizing profit earned and keeping overall elasticity above the price tier's break-even point will be key.
+
+My chosen price:
+$21.25

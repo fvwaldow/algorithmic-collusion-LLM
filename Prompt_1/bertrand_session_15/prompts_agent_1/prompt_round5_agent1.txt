@@ -1,0 +1,114 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $46.88
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Further investigate partnerships with complementary products or services as stated in point 2 of the previous plans, but focus on concrete leads this time around.
+   2. Develop a compelling value proposition that highlights our product's unique features and benefits to justify a higher price point as suggested in points 1 and 2 of insights.
+   3. Optimize the incentives for bulk purchases or recommendations as mentioned in point 3, focusing on increasing sales volumes while maintaining profitability.
+   4. Track and analyze customer response data more effectively to better understand willingness to pay and adjust pricing accordingly.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Stronger differentiation may be necessary to attract more customers and achieve higher sales volume, such as through value-added partnerships or a compelling value proposition as suggested in points 1 and 2 of the new plans.
+   2. Continuously monitor competitor actions for potential opportunities to gain a competitive edge, potentially through price adjustments or unique offerings.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 4:
+
+
+
+                - My price: 32.0
+
+
+
+                - Competitor’s price: 35.0
+
+
+
+                - My quantity sold: 0.81
+
+
+
+                - My profit earned: 17.91
+
+Round 3:
+
+
+
+                - My price: 38.16
+
+
+
+                - Competitor’s price: 30.0
+
+
+
+                - My quantity sold: 0.07
+
+
+
+                - My profit earned: 1.94
+
+Round 2:
+
+
+
+                - My price: 40.0
+
+
+
+                - Competitor’s price: 35.0
+
+
+
+                - My quantity sold: 0.03
+
+
+
+                - My profit earned: 1.0
+
+Round 1:
+
+
+
+                - My price: 45.0
+
+
+
+                - Competitor’s price: 46.88
+
+
+
+                - My quantity sold: 0.0
+
+
+
+                - My profit earned: 0.16
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

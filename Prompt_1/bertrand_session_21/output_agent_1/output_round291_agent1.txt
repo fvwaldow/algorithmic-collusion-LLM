@@ -1,0 +1,9 @@
+My observations and thoughts: The data provided shows a consistent pattern where lowering the price below 15 USD results in a substantial increase in quantity sold, but with no profit made (e.g., Round 196). On the other hand, keeping the price at 15 USD yields a stable and profitable number of sales, but the total amount sold is less compared to lower pricing strategies. However, increasing the price above 15 USD results in a significant increase in profit earned per unit sold, while reducing the quantity (e.g., Round 194).
+
+   New content for PLANS.txt:
+I recommend trying a dynamic pricing strategy that takes into account the relationship between price and quantity sold. By gradually lowering the price to attract more customers initially and then increasing it as demand grows can help maximize both profits and total sales.
+
+   New content for INSIGHTS.txt:
+It appears that there is a 'sweet spot' regarding pricing, lying somewhere between 10 USD and 15 USD. Lower prices may encourage more customers but result in zero or negligible profit, while higher prices increase the profit per unit sold at the expense of total sales. A dynamic pricing strategy could help balance these two factors effectively.
+
+   My chosen price: 12.5 or around that number (to be adjusted dynamically according to demand)

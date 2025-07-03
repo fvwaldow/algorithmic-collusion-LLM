@@ -1,0 +1,17 @@
+My observations and thoughts:
+    The product has a cost of $1 per unit and no customer would pay more than $5.93. In the given market data, it can be observed that pricing at or near the competitor's prices does not guarantee increased sales or profit. However, lowering the price to a competitive range does result in higher quantities sold, although such price reductions impact profitability.
+
+    There is also evidence of a profitable range between $2.4 and $3.0 where higher profit can be earned despite relatively low quantity sold. This suggests that pricing within this range while maximizing for profit should be prioritized; however, there's an opportunity to increase both sales and profit by optimally balancing the price with competitor pricing.
+
+    Insights gained from previous pricing rounds indicate that adopting adaptive dynamic pricing strategies is crucial in targeting the profitable price range while maximizing profitability. Enhancing the forecasting model for predictable optimal pricing seems promising in reducing experimentation time with high-risk pricing strategies.
+
+	New content for PLANS.txt:
+    - Implement a real-time dynamic pricing strategy that dynamically adjusts price based on both competitor pricing and historical data, focusing on profitable range ($2.4 - $3.0) while optimizing for profit with a priority on minimizing experimentation time to maximize long-term profitability.
+        - Revise and improve the forecasting model in order to analyze market trends and make accurate predictions regarding optimal pricing for each round, thus minimizing time spent testing each pricing strategy.
+        - Develop real-time price monitoring system to track competitor’s prices and update pricing strategy accordingly, while also focusing on long term profitability.
+     New content for INSIGHTS.txt:
+    - Adaptive dynamic pricing strategies are essential in the competitive market to capitalize on profitable opportunities within the range of $2.4 - $3.0 for maximum profit without compromising long-term profitability.
+        - An advanced forecasting model will assist in making accurate predictions and minimizing time spent experimenting with risky pricing strategies, ultimately maximizing long-term profitabilit through optimal pricing decisions.
+        - Continuously monitor competitors' prices to ensure the pricing strategy remains competitive but focused on maximizing profitability over short and long term.
+
+    My chosen price: $2.75 (Slightly above the lower end of the profitable range identified in observations)

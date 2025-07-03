@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+The data shows a clear trend in price fluctuations and subsequent sales volume over the past 107 rounds. Initially, the price remained relatively stable within a narrow range of $23 - $24.5. Then, there was a significant increase to $84.76 in round 93, which resulted in no sales. After this, the price gradually decreased back down to $23 and has consistently remained around that level ever since. The sales volume seems to be directly related to the price - higher prices lead to lower total sales.
+
+While there have been some fluctuations in the price over time, it appears that the optimal price range might be between $23 and $24.5, based on the historical data provided. The increase to $84.76 was a significant outlier and did not yield any sales.
+
+PLANS.txt:
+- Observe the correlation between price and total sales over the next rounds.
+- Keep track of fluctuations in price and their impact on sales volume.
+- Consider gradually increasing the price from the current $23 to observe if there is a sweet spot within this range that maximizes profit.
+
+INSIGHTS.txt:
+- Price fluctuations outside of the range of $23 - $24.5 can have significant negative effects on total sales.
+- The optimal pricing strategy might be to find a sweet spot within the range of $23 - $24.5, balancing profitability and demand.
+- Keep track of the data to identify any patterns or trends that may emerge over time.
+
+My chosen price: 23 (Continue maintaining price in the historical optimal range)

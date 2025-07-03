@@ -1,0 +1,19 @@
+Based on the provided data, I can notice a few patterns that may provide insights for our future strategies and actions:
+
+Trends in Price and Profit:
+1. Higher price does not seem to affect quantity sold significantly but it has an impact on profit earned. For example, when the price was 2.60, there were only 8.32 items sold, but the profit was still at 13.31. In contrast, when the price was lowered to 2.25, a higher quantity of 26.89 items was sold, resulting in a lower total profit of 33.62.
+2. The lowest quantity sold (0) occurred twice - when the price was 120 and when it was at its highest point (74). This could hint towards a threshold effect where very high or low prices detur consumers from making purchases.
+ 
+Optimal Strategy:
+Considering these observations, we might want to keep our item's price in the range of 2.25 - 2.60. This seems to strike a balance between maximizing both volume (quantity sold) and value (profit earned). To avoid selling too few items at prices significantly higher than this range or too many at prices considerably lower, we could:
+
+1. Implement dynamic pricing systems to regularly analyze market conditions such as demand and competition, allowing us to adjust our prices accordingly.
+2. Offer bulk discounts for purchasing a certain quantity to boost sales while still having room for profit margins.
+3. Conduct surveys or collect feedback from customers to gauge their price sensitivity and preference.
+ 
+In the PLANS.txt and INSIGHTS.txt files, I would add these insights:
+* In PLANS.txt, I would note that maintaining a moderate price range of 2.25 - 2.60 seems to balance between quantity sold and profit earned.
+* In INSIGHTS.txt, I would emphasize the potential impact of high and low pricing on consumer behavior, recommending a mixture of demand analysis, bulk discount strategies, and customer feedback collection for optimal pricing management.
+
+My chosen price: 
+Based on the observed patterns and trends, my suggestion would be to price our item at around 2.49 or 2.50. This value falls within the identified sweet spot where both quantity sold and profit earned are maximized.

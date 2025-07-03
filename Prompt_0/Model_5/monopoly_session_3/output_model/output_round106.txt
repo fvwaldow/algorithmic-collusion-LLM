@@ -1,0 +1,15 @@
+My observations and thoughts:
+The data shows a significant fluctuation in profit across various price points, with some rounds resulting in substantial losses. Notably, prices as low as 1.25 yielding a loss of -874.52 units stand out as especially risky. Higher price points like 21.0 and 27.0 units have yielded better profit margins, but occurrences are fewer. The most common profits seem to come from mid-range prices (around 19.5 units), suggesting a balance between low risk and decent return. There's an evident need for more research into identifying the optimal price point that maximizes gain while minimizing the chance of loss.
+
+New content for PLANS.txt:
+Investigate the reasons behind extreme losses at very low prices, possibly due to high fixed costs or other external factors not accounted for in these isolated data points. Explore whether there is a correlation between quantity sold and price, as higher price points generally correspond with lower quantities sold. Consider segmenting the market further if possible to understand how different customer groups respond to varying prices.
+
+New content for INSIGHTS.txt:
+- The highest profits consistently seem to emerge from mid-range pricing, specifically around 19.5 units.
+- Extremely low prices result in losses that might indicate additional external costs or market factors affecting profitability.
+- There’s a general negative correlation between price and quantity sold – higher the price, lesser the volume sold.
+
+My chosen price:
+19.5 
+
+Explanation: While exploring other price points is advisable, given the recurring pattern of decent profits at 19.5 units with manageable risks, it appears as a balanced approach to start with this price point for potential further testing and validation against additional market data or factors.

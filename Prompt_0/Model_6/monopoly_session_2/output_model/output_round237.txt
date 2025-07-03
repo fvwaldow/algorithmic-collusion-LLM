@@ -1,0 +1,15 @@
+My observations and thoughts:
+
+The data shows a consistent pattern of price setting around $4.99-$5.03, with most revenue being earned at $4.99 and $5.01. There is also evidence that prices above $5.03 do not generate significantly higher revenue. The maximum profit earned was $156.66 at a price of $5.06.
+
+However, considering the constraint of having to earn the same amount of profit each round, I think it's beneficial to take advantage of periods with high sales quantities, which are most commonly seen around the lower end of this price range ($4.99).
+
+New content for PLANS.txt:
+- Set a base price of $5.01, as this seems to be slightly above the optimal price floor of $4.99 but close enough to maintain similar revenue.
+- Observe and adjust pricing decisions if revenue drops significantly from previous rounds at this new price.
+
+New content for INSIGHTS.txt:
+- Continuing observations suggest that a high degree of stickiness can be achieved in terms of sales volume without necessarily altering the overall profit much if prices are set in the $4.99-$5.03 range.
+- Profit margins appear quite stable across different rounds when operating within this price bracket.
+
+My chosen price: 5.01

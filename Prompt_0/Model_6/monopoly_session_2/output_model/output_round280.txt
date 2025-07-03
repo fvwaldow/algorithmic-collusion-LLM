@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+The data provided shows a wide range of prices for the product, from $4.95 to $5.05, with some anomalous values like $155.03 in round 204. The quantity sold ranges from 0 (round 204) to 85.97 (round 207). There is no clear trend or relationship between price and quantity sold.
+
+New content for PLANS.txt:
+
+* Investigate the effect of pricing anomalies, particularly round 204.
+* Determine if there are any customers who consistently demand high prices for low quantities.
+* Analyze the relationship between price elasticity and sales data to inform future price choices.
+* Consider adopting a dynamic pricing strategy to capitalize on fluctuations in customer behavior.
+
+New content for INSIGHTS.txt:
+
+* It appears that the product has a relatively fixed price point around $5.00, with most prices clustered near this value. This suggests that customers are accustomed to paying a premium for high-quality goods.
+* The data shows a significant decrease in sales when the price is set above $4.95 (rounds 208-210). This indicates that there may be price sensitivity among consumers, and prices should not exceed $4.95 without further analysis.
+
+My chosen price:
+$4.955

@@ -1,0 +1,11 @@
+My observations and thoughts:
+The data provided shows repeated patterns of prices (23.0, 23.15, 23.5) but the quantity sold varies greatly (from 16.8 to 24.6). The price with the highest average per round is $23.5 and the one with the second highest (after excluding the outlier of $24.0) is $23.15. However, the quantity sold for these two prices varies significantly, suggesting different demand levels at each price point. The average quantity sold seems to be around 22.1. It would be interesting to analyze how changes in price might affect total revenue, since a higher price could potentially yield more profit per unit but at the risk of selling less overall.
+
+   New content for PLANS.txt:
+Analyze the relationship between price and quantity sold to find the optimal pricing strategy that maximizes total revenue. Consider using statistical methods such as regression analysis or tests of significance, if applicable.
+
+   New content for INSIGHTS.txt:
+Continued observation revealed a fluctuation in both price and quantity sold over time. The average quantity sold seems to be approximately 22.1, but the price with the highest average per round is $23.5 and the one with the second highest (excluding an outlier of $24.0) is $23.15. The significant variation in quantity sold for each price level suggests different demand levels at various prices. It remains to be seen how changes in pricing might impact total revenue, as a higher price could yield more profit per unit but possibly result in lower overall sales.
+
+My chosen price:
+23.15 (Second highest average per round after excluding the outlier)

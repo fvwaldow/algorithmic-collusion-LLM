@@ -1,0 +1,18 @@
+My observations and thoughts:
+After reviewing the market data, I notice that the optimal price range for maximum profit appears to be $19-$20, as previously mentioned in INSIGHTS.txt. This is supported by the data from Rounds 55, 59, and 45, which achieved profits of $538.82, $500.0, and $522.34, respectively.
+
+However, I also notice that prices above this range can still yield significant profits, albeit at a lower quantity sold (e.g., Rounds 66, 65, and 25). Additionally, there are some anomalies in the data where higher prices correspond to lower profits (e.g., Rounds 28 and 26).
+
+Given these observations, I plan to test tiered pricing strategies that offer discounts to certain customers based on their behavior or loyalty. This approach may help balance profit margin and quantity sold.
+
+New content for PLANS.txt:
+1. Test a tiered pricing strategy where high-value customers are offered a discounted price within the optimal range ($19-$20) while maintaining a minimum price threshold.
+2. Further analyze customer demand trends above the ceiling effect to identify any patterns and potential areas for future experimentation (e.g., examining data from Rounds 8, 9, and other outliers).
+3. Investigate possibilities of offering limited-time discounts or promotions to drive sales during periods of low demand.
+
+New content for INSIGHTS.txt:
+1. Confirm previous insight: The optimal price range below the ceiling effect appears to be $19-$20.
+2. Tiered pricing structures may be beneficial if high-value customers are correctly identified.
+
+My chosen price:
+$20

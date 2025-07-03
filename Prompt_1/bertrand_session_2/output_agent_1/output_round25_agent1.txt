@@ -1,0 +1,13 @@
+My observations and thoughts:
+It appears that pricing above $1.50 results in a lower sales volume, but also less competition. Prices between $1.20 - $1.60 have the highest profit, although the exact optimal price is not clear from this data alone. It would be beneficial to analyze the trend over time and consider A/B testing with subtle price changes to determine the best balance between sales volume and margin.
+
+New content for PLANS.txt:
+- Implement a more detailed analysis of price trend over time, including a slope analysis to identify if the profit per round is increasing or decreasing with each price change.
+- Refine A/B testing strategy by introducing subtle price variations within the discovered price range and closely monitor sales volume, profit, and market share.
+- Establish a monitoring system for competitor's reactions to our pricing strategies to ensure any changes in pricing do not have unintended consequences.
+
+New content for INSIGHTS.txt:
+- A finer-grained analysis of price ranges within $1.20 - $1.60 is necessary for pinpointing the optimal balance between sales volume and profitability.
+- In addition to researching market share trends, a consistent analysis of sales volume relative to competitors' prices can provide insights on possible pricing strategies.
+
+My chosen price: 1.47

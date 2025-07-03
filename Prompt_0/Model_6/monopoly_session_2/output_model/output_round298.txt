@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+After analyzing the data, I notice that there is a strong repetition of prices across many rounds, with a focus on the $4.99 price point. This suggests that this price may be an optimal target for maximizing profits. However, I also observe that when higher prices are tried (e.g., $5.05), they seem to result in lower sales quantity and sometimes even zero sales (Round 204). Additionally, there seems to be a trend of slight decreases in profit earned as the price increases above $4.99.
+
+New content for PLANS.txt:
+
+* Explore price elasticity around the optimal price
+* Investigate potential discounts or promotions to incentivize purchases at higher prices
+* Consider adjusting price granularity (e.g., trying prices like $4.95, $5.00, $5.05) to see if there is a sweet spot
+
+New content for INSIGHTS.txt:
+
+* The $4.99 price point appears to be an optimal target for maximizing profits
+* Higher prices may not lead to increased revenue due to decreased sales quantity
+* There may be opportunities to use discounts or promotions to encourage higher-priced purchases
+
+My chosen price:
+
+4.99

@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+The data suggests a strong inverse relationship between price and quantity sold. As the price increases, the quantity sold decreases, and vice versa. This is evident in rounds 170 (price: $2.85) where a higher price led to a significant increase in quantity sold (3.23), whereas in round 148 (price: $3.07), a similar increase in price led to a drastic reduction in quantity sold (1.37). 
+
+The data from previous rounds show that there is an upper limit beyond which the market does not respond with higher quantities sold. The profit per unit, however, remains steady at $4.72 or close until it drops significantly due to lower sales.
+
+New content for PLANS.txt:
+Investigate further into price elasticity of demand.
+Analyze data from previous rounds to identify optimal price points where quantity sold is maximized without compromising profitability too much.
+Consider implementing a strategy that aims to minimize the upper bound at which price no longer attracts higher quantities, thus maximizing overall profits.
+
+New content for INSIGHTS.txt:
+There seems to be an observable maximum profit limit; as long as prices remain below this threshold (approximately $2.92), quantity sold and profit earned are relatively stable. We need to identify strategies to take full advantage of this knowledge.
+To effectively manipulate prices, it's essential to consider the delicate balance of price elasticity – making incremental adjustments will help pinpoint optimal price ranges without unnecessarily reducing demand.
+
+My chosen price:
+$2.93

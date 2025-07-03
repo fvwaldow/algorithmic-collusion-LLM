@@ -1,0 +1,14 @@
+My observations and thoughts:
+
+Upon reviewing the market data and previous files, I notice that there are some patterns emerging. The profit earned tends to be highest around $19-$21 (e.g., Rounds 3, 9, 12, 20). However, trying to push prices above certain thresholds leads to a significant decrease in quantity sold and profits (e.g., Round 65 with a price of $25 and only 11.92 units sold). The highest profit earned is $522.34 (Round 45), but it's essential to observe that the price at this time was $19.5.
+
+New content for PLANS.txt:
+1. Test pricing around $20-$21 to see if it aligns with previous optimal profit ranges and helps avoid diminishing returns on quantity sold.
+2. Investigate potential thresholds or ceilings in profitability at specific price points (e.g., is there a decrease in profits when trying to push above $25).
+3. Since we understand that pushing prices beyond $24 may lead to significant decreases in quantity sold, it seems logical to stay within the range of what has worked previously ($20-$23) as our starting point for testing.
+
+New content for INSIGHTS.txt:
+* Further investigation is needed into why there's a decrease in both profit earned and quantity sold when adjusting prices above $25.
+* It's crucial to determine whether specific price points lead to diminishing returns on profitability, particularly around the sweet spot range ($20-$21).
+
+My chosen price: 21

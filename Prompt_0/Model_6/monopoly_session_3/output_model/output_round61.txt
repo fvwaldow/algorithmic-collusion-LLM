@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+Based on the provided market data, it appears that increasing prices has a diminishing effect on profit earned. In particular, Round 59 shows that at $20.00, selling 50 units earns $500. However, the subsequent price increases lead to smaller profits despite higher unit prices. Specifically, Rounds 60-63 show that while increasing prices from $22.0 to $24.0 and then further to $25.0 has little effect on profit earned in relation to price.
+
+This observation suggests that there may be a maximum point where increasing the selling price any further does not proportionally increase the profit, implying that higher prices decrease demand sufficiently to nullify the gain from increased unit price. Thus it would be beneficial to test whether higher price points will verify this notion and identify an optimal balance between earnings per sale and total sales.
+
+Considering customer willingness-to-pay is capped at $39.25 according to the provided product information, any selling price below this value remains within the bounds of what customers are willing to pay. Furthermore, as observed from Rounds 59 and 60 a moderate price point around or slightly above $22 may offer a better balance for profit maximization.
+
+The existing content in INSIGHTS.txt mentions potential trade-offs between higher prices increasing individual sale profit but lowering total quantity sold. We see an example of this relationship within the data where an increase to round 33's price and that from Round 57's have similar quantities sold, but slightly different profits per unit ($20.95 vs $22.0).
+
+New content for PLANS.txt:
+Incrementally raise prices past the previously optimal balance and continue to collect profit data in a structured manner across multiple rounds. We will verify that this observed relationship is persistent instead of anomalous.
+
+1.) First set the price at $24 then observe profit and quantity sold.
+2.) If no significant shift occurs we should proceed to raising prices to the upper end towards $39.25
+3.) Track profit earned against price increases and evaluate changes in demand through each iteration, aiming to eventually converge on an optimal value for maximizing overall profit.
+
+New content for INSIGHTS.txt:
+The data indicate that while there's likely a diminishing marginal return above a certain point (which our task now aims to identify), increasing prices will initially continue to increase profits due to increased unit price despite total quantity sold falling. Further investigation and experimentation are needed to pinpoint the exact optimal value.
+
+My chosen price: 24

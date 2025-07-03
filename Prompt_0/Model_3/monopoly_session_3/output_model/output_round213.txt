@@ -1,0 +1,22 @@
+Based on the provided data for each round, we can see that:
+
+1. The quantity sold remains constant or slightly varies around 93-95 units in most of the rounds, indicating a stable demand.
+2. The profit earned also shows similarity between rounds, ranging from 270 to 440.8 or approximately 300 to 441 on average, suggesting consistent monetary returns.
+3. The average price has significant variation, ranging from 12.7 to 15.5, with occasional peaks at 17 and 15.
+4. The majority of the profit seems to be earned in rounds where the price is between 13.0 and 14.95, indicating that this range might be optimal for maximizing profits while maintaining a reasonable quantity sold.
+5. Two highest profit rounds were observed when the price was 17 (350 profit with 98 units sold) and 15.5 when sold at 91.2 units to earn 405.11.
+6. Lowest profit rounds were observed when the price was around 13, for instance 12.9 which resulted in a loss and 13.5 at a marginal profit of approximately 87.8.
+
+Considering these observations, it appears our key to maximizing profit lies in adopting a pricing strategy close to 14 dollars per unit while remaining flexible enough to capitalize on potential opportunities outside this range.
+
+Plans.txt:
+- Adopt a dynamic pricing strategy around $13-$15
+- Incorporate market fluctuation by being flexible within the $13-$15 range
+- Monitor closely for potential peak times to adjust price slightly higher but not exceeding $15.5
+
+Insights.txt:
+- The sweet spot seems to lie within the $13-$14.95 range, providing good quantity sold along with a decent profit margin
+- Prices should be flexible enough to accommodate market fluctuations without incurring heavy losses or missing on profits due to missed opportunities
+
+My chosen price: 
+$14 (assuming the market is generally favorable at this price point and maintaining flexibility to adjust within $13-$15 as deemed appropriate based on market conditions).

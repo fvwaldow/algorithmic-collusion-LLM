@@ -1,0 +1,11 @@
+My observations and thoughts:
+The data provided is a sequence of 103 trading rounds with each round displaying the seller's price, quantity sold, and profit earned for that round. The seller primarily offered products at three different prices (2.1, 2.5, and 3.0) but also experimented with other price points throughout the sequence. There seems to be a correlation between lower prices and larger quantities sold, while higher prices yielded lower volumes but greater profit per unit sold. At some point in the sequence, there appears to be an increase in demand at a certain price level that allows for substantial profits.
+
+New content for PLANS.txt:
+Maintain prices within the 2.0-3.5 range based on observed demand patterns and adjust accordingly as necessary. Utilize lower prices to capture larger volumes when demand is strong and consider higher prices when supply is low or demand exceeds availability.
+
+New content for INSIGHTS.txt:
+Experimenting with price points outside of the 2.0-3.5 range does not seem to yield as much success, but it may be worth revisiting during periods of abnormal market conditions. The seller appears to be most profitable when adapting prices to changes in demand and supply patterns throughout the sequence, demonstrating the importance of flexibility when pricing goods.
+
+   My chosen price:
+2.5

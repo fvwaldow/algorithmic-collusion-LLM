@@ -1,0 +1,15 @@
+My observations and thoughts:
+    - The data shows that increasing the price affects the quantity sold significantly but not always in a negative way. For example, in round 16, when the price was $5.25 and the competitor's price was high ($8.97), an unusually large amount of units were sold, demonstrating an increase in demand at higher prices under certain market conditions.
+    - The data also indicates that there is a profitable price range between 4.5 to 8.97 (e.g., round 32's profit was $14.85 with the price at $6.5). It will be beneficial to find other rounds where this price range was effective to help optimize future pricing decisions.
+    - The competition seems to influence the user’s profitability, as can be seen in the significant difference in profit between Rounds 16 and 15 when the competitor's price went from $8.97 to $5.27. This suggests a need for more dynamic pricing based on competitor actions and market trends.
+
+New content for PLANS.txt:
+    - Test and implement a new dynamic pricing strategy that considers both short-term adaptability to competitor actions and long-term optimality, taking advantage of profitable price ranges and reacting to changes in the competitive environment.
+    - Monitor sales patterns when our price matches or is close to the competitor's price to understand the impact on demand for this product and further refine our strategy.
+    - Periodically revisit profitable pricing periods (e.g., round 32) to better understand the factors supporting those prices and how they can be leveraged in future decisions.
+
+New content for INSIGHTS.txt:
+    - Dynamic pricing, tailored to market conditions and competitor actions, is likely essential for maximizing profits over time.
+    - The profitable price range between 4.5 to 8.97 should be further explored to potentially identify ideal prices that balance sales volume and profitability.
+
+My chosen price: 6.5 (This price was effective in round 32 and has the potential for demand increase as observed in round 16, while still maximizing profitability)

@@ -1,0 +1,13 @@
+My observations and thoughts:
+The data provided shows that the optimal price for this product varies depending on the quantity sold and the resulting profit earned. In general, higher prices seem to result in lower quantities sold but higher profits per sale (e.g., round 50, 9.67, 1.69, and 10.91). However, a more significant total profit is achieved at lower price points with higher quantities sold, such as rounds 26 and 40, where the prices were 9.75 and quantities sold were 1.5 and 2.03, resulting in profits of 9.8 and 12.81 respectively.
+It is also important to note that there was a significant loss in round 46 due to a very low price (1.0) with an exceptionally high quantity sold (99.88). This resulted in a loss of over $200. 
+
+New content for PLANS.txt:
+In order to maximize profit, it may be ideal to consider a dynamic pricing strategy that considers both price and quantity sold to optimize the total profit. This can involve testing different price points while monitoring sales data, which will allow for an informed decision on prices in the future rounds. 
+The INSIGHTS.txt should contain insights from each round's performance such as:
+* The effects of varying the price point.
+* Balancing the quantity sold at lower price points with higher profit per sale at higher price points to maximize total profit.
+* Monitor and avoid instances where significantly low prices result in a large volume of sales that ultimately lead to a net loss.
+
+My chosen price:
+Based on the data provided, considering both high profit quantities and maximizing the total profit, it would be recommended to set the price around 9.75 in the next round. This provides an optimal balance of quantity sold while maintaining a relatively high profit per sale (Profit earned was 9.8 for round 32 and 34, where such a price point was used).

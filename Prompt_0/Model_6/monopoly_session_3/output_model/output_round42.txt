@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+* Based on the data provided, it's clear that there is a narrow "sweet spot" price range where profit is maximized. The data shows that both Round 21-23, Round 27-31, and Round 35-38 had maximum profits within the $19-$22.5 price range.
+* Looking at the latest data (Rounds 40-41), it seems like a price of around $20-$21 is maintaining good sales while keeping profit high. This suggests that we should maintain or slightly adjust our current price to be near-optimal.
+* The quantity sold appears to decrease significantly when prices are above $22.5. Hence, there's merit in further investigating flexible pricing strategies based on quantity sold or tiered pricing.
+
+New content for PLANS.txt:
+
+* Next rounds of tests should focus on confirming the optimal price range by conducting rigorous quantitative analysis and monitoring market dynamics closely.
+* Consider revisiting and building upon previous research on flexible pricing strategies mentioned earlier, particularly the analysis of offering discounts to customers who purchase high quantities. Investigate how changes in demand elasticity influence customer reactions.
+* Monitor closely the impact of lowering prices down to $19-$20 with quantity sold limits above 40 units.
+
+New content for INSIGHTS.txt:
+
+* Given multiple data points within the $19-$22.5 price range, it's reasonable to assume that there is a narrow 'sweet spot' pricing region between these two extremes.
+* Data from Round 41 reinforces the importance of maintaining current or near-optimal prices around $20-$21.
+
+My chosen price:
+$20.75

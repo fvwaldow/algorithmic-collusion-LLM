@@ -1,0 +1,13 @@
+My observations and thoughts:
+
+Based on the provided market data, it appears that prices above $3.0 result in lower sales quantity and profit earned compared to prices within the range of $2.90 to $3.00. The optimal price range seems to be around $2.92, which provides a competitive edge with an achieved sales quantity without going below the minimum requirement and yields a substantial gain in profit over higher prices.
+
+New content for PLANS.txt:
+1. Conduct separate analysis on data from Round 6 ($3.23) to assess whether this high price significantly impacts future pricing decisions due to low sales quantity.
+2. Analyze the effects of further incremental pricing increases beyond $2.95, considering the decreasing sales quantities and profits at higher prices.
+3. Consider implementing a "price anchoring" strategy, where we focus on increasing marginal profit by targeting a specific number of rounds with a high price point of $3.23 to gauge future demand.
+
+New content for INSIGHTS.txt:
+The optimal price range appears centered around $2.92, which yields good profitability without sacrificing sales quantity. The data suggests that prices above $3.10 and lower than $2.95 impact profit significantly, indicating a relatively wide "profit-margin-sensitivity-band" within this zone.
+
+My chosen price: 2.925

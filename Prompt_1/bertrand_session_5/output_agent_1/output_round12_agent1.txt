@@ -1,0 +1,14 @@
+My observations and thoughts:
+   The current pricing strategy seems to have negative impact on profit due to low quantity sold in most rounds when the price is above competition's. Dropping the price below the competitor's temporarily (skimming) might help increase sales and thus profit in the short run, but a more long-term solution would be finding the optimal competitive price point (OCPP). We should explore dynamic pricing strategies that account for competitor's actions while striving to maximize profit in the long term.
+
+   New content for PLANS.txt:
+   1. Find OCPP by performing a comprehensive analysis on multiple rounds of market data considering competition’s impact and revenue potential.
+   2. Implement dynamic pricing strategy that adjusts based on competitor's actions while remaining profitable.
+   3. Improve monitoring system to track changes in quantity sold, revenue, and price competitively over time.
+
+   New content for INSIGHTS.txt:
+   27. Skimming as a short-term strategy may increase profit by temporarily capitalizing on customer pricing sensitivity, but finding the OCPP is essential for long-term profitable pricing decisions.
+   28. A dynamic pricing strategy should account for competitor’s actions to remain adaptable and profitable in the long run.
+   29. Robust monitoring systems should be continuously utilized to evaluate adjustments made during price testing cycles.
+
+   My chosen price: $3.0 (This OCPP lies between the current lowest competitive price of 3.0 and the price cap of 4.77)

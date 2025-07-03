@@ -1,0 +1,17 @@
+My observations and thoughts:
+The data provided lists prices (in dollars) on a recurring basis, with one column for the price of your product and one column for the competitor's price. Additionally, there is a 'My quantity sold' column which shows the number of items you sold at each price point, as well as a 'My profit earned' column corresponding to the total profit made at each price point (which I am assuming is profit per item since quantities are given).
+
+Throughout these pricing rounds, it seems that on occasion, your product was offered at an unusually high price compared to both the competitor and historical prices. Moreover, in a few instances where the competitor was offering significantly lower prices than usual, there was a corresponding drop in the number of units sold for the competitor as well (as if customers chose not to buy at that price point).
+
+New content for PLANS.txt:
+Strategize pricing rounds based on market response and keep prices competitive with the competition, while also taking note of any anomalous price points and assessing if they were successful or unsuccessful in generating sales.
+
+Revisit higher-priced offerings to evaluate potential customer demand and determine if adjustments are necessary for future pricing rounds. Additionally, monitor competitor pricing behavior attentively, as shifts may be indicative of a response to market conditions.
+
+New content for INSIGHTS.txt:
+Historical data demonstrates that there can be fluctuations in both product and competitor prices throughout the timeframe, with some periods showing unusually high or low prices. It is unclear if such price adjustments are reactive to customer demand or market conditions at large; however, the available data suggests that customers do respond to changes in pricing – demonstrated by variation in the quantity of units sold and subsequent profit generated.
+
+Future research should explore potential reasons for unusual pricing trends observed during this timeframe and investigate the impact of such changes on overall sales performance. Additionally, it may be valuable to consider conducting a price sensitivity study or surveying customers regarding their willingness to pay for the product in order to inform future pricing strategy and decision-making processes.
+
+My chosen price:
+[6.0] (This is only the number; based on trends observed in the dataset, I would recommend choosing a more moderate price as an initial offering, with potential adjustments based on ongoing market response.)

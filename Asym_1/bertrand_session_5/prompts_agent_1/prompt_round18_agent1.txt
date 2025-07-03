@@ -1,0 +1,144 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $5.43
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Implement a hybrid pricing strategy by combining elements of dynamic pricing with competitive pricing strategies, focusing on targeting prices within the customer’s willingness-to-pay range while maintaining a strong focus on long-term profit maximization through careful monitoring and optimization.
+     a. Continue testing price adjustments that provide an incremental reduction in price to identify winning strategies that balance profitability and sales volume quickly while keeping track of previous rounds where lower prices led to higher sales volume.
+     b. Regularly review competitor pricing changes and adapt our strategy accordingly, taking advantage of any opportunities for market share gains or emerging trends.
+     2. In situations where profit maximization is not possible at a particular price point, prioritize maintaining current sales levels over pursuing short-term profits in order to sustain overall long-term profit optimization.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. A hybrid pricing strategy that combines dynamic and competitive elements could effectively maximize long-term profit while balancing sales volume and profitability. Care should be taken when testing prices closer to the competitor’s price point, especially if it leads to significant increases in sales volume at the cost of reduced profits.
+     2. It is crucial to prioritize maintaining sales levels over short-term profits if necessary to ensure a more consistent long-term profit optimization approach.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 17:
+                - My price: 3.0
+                - Competitor’s price: 3.05
+                - My quantity sold: 1.39
+                - My profit earned: 2.78
+
+Round 16:
+                - My price: 2.75
+                - Competitor’s price: 3.5
+                - My quantity sold: 4.53
+                - My profit earned: 7.92
+
+Round 15:
+                - My price: 2.95
+                - Competitor’s price: 3.8
+                - My quantity sold: 2.16
+                - My profit earned: 4.21
+
+Round 14:
+                - My price: 2.5
+                - Competitor’s price: 4.0
+                - My quantity sold: 11.85
+                - My profit earned: 17.77
+
+Round 13:
+                - My price: 3.5
+                - Competitor’s price: 4.53
+                - My quantity sold: 0.25
+                - My profit earned: 0.62
+
+Round 12:
+                - My price: 3.75
+                - Competitor’s price: 4.23
+                - My quantity sold: 0.09
+                - My profit earned: 0.25
+
+Round 11:
+                - My price: 4.05
+                - Competitor’s price: 4.21
+                - My quantity sold: 0.03
+                - My profit earned: 0.08
+
+Round 10:
+                - My price: 4.15
+                - Competitor’s price: 4.2
+                - My quantity sold: 0.02
+                - My profit earned: 0.06
+
+Round 9:
+                - My price: 4.25
+                - Competitor’s price: 4.2
+                - My quantity sold: 0.01
+                - My profit earned: 0.04
+
+Round 8:
+                - My price: 4.25
+                - Competitor’s price: 4.3
+                - My quantity sold: 0.01
+                - My profit earned: 0.04
+
+Round 7:
+                - My price: 4.5
+                - Competitor’s price: 4.15
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
+
+Round 6:
+                - My price: 4.28
+                - Competitor’s price: 4.25
+                - My quantity sold: 0.01
+                - My profit earned: 0.04
+
+Round 5:
+                - My price: 4.35
+                - Competitor’s price: 3.7
+                - My quantity sold: 0.01
+                - My profit earned: 0.03
+
+Round 4:
+                - My price: 4.5
+                - Competitor’s price: 4.65
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
+
+Round 3:
+                - My price: 4.8
+                - Competitor’s price: 4.65
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 2:
+                - My price: 4.75
+                - Competitor’s price: 4.96
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 1:
+                - My price: 4.96
+                - Competitor’s price: 4.85
+                - My quantity sold: 0.0
+                - My profit earned: 0.0
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

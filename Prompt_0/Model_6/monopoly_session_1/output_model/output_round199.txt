@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+* The data shows a large fluctuation in profit earned across different rounds, indicating that the current price may not be optimal. This is consistent with the observation from Round 122, where a price of $36.0 resulted in no sales.
+* There appears to be an upper limit on the price that can be charged without significantly reducing sales, as evidenced by Rounds 148 and 143-145. Specifically, prices above $3.07 (Round 148) result in lower quantities sold.
+* The quantity sold is generally higher at prices between $2.95 and $3.00, indicating a sweet spot for revenue optimization.
+
+New content for PLANS.txt:
+
+* Investigate the relationship between price and quantity sold to determine an optimal price range
+* Consider data from Round 122 as a clear outlier and exclude it from analysis
+* Develop strategies to minimize price fluctuations and stabilize revenue
+
+New content for INSIGHTS.txt:
+
+* The upper bound of the optimal price range appears to be around $3.07, given the significant drop-off in quantities sold above this price (Rounds 148 and 143-145)
+* There may be a lower-bound effect at prices below $2.95, as quantities sold tend to decrease when prices are lowered too far
+* Identifying an optimal price requires further investigation into the interactions between price, quantity, and profit earned.
+
+My chosen price:
+$3.02

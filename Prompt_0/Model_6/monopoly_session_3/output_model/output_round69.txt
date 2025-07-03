@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+Based on the data provided, it's clear that there are two distinct optimal price ranges: one around $19-$20 and another around $21-$22. However, the data also suggests that there may be a ceiling effect at prices above $25, as well as a price floor at prices below $18 (although this is not well-represented in the provided data). The data from Rounds 68 and 67 indicate that selling at a price of $20 units achieves higher profit margins ($500-$538), which supports the insight that maintaining this optimal range can maximize user profits. It's also worth noting that there are some instances where prices above $25 achieved lower sales, but these were often accompanied by very low quantity sold (e.g., Round 24 and 26 had significantly reduced quantity sold).
+
+New content for PLANS.txt:
+
+1. Continue testing the optimal price range of $19-$20 further to confirm its effectiveness.
+2. Investigate the possibility of offering limited-time discounts or promotions to drive sales during periods of low demand, such as when prices are above the ceiling effect ($25) and below the floor effect (which may be lower than expected).
+3. Further analysis of customer demand trends above the ceiling effect may reveal potential areas for future experimentation.
+
+New content for INSIGHTS.txt:
+
+1. Confirm previous insight: The optimal price range below the ceiling effect appears to be $19-$20.
+2. Optimal prices seem to cluster around $21-$22 with slightly lower quantities and profit margins compared to the $19-$20 range ($438-$444 in Rounds 43-48). This suggests there could be some flexibility here to allow for increased sales while still maintaining relatively high profit margins per unit.
+
+My chosen price:
+
+19

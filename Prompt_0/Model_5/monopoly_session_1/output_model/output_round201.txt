@@ -1,0 +1,17 @@
+My observations and thoughts:
+The data shows numerous fluctuations in price points ranging from $2.28 to $31.0. There's a significant range with occasional high spikes which could indicate experimentation or errors, given certain very high values like $310 ($231.0 in one instance). The majority of the transactions appear within a more realistic price spectrum, from around $2.28 to $3.10. 
+
+We observe that certain prices were repeated multiple times (e.g., $2.3 seen 27 times), implying either an optimal pricing strategy around this value or repetitive errors without thorough verification. The most frequent price point seems to be in the mid-range, around $2.3 with a total of 27 occurrences.
+
+There is also recurring use of prices like $2.31 (occurs 15 times) and $2.30 (appears 8 times), suggesting an attempt at stabilizing around certain central values. Low volume sales ($1.8, seen twice at $3.0 price point) hint at potential niche market segments or test phase pricing.
+
+To improve decision-making, it would be crucial to investigate why such extreme high prices occurred and whether those were indeed erroneous data points or intentional strategies for specific contexts.
+
+New content for PLANS.txt:
+Investigate anomalously high prices in the dataset (e.g., $231.0, likely miskey) to purge them from our analysis and ensure we're dealing with realistic market scenarios. 
+
+New content for INSIGHTS.txt:
+Mid-range pricing ($2.3 approximate) is consistently high volume, suggesting potential sweet spot. Explore market conditions or product specifics that might validate this observation.
+
+My chosen price:
+2.30

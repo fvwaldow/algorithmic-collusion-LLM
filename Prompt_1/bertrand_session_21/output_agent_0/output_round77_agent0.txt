@@ -1,0 +1,11 @@
+My observations and thoughts: In the given data, we have prices ranging from 5.0 (competitor) to 35.0 (ourselves), with several fluctuations in-between depending on the round. The competition's price tends to be lower in most cases, with ours generally higher. However, there are instances where our price is lower than the competitor's despite selling better quantities, such as Round 17 and some early rounds (10, 11).
+
+It seems that while the competitive advantage isn't always in price – sometimes we sell more even with a higher price (e.g., most instances of our price exceeding theirs) – it is still essential to consider adjusting our pricing strategy based on market trends and consumer behavior.
+
+Plans.txt:
+In order to remain competitive, it makes sense to reduce the price point gradually, as shown by the success in rounds where we priced lower than the competitor (excluding round 17 due to its outlier nature). I propose a dynamic pricing strategy that takes into account rounds with high sales and low-priced competition.
+
+Insights.txt:
+Observed instances of higher prices coexisting with more significant sales quantities indicate that consumers may place value on our product (suggesting brand loyalty or perceived quality) despite slightly higher prices than competitors. Monitor market trends to capitalize on these moments while keeping the pricing closer to competitor levels for a broader audience appeal. It's crucial to balance this dynamic approach based on both price and quantity data.
+
+My chosen price: 16.98 (rounding down our lowest-priced round with high sales quantities, i.e., 17.5 from Round 17)

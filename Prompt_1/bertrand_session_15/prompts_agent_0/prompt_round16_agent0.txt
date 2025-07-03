@@ -1,0 +1,313 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $46.88
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Analyze the current price and demand data in more detail to determine if there is a sweet spot within the given range where profits can be optimized.
+        - Investigate pricing strategies that account for potential bundling or volume discounts, as they might improve sales without significant profit loss.
+        - Utilize customer segmentation to understand if different groups have varied price sensitivities and adjust prices accordingly.
+    - Further investigate competitor pricing with an emphasis on their unique selling propositions to create strategies that distinguish the product and attract more customers.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Trying prices above $32 do not result in sales, indicating a customer resistance towards higher prices.
+        - The existing pricing strategy may have limited potential due to missed opportunities in the lower price range, where additional sales might take place if prices were lower.
+        - Prices near or slightly below the competitors' pricing could encourage more sales without substantial loss of profit.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 15:
+
+
+
+                - My price: 25.0
+
+
+
+                - Competitor’s price: 26.0
+
+
+
+                - My quantity sold: 11.04
+
+
+
+                - My profit earned: 165.57
+
+Round 14:
+
+
+
+                - My price: 26.0
+
+
+
+                - Competitor’s price: 30.5
+
+
+
+                - My quantity sold: 8.2
+
+
+
+                - My profit earned: 131.27
+
+Round 13:
+
+
+
+                - My price: 26.5
+
+
+
+                - Competitor’s price: 31.5
+
+
+
+                - My quantity sold: 6.85
+
+
+
+                - My profit earned: 113.02
+
+Round 12:
+
+
+
+                - My price: 31.0
+
+
+
+                - Competitor’s price: 30.5
+
+
+
+                - My quantity sold: 1.2
+
+
+
+                - My profit earned: 25.1
+
+Round 11:
+
+
+
+                - My price: 32.5
+
+
+
+                - Competitor’s price: 32.0
+
+
+
+                - My quantity sold: 0.66
+
+
+
+                - My profit earned: 14.94
+
+Round 10:
+
+
+
+                - My price: 32.5
+
+
+
+                - Competitor’s price: 32.0
+
+
+
+                - My quantity sold: 0.66
+
+
+
+                - My profit earned: 14.94
+
+Round 9:
+
+
+
+                - My price: 35.5
+
+
+
+                - Competitor’s price: 30.0
+
+
+
+                - My quantity sold: 0.2
+
+
+
+                - My profit earned: 5.07
+
+Round 8:
+
+
+
+                - My price: 32.0
+
+
+
+                - Competitor’s price: 32.0
+
+
+
+                - My quantity sold: 0.81
+
+
+
+                - My profit earned: 17.81
+
+Round 7:
+
+
+
+                - My price: 34.0
+
+
+
+                - Competitor’s price: 26.0
+
+
+
+                - My quantity sold: 0.34
+
+
+
+                - My profit earned: 8.11
+
+Round 6:
+
+
+
+                - My price: 34.0
+
+
+
+                - Competitor’s price: 30.0
+
+
+
+                - My quantity sold: 0.36
+
+
+
+                - My profit earned: 8.68
+
+Round 5:
+
+
+
+                - My price: 35.0
+
+
+
+                - Competitor’s price: 38.0
+
+
+
+                - My quantity sold: 0.25
+
+
+
+                - My profit earned: 6.18
+
+Round 4:
+
+
+
+                - My price: 32.0
+
+
+
+                - Competitor’s price: 35.0
+
+
+
+                - My quantity sold: 0.81
+
+
+
+                - My profit earned: 17.91
+
+Round 3:
+
+
+
+                - My price: 38.16
+
+
+
+                - Competitor’s price: 30.0
+
+
+
+                - My quantity sold: 0.07
+
+
+
+                - My profit earned: 1.94
+
+Round 2:
+
+
+
+                - My price: 40.0
+
+
+
+                - Competitor’s price: 35.0
+
+
+
+                - My quantity sold: 0.03
+
+
+
+                - My profit earned: 1.0
+
+Round 1:
+
+
+
+                - My price: 45.0
+
+
+
+                - Competitor’s price: 46.88
+
+
+
+                - My quantity sold: 0.0
+
+
+
+                - My profit earned: 0.16
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

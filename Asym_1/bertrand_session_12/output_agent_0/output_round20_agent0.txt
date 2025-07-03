@@ -1,0 +1,12 @@
+My observations and thoughts: It appears that setting a higher price does not necessarily lead to increased sales, as we see in Rounds 1-6 where the profit earned decreased despite an increase in price. In contrast, there are instances like Round 14 and Round 7, where lowering the price slightly increased the profit. However, it's important to note that pricing too low also appears detrimental to profits as seen in Rounds 5-8 and 11-13.
+   The Hybrid Pricing Strategy we proposed is a good starting point but should be refined to better adapt to the market dynamics based on the observed pattern—a balance between competitor actions, price sensitivity, and average profit per unit.
+
+   New content for PLANS.txt:
+   - Update Hybrid Pricing Strategy by using Machine Learning to create a Price Adaptation Model that takes into account average profit per unit, sales volume changes over time, market dynamics (product quality, additional features, brand reputation), and real-time competitor actions. The model should regularly evaluate its performance and make necessary adjustments for optimal pricing decisions.
+   - Integrate Competitive Benchmarking to monitor price differences with the top three competitors in the market and adjust pricing accordingly to maintain a competitive edge while maximizing profitability.
+
+   New content for INSIGHTS.txt:
+   - A dynamic pricing strategy taking into account both competitor actions and customer sensitivity is crucial for long-term success, but care must be taken not to stray too far from the optimal price range as it may lead to reduced profits due to decreased sales volume or high production costs, respectively.
+   - Continuous evaluation and refinement of the pricing strategy are essential in adjusting to market conditions and maintaining a sustainable profitability over time.
+
+   My chosen price: 8.05 (a slight increase from previous prices found in Rounds where profit was maximized)

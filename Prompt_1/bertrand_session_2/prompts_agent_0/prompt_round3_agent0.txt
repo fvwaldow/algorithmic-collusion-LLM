@@ -1,0 +1,79 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $3.11
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Modify dynamic pricing based on the number of units sold within specific price ranges to better gauge customer buying patterns.
+    - Optimize revenue-based pricing by comparing profit margins with various quantity tiers
+    - Conduct more extensive market research, focusing on competitor offerings and their effects on potential new customers
+    - Test a promotional strategy involving discounts for greater quantities or bulk purchases (cross-selling opportunity)
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Continued diversification of pricing strategies is key to capturing a wider range of customer segments & maximizing profits
+  - More thorough market research should consider both competitor offerings and potential price elasticity with new customer demographics
+  - Cross-selling opportunities are possible when adjusting prices, creating promotional offers for larger quantities or bulk purchases
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 2:
+
+
+
+                - My price: 1.45
+
+
+
+                - Competitor’s price: 2.85
+
+
+
+                - My quantity sold: 89.73
+
+
+
+                - My profit earned: 40.38
+
+Round 1:
+
+
+
+                - My price: 2.5
+
+
+
+                - Competitor’s price: 2.1
+
+
+
+                - My quantity sold: 7.5
+
+
+
+                - My profit earned: 11.24
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

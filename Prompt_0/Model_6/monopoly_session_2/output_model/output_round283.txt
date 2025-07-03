@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+The data suggests that the optimal price range is between $4.90 and $5.05, with a peak profit earned at $5.01-$5.03. However, there are some outliers where higher prices ($5.15) result in lower sales but still relatively high profits. It's unclear whether this is due to market fluctuations or an anomaly.
+
+New content for PLANS.txt:
+
+* Explore the relationship between price and quantity sold: Is there a minimum or maximum threshold beyond which additional increases in price do not lead to further decreases in sales?
+* Investigate the effect of extremely high prices (e.g., $5.15) on profit earnings
+* Consider implementing a pricing strategy that takes into account the distribution of potential profits at different price points
+
+New content for INSIGHTS.txt:
+
+* Price range: $4.90-$5.05 appears to be the optimal range, with a peak at $5.01-$5.03.
+* Extremely high prices may lead to an initial decrease in sales before recovering to lower profit earnings
+* Profit distribution suggests that incremental increases in price beyond $5.03 are unlikely to significantly impact profits
+
+My chosen price: 4.99

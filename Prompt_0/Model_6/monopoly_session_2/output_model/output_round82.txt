@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+* The data suggests a fairly stable optimal price range of $4.99-$5.02, with the highest profit earned at round 65 ($154.48) when the price was slightly above this range ($5.02).
+* There appears to be a slight decrease in quantity sold when prices are slightly raised above the optimal range, but not significantly enough to offset the increased revenue.
+* The ceiling effect on pricing efficiency seems to be around $10.07, as there doesn't appear to be any further increase in profit earned beyond this price point (Round 57 and 58).
+
+New content for PLANS.txt:
+
+1. **Test price points between $4.99-$5.04**: Given the data from previous rounds, it seems like there could be more profit to be gained by testing prices slightly higher than $4.99.
+2. **Investigate further the optimal price range near $5.02**: Since round 65 shows a significant increase in profit earned at this price point, it would be worth exploring whether further adjustments can be made without sacrificing quantity sold.
+
+New content for INSIGHTS.txt:
+
+* It seems that the optimal price point may have shifted slightly over time from around $4.99 to closer to $5.02.
+* There is potential to increase profits by testing prices higher than $4.99, but we need to balance this with maintaining sufficient quantity sold.
+
+My chosen price: 5.01

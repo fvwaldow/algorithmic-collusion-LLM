@@ -1,0 +1,14 @@
+My observations and thoughts:
+
+It appears that we are analyzing a sequence of pricing strategies between two competitors for the same product. The data provided shows the price set by each competitor in each round, along with the quantity sold and profit earned. It's also interesting to note that there are occasions where both prices match.
+
+The profits range significantly from just over $0 (a loss) to approximately $113. However, it seems that even when one competitor charges a higher price, they can still sell more units, resulting in higher profit. This suggests a possible relationship between pricing strategy and demand.
+
+PLANS.txt:
+Analyze the data further to identify any patterns or tendencies in pricing strategies. Look for trends that could provide insights into customer preferences and demand for different prices. Investigate how competitors respond to changes in each other's pricing. Finally, propose a new pricing strategy based on these observations.
+
+INSIGHTS.txt:
+By observing the data, it can be seen that a higher price does not necessarily mean fewer units sold or lower overall profit. In some cases, selling more units at a higher price results in greater profit. Additionally, competitors appear to respond differently to each other's pricing changes. This could suggest that understanding and responding effectively to competitor pricing strategies is crucial for maximizing profit.
+
+My chosen price:
+20.0 (Continue maintaining the current price, as there seems to be a balance in profit earned with this strategy and it appears to be relatively competitive compared to the competitors' prices.)

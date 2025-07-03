@@ -1,0 +1,12 @@
+My observations and thoughts: It appears that there are two consistent patterns in the data - when the price is higher than the competitor’s (rounds 1-7), sales volume decreases significantly but at a much lower cost, leading to a loss (except for round 6). On the other hand, when our price is competitive with the competitor's (rounds 8-50) or lower (rounds 35, 36, and 39), there is an increase in sales volume, although profitability may not be maximized. This suggests that price sensitivity varies but we must find a balance between profitability and sales volume.
+
+   New content for PLANS.txt:
+  + Analyze the relationship of price with optimal quantity sold by testing a wider range of prices using historical data and predictive modeling techniques.
+  + Investigate the effects of price changes on customer behavior, including long-term effects on loyalty and frequency of purchases.
+  + Determine if there are specific market segments where offering lower prices could increase sales volume significantly without compromising profitability.
+
+   New content for INSIGHTS.txt:
+  + Consumers appear to be sensitive to price differences, with lower prices leading to increased sales volume as long as the difference is not too large.
+  + There is a potential trade-off between increasing sales volume and maintaining (or improving) profitability; understanding this balance may help maximize overall revenue.
+
+   My chosen price: <10.5> (Since our competitor's current price is approximately 10.0, setting our price slightly lower than that seems reasonable to capture more market share while still maintaining a profitable margin.)

@@ -1,0 +1,14 @@
+My observations and thoughts: The dataset provides the prices and quantities sold by both the company (myself) and the competitor for each round. It appears that the competitor's price varied considerably more widely than my own, but its average price was slightly lower. However, the higher variability in competitor's pricing seems to have both positive and negative effects on their sales volume - sometimes it increased sales (e.g., Round 180), while at other times it could significantly decrease them (e.g., Round 177). It is also important to note that during some rounds, I intentionally raised my price above the competitor's in order to increase profit margin, such as Round 161 and 158. Additionally, there are instances where a high competitor price led to higher demand for my lower priced product, e.g., Rounds 162, 163, and 171. Overall, it seems that understanding market dynamics and leveraging pricing strategies based on competitor behavior can help maximize sales and profit.
+
+   New content for PLANS.txt:
+   - Implement dynamic pricing strategy to adjust prices to both capitalize on pricing opportunities presented by the competitor (e.g., raising prices when the competitor has a high price, such as Round 161) and take advantage of competitor-induced demand (e.g., lowering prices when the competitor has a high price but demand is still strong, such as Round 171).
+   - Analyze sales data to identify patterns and trends in consumer behavior related to pricing and adjust strategy accordingly.
+   - Maintain a strong online presence to effectively communicate pricing changes and encourage customers to make purchases before prices increase.
+
+   New content for INSIGHTS.txt:
+   - Pricing strategies can have a significant impact on both sales volume and profit margin.
+   - Understanding competitor behavior is crucial in developing an effective pricing strategy.
+   - Dynamic pricing can help capture opportunities resulting from competitor pricing behavior.
+   - Monitor market trends and consumer buying habits to ensure that our pricing remains competitive yet maximizes profitability.
+
+   My chosen price: 250.0 (rounds 175, 177, and 176 demonstrated the potential for pricing strategies that are significantly higher than the competitor's can be detrimental to sales volume, but could lead to increased profit if demand is strong and the higher price reflects a high-value product)

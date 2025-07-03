@@ -1,0 +1,18 @@
+My observations and thoughts: 
+
+The data reveals a pattern in my profit earnings, oscillating based on the price set and the quantity sold. Notably, higher prices (e.g., $45.0) tend to result in zero sales, likely because the market cannot support such high prices without buying in bulk at a lower price. Conversely, lower prices ($29.0, $34.0) seem to attract more buyers, indicating a price floor below which sales may be more volatile and likely to exceed anticipated quantities. The profits correlate positively with higher prices until the market threshold is reached, where reduced sales offset any potential increased profit per unit.
+
+New content for PLANS.txt:
+```
+Pricing Strategy: 
+- Aim for a balance between high profit margins and maintaining sales volume. Given the pattern, I will experiment with prices around $34.0 to $39.0 in future rounds to maximize both profit per sale and total number of units sold.
+- Consider introducing promotional pricing for specific quantities to boost sales further without dropping too low on profit margin.
+```
+New content for INSIGHTS.txt:
+```
+Insights: 
+- Market sensitivity: The range between $34.0 and $45.0 shows significant fluctuation in quantity sold, indicating a delicate balance between customer affordability and our pricing strategy.
+- Insight on profit: Even though higher prices lead to lower sales, the initial few units command high margins before market saturation reduces profitability. 
+```
+My chosen price: 
+36.0

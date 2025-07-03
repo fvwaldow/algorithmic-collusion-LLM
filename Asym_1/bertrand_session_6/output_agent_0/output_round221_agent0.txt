@@ -1,0 +1,18 @@
+My observations and thoughts:
+It appears that we are dealing with a dynamic competitive landscape, as the competitor's price fluctuates significantly across different rounds. The competitor usually sets a high price when our price is low and vice versa. This suggests that the competitor may be using a pricing strategy to maximize profit given the market demand.
+
+In terms of our performance, we observe that we have been able to sell significant quantities when our price is competitive or lower than the competitor's. However, it seems that in some rounds, our price is too high and we fail to make any sales despite the competitor having a higher price as well (e.g., Rounds 144, 134).
+
+New content for PLANS.txt:
+- Monitor competitor's pricing strategy more closely to anticipate future moves and react accordingly.
+- Consider implementing a dynamic pricing model that takes into account the competitor's current price to ensure our price remains competitive.
+- Study market trends and customer demand to help determine optimal prices.
+
+New content for INSIGHTS.txt:
+- A low price does not necessarily guarantee more sales, as revealed in rounds where we sold less despite having a lower price than the competitor (e.g., Round 147, 150).
+- There seems to be some price sensitivity among customers, as demonstrated by a higher number of sales when our and the competitor's prices are similar (e.g., Rounds 98, 123).
+
+My chosen price:
+[Let's aim for a competitive pricing strategy, so let's choose the average price (excluding rounds where either side does not make a sale or sets an unrealistic price) and round it to the nearest whole number.]
+(Sum of all prices excluding Rounds 144, 134, 147, 150, 146 and those where our competitor did not sell, divided by total number of valid price data points) = $2.98 (approximately)
+Therefore, my chosen price will be $3.

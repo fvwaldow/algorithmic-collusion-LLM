@@ -1,0 +1,12 @@
+My observations and thoughts: It appears that the provided data represents a series of pricing interactions between two sellers (named as 'My price' and 'Competitor’s price') in an attempt to maximize profit by setting an optimal selling price for each round. The quantity sold decreases as the price tends to increase, suggesting consumers are unwilling or unable to pay high prices.
+  Both sellers initially set fairly high prices but seem to gradually lower them due to competition. However, the price differences shrink significantly over time and in some rounds they become close to each other. This indicates that consumers may interpret closely priced items as comparable, making it harder for sellers to differentiate themselves based on pricing alone.
+In terms of sales volumes, high prices appear to discourage purchases, with only a handful units sold at the beginning (rounds 1-9) and no sales for most higher-priced rounds. Sales volume initially increases drastically when both sellers set lower prices, then decreases again around rounds 20-30, as prices start being raised once more.
+
+New content for PLANS.txt:
+To maximize profit, it would be advantageous to first identify a competitive price range. Monitoring competitor's pricing and making adjustments accordingly is crucial in this scenario. Finding the "sweet spot" within the current price ranges (2.5 - 4.8) where demand remains reasonable yet competition is not too fierce, could yield the best results.
+
+New content for INSIGHTS.txt:
+- Lower pricing tends to attract more customers and increase sales, but excessively low prices may devalue the product or create an image of poor quality.
+- Customers are sensitive to price differences, suggesting that carefully chosen pricing can have a significant impact on sales volumes.
+
+My chosen price: 3.5 (Based on the competitive price range identified, with a slight lean toward lower pricing for increased demand.)

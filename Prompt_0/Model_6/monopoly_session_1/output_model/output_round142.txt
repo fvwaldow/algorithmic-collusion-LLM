@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+After reviewing the provided information, I've noticed that there are some fluctuations in both price and profit earned across different rounds. However, one consistent pattern is that prices around $2.90-$3.00 tend to have higher profits ($4.12-$5.05) but also correspond with lower quantities sold (1.87-2.10 units). This might indicate a sweet spot where the price balance yields optimal revenue.
+
+New content for PLANS.txt:
+
+* Investigate whether adjusting prices within this optimal range has any significant impact on profit.
+* Examine potential sales patterns corresponding to specific days or sequences of days within this dataset.
+* Consider data-driven strategies for implementing price adjustments that prioritize maximizing profits without unduly limiting customer demand.
+
+New content for INSIGHTS.txt:
+
+* Prices above $3.05 tend to lead to lower quantities sold and, subsequently, decreased profits (Round 44-43).
+* A clear sweet spot exists in the optimal range of prices ($2.90-$3.00) where both profit and sale quantity are acceptable.
+* The fluctuations around this optimal zone suggest a possible saturation point or customer aversion towards prices beyond $3.00.
+
+My chosen price:
+2.97

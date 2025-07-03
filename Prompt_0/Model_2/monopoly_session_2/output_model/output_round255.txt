@@ -1,0 +1,15 @@
+My observations and thoughts: After analyzing the data provided for 162 consecutive pricing round changes on the same item, I noticed that the unit price varied between a low of 6.48 and a high of 7.5. The average quantity sold per round was approximately 40 - 30 units, with fluctuations due to changes in the price.
+   Despite adjusting the price upwards in some rounds to capitalize on customer demand with higher prices (e.g., 6.95, 7.15, or even 7.25), an increased number of sales didn't consistently result from those higher priced rounds. There are a few factors that might have contributed to this outcome, such as the overall market trend, competition, and consumer perception towards the price.
+   In order to optimize pricing strategy for this item, I propose implementing the following changes:
+
+  PLANS.txt:
+  1. Analyze market trends and competitor pricing to determine an average price range where our product can still be competitive without being excessively low or high compared to others in the category.
+  2. Identify segments of customers less sensitive to higher prices who may be more willing to purchase at a higher price point or in bulk purchases, and tailor promotions or offers towards these customer groups when appropriate.
+  3. Continuously track sales data to assess whether any noticeable correlations are observed between pricing changes and demand fluctuations, in order to inform future price adjustments made for individual items.
+
+  INSIGHTS.txt:
+  1. Pricing alone does not necessarily impact sales volume positively at every single price point above the current average.
+  2. Competitor analysis and market trends should be taken into account when determining pricing strategy in order to remain competitive while also generating sufficient profits for the item.
+  3. A nuanced understanding of consumer behavior towards pricing may necessitate segmenting the target customer base by considering their willingness to pay, preferences, and buying patterns to optimize both average prices and promotions or sales tailored to specific buyer groups.
+
+My chosen price: 6.5 (This choice is based on maintaining a competitive stance in market while still generating an acceptable level of profit.)

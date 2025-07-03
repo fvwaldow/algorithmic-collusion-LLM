@@ -1,0 +1,19 @@
+My observations and thoughts:
+    - It is evident that customers react negatively towards high prices as evidenced by the low sales volume at prices above $29.0 in most rounds. Additionally, higher prices lead to lower profits.
+    - Customers also react poorly to prices that are too close to the competitor's price or significantly more expensive than the competitor, with a slight exception seen at Round 35 ($28.5) where a slightly higher price was met with increased sales and profit.
+    - Optimal profits are achieved when the price is relatively competitive while still offering a slight advantage, especially in Rounds 35, 34, 19, and 12.
+    - In general, maintaining a careful balance between competitor's price and having a slight pricing advantage can result in an improvement in both sales volume and overall profit.
+
+New content for PLANS.txt:
+  1. Test prices between my current price (29.0) and the competitor's price to discover an optimal price point that maximizes profits without deterring customers due to high pricing. This could be achieved by iterating through several minor adjustments on either side of our current prices.
+        2. Analyze the profit margin associated with various rounds where I maintained a slight pricing advantage, such as Rounds 35, 34, 19, and 12. Attempt to find a balance that maximizes both the number of units sold and overall long-term profitability.
+              3. Explore the possibility of adjusting prices in a strategic manner during promotional periods (if any) based on observed customer buying behavior during such times (as per Insights.txt).
+                   4. Monitor ongoing competitor’s pricing movements diligently and make price changes accordingly, ensuring that my adjusted prices remain competitive while still providing a slight advantage for customers.
+                      5. Perform a detailed market analysis of the rounds with relatively high profit margins to identify other factors impacting sales volumes, such as marketing efforts or product quality, in order to develop strategies for optimizing these areas.
+
+New content for INSIGHTS.txt:
+    - Determine a careful balance between competitor's price and offering a slight pricing advantage can lead to an improvement in the number of units sold and overall profitability.
+    - It may be helpful to analyze customer buying behavior during promotional periods (if any) to identify potential opportunities for adjusting prices to maximize profits while still ensuring competitive pricing.
+    - Customers seem to react well when there is a slight discount compared to the competitor, even though high prices are detrimental to sales and profitability.
+
+My chosen price: 29.3 (slightly discounted from the current price, as per the observations)

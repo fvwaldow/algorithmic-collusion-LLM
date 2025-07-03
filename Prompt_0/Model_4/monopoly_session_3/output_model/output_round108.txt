@@ -1,0 +1,13 @@
+My observations and thoughts:
+Based on the data provided, we notice a high correlation between initial price and profit earned per round. For instance, higher prices like $41, $36.5, and $35.5 generally result in lower quantities sold but significantly higher profits. Conversely, lower prices like $32.0 or $33.0 lead to higher quantities sold but potentially lower profit margins per item. There is also a recurring scenario where the same price (e.g., $34.5 or $34.0) with different quantity sold results in similar profitability, indicating that these might be optimal pricing points. These insights suggest potential price elasticity and optimal price points for maximizing profit.
+
+New content for PLANS.txt:
+Adjust our strategy to focus more on understanding the customer's willingness-to-pay at higher price points, especially $34.0 and $34.5, as they seem to balance both quantity sold and profit margin effectively. Implement a pricing experiment at these price points across different segments to determine their responsiveness.
+
+New content for INSIGHTS.txt:
+- High initial prices like $41.0 and $36.5 resulted in lower quantities sold but significantly higher profits per item, indicating strong willingness-to-pay from customers who value product exclusivity.
+- Lower prices such as $32.0 and $33.0 led to significantly higher quantity sold but with smaller profit margins per unit, suggesting a more price-sensitive customer segment.
+- The recurring profitable outcomes at price points of $34.0 and $34.5 indicate potential sweet spots in the market where we can balance sales volume and margin effectively. These could be ideal candidates for focused promotional strategies.
+
+My chosen price:
+34.5

@@ -1,0 +1,368 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $41.89
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Test a wider range of prices within the observed price interval to identify the best balance between sales volume and profitability;
+     a. Use segmented analysis based on competitor pricing stratgies (high vs low) to determine how price sensitivity differs in each scenario.
+  2. Implement dynamic pricing strategies that adjust prices in real-time based on sales data, competitor actions and market trends
+  3. Utilize machine learning algorithms to predict optimal future pricing strategies based on historical data and current market conditions
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Sales volume sensitivity to price largely depends on the competitor's pricing strategy; higher prices for competitors lead to increased sales volume when my price is competitive.
+  2. A balance between volume and profitability is critical for long-term success, as pricing too low may not guarantee optimal profits.
+  3. Analyzing historical data by segmenting based on competitor pricing stratgies will enable better pricing decisions in the future.
+  4. Implementing dynamic pricing strategies that adjust prices based on real-time conditions will help maintain profitability while maximizing sales opportunities.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 18:
+
+
+
+                - My price: 20.0
+
+
+
+                - Competitor’s price: 19.0
+
+
+
+                - My quantity sold: 28.64
+
+
+
+                - My profit earned: 286.38
+
+Round 17:
+
+
+
+                - My price: 19.0
+
+
+
+                - Competitor’s price: 20.5
+
+
+
+                - My quantity sold: 45.06
+
+
+
+                - My profit earned: 405.56
+
+Round 16:
+
+
+
+                - My price: 19.5
+
+
+
+                - Competitor’s price: 19.5
+
+
+
+                - My quantity sold: 35.48
+
+
+
+                - My profit earned: 337.03
+
+Round 15:
+
+
+
+                - My price: 19.5
+
+
+
+                - Competitor’s price: 20.5
+
+
+
+                - My quantity sold: 40.18
+
+
+
+                - My profit earned: 381.67
+
+Round 14:
+
+
+
+                - My price: 19.75
+
+
+
+                - Competitor’s price: 19.5
+
+
+
+                - My quantity sold: 33.22
+
+
+
+                - My profit earned: 323.92
+
+Round 13:
+
+
+
+                - My price: 20.0
+
+
+
+                - Competitor’s price: 20.5
+
+
+
+                - My quantity sold: 35.48
+
+
+
+                - My profit earned: 354.77
+
+Round 12:
+
+
+
+                - My price: 19.5
+
+
+
+                - Competitor’s price: 21.5
+
+
+
+                - My quantity sold: 44.09
+
+
+
+                - My profit earned: 418.86
+
+Round 11:
+
+
+
+                - My price: 20.0
+
+
+
+                - Competitor’s price: 18.5
+
+
+
+                - My quantity sold: 26.16
+
+
+
+                - My profit earned: 261.63
+
+Round 10:
+
+
+
+                - My price: 18.5
+
+
+
+                - Competitor’s price: 19.0
+
+
+
+                - My quantity sold: 42.24
+
+
+
+                - My profit earned: 359.02
+
+Round 9:
+
+
+
+                - My price: 18.5
+
+
+
+                - Competitor’s price: 13.0
+
+
+
+                - My quantity sold: 9.46
+
+
+
+                - My profit earned: 80.39
+
+Round 8:
+
+
+
+                - My price: 15.0
+
+
+
+                - Competitor’s price: 15.0
+
+
+
+                - My quantity sold: 46.83
+
+
+
+                - My profit earned: 234.16
+
+Round 7:
+
+
+
+                - My price: 25.0
+
+
+
+                - Competitor’s price: 21.5
+
+
+
+                - My quantity sold: 8.04
+
+
+
+                - My profit earned: 120.54
+
+Round 6:
+
+
+
+                - My price: 18.5
+
+
+
+                - Competitor’s price: 23.0
+
+
+
+                - My quantity sold: 58.34
+
+
+
+                - My profit earned: 495.88
+
+Round 5:
+
+
+
+                - My price: 20.0
+
+
+
+                - Competitor’s price: 30.0
+
+
+
+                - My quantity sold: 49.55
+
+
+
+                - My profit earned: 495.46
+
+Round 4:
+
+
+
+                - My price: 25.0
+
+
+
+                - Competitor’s price: 24.99
+
+
+
+                - My quantity sold: 10.65
+
+
+
+                - My profit earned: 159.69
+
+Round 3:
+
+
+
+                - My price: 20.0
+
+
+
+                - Competitor’s price: 10.0
+
+
+
+                - My quantity sold: 1.77
+
+
+
+                - My profit earned: 17.67
+
+Round 2:
+
+
+
+                - My price: 29.99
+
+
+
+                - Competitor’s price: 34.99
+
+
+
+                - My quantity sold: 1.8
+
+
+
+                - My profit earned: 36.01
+
+Round 1:
+
+
+
+                - My price: 41.89
+
+
+
+                - Competitor’s price: 41.89
+
+
+
+                - My quantity sold: 0.02
+
+
+
+                - My profit earned: 0.5
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

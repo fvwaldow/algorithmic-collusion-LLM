@@ -1,0 +1,15 @@
+My observations and thoughts:
+   It appears that the item's price dynamics are very volatile, with frequent changes ranging from as low as 0.5 to as high as 8.0. The sales quantity seems to be influenced more by the competitor's price than the item's own price in many cases. Occasionally, a lower price results in increased sales quantity (e.g., when the item is priced at 1.0), but this doesn't seem to hold consistently. The profit earned also fluctuates significantly depending on the price and quantity sold.
+
+   New content for PLANS.txt:
+   - Observe the impact of pricing competitively versus setting a unique price.
+   - Analyze how changes in pricing affect sales and profit margins over multiple rounds.
+   - Monitor customer demand by keeping track of the sales quantity at different price points.
+
+   New content for INSIGHTS.txt:
+   - Competitor's pricing is influential in shaping our sales, with lower prices leading to increased competition and reduced sales (e.g., when they price at 7.0).
+   - Lowering the price below the competitor does not necessarily lead to significant sales increases unless there's a substantial price difference (e.g., round 100).
+   - When priced competitively (around or slightly above the competitor), sales quantity can be comparable to when pricing significantly higher (e.g., rounds 76, 85).
+
+   My chosen price:
+   7.5

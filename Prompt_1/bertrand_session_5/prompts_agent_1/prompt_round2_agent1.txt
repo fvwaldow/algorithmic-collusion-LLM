@@ -1,0 +1,66 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $4.77
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Test different price points in the range of $3 - $4, focusing on finding the optimal price that generates high profit while maintaining a reasonable number of sales.
+2. Implement an iterative process to adjust prices based on observed demand and feedback from customers.
+3. Monitor market trends and competitor pricing strategies to ensure our product's competitive advantage in terms of cost and value proposition.
+4. Explore the possibility of creating a promotional strategy that targets specific customer segments or events to boost sales temporarily, without compromising long-term profitability.
+5. Regularly analyze market data on consumer behavior patterns and preferences to inform price adjustments and marketing strategies.
+6. Collaborate with other department teams (marketing, product development, etc.) to optimize the overall offering.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Offering a high-quality product at an affordable price will appeal to more customers and increase demand while maintaining a strong competitive position.
+2. Monitoring market trends and competitor pricing strategies is crucial to staying ahead in a dynamic market environment.
+3. Adopting a flexible pricing strategy allows for continuous optimization and adaptation based on real-world data.
+4. Promotions and discounts, when used effectively, can be an effective tool for boosting sales temporarily without sacrificing long-term profitability.
+5. Regular analysis of consumer behavior patterns and preferences will help make informed decisions regarding pricing and overall offering.
+6. Collaboration with other department teams is essential in optimizing the product's value proposition and marketing strategies.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 1:
+
+
+
+                - My price: 4.77
+
+
+
+                - Competitor’s price: 3.77
+
+
+
+                - My quantity sold: 0.0
+
+
+
+                - My profit earned: 0.01
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

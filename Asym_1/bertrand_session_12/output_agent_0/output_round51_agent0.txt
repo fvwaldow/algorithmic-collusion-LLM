@@ -1,0 +1,15 @@
+My observations and thoughts: The given data reveals that there is a significant variation in profit earned at different price points. High prices lead to fewer sales but higher profit per unit (e.g., Round 2 where the price was $13.0 with a profit of $0.07), while lower prices result in greater sales volume and slightly lower profit per unit (e.g., Round 50 with a price of $8.9 and a profit of $8.95). The user should focus on an optimal balance between sales volume and profit maximization. Furthermore, observing that the competitor adjusts prices dynamically, it is crucial to employ similar strategies for adaptability in market conditions.
+
+New content for PLANS.txt:
+1. Continue exploring price points around $9 (preferably within the range of $8-$9) to find the optimal balance between sales volume and profit maximization while adjusting dynamically based on competition and market conditions.
+2. Research machine learning models that take into account additional factors such as seasonality, consumer trends, and competitor strategies for real-time pricing optimization.
+3. Regularly analyze results to make modifications and iterate strategy for long-term profitability and competitiveness.
+4. Analyze the relationship between price elasticity and sales volume to determine the ideal price point.
+
+New content for INSIGHTS.txt:
+1. Employing optimal pricing necessitates balancing sales volume with profit maximization.
+2. Machine learning models should not only consider prices of competitors but also additional factors like seasonality, consumer trends, and competitor strategies to provide accurate predictions.
+3. Continuous iteration and adaptation of the strategy is essential for long-term success in highly competitive markets.
+4. Further analysis on price elasticity's impact on sales volume will help determine the best pricing approach.
+
+My chosen price: $8.95 (I kept a historic insight about targeting the range of $8-$9; $8.9 is the current average from previous prices tested, close to that range and provides decent sales volume while maximizing profit per unit)

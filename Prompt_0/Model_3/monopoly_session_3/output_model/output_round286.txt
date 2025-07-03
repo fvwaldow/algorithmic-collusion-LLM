@@ -1,0 +1,15 @@
+Observations and thoughts:
+1. The data shows a consistent upward trend in sales volume with each price increase, except for round 201 where the price was significantly higher, resulting in no sale (quantity sold = 0).
+2. Generally, the profit earned increases as the price increases, indicating that demand decreases as the price increases, which is a typical market behavior. However, the revenue can still be higher when the quantity sold meets or exceeds the previous round, despite the higher price if the difference in added profit compensates for the reduced sales volume.
+3. There is room for adjusting the selling price; considering the pattern observed in sales and profits, we may test a lower price to maximize revenue while ensuring a reasonable profit margin. 
+
+New content for PLANS.txt:
+- Conduct a detailed market analysis and competitor pricing research before setting the new price point. 
+- Analyze the price elasticity of demand i.e., how a change in price will affect the quantity demanded to better understand our customer base's sensitivity to price changes.
+- Test various price points to find the optimal balance between price and revenue, considering not just profit maximization but also maintaining a robust sales volume. 
+
+New content for INSIGHTS.txt:
+- The data suggests an inverted U-shaped demand curve where demand decreases as prices increase beyond a certain threshold (round 201). 
+- There is potential to test lower price points within the range of previous successful pricing, possibly yielding higher revenue due to increased sales volume and higher profit margin. 
+
+My chosen price: Based on this analysis and considering that we need to consider both profit maximization and a sustainable sales volume, I recommend testing round 130's price point of $13.0 as it shows an increase in quantity sold compared to the previous rounds while maintaining high profit earnings.

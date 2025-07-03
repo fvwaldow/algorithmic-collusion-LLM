@@ -1,0 +1,13 @@
+My observations and thoughts:
+
+* The majority of the data points cluster around the price range of $4.99 to $5.03, with a peak at $5.01 for profit earned ($153.92) and quantity sold (85.04).
+* There are two instances where higher prices result in even greater profits: $5.06 yields $156.66, and $5.05 yields $156.12.
+* However, these outliers are only seen once each, whereas the lower price range is consistently profitable across multiple rounds.
+
+New content for PLANS.txt:
+Let's perform a regression analysis on the data to see if there's a significant correlation between price and profit earned. Additionally, we'll examine how raising or lowering our current price affects customer quantity sold.
+
+New content for INSIGHTS.txt:
+Our current pricing strategy seems optimal within the $4.99-$5.03 range, offering high returns while maintaining attractive quantities sold to customers. We should test slightly higher prices (e.g., around $5.05) in future rounds to capitalize on potential increased revenue.
+
+My chosen price: 5.01

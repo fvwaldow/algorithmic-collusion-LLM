@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+* The market data shows a clear inverse relationship between price and quantity sold. As the price increases, the quantity sold decreases.
+* There appears to be an optimal price range around $2.95-$3.05 where the company can balance revenue maximization with quantity of units sold.
+* Round 122 where the price is set at $36 has a quantity sold of $0, indicating that setting prices above a certain threshold will result in no sales.
+
+New content for PLANS.txt:
+
+* Test the upper limit of the optimal price range ($3.05) to see if it still yields high revenue.
+* Consider implementing a dynamic pricing strategy based on current market conditions and demand forecast.
+
+New content for INSIGHTS.txt:
+
+* The inverse relationship between price and quantity sold is consistent across multiple rounds, suggesting that it's not just a temporary anomaly.
+* It's essential to monitor and adjust the price strategically to capture the optimal customer base while minimizing losses due to overpricing.
+
+My chosen price: $2.97

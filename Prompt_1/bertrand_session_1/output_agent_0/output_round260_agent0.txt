@@ -1,0 +1,10 @@
+My observations and thoughts: It appears that the prices have been fluctuating between 2.0 and 2.15 for a considerable number of rounds. The quantity sold seems to be sensitive to price changes, with higher quantities being sold when the price is closer to the competitor's price (2.0). However, there were instances where the price was significantly higher than the competitor's (e.g., round 168 where the price was set at 21.5), which resulted in no sales. It might be beneficial to adjust the price strategically while considering the impact on quantity sold and profit earned.
+
+New content for PLANS.txt:
+Consider implementing a dynamic pricing strategy that takes into account competitor's prices as well as our own historical data to find an optimal balance between price and quantity sold. This could involve setting prices higher when we have a competitive advantage or lowering prices when there is strong competition to increase sales.
+
+New content for INSIGHTS.txt:
+ Historical data from this simulation shows that maintaining a price close to the competitor's price (2.0 - 2.15) maximizes sales. Higher prices result in no sales or low quantities sold, but may still generate substantial profit under certain conditions. Therefore, it is important to develop a dynamic pricing strategy that considers our competitive advantage and market conditions.
+
+My chosen price:
+2.05 (this value aims for a price close to the competitor's while offering a slight competitive advantage)

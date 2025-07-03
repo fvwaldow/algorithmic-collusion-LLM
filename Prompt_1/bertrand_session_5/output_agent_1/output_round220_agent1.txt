@@ -1,0 +1,13 @@
+My observations and thoughts: The given data shows the daily sales volume (quantity sold) and profits earned for each selling price at a specific time. To make informed pricing decisions, let's investigate some patterns that can help us understand buyer behavior in this market. First, we notice that lowering the product price results in an increase of units sold (quantity sold > 3 in most instances where price is less than 3$). Second, increasing the price slightly from a low point also leads to a decrease in sales quantity (e.g., when the price was increased from 2.85$ to 2.9$, the quantity dropped).
+
+   New content for PLANS.txt:
+   - Monitor the impact of varying prices on sales volume and profits
+   - Gather more contextual information about the product, such as production costs and market competition
+   - Use trend analysis to predict future behavior in this market
+
+   New content for INSIGHTS.txt:
+   - Sales are highly sensitive to small price changes, with a noticeable drop in quantity when prices rise slightly from low points
+   - Lowering the selling price can potentially increase sales volume significantly (>3 units in most instances)
+   - The optimal pricing strategy may require balancing profitability and achieving higher sales volumes
+
+   My chosen price: 2.85$ (Based on previous observations, lower prices lead to increased sales quantities while moderating profits. Therefore, I will choose a compromise between the two factors, going with an already examined and successful low price point - 2.85$.)

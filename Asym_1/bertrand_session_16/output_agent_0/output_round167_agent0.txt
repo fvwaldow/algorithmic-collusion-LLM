@@ -1,0 +1,10 @@
+My observations and thoughts: The dataset provided shows the historical price (CP) of a certain product along with the quantity sold (Q) at each pricing round for a competitor (Competitor's Price- CPC) as well as the entity under consideration (My Price - MPC). It appears that there is flexibility in pricing, as the MPC and CPC are not consistent throughout the rounds. The dataset does not provide any information on the cost structure or production constraints.
+
+   New content for PLANS.txt:
+   Consider implementing a dynamic pricing strategy to maintain competitiveness. Analyze historical data and market trends to determine suitable price points for various segments. Evaluate the impact of pricing changes on demand, considering seasonality and external factors affecting consumer behavior. Additionally, monitor competitor pricing strategies to maintain a competitive edge.
+
+   New content for INSIGHTS.txt:
+   The most effective pricing strategy may depend on market conditions, product differentiation, and perceived value by consumers. Adopting a reactive vs proactive approach may impact overall revenue and market share. A more in-depth understanding of cost structure will allow for better decision-making. Frequent analysis of pricing data and its implications is essential for continuous improvement.
+
+   My chosen price:
+   30 - This number represents a middle ground between the historical high and low prices, taking into account competition, product differentiation, and demand elasticity as determined through analysis of the dataset provided.

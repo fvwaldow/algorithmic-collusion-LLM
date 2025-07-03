@@ -1,0 +1,14 @@
+My observations and thoughts:
+
+The current data shows a consistent pattern of prices ranging from $19.0 to $25.0, with most profit maximizing at around $20.95. The highest quantity sold is 59.87 units when the price was $19.0 in Rounds 1, 4, 7, 13, and 19, but the accompanying profits were not the highest. There are instances where prices above $21.0 lead to lower quantity sales (e.g., Round 37 with a price of $22.5 and a quantity sold of 26.89, resulting in a profit of $336.18). The most profitable rounds have been those with prices between $19.0 and $20.95, which seems consistent across multiple datasets.
+
+I also need to consider the existing content in PLANS.txt suggesting testing prices between $18 and $22 to find the optimal profit-maximizing point. Given this data, it's essential to test higher price points than initially suggested ($23 or higher) due to instances of successful sales at those levels (e.g., Rounds with a price of $24.0).
+
+New content for PLANS.txt:
+Test higher price points to verify if the optimal profit-maximizing point exists above $21.95. Specifically, I'll test prices around and slightly above $22, then proceed upward towards the customer's willingness-to-pay cap at $39.25.
+
+New content for INSIGHTS.txt:
+The relationship between price and quantity sold indicates a potential trade-off: higher price increases profit but decreases quantity sold, suggesting that it might be beneficial to identify an optimal balance rather than increasing prices to maximize each sale individually.
+
+My chosen price:
+22

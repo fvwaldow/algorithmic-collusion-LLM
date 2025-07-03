@@ -1,0 +1,15 @@
+My observations and thoughts:
+The product's high-demand sensitivity at lower prices is a significant observation. Rounding 2 showed that lowering the price from $3.20 to $2.95 resulted in a substantial increase in sales (from 1.8 to 2.19 units) and profit earned (from $3.6 to $4.27). In contrast, Rounds 6 and 7 showed decreased sales and profit at higher prices above $3.1.
+
+New content for PLANS.txt:
+To better understand the relationship between price and demand, I will test a series of prices starting from $2.95, decreasing by smaller increments each round, to see if we can identify an optimal range that maximizes profitability while minimizing the impact on sales. Specifically:
+
+1. Set a target price range within our original ceiling of $3.20 but closer to $3.0 as indicated in INSIGHTS.txt.
+2. Start with a price of $2.95 (as done in Round 2) and decrease it by smaller increments ($0.01, $0.005, etc.) while monitoring quantity sold and profit earned.
+3. Identify the turning point where increasing prices starts to significantly decrease profitability or sales.
+
+New content for INSIGHTS.txt:
+Added insight from the current market data is the observation that at lower prices (below $2.95), high-demand sensitivity tends to produce higher profits, while slightly higher prices above our original ceiling ($3.23 in Round 6) do not seem as effective in increasing profit margins without affecting sales quantity.
+
+My chosen price:
+2.94

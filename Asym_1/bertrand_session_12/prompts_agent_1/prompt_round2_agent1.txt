@@ -1,0 +1,51 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $16.52
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Test different price points between incremental values e.g., 2, 5, 10 cents up to the ceiling price of $16.52
+2. Investigate variable pricing based on demand or time-of-the-day adjustments
+3. Assess the impact of offering volume discounts or bundle pricing for multiple units purchased simultaneously
+4. Analyze the behavior of low-priced competitors and consider setting price competitively accordingly
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Higher prices may dissuade potential customers, resulting in lower sales volume and thus reduced overall profit
+2. Low pricing could result in diminishing returns as it might be perceived as a low-quality product
+3. Competitive analysis is important to understand the market landscape and positioning of our product effectively
+4. Bundling or offering discounts for multiple units can encourage larger purchases and increase overall profits in the long run
+5. Incremental pricing adjustments will help identify the optimal price point for maximizing profit while remaining competitive with current pricing strategies
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 1:
+                - My price: 13.0
+                - Competitor’s price: 8.0
+                - My quantity sold: 0.01
+                - My profit earned: 0.07
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

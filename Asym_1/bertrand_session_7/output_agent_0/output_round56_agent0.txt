@@ -1,0 +1,16 @@
+My observations and thoughts:
+  - The data indicates that prices around $9 offer profitability but are not optimal. Prices above $10 generally result in higher profits. There seems to be a trade-off between sales volume and profit margin; higher prices lead to less quantity sold, resulting in a lower sales volume, but higher profit per unit.
+  - It is also worth noting that the competitive pricing strategy plays an important role, as can be observed during intervals where the competition price changes significantly.
+  - The current highest profit was achieved at $12.0, but selling even one unit at this price results in zero quantity sold (round 20). Therefore, a higher but more reasonable price should be considered to maximize both sales volume and profit per unit.
+
+New content for PLANS.txt:
+- Adjust the price point to find a balance between sales volume and profit margin.
+- Continuously monitor competitor prices and adjust accordingly based on their movements in order to remain competitive.
+
+New content for INSIGHTS.txt:
+- High prices result in low quantity sold (e.g., $12.0), which can dramatically decrease sales volume while potentially maximizing profit per unit.
+- Lower prices, though resulting in higher sales volume, may not be as profitable if competitors have lower prices or if the product is perceived as less valuable at those prices.
+- A careful balancing act between sales volume and profit is necessary to find the optimal price point.
+
+My chosen price:
+13.0

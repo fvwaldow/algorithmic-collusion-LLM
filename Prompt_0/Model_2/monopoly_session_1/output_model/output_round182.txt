@@ -1,0 +1,15 @@
+My observations and thoughts: This dataset provides a history of the price and quantity sold for a certain product over time. The dataset appears to have been collected from various rounds of selling, with some periods showing steady sales (e.g., rounds 100-104, where the price is constantly at 2.0) and other periods showing fluctuations in both price and quantity (e.g., rounds 95-96, where the price jumps to 5.0 briefly). Price elasticity seems to vary throughout, as price increases and decreases do not consistently result in proportionate changes in the quantity sold.
+
+   New content for PLANS.txt:
+   - Continue monitoring price elasticity within the market and adjust prices accordingly to maximize profits.
+   - Explore potential factors influencing price elasticity, such as competition, customer demand, and external market conditions.
+   - Invest in market research to gather more insights about customer behavior and preferences.
+   - Keep a close eye on competitors' pricing strategies and adapt the pricing strategy accordingly.
+
+   New content for INSIGHTS.txt:
+   - Price elasticity appears to be relatively high, suggesting that changes in price can significantly impact sales volume. However, this elasticity is not consistent over time, indicating that other factors may also play a role.
+   - The dataset suggests that maintaining a steady price within a certain range (e.g., 2.0) can lead to steady sales (e.g., rounds 100-104). This could imply there is a "sweet spot" price for this product within the current market conditions.
+   - Periodic fluctuations in price and quantity sold may be due to temporary external factors, such as changes in customer demand or market conditions.
+   - Careful consideration should be given when changing the price, as sudden increases or decreases can have significant effects on sales volume but may not always lead to increased profits.
+
+   My chosen price: 2.15 (based on the current average price and the "sweet spot" inferred from rounds 100-104)

@@ -1,0 +1,14 @@
+My observations and thoughts:
+
+* The data suggests that there is a high demand elasticity at lower price points, with quantity sold increasing significantly as the price decreases. However, once the price drops below $19.0, the quantity sold continues to increase but at a slower rate. This indicates that there may be a saturation point where further price reductions do not lead to significant increases in revenue.
+* The profit earned per round is highly correlated with the quantity sold, indicating that the main driver of profit is the number of units sold rather than the price itself.
+* From Round 22 onwards, the data suggests that prices above $20.0 may be too high for optimal sales, given the relatively low quantities sold compared to lower price points.
+
+New content for PLANS.txt:
+Investigate flexible pricing strategies based on quantity sold or tiered pricing to maximize profit while staying within the optimal range. Analyze customer reactions closely to ensure prices remain competitive and profitable. Test prices incrementally within the identified optimal range ($19-$22) to identify potential sweet spots where revenue is maximized.
+
+New content for INSIGHTS.txt:
+Confirmed demand elasticity at lower price points, with a saturation point around $19.0 where further price reductions do not lead to significant increases in revenue. Consider incorporating flexible pricing strategies based on quantity sold or tiered pricing to cater to different customer segments and maximize profit within the optimal range.
+
+My chosen price:
+20.75

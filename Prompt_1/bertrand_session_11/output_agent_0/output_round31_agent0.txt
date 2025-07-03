@@ -1,0 +1,10 @@
+My observations and thoughts:
+The data provided suggests that maintaining a price around $9 has resulted in relatively stable quantities sold (3-4 units per round) and modest profits ($18-$27 per round). However, it's essential to note instances where higher and lower prices led to increased sales. For instance, in Rounds 18 and 11 with prices of $8.75, there was an increase in quantity sold by comparing to the average price point of around $9.
+   New content for PLANS.txt:
+1. Continue monitoring competitor’s prices but be more proactive and responsive to changes in market dynamics, using market intelligence and a machine learning pricing model to adjust price accordingly within the permissible range ($8.75 - $14.66).
+   2. Analyze the relationship between sales quantities and profit for different price points to fine-tune the pricing model and maximize overall profits over multiple rounds.
+   3. Implement segmented pricing based on customer segments, product attributes, and historical purchasing patterns to target specific market segments effectively and boost sales while maintaining high profit margins.
+   New content for INSIGHTS.txt:
+- It is crucial to adapt quickly to changes in the market, leveraging advanced pricing strategies such as a machine learning model and segmented pricing.
+   My chosen price:
+  9.35 (This price point sits in between the current average price of around $9 while taking advantage of increased sales from my previous observation where we saw a higher quantity sold at this specific price.)

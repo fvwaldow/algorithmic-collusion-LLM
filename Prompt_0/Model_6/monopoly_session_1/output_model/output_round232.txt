@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+Based on the data provided, I notice that there are two distinct clusters of price and quantity sold. The first cluster has a higher quantity sold (typically above 2) with a lower price (typically below 3), while the second cluster has a lower quantity sold (typically around 1-2) with a much higher price. This suggests that there is a non-linear relationship between price and quantity sold.
+
+I also observe that there are several anomalies in the data, such as in Round 148 where the quantity sold was very low for a price above $3. These outliers may indicate issues with pricing strategy or market conditions.
+
+New content for PLANS.txt:
+
+* Investigate the non-linear relationship between price and quantity sold
+* Analyze the anomalies in the data and develop strategies to mitigate them
+* Consider implementing dynamic pricing based on market demand
+
+New content for INSIGHTS.txt:
+
+* The pricing decision has a significant impact on the quantity sold, with higher prices leading to lower quantities and vice versa.
+* The data suggests that price elasticity is not constant across different price points, but rather changes as we move up or down the price spectrum.
+* There may be opportunities to increase revenue by targeting specific market segments or regions.
+
+My chosen price:
+
+2.95

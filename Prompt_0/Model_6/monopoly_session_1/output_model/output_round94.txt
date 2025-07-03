@@ -1,0 +1,14 @@
+My observations and thoughts:
+The data provided suggests that there is a "sweet spot" around $2.95-$2.98 where the profit peaks, with quantity sold varying around 2.19 units. Decreasing prices from this sweet spot doesn't appear to have significant benefits in terms of profit growth. There's also an upper limit on what customers are willing to pay ($3.48), but it hasn't been directly tested yet.
+
+New content for PLANS.txt:
+1. Test the optimal price within the "sweet spot" by trying $2.97, taking into consideration the quantity sold and profit earned at this point.
+2. Investigate the boundary condition of $3.48 to see if increasing the price above this threshold has any effect on sales (without exceeding it).
+3. Consider implementing a more dynamic pricing strategy based on demand, such as discounts for bulk purchases.
+
+New content for INSIGHTS.txt:
+* The "sweet spot" appears to be robust, with slight variations in quantity sold but consistent profit growth within the $2.95-$2.98 range.
+* Increasing price above $3.48 may severely impact sales and revenue; however, this should still be tested to obtain more granular data on customer sensitivity.
+
+My chosen price:
+$2.97

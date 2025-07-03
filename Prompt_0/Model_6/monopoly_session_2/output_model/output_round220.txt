@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+Based on the market data, there are several patterns that emerge. The profit earned per unit is relatively stable across different prices, with a slight decrease at lower price points (e.g., Rounding 149, 151) and a slight increase at higher price points (e.g., Rounding 143, 145). However, the quantity sold is highly correlated with the price, with higher prices resulting in significantly lower quantities sold. This suggests that there may be a ceiling on the potential revenue due to the limited demand for the product.
+
+Furthermore, analyzing the data from both perspectives - profit per unit and total revenue - reveals some interesting insights. When looking at the profit per unit, it appears that price points around $4.99-$5.02 yield relatively stable profits (~$152-155). However, considering the quantity sold alongside profit per unit is crucial: these same price points result in quantities being significantly lower (around 84.88 units) compared to when prices are adjusted slightly upwards or downwards.
+
+New content for PLANS.txt:
+
+* Test the upper limit of the $4.99-$5.02 price range by adjusting it slightly above this range ($5.03).
+* Investigate the effect of setting a price at $5.01, as it has shown stability in profit per unit while maintaining relatively high quantities sold.
+
+New content for INSIGHTS.txt:
+
+* The product may have a limited ceiling on revenue due to market demand.
+* Pricing within the $4.99-$5.02 range offers stable profits, but this comes at the cost of lower quantities sold.
+* Further adjustments or optimization might be necessary to boost both profit and quantity.
+
+My chosen price:
+$5.01

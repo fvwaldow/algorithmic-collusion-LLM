@@ -1,0 +1,13 @@
+My observations and thoughts: The provided data shows a series of prices and corresponding quantities sold for the same item, with each price representing different rounds. It appears that each price is greater than the previous one except in some cases such as rounds 3,6,9 and 13 where the price was reduced slightly from the previous round. Also, the quantity sold seemed to decrease as the price increased, reaching a minimum at round 2, but then gradually began increasing after that.
+
+   New content for PLANS.txt:
+   - Analyze pricing trends over multiple rounds to understand how changes in price impact sales volume.
+   - Experiment with different pricing strategies to find the optimal prices that maximize profit while ensuring sufficient demand.
+   - Monitor the market competition and adjust pricing accordingly to remain competitive.
+
+   New content for INSIGHTS.txt:
+   - Lowering the price can sometimes increase demand, as seen in rounds 6, 9, and 13. However, this approach should be used cautiously, as overly reducing prices could lead to decreased profit margins or devaluing the product.
+   - The trend of increasing prices at certain intervals may not always result in increased sales, suggesting that market demand and competition play a significant role in determining optimal pricing.
+   - Identifying and understanding the price elasticity of the market for this particular item will be crucial in making informed pricing decisions moving forward.
+
+   My chosen price: <26> (I chose this price because it seems to be the highest one that has still resulted in moderate sales, but I would recommend testing and observing how different pricing strategies affect demand and profit margins before settling on any particular number.)

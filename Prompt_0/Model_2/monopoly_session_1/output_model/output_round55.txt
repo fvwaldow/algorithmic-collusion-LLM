@@ -1,0 +1,16 @@
+My observations and thoughts:
+The data shows that prices around 2.15 are achieving relatively high quantities sold and profit per round. It is also important to note the upper price bound of $4.36 set by customers. As for further observations, the optimal price point within the range of 2.05-2.16 seems to be around 2.15, which needs confirmation through a sensitivity analysis on finer increments.
+
+New content for PLANS.txt:
+ - Perform sensitivity analysis on smaller increments (e.g., 0.001) around the price range of 2.05-2.16 to identify the optimal single price point that maximizes long term profit.
+   - Work with a data scientist to create more advanced machine learning models for accurate predictions of customers’ responses to price changes.
+   - Analyze competitor pricing strategies with a focus on understanding their competitive advantage areas and impact on market positioning.
+     - Continue refining our machine learning models to foresee competitors' future pricing moves, allowing us to adjust our strategy effectively.
+
+New content for INSIGHTS.txt:
+- The sensitive range of price lies between 2.05 and 2.16, with 2.15 showing promising results based on historical data presented. A more precise analysis is necessary via sensitivity testing to pinpoint the exact optimal point.
+  - Machine learning techniques can help us gauge customer response to pricing changes accurately, improving our pricing strategy's effectiveness over time.
+- Market research and competitor analysis are essential for capitalizing on strategic advantages in terms of market positioning and competitive edge.
+   - Monitoring the performance of machine learning models will contribute to a continuously adaptive pricing strategy that maximizes profit in the long run.
+
+My chosen price: 2.154 (round to four decimal places when using sensitivity analysis)

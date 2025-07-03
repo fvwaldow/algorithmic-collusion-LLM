@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+Upon reviewing the provided data, I notice that there is a significant amount of price variance across the different rounds. The prices range from $4.98 to $5.15, with most prices clustered around $5.00-$5.08. This indicates that the optimal price may not be a fixed value but rather a range.
+
+I also observe that the profit earned ($Profit Earning) is relatively consistent across many of the rounds, with a high of $161.21 and a low of $152.78. This suggests that even at lower prices, the business is still generating substantial profits.
+
+Furthermore, I notice that there are several instances where the price was increased from $4.99 to $5.00 or above, resulting in a significant increase in profit earnings. For example, Round 100 shows a price of $5.15 with a quantity sold of 82.67 and a profit earned of $161.21, which is considerably higher than most other rounds.
+
+New content for PLANS.txt:
+
+* Analyze the relationship between price and quantity sold to determine if there's an optimal pricing strategy that maximizes revenue.
+* Examine the sensitivity of profit earnings to changes in price and quantity sold.
+* Explore the idea of capping the maximum price at a level below $5.15, to see if it would lead to increased sales without sacrificing too much profit.
+
+New content for INSIGHTS.txt:
+
+* The optimal price range appears to be around $5.00-$5.08, as prices within this range consistently result in high profit earnings.
+* Increasing the price from $4.99 to $5.00 or above can lead to substantial gains in profit earnings, even with relatively small changes in quantity sold.
+
+My chosen price:
+
+$5.03

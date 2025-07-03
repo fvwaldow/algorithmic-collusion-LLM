@@ -1,0 +1,9 @@
+My observations and thoughts:
+   This dataset presents a dynamic market environment where prices and quantities sold are constantly shifting. There seems to be a pattern of high initial prices (above $4) set by the business, but these do not seem to drive sales significantly. Prices drop gradually in an attempt to increase demand, with some partial success. However, the competition's pricing strategy also plays a role in determining the final selling price and quantity.
+   It appears that there are peaks in demand around prices of $3.25, $3.50, and $3.89. Interestingly, the highest profit per item was made during Round 11 at a price of $4.56, despite no items being sold. This could suggest an untapped potential for higher pricing in specific instances.
+   New content for PLANS.txt:
+   Consider implementing a dynamic pricing strategy that takes into account past demand and profit data. Test pricing around the observed peaks to maximize sales while maintaining an acceptable level of competitiveness with the competition.
+   New content for INSIGHTS.txt:
+   Initial high prices may dissuade potential customers, instead attempt to create a competitive baseline before gradually increasing prices based on demand and profitability. The highest profit per item was achieved without any sales, suggesting that more careful analysis of individual price points is required.
+   My chosen price:
+   3.50 (as a starting point for the dynamic pricing strategy)

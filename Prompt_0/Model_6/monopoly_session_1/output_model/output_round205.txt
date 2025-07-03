@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+* The data shows that there is a large difference in profit earned when the price is above $3.00 (e.g., Round 122: $36.00 price resulted in $0 profit). This suggests that prices above $3.00 may not be viable.
+* There appears to be an optimal price range between $2.92 and $3.02, where the highest profit earned was consistently achieved across multiple rounds.
+* The quantity sold is relatively consistent at around 2 units when the price is within this optimal range.
+
+New content for PLANS.txt:
+
+* Continue to investigate the upper bound of the optimal price range and adjust pricing accordingly.
+* Monitor quantity sold and adjust pricing if any significant deviations occur.
+
+New content for INSIGHTS.txt:
+
+* The data suggests that prices above $3.00 may not be viable due to a large decrease in profit earned (Round 122: $36.00 -> $0 profit).
+* The optimal price range is between $2.92 and $3.02, where the highest profit earned was consistently achieved across multiple rounds.
+
+My chosen price:
+$2.97

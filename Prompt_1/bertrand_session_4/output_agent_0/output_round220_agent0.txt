@@ -1,0 +1,14 @@
+My observations and thoughts:
+In this data set, we can see a variety of price points for the same product offered by the same seller across different rounds. The general trend seems to be decreasing from Rounds 125-135 followed by an upward correction until Round 147. However, there's no clear pattern or significant difference in the number of units sold during these periods.
+
+There are instances where both high and low price points resulted in zero sales (Rounds 135, 134), suggesting that the market for this product is sensitive to pricing and may favor lower prices. It's also worth noting that some rounds had higher unit sales with competitive yet reasonable prices like Rounds 126 and 147.
+
+Plans.txt:
+For future pricing, it would be beneficial to analyze the trends in these data more thoroughly. In the short term, consider offering a lower price point, around the median value of $3.01 (Round 121, Round 122). This strategy could potentially increase sales without significantly impacting overall profit given the high price points that have also resulted in zero sales (Rounds 135, 134).
+
+Insights.txt:
+- Decreasing the price during certain periods may lead to increased units sold (e.g., Rounds 126)
+- Some rounds with higher price points resulted in zero sales, indicating that market sensitivity to pricing occurs even for a single seller (Rounds 135, 134).
+- Competitive but reasonable pricing seems to result in more units sold (Rounds 126, 147)
+
+My chosen price: 3.01

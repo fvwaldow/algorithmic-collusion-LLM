@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+After analyzing the data, it's clear that there has been a significant anomaly in Round 122, where the price was set at $36.00 and no quantity was sold, resulting in a profit of $0. This suggests that either the pricing strategy was incorrect or there was an issue with ordering process for this particular round.
+
+The price range for most of the rounds is between $2.85 to $3.07, with some fluctuations. The highest profit earned has been at a price of around $2.95. However, it's worth noting that Round 170 shows a notable exception where a higher price of $2.85 resulted in an even higher profit of $5.97.
+
+New content for PLANS.txt:
+
+* Continue to explore the relationship between price and profitability.
+* Consider implementing dynamic pricing strategies based on historical data and sales trends.
+* Investigate possible anomalies or issues in Rounds 122, 136, and other similar incidents.
+
+New content for INSIGHTS.txt:
+
+* The optimal price appears to be around $2.95, although there is some variation in profitability at different prices.
+* It's essential to avoid setting higher prices than necessary, as seen in Round 122.
+* Dynamic pricing strategies could help capture peak demand and increase overall profits.
+
+My chosen price: 
+
+$2.92

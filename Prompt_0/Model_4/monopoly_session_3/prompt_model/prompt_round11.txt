@@ -1,0 +1,92 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $42.58
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+```
+Based on insights from previous rounds, let's refine our dynamic pricing algorithm to focus on prices within the $32.50 to $33.50 range. Utilize real-time data from sentiment analysis to adjust prices dynamically, aiming to optimize profit margins while maintaining sales volume. Explore offering additional value through tiered subscription options at these price points. Implement machine learning models to predict shifts in demand elasticity influenced by competitive pricing changes and incorporate these predictions into our decision-making process.
+```
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+```
+Price elasticity remains a key factor; experimenting within the $32.50 to $33.50 range seems to be an effective strategy. Subscriptions at these prices show potential for consolidating our customer base while generating stable revenue. Real-time adjustments are crucial for maintaining profitability amid market volatility. Continuous monitoring of competitive landscapes ensures we stay ahead by swiftly adapting our pricing strategies.
+```
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 10:
+            - My price: 33.0
+            - My quantity sold: 0.55
+            - My profit earned: 12.62
+
+Round 9:
+            - My price: 34.0
+            - My quantity sold: 0.37
+            - My profit earned: 8.84
+
+Round 8:
+            - My price: 33.25
+            - My quantity sold: 0.5
+            - My profit earned: 11.55
+
+Round 7:
+            - My price: 33.0
+            - My quantity sold: 0.55
+            - My profit earned: 12.62
+
+Round 6:
+            - My price: 33.5
+            - My quantity sold: 0.45
+            - My profit earned: 10.57
+
+Round 5:
+            - My price: 34.0
+            - My quantity sold: 0.37
+            - My profit earned: 8.84
+
+Round 4:
+            - My price: 35.0
+            - My quantity sold: 0.25
+            - My profit earned: 6.18
+
+Round 3:
+            - My price: 32.5
+            - My quantity sold: 0.67
+            - My profit earned: 15.06
+
+Round 2:
+            - My price: 35.0
+            - My quantity sold: 0.25
+            - My profit earned: 6.18
+
+Round 1:
+            - My price: 32.5
+            - My quantity sold: 0.67
+            - My profit earned: 15.06
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

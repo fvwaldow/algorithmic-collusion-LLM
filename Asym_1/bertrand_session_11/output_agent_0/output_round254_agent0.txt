@@ -1,0 +1,16 @@
+My observations and thoughts:
+    - The dataset contains information about various pricing strategies over a large number of pricing rounds for an unidentified product.
+    - Although the price varies significantly across rounds, the average price seems to be consistently around $5, with some exceptions such as Round 162 where it was $66.0 and other instances where it dropped to around $4.25 or even $4.95.
+    - There are periods of time where the same competitor's price remains constant (e.g., from Round 173 to 168 both competitors charge $5.25), while other times, one competitor adopts a higher price strategy than the other (Round 161 with a competitor charging $5.5).
+    - Overall, it appears that the strategy of adjusting the product's price slightly above or below the average price seems to have some positive impact on the quantity sold and profit earned. For instance, in Rounds 158, 157, and 156, we can see that increasing the price from $4.95 to $5.0 and then to $5.25 corresponds with an increase in profit despite a decrease in quantities sold.
+    - It is also noteworthy that there are instances where lowering the price significantly below average seems to have less impact on the quantity sold (e.g., Round 163) or even lead to a decrease in profit earned (e.g., Round 160).
+    New content for PLANS.txt:
+   - Study consumer response to price changes over different ranges and adjust pricing strategy accordingly to maximize profits.
+   - Consider the impact of competitor pricing on our own strategy, as maintaining a higher or lower price may result in varying levels of success.
+   - Monitor the effect of price fluctuations on product demand to better understand customer sensitivities and optimize profit-making opportunities.
+ New content for INSIGHTS.txt:
+  - Consumers respond positively to moderate price increases as it can lead to greater profits even with a decrease in quantities sold (e.g., rounds 158, 157, and 156).
+  - Lowering the price excessively may not have the desired effect on increasing sales or profit (e.g., round 160).
+  - Consumers might be sensitive to large, frequent price changes and maintaining a consistent pricing strategy could help retain customer trust and loyalty over time.
+ My chosen price:
+ 5.25

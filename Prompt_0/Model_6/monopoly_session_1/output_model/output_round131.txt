@@ -1,0 +1,27 @@
+After reading through the provided information, I have some observations and thoughts:
+
+**My observations and thoughts:**
+
+From the data, it's clear that there are two price ranges that have been explored: one around the mid-$2.90s and another above $3.00. The dataset also indicates that when prices are high (> $3.00), sales decrease significantly. Around $3.04 (prices 43-45), quantity sold drops to less than half, resulting in a substantial drop in profit earned. Conversely, when prices return to the lower range ($2.90s-$3.01), revenue increases with moderate price adjustments. The data also implies that at higher prices (> $3.00), increasing prices by even small amounts results in steep declines in sales.
+
+
+
+**New content for PLANS.txt:**
+
+Investigate further at higher prices (e.g., testing upper limit of current knowledge around $2.90s and attempting to find profitable price points above this).
+
+Implement a strategy focusing on optimizing profit earned based on price.
+
+If possible, validate findings from previous rounds with new sets of customers.
+
+
+
+**New content for INSIGHTS.txt:**
+
+There seems to be a threshold at the 80th round when profit significantly drops below earlier rounds.
+
+
+
+**My chosen price:**
+
+2.98

@@ -1,0 +1,14 @@
+My observations and thoughts: This dataset shows the daily price and quantity sold for a certain product by the same seller and a competitor, over a long period. The data is in pairs (my price, competitor's price), followed by the quantity I sold, their quantity sold, and the profit for that round. My profit seems to be positively correlated with the decrease in my price compared to the competitor's, but there are exceptions where selling at a higher price can still result in a high profit due to the larger quantity sold.
+
+   New content for PLANS.txt:
+   - Keep track of competitor's pricing strategy and adjust accordingly, aiming for similar or slightly lower prices to remain competitive.
+   - Monitor daily sales and adjust price strategically based on demand and profit margins.
+   - Continuously analyze trends in the data and adapt pricing strategies as needed to optimize profits.
+
+   New content for INSIGHTS.txt:
+   - Aggressive price cuts may lead to increased quantity sold, but this strategy may not always result in the highest profit per unit.
+   - Maintaining a competitive price is essential to remain relevant in the market and attract customers.
+   - Monitoring daily sales and profits allows for informed decision-making regarding pricing strategies.
+   - Occasionally, maintaining a slightly higher price can lead to higher overall profits due to better profit margins despite the lower quantity sold.
+
+My chosen price: [30 (Based on observed trends combining competitiveness and profitability)]

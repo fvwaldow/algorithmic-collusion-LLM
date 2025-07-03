@@ -1,0 +1,19 @@
+My observations and thoughts:
+From the given data, it can be observed that the highest profit was earned when the price was $12.75 in Round 20, while keeping the cost at $1 per unit. The competitor's price varies significantly, with a range from $10.5 to $17 within these rounds.
+
+When prices are too high or too low, it seems that the quantity sold decreases, as shown in Rounds 2, 8 and 9 (when prices were higher than $13) and Rounds 7, 11, and 12 (when prices were lower than $10.5).
+
+Increasing or decreasing price by a small increment may have an impact on profitability and sales volume as seen in Round 28 (price was $12.75) versus Round 29 (price is back to $12.6).
+
+New content for PLANS.txt:
+1. Examine the price elasticity of demand by evaluating the effect of minor price adjustments on both profit per unit and overall sales volume within a narrower range ($0.25 - $1) around the previously found optimal prices.
+   2. Incorporate short-term market demand forecasts to determine an ideal pricing range based on peak and off-peak seasons, holiday periods, or other periodic demand patterns.
+      3. Assess the impact of competitor price fluctuations within a 90 day period by evaluating the relationship between competitor prices and market share capture.
+
+New content for INSIGHTS.txt:
+1. The optimal pricing lies around $12 - $13, which maximizes profit while maintaining steady sales volume.
+   2. Short-term demand forecasting is crucial in determining pricing strategies during peak and off-peak seasons or other market demand fluctuations.
+      3. Monitoring competitor price changes over short periods (90 days) will help identify potential strategies to increase market share capture.
+
+My chosen price:
+12.6 (with a slight decrease from the optimal price found in Round 20, but close enough to maintain both profitability and steady sales volume)

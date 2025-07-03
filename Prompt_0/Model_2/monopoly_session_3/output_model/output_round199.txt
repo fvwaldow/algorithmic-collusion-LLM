@@ -1,0 +1,12 @@
+My observations and thoughts: It appears that the data provided represents a historical record of the quantity (Q) and price (P) of a product sold in 100 consecutive rounds. The total revenue (TR) in each round is calculated as TR = P * Q, and the profit (Profit) is Profit = TR - constant expenses (C), which seems to be approximately 85.
+
+   New content for PLANS.txt:
+   - Continue monitoring price sensitivity and revenue trends over time to identify patterns and potential opportunities for higher profitability
+   - Investigate the factors that might explain sudden jumps or drops in both price and quantity (e.g., market conditions, competitor action, consumer behavior)
+   - Assess whether different pricing strategies could help optimize profits based on observed trends and insights
+
+   New content for INSIGHTS.txt:
+   - It seems that in general a price of around $23 generates relatively stable quantity demand between 20 to 25 units per round, translating into an average profit of approximately $182 (assuming constant expenses of $85)
+   - However, it's also worth noting that certain round(s) have seen higher quantities being demanded at lower prices (e.g., rounds 102 and 122), suggesting potential opportunities for pricing strategy optimizations to better capitalize on market demand
+
+   My chosen price: $23

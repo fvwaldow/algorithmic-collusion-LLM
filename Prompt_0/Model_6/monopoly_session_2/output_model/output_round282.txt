@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+* There is a strong correlation between price and quantity sold. Higher prices tend to lead to lower quantities sold, except for a few outliers (e.g., Rounds 208 and 204).
+* The revenue maximum appears to be around $153-$155, with both higher and lower prices resulting in lower profit.
+* Prices above $5.03 seem to result in very low or zero quantity sold.
+* There is some fluctuation around the optimal price range, but it generally seems to cluster between $4.90 and $5.02.
+
+New content for PLANS.txt:
+
+* Investigate pricing strategies to encourage higher quantities without increasing revenue too much (e.g., discounts on bulk purchases).
+* Analyze customer behavior and demographics to understand which prices are more effective for specific segments.
+* Consider implementing tiered pricing or loyalty programs to incentivize repeat business.
+*
+
+New content for INSIGHTS.txt:
+
+* Optimal price range appears to be between $4.90 and $5.02, with revenue peaks at around $153-$155.
+* Prices above $5.03 tend to result in low or zero quantity sold.
+
+My chosen price:
+$4.99

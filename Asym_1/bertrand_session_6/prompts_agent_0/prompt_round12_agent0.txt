@@ -1,0 +1,111 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $5.93
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Implement a lower pricing strategy with gradual incremental decreases in price keeping an eye on sales volume, overall profitability, and customer behavior.
+       2. Continuously monitor market trends and adjust pricing accordingly to capitalize upon any short-term opportunities while maintaining long-term profitability.
+        3. Test various discount tiers and promotions to find the optimal balance between attractiveness for customers and profitability for us.
+         4. Evaluate competitor reactions to price changes and adjust our strategy accordingly.
+         5. Analyze customer purchasing patterns and adjust prices based on high-demand periods.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Lowering prices strategically can increase sales volume, leading to improved overall profitability in the long run when considering the current high competitor price. Maintaining a profitable margin is crucial though.
+      2. Continuously assessing market trends and adjusting pricing accordingly helps capture any short-term opportunities while maintaining long-term profitability.
+        3. Experimenting with various discount tiers and promotions enables finding the sweet spot in balancing attractive prices for customers and profitable offerings for us.
+          4. Competitor reactions to price changes are important considerations when adjusting pricing strategies.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 11:
+                - My price: 4.25
+                - Competitor’s price: 4.2
+                - My quantity sold: 0.01
+                - My profit earned: 0.04
+
+Round 10:
+                - My price: 4.2
+                - Competitor’s price: 4.6
+                - My quantity sold: 0.02
+                - My profit earned: 0.05
+
+Round 9:
+                - My price: 4.35
+                - Competitor’s price: 4.2
+                - My quantity sold: 0.01
+                - My profit earned: 0.03
+
+Round 8:
+                - My price: 4.7
+                - Competitor’s price: 4.2
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 7:
+                - My price: 4.05
+                - Competitor’s price: 5.0
+                - My quantity sold: 0.03
+                - My profit earned: 0.08
+
+Round 6:
+                - My price: 4.0
+                - Competitor’s price: 5.7
+                - My quantity sold: 0.03
+                - My profit earned: 0.1
+
+Round 5:
+                - My price: 4.18
+                - Competitor’s price: 4.25
+                - My quantity sold: 0.02
+                - My profit earned: 0.05
+
+Round 4:
+                - My price: 4.7
+                - Competitor’s price: 4.19
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 3:
+                - My price: 4.49
+                - Competitor’s price: 5.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
+
+Round 2:
+                - My price: 4.75
+                - Competitor’s price: 3.99
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 1:
+                - My price: 4.5
+                - Competitor’s price: 4.99
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

@@ -1,0 +1,16 @@
+My observations and thoughts:
+
+* The data suggests that a sweet spot for sales volume is around $19.50, with a consistent volume of 54.98 units sold in several consecutive rounds (Rounds 75-78).
+* However, there seems to be a limit to the price decrease: below $19.00, the sales volume drops significantly (e.g., Round 64: price = $30.0, sales = 1.8).
+* The data also shows that prices above $22.50 result in declining sales volumes (e.g., Round 63: price = $24.8, sales = 12.79; Round 59: price = $22.0, sales = 31.0 becomes a one-off exception but in general around $22-$25 has lower volume).
+* Some outlier observations are present, but they should be treated with caution (e.g., price = $30.0 and price = $25.0).
+
+New content for PLANS.txt:
+Explore the relationship between price elasticity and revenue: analyze how changes in sales volume affect overall profit given different prices.
+Consider implementing a tiered pricing strategy to capture the highest profit margins at lower price points while maintaining sufficient sales volumes.
+
+New content for INSIGHTS.txt:
+A minimum price floor around $19.00 exists due to decreased sales volume when going below it. Additionally, an apparent maximum revenue ceiling is reached near or above $23-$25 (given current demand). There might be a middle ground price at which point the demand curve would shift to result in higher prices yet still maintaining sufficient sales.
+
+My chosen price:
+19.75

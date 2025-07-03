@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+From the data provided, it appears that the market for the product is competitive. The seller's price often varies and seems to have an impact on the quantity sold. However, high prices (above 3.25) result in zero sales, suggesting a price ceiling. In rounds 160 and 137, the seller set very high prices with the aim of maximizing profit per unit sold. This strategy was unsuccessful as no units were sold.
+
+It's also worth noting that the competitor's price fluctuates but remains higher than the seller's most of the time, except for a few rounds where the competitor slightly undervalues their product.
+
+A lower price (below 3.0) seems to lead to increased sales but less profit per unit sold, while a higher price leads to fewer sales with more profit if any units are sold at all. The sweet spot seems to be around 3.25, where the seller was able to sell a significant quantity of goods and still make a decent profit.
+
+PLANS.txt:
+- Adjust prices based on market competition, aiming for the price range of 3.0 to 3.25
+- Monitor competitor's pricing strategy closely to adjust responses accordingly
+- Experiment with increasing sales volume by lowering prices when it is profitable to do so
+- Consider raising prices in rounds where the competitor has also raised their price or when I am confident the increased price won't lead to zero sales (based on previous results)
+
+INSIGHTS.txt:
+- Sales volume and profit are both important considerations when adjusting pricing strategy
+- A flexible pricing strategy that accounts for market fluctuations is essential for success in this competitive environment
+- Lower prices can drive sales up, but may negatively impact profits if the volume of sales doesn't offset the lower price point
+- A high price can lead to zero sales and should only be employed when there is a significant chance of higher profit per sale (i.e., when there are no competing offers at a similar or lower price point)
+
+My chosen price: 3.25

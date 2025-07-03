@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+Based on the analysis of the provided data, I notice that there is a consistent pattern in the profit earned across various price points. The maximum profit earned is consistently around $500 (with some minor fluctuations). Furthermore, it appears that prices below $20 do not result in any further increase in quantity sold, despite occasionally providing higher per-unit profits. This suggests a potential ceiling for sales at these lower price points.
+
+Additionally, the data indicates that prices between $20 and $21.5 may not be ideal for maximizing profit due to reduced quantities sold at these price levels. Finally, I observe a peculiar anomaly where attempting to set an extremely high price ($520, then $199) results in no sales, with only minor exceptions at even higher price points.
+
+New content for PLANS.txt:
+
+* Re-evaluate the optimal price range considering the plateauing of profit potential between $20 and $21.5.
+* Investigate why prices above a certain threshold do not result in additional quantity sold.
+* Assess whether further analysis is required to understand the relationship between price, quantity sold, and profit earned.
+
+New content for INSIGHTS.txt:
+
+* Maximum per-round profit is $500 (with some minor deviations).
+* Prices below $20 (up until the threshold) tend to plateau or slightly degrade in terms of profit earned (except briefly at price levels just above $19).
+* Extremely high prices do not result in any sales.
+* Some higher prices tested ($20.99, for example) yield slightly lower per-round profits than optimal prices but appear not too far off from the maximum possible.
+
+My chosen price:
+
+$20

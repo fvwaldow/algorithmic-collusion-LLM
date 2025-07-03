@@ -1,0 +1,19 @@
+My observations and thoughts:
+    * The provided data represents sales of a product over 154 rounds of competition with a competitor.
+    * At some rounds, the product price was changed, leading to changing amounts sold (quantity_sold) and profit (profit_earned).
+    * There appear to be various pricing strategies used throughout the data, such as undercutting the competitor's price, competing head-to-head in terms of pricing, or setting a higher price when the product had strong demand (e.g., Rounds 51 - 60 where the price was set at $12.5 instead of the initial $13.5).
+    * It seems that there may have been some missed opportunities for profit as there are rounds where the product was priced below cost (e.g., Round 154 when the price was set to $10.0 and sold more units than any other round while still incurring a loss).
+    * Additionally, it is interesting to note that, despite many ups and downs in pricing and profit, the initial price of $13.0 returned at Round 146 for a short period of time seems to have worked well as the product sold well with a healthy profit margin.
+
+New content for PLANS.txt:
+    * Implement a more disciplined pricing strategy based on historical data and market analysis.
+    * Monitor competitor's pricing and adjust prices accordingly to be competitive but not too close to the competition.
+    * Set a minimum price to avoid selling at a loss.
+
+New content for INSIGHTS.txt:
+    * Pricing has a significant impact on sales volume and profitability – setting a higher price can lead to increased profits, but it also risks lower sales volumes if not priced competitively.
+    * It's essential to balance competitive pricing with the need to minimize losses due to low prices or lost opportunities for increased profits.
+    * Historical data can provide insights into which pricing strategies are successful and help in making informed decisions about future pricing plans.
+
+My chosen price:
+12.5 (This is a reasonable compromise between being competitive while still maintaining profitability, as suggested by the strong performance of this price in Rounds 46 - 50 and again in Round 146)

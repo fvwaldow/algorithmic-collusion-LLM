@@ -1,0 +1,27 @@
+**My observations and thoughts:**
+
+Based on the provided market data, I notice a few trends:
+
+1. The price with the highest sales volume is often around $19-$20 (Rounds 85, 91-94). This suggests that prices above this range may lead to decreased demand.
+2. Prices below $19, such as in Rounds 79 and 73, also seem to achieve high quantity sold numbers, but slightly lower profit margins compared to the optimal range ($19-$20).
+3. There is a consistent decrease in quantity sold with increasing price (e.g., Round 96 vs. Round 97-like scenarios).
+4. Notability, we observe that prices around $38 or higher are strongly disfavored by customers as only small quantities are sold.
+
+**New content for PLANS.txt:**
+
+Next steps I would like to explore the following pricing ranges:
+
+* Investigate a price point of $20-$21, centering towards the $20.5 mark previously identified in Rounds 15 and 20, with high sales volumes.
+* To verify our hypothesis that prices below $19 may lead to lower profit margins despite higher quantity sold numbers, consider lowering price incrementally down to around $18-$18.5.
+
+**New content for INSIGHTS.txt:**
+
+Our insights can be summarized as follows:
+
+* A balanced approach for maximum revenue lies within the narrow margin of price values between 5¢ and 15¢ from our lowest sale volume mark.
+* We notice an inverse relationship between price value, quantity sold, and profit margins achieved in specific scenarios.
+* We observe a consistent decrease in demand when exceeding certain threshold prices near $20 or above.
+
+**My chosen price:**
+
+$20.25 (slightly closer to the observed high sales at lower margins but higher than observed disfavored sale point of price 38)

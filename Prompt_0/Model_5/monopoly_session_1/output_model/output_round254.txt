@@ -1,0 +1,17 @@
+My observations and thoughts:
+The data provided indicates fluctuations in prices throughout the rounds. Prices have ranged from as low as $0 (when quantity sold is 0) to a high of $28.0, with numerous instances across different rounds where prices are adjusted significantly—sometimes dramatically—upwards or downwards. 
+
+There's a clear pattern showing an emphasis on balancing profit maximization while dealing with varying sales volumes. Several instances have zero quantity sold at high price points, suggesting either an inability or unwillingness to sell at those prices. 
+
+Strategically, rounds with higher quantities sold do not necessarily correlate with lower prices but appear influenced by a balance between demand, profit margin, and volume. High-quantity sales can occur at various price ranges, implying a need for keen market analysis and understanding buyer behavior in each round.
+
+There also seems to be a segment where very high prices ($25.0 and $27.0) with zero quantity sold, indicating potential overvaluation or periods when demand was abysmally low. 
+
+New content for PLANS.txt:
+Analyze market trends more closely during periods of zero sales at high prices to understand underlying causes (e.g., pricing too high relative to demand, seasonal factors, or competition). Optimize for a balance between price and quantity sold by implementing dynamic pricing strategies responsive to real-time sales data. Investigate potential value-based pricing models which might justify higher prices during peak demand periods.
+
+New content for INSIGHTS.txt:
+Data reveals an inconsistent relationship between price and the ability to sell. While some rounds show profitability at high prices with low quantities, others show better results at moderate prices with higher volumes. Develop a predictive model to forecast optimal pricing based on historical data, incorporating factors such as seasonality, competitor actions, and consumer behavior patterns. 
+
+My chosen price:
+23

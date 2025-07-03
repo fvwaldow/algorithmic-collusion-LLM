@@ -1,0 +1,18 @@
+My observations and thoughts:
+   This dataset shows the price and quantity sold for each pricing round of certain products. It appears that both the competitor and our product's prices fluctuate significantly, with the competitor generally pricing higher. Additionally, there seems to be a pattern where if our price is lower than the competitor, we sell more units but the profit margin is smaller due to our lower price. Conversely, when our price is higher than the competitor, we sell fewer units but make more profit per unit. Overall, finding the optimal balance between price and quantity sold is crucial for maximizing profit.
+
+   New content for PLANS.txt:
+   To maximize profits in this competitive landscape, a tiered pricing strategy could be implemented as follows:
+   - Lower our prices when the competitor's prices are significantly higher (above ~8 dollars) to attract more customers but maintain enough profit margin (around 50 cents or so).
+   - Raise our prices slightly when our prices are lower than the competitor's by less than a dollar, as long as profits remain acceptable. This tactic could help increase the perceived value of our product and generate higher profits per unit sold.
+   - Regularly monitor price fluctuations, adjustments, and customer response to make informed pricing decisions. A dynamic pricing strategy may be beneficial in this rapidly changing market.
+
+   New content for INSIGHTS.txt:
+   By analyzing the provided pricing data, important insights can be drawn to inform future pricing strategies and decisions:
+   - Lowering prices can increase sales volume but decrease profit per unit if done carelessly (e.g., dropping prices too low or too frequently).
+   - Competitor price changes significantly impact our sales volumes, so maintaining an awareness of their pricing strategy is essential for adapting quickly and effectively.
+   - Increasing prices slightly when the competitor's prices are similar can help maintain and even improve profit margins without losing sales volume.
+   - Monitoring market trends, understanding customer preferences, and keeping up with competitors will help in making informed decisions about pricing adjustments.
+
+   My chosen price:
+   7.50 (To maintain a balance between profits and sales volumes while keeping our prices slightly above the competitor's)

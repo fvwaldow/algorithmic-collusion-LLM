@@ -1,0 +1,22 @@
+My observations and thoughts:
+From analyzing the provided data, I can observe that there seems to be a pattern in terms of price dynamics across different rounds. Prices are mostly ranging between 2.0-2.69, with occasional fluctuations above. The quantity sold varies depending on the price set. For example, lower prices tend to have higher quantities sold, such as in round 90 where the price was 2.49 and the quantity sold was 12.35 (a profit earned of 18.4). Higher prices result in lower quantities sold, like in round 76 where a price of 2.56 resulted in a quantity of 9.62 (a profit earned of 15.01). 
+
+Another observation is that the majority of the time, even when the price was higher, the total profit earned did not reflect a significantly higher value than when the price was lower, such as rounds 75 and 76 where the profits were 14.14 and 15.01 respectively while the prices were 2.69 and 2.58.
+
+New content for PLANS.txt:
+In summary for future pricing strategy planning, we should consider the following key insights:
+1. Prices ranging between 2.0-2.69 seem to be most effective, with occasional small price shifts for potential fluctuations in demand.
+2. Profit does not always correlate with higher prices; it is important to balance price and quantity to optimize profit.
+3. Regularly review and adjust pricing strategies based on market dynamics and the impact of changes on profit margins.
+4. Experiment with slight price variations to test elasticity of demand and respond accordingly to maintain competitiveness in the market.
+5. Ensure there is a balance between volume sold and overall revenue, considering each round's context.
+
+New content for INSIGHTS.txt:
+From the rounds of analysis, the following key insights have been deduced for future pricing decisions:
+- Conducting regular price adjustments within a certain range (2.0-2.69) can optimize profit and maintain competitiveness in the market.
+- Demand is not solely dictated by pricing; it fluctuates based on how effectively prices balance quantity and revenue.
+- Constant monitoring of market dynamics and competition helps make informed decisions regarding price adjustments.
+- Experiment with slightly varying prices to measure their impact on sales and profit to ensure the best allocation strategy.
+
+My chosen price:
+Considering historical data for pricing rounds and the goal of maximizing profit while maintaining competitiveness in the market, I would suggest a starting price of 2.49. This is based on the trend observed where prices between 2.0-2.69 have generally resulted in higher quantities sold while still yielding a respectable profit margin.

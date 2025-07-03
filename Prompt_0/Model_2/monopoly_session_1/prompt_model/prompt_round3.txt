@@ -1,0 +1,54 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $4.36
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Continue monitoring daily unit sales and average selling price changes to adapt pricing strategy accordingly.
+   2. Analyze market response over time, paying particular attention to price elasticity of demand.
+   3. Test small price adjustments based on findings from step 2, ensuring the price remains competitive while maintaining reasonable profit.
+   4. Keep track of competitor prices and evaluate optimal positioning within the market.
+   5. Periodically revisit pricing strategy to optimize for long-term success and potential growth opportunities.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Small, incremental price adjustments can have a significant effect on profit margins.
+   - It's crucial to take advantage of price elasticity of demand in the market when optimizing pricing strategy.
+   - Regular competitor analysis is necessary to ensure an optimal position within the market and avoid stagnation.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 2:
+            - My price: 3.1
+            - My quantity sold: 1.21
+            - My profit earned: 2.55
+
+Round 1:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

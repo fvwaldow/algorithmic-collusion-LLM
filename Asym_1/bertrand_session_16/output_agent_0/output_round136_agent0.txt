@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+- The data provided shows the sales quantities and profits for different price points and competitor prices over 50 rounds of selling a product. The goal seems to be finding an optimal price point for maximum profit.
+
+- It appears that there are instances where lowering the price can lead to increased sales quantity, but this doesn't always lead to increased profits due to reduced profit margins per sale. Conversely, increasing the price can reduce sales quantity but potentially increase profit on each sale, depending on the competitor's price and the elasticity of demand for this product.
+
+- It is also noticeable that there were certain periods where the competitor didn't have a set price, possibly affecting the choices made in pricing.
+
+New content for PLANS.txt:
+
+- Analyze historical sales data to determine trends in consumer behavior and identify optimal pricing strategies based on quantities sold and profit margin.
+- Evaluate the effect of potential changes in competitor pricing during strategic decision making.
+
+New content for INSIGHTS.txt:
+
+- Lowering the price can lead to increased sales quantity, but this doesn't always guarantee higher profits due to reduced profit margins per sale.
+- Increasing the price can reduce sales quantity, but may potentially increase profit on each sale, depending on the competitor's price and the demand elasticity for this product.
+- Competitor pricing should be considered during strategic decision making, as it could significantly impact profits and optimum pricing strategy.
+
+My chosen price: 25 (based on a combination of sales quantity and profit margin throughout the data provided)

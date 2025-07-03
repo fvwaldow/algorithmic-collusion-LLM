@@ -1,0 +1,19 @@
+1. **My observations and thoughts:**
+    - The price trends show that my starting price of $9.75 was reasonably close to the optimal point for earning profit. By round 32, the majority of the transactions were still happening at this price with profits ranging from $9.75-$9.80 which were consistent in almost all rounds except round 66 and 46 when a lower and higher price was chosen respectively and resulted in smaller profits. However, more recently, the price has been increased to $10.27 in round 126 where the profit dropped significantly indicating that the new price might not be as optimal.
+    - There seems to be a trend of reducing quantity sold with increasing prices for most rounds. This suggests potential demand elasticity where an increase in price can lead to a considerable drop in demand.
+    - A significant financial loss occurred in round 50 and round 46 where very low or negative profits were made, possibly indicating that these weren't optimal pricing rounds. More analysis might be needed to understand why this happened.
+  
+2. **New content for PLANS.txt:**
+    Based on my observations, my plan for the future pricing strategy would be:
+   - To keep a close eye on the trend and relationship between pricing and quantity sold.
+   - Analyze in-depth, the financial loss in round 50 and round 46 to avoid such scenarios in the future.
+   - Test different price points around the recently successful price of $9.75 as it has been historically profitable with little variations, but also attempt to find a slightly higher price if possible to maximize profit within the acceptable demand range.
+   
+3. **New content for INSIGHTS.txt:**
+   - The insights from the analysis suggest that while increasing prices can impact quantity sold significantly, finding the right balance is crucial for maximizing profits. 
+   - It's important to consider market demand and potential customer price sensitivity while setting prices.
+   - Sometimes pricing lower might lead to higher profit due to increased quantity sales even if profit margin per unit is lower.
+   - Carefully selecting rounds to adjust the price is key, as drastic changes can have significant impacts on both profit and volume of transactions.
+
+4. **My chosen price:**
+    Based on previous successful results and current analysis trends, I would choose a price between $9.65-$9.80 for my next pricing round. These prices seem to yield consistent but relatively high profits while also maintaining reasonable quantities sold. However, this decision should be reevaluated over time as market conditions might change.

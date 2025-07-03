@@ -1,0 +1,14 @@
+My observations and thoughts:
+    - The current strategy seems effective, but there is room for optimization. I observe that the profit margin varies significantly across different prices. It is important to keep track of both quantity sold and total profit earned in relation to price adjustments.
+	- Competitor's response to price changes plays a role in the overall sales volume and profitability. To optimize pricing, we should consider monitoring competitors' strategies more closely and make adaptive pricing decisions accordingly.
+    - To truly maximize long term profits, it would be beneficial to use machine learning algorithms to analyze different combinations of price changes and competitors’ reactions, then implement the optimal pricing strategy based on market demand fluctuations.
+
+  New content for PLANS.txt:
+   + Implement machine learning algorithm to analyze historical data across various combinations of competitive reaction and determine optimal pricing strategy.
+    + Monitor competitor's prices more closely to make timely adjustments based on changing market demands and their reactions to price changes.
+
+  New content for INSIGHTS.txt:
+   + Machine learning algorithms can help optimize the long-term profitability by minimizing risk of incorrect pricing decisions and exploiting potential profitable opportunities uncovered through data analysis.
+    + Being more attentive to competitor's strategies allows flexibility in adapting to market fluctuations, ultimately maximizing profits in the long run.
+
+  My chosen price: 2.08

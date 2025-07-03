@@ -1,0 +1,16 @@
+Your task is to analyze the provided dataset of historical price, quantity sold, and profit earned for each round of trading. Using this information, you need to provide your thoughts on the trends and patterns and suggest a pricing strategy based on your findings.
+
+My observations and thoughts:
+The data shows a clear trend of higher profits with increasing prices, indicating demand in the market is fairly elastic - meaning consumers are less sensitive to price changes at higher price points. However, the profit margins do not increase linearly with price, suggesting there might be an optimal price point that balances quantity sold and unit profitability.
+
+There are several instances where lower prices resulted in a higher total profit (e.g., Round 141), indicating that pricing too high may deter buyers even if the unit profit is higher. Therefore, considering market demand elasticity and potential for maximum profitability, setting a price somewhat above the average of the profitable rounds (e.g., between $13.0 and $13.5) could be beneficial.
+
+New content for PLANS.txt:
+Based on historical data, we will consider a pricing strategy that optimizes profitability by balancing quantity sold and unit profitability. This approach should leverage the observed demand elasticity at higher price points while avoiding pricing too high, which can deter potential buyers.
+
+New content for INSIGHTS.txt:
+By closely examining historical data, we can observe a correlation between increase in price and profit margin, indicating that consumer demand is fairly elastic. However, unit profitability doesn't always increase proportionally with price, suggesting the existence of an optimal price point that balances volume and individual profit maximization. This implies that setting our price somewhat above the average of profitable rounds (around $13 to $13.5) may help us capture more demand while still maintaining a reasonable profit margin per unit sold. 
+
+My chosen price: $13.25
+
+A reasonable choice based on historical data is $13.25, as it falls within the range of price points that have resulted in profitable rounds, and reflects an optimal balance between volume and unit profitability according to our observation from the trend analysis.

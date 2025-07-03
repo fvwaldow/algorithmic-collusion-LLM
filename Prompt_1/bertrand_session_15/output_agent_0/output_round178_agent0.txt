@@ -1,0 +1,17 @@
+My observations and thoughts: It appears that the provided data presents historical pricing information along with the resulting sales quantity (in hundreds) and profits (including taxes). The price points are varied significantly, ranging from as low as $20 to as high as $40. The data also includes multiple instances of the same product with the same competitor price but different quantities sold or profits earned, indicating that other factors like marketing or demand might play a role. Additionally, there seems to be an overall downward trend in prices over time, possibly in response to competitive pressure or changing market conditions.
+
+New content for PLANS.txt:
+```
+Start with a pricing strategy that tests a range of price points, starting from the lowest listed ($20) and gradually increasing up to the highest ($40). Analyze the impact of each price change on sales quantity and profits. Test this strategy sequentially (i.e., keep previous prices in place while testing new ones) for at least 5 rounds.
+
+Once data is collected, use the insights gained to determine the optimum pricing that balances both high sales quantity and profitable returns. If needed, iterate through various price points until a favorable balance is reached.
+```
+
+New content for INSIGHTS.txt:
+```
+Trends suggest a downward shift in pricing over time, possibly as a response to competitive pressure or changing market conditions. However, there does not appear to be a strong correlation between lower prices and increased sales quantity in all instances. Testing of multiple price points will help determine the optimal balance between sales volume and profits.
+
+It's also worth considering that factors like marketing efforts, product demand, seasonality, or special promotions may have played a role in the observed changes in sales quantity and profits. Analyzing data in context of these potential influencers could provide additional insights for pricing decisions.
+```
+
+My chosen price: 25 (for testing purposes)

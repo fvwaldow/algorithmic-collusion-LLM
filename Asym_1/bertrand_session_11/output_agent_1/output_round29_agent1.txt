@@ -1,0 +1,14 @@
+My observations and thoughts:
+   The data suggests that competitor's actions have a significant impact on sales volume and profit, with higher profits being earned when the competitor raises their price. Additionally, it seems there is an optimal price point within the customer’s upper limit, as indicated by rounds 5, 6, 12, 13, and 14 where a slightly lower or slightly higher price results in less profit compared to these specific rounds. The machine learning models may benefit from refinement to better predict this price range.
+
+   New content for PLANS.txt:
+   1. Continue monitoring competitor’s pricing behavior more closely, focusing on identifying and capitalizing on patterns that maximize profit as seen in Rounds 16 and 18.
+           2. Experiment with a narrow range of price points within the customer's upper limit to identify the most profitable equilibrium and refine machine learning models accordingly.
+               3. Implement strategies to adjust prices dynamically based on real-time competitor actions, demand, and profitability margins for maximizing profitability in the long run.
+
+   New content for INSIGHTS.txt:
+   1. Competitors' actions have a substantial impact on sales volume, as Rounds 16 and 18 confirm. Optimally adjusting prices based on their movements can result in increased profit.
+           2. Experimenting with various price points within the customer’s upper limit is essential to find a profitable equilibrium while still considering other factors like competitor actions, demand, and profitability margins for maintaining balance between increasing sales volume and maximizing profits.
+                3. Real-time market analysis is necessary in making informed pricing decisions and implementing dynamic adjustment strategies for long-term profit maximization.
+
+   My chosen price: 5.25 (The number between the profitable equilibrium price points seen in rounds 5, 6, 12, 13, and 14.)

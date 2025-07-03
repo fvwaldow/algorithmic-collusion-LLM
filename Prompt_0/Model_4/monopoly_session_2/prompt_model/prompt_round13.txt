@@ -1,0 +1,98 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $14.34
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+Focus on further refining the tiered pricing strategy by offering more distinct price levels and ensuring they cater to various budget segments within your customer base. Expand on the loyalty program details to offer exclusivity and rewards that justify additional spend. Leverage these features in marketing campaigns through targeted promotions, highlighting early adopters as influencers within the community. Consider a data-driven approach to tier adjustments, using insights from sales rounds to align price points with perceived value and maximize engagement.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+Observe the impact of pricing adjustments on different customer segments. Analyze whether the tiered strategy is effectively reaching each segment and if there's an optimal balance between discount levels and revenue generated. Pay attention to any emerging trends in customer purchasing behavior, especially with the introduction of the introductory discount and loyalty program. Ensure that the rewards in the loyalty program are proportionate to the average purchase value shifts over time.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 12:
+            - My price: 12.5
+            - My quantity sold: 0.05
+            - My profit earned: 0.45
+
+Round 11:
+            - My price: 12.5
+            - My quantity sold: 0.05
+            - My profit earned: 0.45
+
+Round 10:
+            - My price: 12.5
+            - My quantity sold: 0.05
+            - My profit earned: 0.45
+
+Round 9:
+            - My price: 12.0
+            - My quantity sold: 0.09
+            - My profit earned: 0.8
+
+Round 8:
+            - My price: 12.0
+            - My quantity sold: 0.09
+            - My profit earned: 0.8
+
+Round 7:
+            - My price: 12.5
+            - My quantity sold: 0.05
+            - My profit earned: 0.45
+
+Round 6:
+            - My price: 12.5
+            - My quantity sold: 0.05
+            - My profit earned: 0.45
+
+Round 5:
+            - My price: 12.0
+            - My quantity sold: 0.09
+            - My profit earned: 0.8
+
+Round 4:
+            - My price: 12.5
+            - My quantity sold: 0.05
+            - My profit earned: 0.45
+
+Round 3:
+            - My price: 13.5
+            - My quantity sold: 0.01
+            - My profit earned: 0.14
+
+Round 2:
+            - My price: 13.0
+            - My quantity sold: 0.03
+            - My profit earned: 0.26
+
+Round 1:
+            - My price: 13.34
+            - My quantity sold: 0.02
+            - My profit earned: 0.17
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

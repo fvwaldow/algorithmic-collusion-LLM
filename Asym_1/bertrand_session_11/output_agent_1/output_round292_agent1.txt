@@ -1,0 +1,17 @@
+My observations and thoughts:
+   The given data represent the results of a series of pricing rounds as a seller. At each round, a price was chosen by the seller and a competitor's price was also provided. Based on the quantity sold and the price, profit could be calculated.
+
+   It appears that there are various factors influencing the sales:
+   - When prices were lower, more units were usually sold but the profit margin was smaller (e.g., rounds 100 to 205)
+   - Higher prices led to less quantity sold but resulted in a higher profit per unit (e.g., rounds 196 to 199 and 202).
+   - When the seller's price was close to or equal to the competitor's, there was usually an advantage concerning sales volume, as shown from rounds 205-214 where the seller had more units sold at a higher or similar price.
+   - Sometimes, when the pricing gap between the seller and the competitor increased (e.g., round 194), the seller managed to attract more customers in spite of a relatively higher price.
+
+   New content for PLANS.txt:
+   In future pricing rounds, it would be beneficial to take into account both quantity sold and profit margin to determine an optimal pricing strategy. When facing lower profits with higher units sold (like rounds 100-205), try increasing the price incrementally while keeping a close eye on the competition's prices to maintain sales volume.
+
+   New content for INSIGHTS.txt:
+   The relationship between price and quantity sold isn't a simple inverse correlation. A higher price doesn't necessarily lead to fewer units sold, as shown by rounds 196-199 and 202. Additionally, the pricing gap between the seller and competitor seems to play a role in attracting more customers (as seen in round 194 where the seller had a higher price but still increased sales).
+
+   My chosen price:
+   5.5 (This number represents the average of many of the price points throughout the rounds, taking into account both highs and lows to find a good balance between profit margin and sales volume)

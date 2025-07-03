@@ -1,0 +1,15 @@
+My observations and thoughts:
+   It seems that the prices are fluctuating significantly from round to round with both high and low price points being tested. The sales volume also varies greatly depending on the price point chosen. It appears that there may be a sweet spot for price where sales volume is maximized, but identifying this point can be challenging due to the variance in sales volume in response to changes in price.
+
+   One interesting observation is that low price points do not always lead to high sales volume. For example, when the price was set at $1.0 in Round 91 and Round 78, the sales volume was extremely high (-219.05 and -219.54 respectively), indicating a large loss for these pricing rounds. On the other hand, even with higher prices such as $11.82 in Round 61, there was still no significant sale recorded.
+
+   The INSIGHTS.txt file should contain information about the relationship between price and sales volume, and any patterns or trends that can be observed in this data. It would also be useful to track which price points were most successful and when these occurred.
+
+   New content for PLANS.txt:
+   To optimize pricing, it would be beneficial to closely monitor and analyze the relationship between price and sales volume. This could involve creating a scatter plot of price versus sales volume, or calculating an average sales volume by price point. Once this data is collected, statistical analyses can be performed to identify any significant relationships or trends between price and sales volume.
+
+   New content for INSIGHTS.txt:
+   The initial dataset suggests that a high-low pricing strategy may not be the most effective approach in this scenario. Sales volume appears to increase with increasing price up to a certain point, but beyond this optimum point, sales volume decreases significantly. Further analysis is needed to determine the optimal price range for maximizing sales volume.
+
+   My chosen price:
+   7.5

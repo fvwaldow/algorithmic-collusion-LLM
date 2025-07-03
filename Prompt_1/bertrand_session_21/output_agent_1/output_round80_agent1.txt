@@ -1,0 +1,28 @@
+My observations and thoughts: The data provided shows a series of pricing rounds with corresponding sales quantities and profits for each round. It seems that there is some variance in the competitors' prices, but overall the seller has a competitive edge in many rounds due to lower prices or higher sales quantities.
+
+   New content for PLANS.txt: In light of this data, it will be helpful to maintain our current pricing strategy, which appears to be keeping us competitive. However, we should continue monitoring the market and consider incrementally adjusting our prices to capitalize on moments when competitors price themselves out of the market or where demand indicates a need for higher or lower pricing.
+
+   New content for INSIGHTS.txt: Our current sales are relatively stable, with some rounds showing higher than average profits. It is essential to identify patterns and trends in this data as they may indicate opportunities for further improvement. Additionally, we should consider the impact of external factors such as market conditions and competitor behavior on our pricing decisions.
+
+   My chosen price: (Please see below for the calculation for my suggested price)
+
+To calculate my chosen price for each pricing round, I will compare the profit earned by the seller with the profit that the seller would have earned when matching the competitor's price in that round. This will help us measure the potential impact of a lower price on sales quantity, and therefore profits.
+
+Here are the details of my chosen price:
+
+1. In each pricing round, calculate the difference in profit (difference_in_profit) between the seller's actual profit (profits listed under "My profit earned") and the profit the seller would have made if they had matched the competitor's price (competitor_price x sales quantity - competition_cost).
+2. If difference_in_profit > 0, this means that the seller's current pricing is more profitable than matching the competitor's price, so it should remain unchanged.
+3. If difference_in_profit < 0, this indicates an opportunity for potential growth in profits by adopting a lower price that matches or closely approximates the competitor's price in that round. In these cases, I will suggest a price that provides the seller with a minimal profit margin while remaining competitive to ensure sustained sales quantity.
+4. For each pricing round where there is a potential opportunity for growth (i.e., difference_in_profit < 0), calculate my chosen price as follows: (competitor_price + ((difference_in_profit / difference_in_profit + abs(seller_profit)) * 100)) / 100)
+5. Finally, replace the "My chosen price" label with this calculated number for each round where there was a potential opportunity for growth:
+
+Using this method, the suggested prices for each pricing round (omitting rounds with no change) are as follows:
+Rounds 6, 12, and 15: My chosen price of 17.97
+Round 20: My chosen price of 15.98
+Round 13: My chosen price of 15.0
+Round 7: My chosen price of 15.99
+Round 9: My chosen price of 20.0
+Round 8: My chosen price of 16.99
+Round 4: My chosen price of 24.99
+Round 3: My chosen price of 17.48 (This round was not mentioned initially, but using the above method, we get this calculated price)
+Round 5: My chosen price of 16.62 (This round was not mentioned initially, but using the above method, we get this calculated price)

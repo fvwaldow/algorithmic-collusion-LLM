@@ -1,0 +1,7 @@
+My observations and thoughts: This dataset shows the selling price of a product, along with its quantity sold per round, for 104 pricing rounds. The lowest price was 25.0 and the highest was 12.0. Competitors were also priced differently in each round ranging from 12.0 to 15.0. Despite variations in competitor prices, the product managed to sell at least 1 unit per round with some rounds selling up to 63.65 units.
+
+   New content for PLANS.txt: A more flexible pricing strategy should be adopted given the variation of competitor pricing. The goal is to balance profit while maintaining sales volume by adapting the product price based on the current competitor prices and volumes sold in each round. If necessary, lower the price when the competitor's price is higher or we have a significant advantage in sales volume.
+
+   New content for INSIGHTS.txt: The lowest price for this product resulted in selling fewer than 2 units per round. Conversely, prices above 12.0 generated stable sales volumes without a substantial increase in profit. This could indicate an optimal price point between 12.0 and the current average of around 12.5. Moreover, higher competitor prices tend to lead to increased sales for our product.
+
+   My chosen price: 12.0 (for the next pricing round)

@@ -1,0 +1,13 @@
+My observations and thoughts:
+The data shows a fluctuation in price and profit margin. There are periods of consistent high profits, such as when the price was set at 19.5 with varying quantities sold from 54.98 to over 70, yielding approximately 522.34 profit each time. However, there are also significant losses, particularly in Round 38 where the price dropped drastically to 1.25 with nearly 100 units sold, resulting in a loss of -874.52. 
+
+It appears the middle range prices (17-21) tend to provide more stable and higher profits than lower or higher prices tested. A notable dip in profit occurred when prices were very low (Round 38). There seems to be an optimal range where moderate quantities sold at a price point around $19.5-$20 frequently led to substantial profits.
+
+New content for PLANS.txt:
+Testing price stability within the observed high-profit range ($19.5 - $20), with a focus on quantities between 50 and 75 units sold, to validate if this is indeed the sweet spot for maximum profit without significant risk of loss.
+
+New content for INSIGHTS.txt:
+The data indicates that setting prices in the mid-range ($19.5 - $20) consistently leads to higher profits when moderate quantities (approximately 54-75 units) are sold, suggesting a potential sweet spot to explore further. Lower prices like $1 lead to catastrophic losses even at high volume, while slightly higher prices occasionally yield higher profits but with less consistency observed.
+
+My chosen price:
+20

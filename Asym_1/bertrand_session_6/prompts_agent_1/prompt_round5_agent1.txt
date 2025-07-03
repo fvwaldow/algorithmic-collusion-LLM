@@ -1,0 +1,70 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $5.93
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Test lower pricing strategies within the accepted customer price range ($5.93) while monitoring competitive response, demand fluctuations, and profitability.
+2. Conduct a thorough market survey to uncover optimalpricing points based on customer preferences and willingness to pay, and evaluate how these insights can be applied to differentiate our product from competitors.
+3. Implement dynamic pricing adjustments throughout the day or week by observing changing demand patterns and adjusting accordingly to optimize profitability.
+4. Consider offering bundle pricing strategies that combine the product with complementary items at various price points, aiming for increased sales while preserving overall profit margins.
+5. Continuously monitor and analyze competitor pricing strategies to identify gaps and opportunities for competitive differentiation.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Price reductions within the acceptable range could attract more customers, but it should be done strategically to maintain profitability.
+2. Market research and customer insights are crucial to understand their willingness-to-pay and optimize pricing in a competitive market.
+3. Dynamic pricing is essential for capturing temporary opportunities in demand that often arise due to changes in consumer behavior or external factors.
+4. Bundle pricing can help entice buyers with various price point preferences while ensuring product differentiation from competitors.
+5. Constant observation and analysis of competitor strategies are vital to exploit gaps, offer unique value propositions, and drive customer acquisition.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 4:
+                - My price: 4.7
+                - Competitor’s price: 4.19
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 3:
+                - My price: 4.49
+                - Competitor’s price: 5.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
+
+Round 2:
+                - My price: 4.75
+                - Competitor’s price: 3.99
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 1:
+                - My price: 4.5
+                - Competitor’s price: 4.99
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

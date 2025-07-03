@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+Based on the provided data, it appears that there are two distinct clusters of prices and quantities sold. Cluster 1 has prices ranging from 2.92 to 3.00, with a mean price around 2.96, and quantities sold from 1.87 to 2.46, with a mean quantity around 2.12. Cluster 2 has a single outlier at price 36.0 with zero quantity sold in Round 122, which we can ignore for pricing purposes. Otherwise, prices range from -1 to 3.00 and quantities sold range from 0.87 to 4.72.
+
+Analyzing the two clusters, it seems that prices below 2.95 are generally associated with higher quantities sold (around 2-3 units), while prices above 2.96 result in lower quantities sold (around 1-2 units). I suspect this is due to the market's price sensitivity and the supply-demand balance.
+
+New content for PLANS.txt:
+
+* Investigate the impact of changing prices around the cluster mean (2.96) on quantity sold.
+* Explore potential price elasticities using a linear or non-linear regression model.
+* Monitor changes in market demand, supply, or external factors that may affect our pricing decisions.
+
+New content for INSIGHTS.txt:
+
+* The optimal price range appears to be between 2.92 and 3.00, as it balances quantity sold and revenue generated.
+* Raising prices above 3.00 reduces quantity sold significantly, indicating a potential "kink" in the demand curve at this point.
+* We should prioritize maintaining relationships with customers who purchase larger quantities (e.g., around 2-3 units) by offering competitive pricing.
+
+My chosen price:
+
+2.95

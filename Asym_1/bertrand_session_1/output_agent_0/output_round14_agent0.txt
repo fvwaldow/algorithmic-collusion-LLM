@@ -1,0 +1,9 @@
+My observations and thoughts: It appears that the current dynamic pricing strategy is not optimally balancing quantity sold and profit margins. While a lower price tends to generate higher sales volume, it may not always translate to maximum profitability in the long-term. Furthermore, it seems that some price points result in zero or minimal sales (e.g., round 5's $2.85, round 7's $2.0), suggesting these prices might be too high to attract customers within the target market.
+   New content for PLANS.txt:
+   - Implement a revised dynamic pricing strategy which takes into account my cost of production and customer ceiling price while also considering historical sales data and competitor actions to optimize long-term profitability.
+   - Utilize machine learning algorithms to identify pricing patterns based on customer segmentation, competitive landscape, and market trends for improved pricing optimization over time.
+   - Test various pricing tiers to determine the one that maximizes both short-term sales volume and long-term profitability through A/B testing or incremental price adjustments.
+   New content for INSIGHTS.txt:
+   - Adjusting price based on competitor actions is necessary but must be done carefully, considering market trends and customer demands to avoid undermining the long-term revenue generation potential.
+   - A combination of data analysis and experimentation can lead to more effective and efficient pricing strategies for improved profitability in the future.
+   My chosen price: 2.45 (closer to the average of round 7, 8 and 9 prices while staying below the customer ceiling)

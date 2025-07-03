@@ -1,0 +1,15 @@
+1. Observations and thoughts:
+The provided dataset shows a history of transactions where each round corresponds to different actions taken such as a change in the selling price, quantity sold, and profit earned. This data can be analyzed to make informed decisions on future pricing strategies. For instance, it is observed that higher prices do not necessarily result in lower quantities sold - round 170 and round 171 both had higher prices but different quantities sold; moreover, the profit earned for these rounds differed significantly, demonstrating the importance of considering various factors while setting the selling price.
+   
+2. Updates to PLANS.txt:
+* Identify key customer segments based on their sensitivity towards pricing and volume transactions. For example, during high-priced periods such as rounds 170 and 171, a larger proportion of sales could be attributed to a specific customer segment, indicating they might have the budget for these prices.
+    * Explore a dynamic pricing strategy that balances both price and quantity sold. This strategy should take into account different scenarios including increased competition, changing market conditions, fluctuating customer preferences, and the financial viability of maintaining certain price points.
+    * Use past data to forecast possible outcomes of different pricing decisions and simulate their impact on both profit and sales volumes. 
+  
+3. Updates to INSIGHTS.txt:
+* The pricing strategy should consider not just the absolute price level, but also relative changes in price over time. Sudden or frequent changes in price might be perceived negatively by customers and could lead to volatility in both sales quantity and profit earned as seen in Round 125 to 130, where a slight increase led to a significant change in profit earned.
+     * Competitive pricing is crucial for maintaining market presence in the face of competition from other similar products or services. Rounds 170 and 171 display how the product maintains its marketability even at higher prices relative to lower rounds, provided they are within the customer's price acceptance range.  
+    * Price premium can be leveraged for high-value products associated with increased utility or service quality. The lower price in Round 119 led to less profit earned compared to its successive round where a small increase in price resulted in higher profit, suggesting that pricing appropriately could potentially result in more profits with little impact on sales quantity.
+    
+4. My chosen price:
+The chosen price point will depend significantly on the market environment and target customer segments. However, considering the provided data, one needs to factor in that a balance between higher prices and volumes would likely lead to maximum profit. Therefore, a reasonable starting point could be a moderate increase from the average price level seen in successful periods like Round 170 or Round 132. If needed, further analysis of customer behavior and market competition will inform adjustments to this base price.

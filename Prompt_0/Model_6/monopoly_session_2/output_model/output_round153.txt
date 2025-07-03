@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+* There has been a significant fluctuation in profit earned per round, with some rounds experiencing profits as high as $161.21 (Round 100) and others as low as $152.78 (multiple rounds).
+* The optimal price does not seem to be a fixed value, but rather a range of values that produce similar profits.
+* There is a possible correlation between prices above $5 and higher profit, with some exceptions.
+
+New content for PLANS.txt:
+
+* Conduct further analysis on the relationship between price and profit to determine a more precise optimal price range.
+* Consider implementing strategies to capture higher profits by adjusting the price band to values above $5.
+* Monitor market trends and competitor pricing to ensure that our prices are competitive and aligned with industry standards.
+
+New content for INSIGHTS.txt:
+
+* The current price range of $4.99-$5.15 appears to be volatile, with some rounds producing significantly higher profits than others.
+* There may be opportunities to adjust the price band to values between $5.02 and $5.10, which have consistently produced high profits (Rounds 65-69, 81, and 97).
+* Further analysis is required to confirm whether these observed patterns are statistically significant.
+
+My chosen price:
+
+$4.99

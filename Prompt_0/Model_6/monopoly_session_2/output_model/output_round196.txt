@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+Based on the provided market data, there are some interesting patterns observed. The majority of the prices range from $4.99 to $5.15, with most being around $5.02. There is a strong correlation between price and quantity sold, but it appears that once you go above $5.00, the quantity sold starts to decrease significantly (e.g., Round 100 and 98). This might indicate that there's a saturation point around or slightly above $5.00.
+
+Additionally, certain prices seem to have achieved consistent profit levels regardless of the unit sales (e.g., Rounds 105-104, 110-109), hinting at an optimal price range for maximizing overall profit.
+
+New content for PLANS.txt:
+
+Given this observation, a logical plan could be to aim for an initially higher price within the optimal range and then test if there's still room for slight growth (ideally avoiding going above $5.00).
+
+Specific plans I propose are:
+1. Consider starting at a slightly higher level than our last known optimal such as $5.02-$5.04.
+2. Plan to closely monitor both quantity sold and profit earned while testing the effect of higher prices more cautiously after an initial successful high price is reached.
+
+New content for INSIGHTS.txt:
+
+* There appears to be both upper ($5.00+) and lower ($4.95-) saturation points within our price range.
+* It's worth exploring if there are 'sweet spots' between these bounds that achieve near-maximizing profit per unit sale without losing sales volume as much.
+
+My chosen price:
+$5.03

@@ -1,0 +1,29 @@
+My observations and thoughts:
+
+Based on the data provided, I observe that the profit earned by the product is consistently around $500 when the price is set at $20. However, there are occasional outliers where the profit increases or decreases significantly due to a change in the quantity sold. The overall trend suggests that setting the price below $20 could lead to higher profits, but this seems to be counterintuitive given the costs associated with producing and selling the product.
+
+There are also some patterns emerging from the data:
+
+* Setting prices above $25 tends to result in lower sales volumes.
+* Prices between $20.95 and $21.75 tend to result in profit earned slightly below the average of $\$500$.
+* There is a relatively consistent drop-off in sales volume starting from price $22.5.
+
+Considering these observations, I think there are two ways to approach setting a new price while aiming for optimal profitability:
+
+1. **Price matching**: We could stick with an existing price that has consistently resulted in high profit earnings of around $\$500$, which is the case when we set our price at $20.
+2. **Optimization through experimentation**: If we want to risk trying to improve profits further, we might choose a lower price point such as just below $20 (around $\$19.5$) or slightly above $21 ($22), based on what happens in the data.
+
+However, my primary strategy is to set our next price matching current market dynamics at a level which consistently resulted in higher revenue while maintaining customer preferences, i.e., by targeting the middle ground of pricing strategies and ensuring maximum revenue without antagonizing customers who find lower prices more acceptable than extreme value or bargain-like offers with minimal added features.
+
+New content for PLANS.txt:
+
+* Investigate further why there is such a sudden drop-off in sales volume starting from price $22.5.
+* Examine the relationship between price points around $20-$25 and their corresponding profit earnings in deeper detail.
+* Consider experimenting with small adjustments to our pricing strategy to gauge customer response.
+
+New content for INSIGHTS.txt:
+
+* Based on data patterns, setting our next price should be around $\$20$ to ensure a high sales volume while optimizing profitability based on evidence presented.
+
+My chosen price:
+ \$20

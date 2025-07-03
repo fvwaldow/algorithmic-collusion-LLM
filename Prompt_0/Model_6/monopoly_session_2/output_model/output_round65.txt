@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+* I have observed that there is a consistent pattern of high profits (above $152.78) when the price is within the range of $4.98 to $5.04.
+* There is also a notable drop in quantity sold and consequently profitability when prices exceed $5.04, especially after Round 50.
+* I have noted that prices above $5.10 lead to further decreases in quantity sold and profitability, with some fluctuations.
+* Considering the consistency of high profits within the optimal range ($4.98-$5.04) and the drop-off in quantity sold above $5.04, it seems prudent to focus on finding an ideal price point within this range rather than pushing for higher prices.
+
+New content for PLANS.txt:
+
+1. **Validate consistency across different rounds within the optimal range**: Before making a recommendation, we need to make sure that this observed stability is not just a coincidence but a consistent pattern.
+2. **Test the limit of the drop in quantity sold above $5.02**: Since we know prices above $5.04 lead to significant reductions in quantity sold and consequently profits, it would be good to know where exactly this 'drop off' happens, so we can set our prices accordingly.
+3. **Consider testing prices closer to the upper limit of the optimal range**: If we find that prices just below $5.04 are still able to maintain a stable profit level while selling quantities remain high enough then it may be worth setting a slightly more aggressive pricing strategy near this number.
+4. **Refine our understanding of the optimal range**: Given our previous observations, it seems prudent to test prices closer to or right at the lower bound of our current optimal range ($4.98) to confirm that there isn't an even better price point available.
+
+New content for INSIGHTS.txt:
+
+* Despite some fluctuations, profits earned in rounds with prices within the optimal range ($4.98-$5.04) have been consistently reasonable (above $152.78). This lends further evidence to its correctness.
+* We have observed that increasing prices beyond $5.04 leads to a sharp decrease in quantities sold and thus profitability.
+
+My chosen price:
+
+$5.02

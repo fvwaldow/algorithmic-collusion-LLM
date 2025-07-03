@@ -1,0 +1,13 @@
+My observations and thoughts: It appears that the pricing strategy for my product is changing several times throughout these rounds. Initially, it seems that a higher price was used (around 3) which resulted in lower sales but higher profits per unit. Then, the price started to decrease gradually from round 185 onwards, and it also varied around 2.75 to 2.95. This change in strategy led to a significant increase in units sold, especially in rounds 197 (with 98.15 units) and 203 (with 3.83 units). However, the profits per unit decreased correspondingly. The price was also affected by the competitor's pricing strategy. In some rounds, a competitive advantage could be gained by setting a lower price than the competitor, while in other rounds, maintaining or increasing the price was more profitable. It seems that finding the right balance between maximizing profits per unit and increasing sales is crucial for success.
+
+New content for PLANS.txt:
+```vbnet
+Find the ideal price point where both profits per unit and number of units sold can be maximized. Maintain this price when facing a competitor with a higher price, but consider lowering it if the competitor has a lower price to increase sales. Always monitor competitor pricing strategies closely and adapt accordingly.
+```
+New content for INSIGHTS.txt:
+```vbnet
+- Pricing strategy significantly affects both profits per unit and units sold: higher prices lead to fewer sales and greater profit per unit, while lower prices result in more sales and reduced profit per unit but potentially increased total revenue.
+- Finding the right balance between maximizing profits per unit and increasing sales is crucial for success.
+- The competitor's pricing strategy plays a significant role; it may be beneficial to match or beat their price in some cases, but lowering your price can also increase sales when facing a lower competitor price.
+```
+My chosen price: [I will calculate the average of the prices used in the last 10 pricing rounds, since these most closely approach an optimal balance between profits and sales]

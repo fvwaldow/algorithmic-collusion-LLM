@@ -1,0 +1,71 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $3.99
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Test prices in the range of $2 - $3.99, while keeping an eye on those that balance good sales volume with high profit margins.
+2. Conduct regular dynamic pricing adjustments based on customer demand, inventory levels, and time-sensitive promotions within the specified price range.
+3. Develop targeted promotional strategies for specific customer segments to stimulate demand and increase sales volume between $2 - $3.99 price points.
+4. Utilize psychological pricing (e.g., prices ending in "9" or "0") while maintaining the pricing range of $2.00 to $3.99 to influence customer perception of value and boost sales.
+5. Experiment with bundle deals that offer complementary products at a discounted rate to increase overall revenue within the $2 - $3.99 price range.
+6. Continuously refine promotional strategies based on market data and competitor analysis.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Dynamic pricing, targeted promotions, and psychological pricing can optimize sales volume and profit margins within the $2 - $3.99 price range.
+2. Competitive analysis enables opportunities for differentiation or innovation in the market, driving increased market share and profitability.
+3. Regularly exploring bundle deals ensures revenue optimization and value perception influence with customers.
+4. Market data is crucial to track performance and refine promotional strategies continuously.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 5:
+            - My price: 2.5
+            - My quantity sold: 11.92
+            - My profit earned: 17.88
+
+Round 4:
+            - My price: 1.0
+            - My quantity sold: 98.2
+            - My profit earned: 0.0
+
+Round 3:
+            - My price: 3.29
+            - My quantity sold: 0.57
+            - My profit earned: 1.31
+
+Round 2:
+            - My price: 1.0
+            - My quantity sold: 98.2
+            - My profit earned: 0.0
+
+Round 1:
+            - My price: 2.5
+            - My quantity sold: 11.92
+            - My profit earned: 17.88
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

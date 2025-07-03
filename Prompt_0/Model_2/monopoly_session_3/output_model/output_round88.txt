@@ -1,0 +1,12 @@
+My observations and thoughts: Over the given dataset, it appears that the price fluctuates consistently between 24 and 28, with a significant dip at round 3 selling for 26 and another one at round 2 for 28. The volume of units sold also seems to vary substantially from about 12 units in some rounds (35, 19, 27) up to 39 units in round 10. This could indicate that a slightly higher price might result in increased sales as seen when the price was decreased in round 18, resulting in an increased volume of sales.
+
+   New content for PLANS.txt:
+   - Monitor fluctuations in prices and adapt pricing strategy accordingly
+   - Consider implementing a dynamic pricing model to respond to changes in demand and competition
+   - Evaluate the effectiveness of current pricing strategy at regular intervals
+
+   New Content for INSIGHTS.txt:
+   - Lowering the price increases demand, as shown by the increased volume of sales from 16.8 units in round 14 (price = 24) to 39 units in round 10 (price = 24)
+   - Consistently high pricing might deter some customers, but can lead to higher profit margins when sales are low, demonstrated by the profits earned in rounds 2 and 5
+
+   My chosen price: 26.0

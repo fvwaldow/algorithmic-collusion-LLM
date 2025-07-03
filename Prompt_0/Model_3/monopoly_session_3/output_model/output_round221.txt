@@ -1,0 +1,25 @@
+Based on the provided data, here is a summary of observations and thoughts for your strategic marketing approach:
+
+1. Price Elasticity: The quantity sold demonstrates significant sensitivity to price changes. Lowering prices resulted in higher quantities sold. This suggests that the product could bedemand elastic, indicating that lower prices likely attract more buyers but might reduce the average transaction value.
+
+2. Profit Maximization: There seems to be a pattern of higher profit earned at lower prices (13.0) compared to higher prices (e.g., 14.0, 15.0). This could imply that while lowering the price increases sales volumes, the increase in units sold outweighs the loss from price decreases.
+
+3. Revenue Consideration: Even when profit is higher at a lower price, revenue (price * quantity) does not necessarily decrease. For instance, rounds 128-130 with a price of 13.5 yielded more money than round 139 where the price was 13.0 but the quantity sold was higher.
+
+4. Consumer Behavior: The increase in sales at lower prices could suggest that consumer demand for the product is responsive to pricing changes, implying a strong sensitivity to promotions or discounts.
+
+Based on these insights, you might consider implementing a dynamic pricing strategy where the price adjusts according to supply and demand or promotions to increase quantity sold and maintain high profit levels. For example:
+
+PLANS.txt:
+- Dynamic Pricing Strategy: Regularly review and adjust pricing based on market trends, customer responsiveness and the aim of driving more units.
+ 
+- Promotional Pricing: During specific periods (e.g., festive seasons or special occasions), consider lowering prices temporarily to boost sales volume and consumer engagement without significantly compromising profit margins.
+
+INSIGHTS.txt:
+- Price Sensitivity: Consumers are highly responsive to price changes, indicating a potentially elastic demand for the product. 
+  
+- Profit Optimization: Despite lower prices leading to increased unit sales, maintaining significant revenue can depend on effectively balancing selling price and quantity sold.
+
+My chosen price: Based on historical data, keeping the price at 13.0 seems beneficial as it ensures a balance between volume of units sold (94.27 on average) and profit earning (282.8 on average).
+
+Remember to constantly monitor and adapt your pricing strategy based on updated data or changes in market conditions.

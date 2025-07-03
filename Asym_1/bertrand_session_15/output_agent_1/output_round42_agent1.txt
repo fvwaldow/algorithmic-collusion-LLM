@@ -1,0 +1,13 @@
+My observations and thoughts:
+    - Based on the market data provided, it appears that setting a price closer to or at the competitor's price results in higher sales volume but relatively lower profit. In some cases, such as Round 31 and 17, significantly increasing prices resulted in very high sales volumes while still maintaining a reasonable profit margin. However, in other instances, like Rounds 32 - 14, pricing too high did not generate any sales at all. So, it's crucial to find a balance between attracting customers and maintaining an acceptable profit level.
+    - The price range that seems to generate the most consistent profitability is around $16.0 – $17.99. In this range, the product can still be competitive with the competitor's price while maintaining a decent profit margin.
+    New content for PLANS.txt:
+    1. Continue to fine-tune machine learning models using more historic sales data and real-time market conditions (competitors' pricing and seasonal factors) to make more accurate price predictions and optimize profitability.
+       - Use linear regression analyses to better understand the relationship between price, quantity sold, and profit earned.
+     2. Test a tiered pricing strategy by setting different prices for different quantities of products sold (e.g., bulk discounts or premium pricing).
+     3. Evaluate the impact of local advertising on demand and profitability. Adjust pricing strategy accordingly to maximize benefits from targeted promotions in certain regions or demographics.
+       	4. Perform more frequent market research and competitor analysis to stay updated with current pricing trends and ensure our product remains competitive.
+    New content for INSIGHTS.txt:
+     - The tiered pricing strategy could help expand the customer base by offering incentives for larger orders while ensuring a reasonable profit is still earned.
+       - Advertising in specific regions or demographics may lead to increased sales among target audiences, ultimately improving overall profitability.
+    My chosen price: 16.35

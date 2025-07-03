@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+* Consistency of prices within the optimal range yields high profits ($3.99 on average), but there are instances (like Round 11 and Round 7) where significantly higher profits were earned at slightly lower prices, indicating a possible price sensitivity variation.
+* Rounds 12 and 11 show an increase in quantity sold with decreasing profit earned per unit, while maintaining a relatively high total profit ($5.05 and $4.64, respectively).
+* The data suggests that increasing the price by $0.04-$0.06 within the optimal range may lead to decreased profits, due to the significant decrease in quantity sold (as seen in Rounds 22-24).
+* Although there is a notable increase in profit at Round 12 ($5.05) and Round 11 ($4.64), the price was relatively lower compared to its adjacent rounds.
+* It's unclear whether this variation in price sensitivity is due to specific market conditions or an anomaly.
+
+New content for PLANS.txt:
+1. **Further investigate price sensitivity**: Explore the underlying factors contributing to the varying price sensitivity across different rounds.
+2. **Identify optimal profit maximizing strategy**: Based on historical data, analyze and implement a pricing strategy that balances optimal profitability with price sensitivity.
+
+New content for INSIGHTS.txt:
+
+*   **Market conditions may influence price sensitivity** : Further investigation is required to understand whether the observed variation in price sensitivity is due to market conditions or anomalies.
+*   **Anomaly of high profit at lower prices**: Rounds 12 and 11 exhibit high profits at relatively lower prices compared to its adjacent rounds, requiring further examination.
+
+My chosen price:
+$2.99

@@ -1,0 +1,13 @@
+My observations and thoughts:
+The data suggests that there is a sweet spot for prices around $4.99-$5.00, where quantity sold remains high while profit earned is substantial. However, testing higher price points ($5.01 and above) reveals that demand drops significantly while profit earned decreases as well. This trend indicates that there may be diminishing returns on attempting to raise prices further above this optimal range.
+
+New content for PLANS.txt:
+1. Validate the optimal price range by analyzing data from Rounds 17-37 (since Round 19 consistently shows that prices below $5.00 result in the highest quantity sold).
+2. **Test additional price points**: Analyze the results of selling products above $5.00 (Rounds 14, 13, and 9) to understand any associated drawbacks or benefits.
+3. Explore further the upper limit for profitable pricing by conducting additional rounds with prices around $4.99-$5.04, particularly in scenarios where customers are willing to pay more but quantity sold is reduced.
+
+New content for INSIGHTS.txt:
+**Observations reinforced**: The trend observed across Rounds 18-37 demonstrates the importance of staying below $5.00, especially in terms of quantity sold. This insight supports the priority to expand analysis to above-$5.00 pricing strategies, but with a focus on understanding both demand and its impact on profit margins.
+
+My chosen price:
+4.99

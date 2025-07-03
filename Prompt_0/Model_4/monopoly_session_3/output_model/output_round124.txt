@@ -1,0 +1,15 @@
+My observations and thoughts:
+The data shows a recurring pattern in which the price varies, but the profit earned seems consistent for certain quantities sold. Notably, there's a strong correlation between a price of around $34-$35 and a profit of around $7-$8 for a quantity of 0.3. This suggests that these values might be optimal. The rounds where the price is around $33-$36 consistently yield a profit of $12.62 with a quantity of 0.55 indicate another recurring pattern, possibly due to a fixed cost or discount structure at these quantities.
+
+New content for PLANS.txt:
+```
+Adjust prices based on observed profitability patterns. Aim for $34-$35 for a quantity of 0.3 for maximizing consistent profit margins. Explore discounts at 0.55 quantities to maintain $12.62 profit per unit.
+```
+
+New content for INSIGHTS.txt:
+```
+Insightful: The profit margin is consistently high when selling 0.3 units at $34-$35, suggesting an optimal retail price strategy. There's also a notable pattern at 0.55 quantities where the profitability consistently yields $12.62, possibly indicating a pricing tier or bulk discount scenario.
+```
+
+My chosen price:
+34

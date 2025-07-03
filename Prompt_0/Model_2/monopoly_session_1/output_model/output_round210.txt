@@ -1,0 +1,7 @@
+My observations and thoughts: This dataset represents historical sales data of a certain product, showing the quantity sold (qty_sold) and profit earned (profit) for each round. The price at which the product was sold varied across these rounds, ranging from approximately 1.2 to 2.16. There seems to be an interesting dynamic between price and quantity sold; as the price increases, the quantity of units sold decreases, but the profit per unit sold also increases (until a peak at around 2.11). However, the total profit earned does not strictly increase with the price. Therefore, it appears that finding an optimal balance between increasing profit per unit and total number of units sold would be key for success in this market.
+
+   New content for PLANS.txt: Optimize pricing strategy by identifying the sweet spot where profit per unit and total sales are maximized. This will require careful analysis of historical data to find patterns, as well as strategic forecasting to anticipate changes in customer behavior and market trends.
+
+   New content for INSIGHTS.txt: Further research is needed to understand how external factors like competitor pricing, seasonality, and promotions might affect this product's profitability. To gain a comprehensive understanding of the market, it would be beneficial to conduct surveys or focus groups to gather consumer preferences and opinions on this specific product category.
+
+   My chosen price: 2.11

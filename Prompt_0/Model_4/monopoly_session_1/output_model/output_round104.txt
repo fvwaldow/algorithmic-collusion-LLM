@@ -1,0 +1,28 @@
+My observations and thoughts:
+
+The data provided shows a series of pricing and sales performances over many rounds. A few notable trends can be observed:
+
+1. **Consistent High Profits**: In several rounds, especially with higher prices like $3.00 and $2.9, the profit per sale was substantial, suggesting optimal pricing strategies can yield high margins.
+
+2. **Quantity Sold Variability**: The quantity sold varies greatly with price changes, indicating that demand is sensitive to price. For instance, at $2.45, sales volume reached 14.19 units, while at $2.20, it dropped to just 31.0 units. This suggests a strong price elasticity effect.
+
+3. **Price Drops for High Volume**: Lowering the price seems to result in higher sales, as seen in Round 12 where the price was $2.20 but the quantity sold was 31.0 units. This indicates that reducing the price can significantly increase sales volume and total profit when considered across all units.
+
+4. **Significant Drops in Certain Rounds**: There are rounds where the profit drops significantly (e.g., Round 7 to Round 6), suggesting potential issues with either demand or cost, or possibly pricing miscalculations.
+
+New content for PLANS.txt:
+```
+Adjust prices to leverage known elasticities for optimal profit margins. Consider lowering prices when quantities show high growth potential to maximize total sales and revenue. Monitor rounds closely for anomalies that may indicate cost shifts or market changes.
+```
+
+New content for INSIGHTS.txt:
+```
+Rounded 18 showed a clear profit advantage at $2.9 with sales of 2.66 units. The drop from $3.0 to $1.8 decreased the quantity sold drastically, demonstrating the critical importance of not overpricing and maintaining demand. Round 12 indicated a high response to price reduction, suggesting a strategic low-price entry could be very effective. Consistent observation reveals that the profit per unit is highly dependent on both price and demand fluctuations.
+```
+
+My chosen price:
+```
+2.57
+```
+
+Note: This price selection is based on balancing between achieving high profits (seen in higher price rounds) and maintaining strong sales volumes (seen in lower price rounds), indicative of the trade-off between profit margin and quantity sold.

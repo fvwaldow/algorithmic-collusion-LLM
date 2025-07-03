@@ -1,0 +1,15 @@
+My observations and thoughts: The data indicates that the optimal price to maximize profit is not a fixed value but rather fluctuates depending on the competitor's price. By lowering the price when the competitor raises theirs (and vice versa), an increase in quantity sold can be observed, resulting in higher profits overall. However, it appears that prices close to or equal to the competitor can also result in a decrease in profit due to low sales volume and high costs. Observing a general pattern of lower prices leading to higher quantity sold and higher profit seems important.
+
+   New content for PLANS.txt:
+   1. Implement a dynamic pricing strategy that adjusts based on the competitor's price
+   2. Monitor market trends and adapt pricing accordingly
+   3. Conduct A/B testing with different price ranges to identify the most profitable range
+   4. Automate price adjustments within the specified price range whenever needed
+
+   New content for INSIGHTS.txt:
+   1. Lower prices can result in a higher quantity sold and thus, increased profit (at appropriate intervals)
+   2. The optimal price is not fixed but should be dynamic based on competitor's price and market trends
+   3. Pricing must balance between increasing sales volume and maintaining profit margins
+
+   My chosen price:
+    12.95

@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+Based on the provided market data, it's clear that as prices approach $25, customer demand decreases significantly. This suggests a decrease in price elasticity, where further increases in price lead to disproportionately smaller decreases in quantity sold.
+
+The optimal price range appears to be between $17 and $22, with the highest quantities sold and profit earned within this range. However, there is little variation beyond this range, indicating that prices above or below this optimal range do not yield significant improvements in profitability.
+
+I will prioritize investigating the impact of setting a slightly lower price below the identified optimal range ($17-$20) to see if it's possible to increase demand while maintaining or increasing profit margins. This would involve analyzing the data for Rounds 65 and subsequent rounds, where prices above $24 are shown to lead to decreased customer demand.
+
+New content for PLANS.txt:
+
+1. Investigate the impact of setting a slightly lower price below the identified optimal range ($17-$20) to see if it's possible to increase demand while maintaining or increasing profit margins.
+2. Conduct an analysis of price elasticity by analyzing the correlation between prices and quantities sold, particularly in Rounds 65-75.
+
+New content for INSIGHTS.txt:
+
+* There appears to be a threshold at $24 where customer demand significantly decreases, indicating a decrease in price elasticity beyond this point.
+* Rounding prices up or down from optimal points yields no significant improvements in profitability (see Rounds 60 and subsequent rounds).
+
+My chosen price:
+19.8

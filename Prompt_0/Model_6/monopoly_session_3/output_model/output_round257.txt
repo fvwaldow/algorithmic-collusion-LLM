@@ -1,0 +1,25 @@
+I've carefully read through the information provided.
+
+**My observations and thoughts:**
+
+After analyzing the data, I notice that there are two price ranges that seem to be most profitable:
+
+1. Prices around 20-22: This range has been consistently associated with a sold quantity of about 40-50 units, resulting in a profit of $500 each round.
+2. Prices around 19-20: There's some fluctuation within this range, but when the price is between 19-20, the sales quantity tends to be higher (about 54-62 units), while still maintaining a high profit.
+
+It seems that when the price drops below 18 and above 23, the sales quantity and profit tend to decline. 
+
+**New content for PLANS.txt:**
+
+* Investigate the relationship between prices in the range 19-22 and their corresponding sales quantities.
+* Test higher prices (up to $25) to see if there's a potential for higher profits or if it backfires.
+* Analyze sales data from Round 170 onwards, as this segment appears relatively stable.
+
+**New content for INSIGHTS.txt:**
+
+* When priced between 19-20, average profit per unit tends to drop slightly as the quantity sold increases, possibly indicating diminishing returns on price reductions below a certain threshold.
+* Prices above $22 tend to result in lower sales quantities and reduced profits, highlighting the importance of keeping prices within the targeted range.
+
+**My chosen price:**
+
+20.

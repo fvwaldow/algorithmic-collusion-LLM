@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+* The market data shows a consistent relationship between price and quantity sold. When the price is set at or below $19, quantities sold are around 59-60 units, which results in a relatively stable profit of around $538-$540 per round. As prices rise above $20, quantities sold decrease significantly.
+* There's a noticeable drop-off in sales when prices reach the ceiling effect of $25 (Rounds 65-66). This could be due to customer aversion or a saturation point reached by the market.
+* The optimal price range identified in previous rounds ($19-$20) appears to still hold, with higher quantities sold and relatively high profit margins. However, it's worth exploring whether prices can be increased without significantly affecting sales volume.
+* Customer demand seems fairly elastic when considering the price-to-quantity relationship above $20 but below the ceiling effect of $25.
+
+New content for PLANS.txt:
+
+1. Investigate what happens to quantity sold and profit earnings if we try setting a slightly higher price, such as $21 or $22, while keeping an eye on maintaining relatively high quantities at prices around $19-$20.
+2. Further analysis of how our customers react when priced above the ceiling effect of $25 might reveal valuable insights into why demand drops off so sharply.
+
+New content for INSIGHTS.txt:
+
+* Customer willingness to pay appears flexible within a certain price range (approximately $17-$22, considering historical quantities sold) before hitting a ceiling effect around $25.
+* A more thorough investigation of optimal pricing above the identified cluster ($21-$22 with decreased sales and profit margins, compared to the $19-$20 optimal) could provide opportunities for growth without sacrificing profits.
+
+My chosen price:
+
+$21

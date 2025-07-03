@@ -1,0 +1,14 @@
+My observations and thoughts:
+The provided data shows a game of pricing strategy between two competitors. The numbers represent the price set by competitor 1 (us) and competitor 2, as well as the quantity sold and profit earned for each round. Initially, both competitors started with a similar pricing strategy, but then Competitor 2 increased their prices significantly multiple times. On the other hand, we occasionally raised our prices too but generally maintained a more competitive price compared to Competitor 2. In many cases, our lower prices resulted in higher sales volumes, although the profit per sale was typically smaller than Competitor 2's when they lowered their prices. However, it is interesting to note that there were instances where competitor 2 sold zero quantities even with a lower price. Also, there are some pricing rounds where both competitors did not offer any products (indicated by "None" in the competitor 1 section).
+
+New content for PLANS.txt:
+- Implement periodic price adjustments based on sales volume and profit margin (keeping in mind that occasional low pricing might yield higher overall sales)
+- Monitor competitor 2's pricing strategy more closely to identify opportunities to undercut or match their prices strategically
+- Consider running promotions or discounts to increase the attractiveness of our products for potential customers
+
+New content for INSIGHTS.txt:
+- It appears that Competitor 2 occasionally employs high pricing as a strategy, which leads to low or zero sales quantities. This could present an opportunity for us to capture market share when they raise their prices significantly.
+- Our lower pricing often results in higher sales volumes compared to Competitor 2's prices, but the profit per sale is generally smaller when we set a lower price. Striking a balance between volume and margin is crucial to long-term business success.
+- Pricing is not the only factor influencing consumer behavior in this market, as there seem to be rounds where both competitors did not offer any products. Understanding other motivations guiding customer decisions may further improve our competitive advantage.
+
+My chosen price: 5.3 (this number was derived from observing patterns within the dataset and considering a balance between volume and margin)

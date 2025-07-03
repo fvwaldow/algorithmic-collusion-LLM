@@ -1,0 +1,11 @@
+My observations and thoughts:
+   The data provided appears to show the results of price fluctuations for a single product between two competitors over 183 rounds or pricing decisions, denoted as Round 1 to Round 183. Competitor A's initial price was lower than Competitor B's but increased more frequently throughout the game. Competitor B seemed to maintain a slightly higher price, which occasionally dropped. The quantity of items sold seemed to be relatively constant for both competitors most of the time but with some variation.
+
+   New content for PLANS.txt:
+   Based on the data presented, it appears that a dynamic pricing strategy would be viable in this scenario. Competitor A could consider more frequent price increases and strategically respond to Competitor B's higher prices by occasionally reducing their own price. However, continuous monitoring of competitor moves and market conditions is essential for maintaining profitability.
+
+   New content for INSIGHTS.txt:
+   Over the game's duration, Competitor A has had 93 instances where they were more expensive than Competitor B and 42 where their prices were identical (accounting for a total of 135 rounds where one or both competitors increased their price). Similarly, Competitor B had 67 times when they were priced higher than Competitor A. It could be useful to explore why pricing increases occur more frequently for Competitor A and whether it has contributed to their lower profit margin in comparison to their competitor. Additionally, it may provide insights on market demand and how it responds differently to price fluctuations between the two competitors.
+
+   My chosen price:
+   20.0

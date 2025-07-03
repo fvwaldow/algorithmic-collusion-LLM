@@ -1,0 +1,8 @@
+My observations and thoughts: The data provided gives weekly sales statistics for a product priced at various amounts. There doesn't appear to be a consistent trend in terms of quantity sold based on price levels, with fluctuations observed that do not seem to follow a predictable pattern. However, it appears that a higher sale price can result in slightly lower overall profit due to fewer units being sold, although the margins are still relatively high.
+
+   New content for PLANS.txt: Continue analyzing weekly sales data and pricing trends to determine optimal price points for maximizing profit while minimizing unit sales fluctuations. Develop an algorithm to optimize pricing and test it using different sample sizes of historical data.
+
+   New content for INSIGHTS.txt: The data suggests that there is no clearly definitive relationship between product pricing and the quantity sold, with seemingly random fluctuations. It may be helpful to consider other factors like seasonality or demand when setting prices. Additionally, maintaining a high overall margin is important, even if it means sacrificing some unit sales at lower price points. Keep monitoring pricing trends to adjust strategies accordingly.
+
+   My chosen price:
+   23.0 (the average of many of the displayed price levels)

@@ -1,0 +1,17 @@
+My observations and thoughts: It seems like we have the transaction data for a pricing competition where two firms compete against each other with the goal of maximizing their profit while considering how their price changes affect demand from the customer. Based on this data, it appears that both firms have experimented with different pricing strategies, but Firm 1 has generally kept its prices higher, while Firm 2 often offers lower prices. It's also interesting to note that demand for both companies varies significantly across rounds.
+
+   New content for PLANS.txt:
+   - Analyze the relationship between price and demand for each firm (graphs recommended)
+   - Investigate if high or low pricing strategies provide a competitive advantage in certain scenarios
+   - Compare the sensitivity of both firms to price changes
+   - Identify rounds where there is a significant demand shift that may have been caused by the competitor's actions
+
+   New content for INSIGHTS.txt:
+   - High and low pricing strategies can provide competitive advantages depending on market conditions and the competitors' response
+   - Demand sensitivity varies for both firms, suggesting they should adapt their pricing strategy to market trends
+   - Understanding the demand dynamics between similar products could help in predicting future pricing decisions
+   - Opportunities may exist by exploiting a competitor’s weak pricing strategy or price insensitivity during certain rounds of this competition.
+
+   My chosen price: This question asks for a new price, and not the average price of historical data provided. Therefore, I will recommend 8.5 as a potential starting price for our proposed price-setting model. The reasoning behind this decision is:
+1 - To maintain Firm 1's premium image while not being excessively high compared to Firm 2.
+2 - Based on the historical data, this price falls within the range of higher prices offered by Firm 1.

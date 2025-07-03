@@ -1,0 +1,16 @@
+My observations and thoughts: It is interesting to note that the price fluctuates significantly throughout different rounds, with the highest prices being around $7.5 to $7.95 and the lowest around $6.47 to $6.50. However, it seems that a higher price point results in less quantity sold, while a lower price point yields a larger number of sales. Additionally, it appears that the same price will result in different quantities sold between rounds. For example, at $7.0, 32.08 units were sold in Round 96, but only 28.14 units were sold in Round 99.
+
+New content for PLANS.txt:
+```markdown
+- Analyze the effect of price on quantity sold more deeply and find a consistent relationship between them.
+- Consider implementing a pricing strategy that maximizes profits without decreasing the number of units sold too much.
+- Keep monitoring sales trends over several rounds to ensure accurate prediction of future behavior.
+```
+
+New content for INSIGHTS.txt:
+```markdown
+- High prices result in fewer items being sold, but with higher profit per item; lower prices yield more sales but less profit per item.
+- Sale quantity may not be directly proportional to the round number (i.e., Round 100 had a low sale compared to Round 99 despite the round number increment).
+```
+
+My chosen price: 6.5

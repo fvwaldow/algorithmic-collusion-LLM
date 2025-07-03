@@ -1,0 +1,13 @@
+My observations and thoughts: This dataset contains historical sales data for a product, including its price per unit and the quantity sold at each price point over a certain period. It seems that there is some seasonality in sales, with more units being sold towards the beginning of the dataset and less toward the end. Additionally, it appears that a higher price may not necessarily correspond to higher profits due to lower quantities sold.
+
+   New content for PLANS.txt:
+   - Monitor the relationship between price and quantity sold to identify optimal pricing strategies.
+   - Keep an eye on seasonal patterns in sales and adjust prices accordingly.
+   - Consider offering discounts or loyalty programs to incentivize repeat purchases.
+
+   New content for INSIGHTS.txt:
+   - A higher price does not always guarantee higher profits, as the quantity sold may be lower.
+   - There appear to be seasonal trends in sales that should be taken into account when setting prices.
+   - It might be beneficial to analyze customer behavior and preferences at various price points.
+
+   My chosen price: 23.15 (This number represents a price close to the median of the historical data but with a slight increase to potentially boost profits if there is demand for the product at this price point.)

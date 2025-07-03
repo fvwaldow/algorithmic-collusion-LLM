@@ -1,0 +1,15 @@
+**My observations and thoughts:** 
+The data shows a recurring pattern of prices around $34-$35, with some variation. Notably, the profit per unit doesn't seem to correlate strictly with price; there are instances where lower prices yield higher profits (e.g., Round 28 and 27) compared to higher prices (e.g., Round 34 and 35). This suggests sensitivity to market conditions or customer willingness to pay. The profit margin is moderate, around $6-$8 per unit for the majority of rounds. There's a consistent profit of $10.57 per unit when selling at $33.5 for 0.45 units sold, indicating that perhaps certain quantities trigger bulk discounts or special deals not visible in other rounds.
+
+**New content for PLANS.txt:**
+```
+Adjust pricing strategy to maintain a balance between profit margin and sales volume. Consider implementing dynamic pricing based on historical trends to optimize profit per unit.
+```
+
+**New content for INSIGHTS.txt:**
+```
+Analyzing the data, it seems the profit is not solely determined by price but also influenced by quantity sold and market responsiveness. Round 28-27 shows high profits at lower prices, hinting at competitive pricing or bulk buys. It's crucial to monitor market dynamics closely and potentially implement promotions to boost sales volume without significantly reducing profit margins.
+```
+
+**My chosen price:** 
+34.5

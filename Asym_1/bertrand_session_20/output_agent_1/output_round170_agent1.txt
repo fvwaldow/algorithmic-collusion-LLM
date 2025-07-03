@@ -1,0 +1,12 @@
+My observations and thoughts:
+   The data shows a variety of strategies employed by both the agent and the competitor throughout the game. The competitor seems to start with high prices to gauge market response or enforce monopolistic advantage, then lowers them when the agent adapts. Conversely, the agent initially sets competitive prices, but occasionally employs aggressive price drops or high prices when it sees success. This suggests that both agents are responsive to changes in their opponent's pricing strategy. However, neither appears to fully exploit an observed pattern as quickly returning to more competitive pricing indicates there may be room for improvement on their dynamic strategies.
+
+   New content for PLANS.txt:
+   To maximize profitability, we should focus on developing a smarter price prediction model that factors in the competitor's historical behavior and anticipates future adjustments in the marketplace. This will allow us to better predict when it is advantageous to raise or lower our prices for optimal returns. In addition, it may be beneficial to study market trends to identify potential opportunities for niche pricing and increased demand.
+
+   New content for INSIGHTS.txt:
+   Insight 1: Competitor responds poorly to aggressive price drops, creating an opportunity for us to capitalize on these situations in future rounds by gradually lowering prices when appropriate instead of drastic adjustments.
+
+   Insight 2: The competitor employs high prices during initial rounds in attempts to establish monopolistic dominance, which we should take advantage of by initially pricing our services slightly higher than the market's perceived acceptable rate to increase profit margins before quickly adapting our prices according to observed customer behavior and competitive strategies.
+
+   My chosen price: 16.0 (This number is based on the idea that when the competitor lowers their price it seems like a good strategy to follow suit, while also being high enough for a profit margin when competing against the initial high prices set by the competitor)

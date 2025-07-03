@@ -1,0 +1,13 @@
+My observations and thoughts: The information provided shows a dataset of prices and corresponding sales volumes, along with corresponding profits for each round. The price fluctuates quite a bit, from as low as 22.06 to as high as 24.75, with the majority of prices being in the range of 23.xx. Despite these fluctuations, the profits seem to be relatively consistent but vary slightly with the number of items sold. There is not a clear pattern that suggests an optimal price for maximum profit.
+
+   New content for PLANS.txt:
+   - Analyze the relationship between price and sales volume in more detail by creating scatter plots or line graphs to look for patterns, if any.
+   - Investigate whether there are external factors such as demand trends, market competition, or seasonality that might influence price decisions.
+   - Estimate the average profit per item at different sale prices.
+
+   New content for INSIGHTS.txt:
+   - A higher price does not necessarily translate into a higher profit due to varying sales volumes: a lower price that sells more often may result in a similar or even higher total profit.
+   - Volatility in price can negatively impact customer trust and lead to reduced long-term sales if customers perceive price gouging.
+   - To maximize profits, it is essential to consider not only the immediate sale price but also factors such as marketing costs, production costs, competition, and potential recurring business from satisfied customers who appreciate consistent pricing.
+
+My chosen price: 23.00 (based on the median of prices shown, with the purpose of finding a balance between attractive pricing and maintaining high profit margins)

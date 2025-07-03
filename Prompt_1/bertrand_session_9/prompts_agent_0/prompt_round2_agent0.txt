@@ -1,0 +1,60 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $9.3
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Experiment with dynamic pricing based on demand analysis and time-sensitive offers to increase sales velocity. Use historical sales data, if available, to adjust prices in real-time.
+2. Implement tiered pricing with discounts at specific price points (e.g., two distinct price tiers) to attract a wider customer base while ensuring profits per unit don't drop significantly.
+3. Study the impact of psychological pricing by testing round numbers and ending with 9 and 5, as people tend to associate these prices with better deals than non-rounded prices.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Market research indicates customers are more price-sensitive in certain periods, making dynamic pricing valuable for adjusting prices accordingly during those times.
+2. Tiered pricing can create a feeling of exclusivity and urgency around the higher-tiered product, increasing its perceived value and boosting sales at the lower tier as well.
+3. Psychological pricing exploits people's biases and feelings toward certain numbers, potentially driving more conversions through the illusion of better deals or values.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 1:
+
+
+
+                - My price: 8.0
+
+
+
+                - Competitor’s price: 9.0
+
+
+
+                - My quantity sold: 11.53
+
+
+
+                - My profit earned: 55.33
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

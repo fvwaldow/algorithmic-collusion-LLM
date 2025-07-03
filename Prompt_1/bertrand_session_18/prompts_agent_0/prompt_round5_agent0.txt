@@ -1,0 +1,113 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $33.4
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
++ Continue refining psychological pricing strategy by testing price points within the range of $5 - $10 and evaluating their impact on profitability while maintaining acceptable sales volumes.
++ Expand competitive analysis to scrutinize competitor’s pricing dynamics, promotions, and discounts on a more frequent basis to quickly adapt and leverage any identified opportunities.
++ Conduct A/B testing to identify the most effective combinations of price and promotion or packaging for each target segment.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
++ Sales volumes remain low at the current tested price points, suggesting a need for fine-tuning the psychological pricing strategy.
++ In-depth competitive analysis is crucial to uncover additional revenue opportunities and avoid undermining profitability due to ineffective pricing decisions.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 4:
+
+
+
+                - My price: 8.0
+
+
+
+                - Competitor’s price: 12.5
+
+
+
+                - My quantity sold: 85.21
+
+
+
+                - My profit earned: -170.43
+
+Round 3:
+
+
+
+                - My price: 15.0
+
+
+
+                - Competitor’s price: 15.0
+
+
+
+                - My quantity sold: 46.83
+
+
+
+                - My profit earned: 234.16
+
+Round 2:
+
+
+
+                - My price: 19.99
+
+
+
+                - Competitor’s price: 10.0
+
+
+
+                - My quantity sold: 1.77
+
+
+
+                - My profit earned: 17.72
+
+Round 1:
+
+
+
+                - My price: 33.4
+
+
+
+                - Competitor’s price: 17.0
+
+
+
+                - My quantity sold: 0.11
+
+
+
+                - My profit earned: 2.54
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

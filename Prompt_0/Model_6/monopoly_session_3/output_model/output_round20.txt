@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+* The data shows that the profit per unit is consistently high when the price is higher (Rounds 18-15), but this comes at the cost of lower quantities sold. This suggests a trade-off between revenue and sales volume.
+* There is no clear correlation between the price and the quantity sold, with many rounds showing varying quantities despite similar prices (e.g., Rounds 11, 10, and 6).
+* The profit earned per round seems to be related to the price rather than the quantity sold. For example, Round 18 shows a higher profit than many other rounds despite selling fewer units.
+* It's clear that increasing the price has led to significantly lower quantities sold in certain rounds (e.g., Rounds 11 and 6).
+* The high prices from previous rounds have not yielded any records breaking profits.
+
+New content for PLANS.txt:
++++++++++++++++
++ Analyze price elasticity more closely: Given the trade-off between revenue and sales, it would be beneficial to test how responsive sales are to changes in price. This could involve experimenting with gradual increases/decreases over a set of rounds.
++ Test bundling options with premium features or tiers, as suggested by INSIGHTS.txt, to potentially drive up pricing without affecting sales volume.
+
+New content for INSIGHTS.txt:
++++++++++++++++
+* It appears that Round 11's high price led to significantly lower profitability due to reduced sales (despite having a 12.96 profit per unit). Further study on this data point could provide insight into the optimal price-to-profit balance.
++ The insights from bundling options may be tied to creating multiple revenue streams, perhaps one can explore tiered pricing based bundles that prioritize customer segments' specific requirements.
+
+My chosen price:
+20.5

@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+The data provided describes a series of pricing adjustments made by our competitor, along with our corresponding quantity sold and revenue earned. The competitor initially adjusted their price downward from $7.0 to $6.25 in round 103, attracting more customers and increasing their sales volume. Our company responded by raising the price slightly above the competitor's, which caused a drop in sales but maintained overall profitability due to higher unit prices.
+
+In some rounds, our price was comparable or lower than the competitor's, resulting in higher sales volumes compared to them. For instance, when we sold 52.83 units at $6.0 (round 102), while the competitor only managed to sell 45.94 units when they increased their price to $7.5. However, it's worth noting that our company experienced a reduction in sales volume whenever our prices were significantly higher than the competitor's, such as rounds 103 and 107 where we sold fewer units at $7.0 compared to the competitor at $6.25 and $6.0 respectively.
+
+PLANS.txt:
+```markdown
+Monitor competitor pricing strategy closely
+Adjust prices dynamically based on market changes and customer demand.
+Develop strategies to drive sales volume during periods of price increases by offering discounts, promotions, or improving product features.
+```
+
+INSIGHTS.txt:
+```sql
+- Adjusting our price relative to the competitor's has both positive (higher revenue per unit) and negative (lower sales volume) impacts on overall profitability.
+- Competitor price reductions can be successful in attracting more customers, but may affect long-term profitability if average selling prices are reduced significantly.
+- Sales volumes are higher when our prices are competitive or lower than the competitor's, particularly when the product value proposition is perceived as strong by potential customers.
+```
+
+My chosen price:
+10.5 (This price should maximize revenue with a competitive yet high-quality positioning, taking consideration of customer expectation and long-term profitability.)

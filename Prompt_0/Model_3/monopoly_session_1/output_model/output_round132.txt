@@ -1,0 +1,14 @@
+Based on the given data, here are my observations and thoughts:
+
+1. The majority of rounds had a price of 2.5 or very close to it (like 2.49). This indicates that the current market price is likely close to 2.5 if we take an average of all these prices.
+2. In most rounds, the quantity sold was around 11.92, with only a few exceptions where it reached 12.35. This suggests a stable demand for your product at this price point.
+3. The profit earned also stayed relatively consistent in most pricing rounds, with an average of 17.88 (excluding the ones where the quantity sold was higher due to the lower price). This implies that a slight deviation from 2.5 doesn't significantly impact profits.
+4. However, the instance where the price was lowered to 2 (round 70-74) had the highest quantity sold at 59.5 and also the maximum profit earned of 184. This indicates there is a significant demand for the lowest priced offering.
+
+Given these insights, here are my suggestions:
+
+PLANS.txt: Update the pricing plan to consider a range around 2.5 with potential lower price periods strategically implemented. Based on historical data, this can potentially increase quantity sold and also maintain profits. Specifically, test lowering the price to 2 or 1.99 every 10 rounds as it seems to attract more consumers while still maintaining moderate profit levels due to higher quantity sold.
+
+INSIGHTS.txt: Analyze consumer behavior during these pricing fluctuations to gain deeper understanding of market response. For example, observe whether a price of 2.5 or slightly lower regularly results in increased sales and maintainable profit margins. This analysis will provide valuable information on how consumers respond to changes in pricing and how the business can utilize this to its advantage.
+
+My chosen price: Based on these observations and insights, I suggest you consider starting with a price around 2.5 to maintain the current level of profits while slightly lowering it during every 10th round (e.g., 2 or 1.99) to attract more consumers and potentially increase quantity sold.

@@ -1,0 +1,18 @@
+My observations and thoughts:
+    - The sales volume is affected by both my price and the competitor's price. When I priced higher than the competitor (Round 48, 40, and 39), I saw a significant spike in sales compared to when I had a similar or lower price (Rounds 52, 51, and 47). However, very high prices (above $2.5) result in zero sales as evidenced by Rounds 1 to 4.
+    - Keeping my price below the competitor also results in increased sales as shown in Rounds 38 and 12. It is important to find a price that balances competitiveness with profit maximization.
+    - Despite zero or low sales at higher prices, these rounds still provide some profit due to the cost being less ($1) than $3.59, the maximum consumers are willing to pay.
+    - The cost of production should be kept in mind when setting a price, as it determines the minimum price needed for profitability.
+
+New content for PLANS.txt:
+    - Research price elasticity based on sales data of each round to determine the optimal price range that maximizes sales while remaining profitable
+    - Develop a strategy for adjusting prices based on competition and sales trends observed over time
+    - Analyze the effectiveness of higher-than-competitor pricing compared to prices lower than or similar to the competitor in driving sales volume
+
+New content for INSIGHTS.txt:
+    - Competitive price strategies can significantly impact sales volume and total profit
+    - A higher price is better when the competition's price is substantially lower
+    - Careful consideration should be given when setting prices above $2.5 to minimize potential loss due to zero or low sales
+
+   My chosen price:
+    2.15 (This price lies between the competitor's lowest seen price in the dataset and my highest performing competitive pricing strategy. Additionally, it ensures profitability due to the cost of production being less than $3.59.)

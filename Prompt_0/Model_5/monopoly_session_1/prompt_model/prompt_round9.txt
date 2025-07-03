@@ -1,0 +1,81 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $3.29
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Cautiously increase the price by 0.09 to $3.29 in Round 8 and monitor sales volume closely, given the customer acceptance of prices near this cap combined with current profit levels. Set a volume drop threshold of around 15% from Round 7 levels (0.82 units) to 0.69 units as a trigger for reassessment.
+2. Explore options for marginal cost reductions through enhanced sourcing or technology integration, target at least 1 cent of cost reduction per unit to augment margins beyond the current average of ~$1 per unit while maintaining product quality and customer satisfaction.
+3. Continue real-time market analysis and competition response mechanisms, remaining nimble to capitalize on evolving conditions without compromising bottom line improvements.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Customers' acceptance of prices near the $3.29 cap implies an opportunity to maximize profits while maintaining sales volume, reinforcing strategic pricing at this level.
+2. Confirm observations that even minor cost reductions can have a substantial impact on margins when scaled across high volumes, thereby suggesting an immediate pursuit of efficiency improvements.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 8:
+            - My price: 3.29
+            - My quantity sold: 0.57
+            - My profit earned: 1.31
+
+Round 7:
+            - My price: 3.2
+            - My quantity sold: 0.82
+            - My profit earned: 1.8
+
+Round 6:
+            - My price: 3.18
+            - My quantity sold: 0.88
+            - My profit earned: 1.93
+
+Round 5:
+            - My price: 3.18
+            - My quantity sold: 0.88
+            - My profit earned: 1.93
+
+Round 4:
+            - My price: 3.1
+            - My quantity sold: 1.21
+            - My profit earned: 2.55
+
+Round 3:
+            - My price: 3.05
+            - My quantity sold: 1.48
+            - My profit earned: 3.03
+
+Round 2:
+            - My price: 3.05
+            - My quantity sold: 1.48
+            - My profit earned: 3.03
+
+Round 1:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

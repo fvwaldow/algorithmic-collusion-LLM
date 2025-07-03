@@ -1,0 +1,24 @@
+My observations and thoughts:
+
+From the data provided, it appears that there is a general trend where the price of the product affects the quantity sold. When the price is higher (above $2.97), the quantity sold tends to decrease, while when the price is lower (below $2.97), the quantity sold increases. However, this trend is not consistent across all data points.
+
+One notable observation is that setting a price very high ($3.11 or above) leads to very low sales and negative profits. This suggests that there may be an optimal price range where revenue and profit are maximized.
+
+Furthermore, Round 42 shows that when the price is $2.97 (approximately the midpoint of the observed price range), both quantity sold and profit earned seem to stabilize at relatively consistent levels across multiple data points, suggesting that this may be a good starting point for the next pricing round.
+
+
+New content for PLANS.txt:
+
+* Continue analyzing trends in sales and profits relative to price variations.
+* Investigate optimal price ranges within the existing price constraints (approximately $2.50-$3.11).
+* Monitor and adjust to changes in customer purchasing behavior.
+
+New content for INSIGHTS.txt:
+
+* High prices tend to result in decreased sales and negative profit margins.
+* A relatively high price of around $3 was associated with some of the lowest sales volumes, at least across certain rounds (Round 35-44).
+* There seems to be a point where slightly lower but not excessively low prices ($2.95-$2.97) stabilize both the revenue and profit.
+
+My chosen price:
+
+$2.95

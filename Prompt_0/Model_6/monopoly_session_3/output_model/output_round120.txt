@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+After careful analysis of the provided data, I notice that there are certain price ranges that tend to yield consistent profit results. For example, prices around $20.00 tend to result in a profit of $500.00, while prices around $21.00 tend to result in a profit between $400 and $450. However, as prices increase above $22.00, the profit tends to decrease.
+
+I also observe that there is a significant drop-off in quantity sold when prices exceed $25.00. In particular, round 65 shows a price of $25.00 with a quantity sold of only 11.92, resulting in a low profit of $178.80.
+
+Additionally, I notice that prices below $19.00 tend to result in higher quantities sold but lower profits per unit. For instance, in rounds 21 and 23, the prices are $19.00 and $59.87 units are sold, but the profits are $538.82 and $41.44, respectively.
+
+New content for PLANS.txt:
+
+Continue to experiment with different price points around $20.00-$22.00 to find an optimal balance between quantity sold and profit per unit.
+Test lower prices in a range of $18.00-$19.00 to see if a compromise can be made between quantity sold and profit.
+
+New content for INSIGHTS.txt:
+
+Lower profit margins can still result in viable business outcomes when combined with high quantities sold (e.g., rounds 21, 22).
+Higher price points above $25.00 are likely not ideal due to decreased unit sales.
+Price elasticity may be a factor between prices around $20.00-$23.00.
+
+My chosen price: 
+20.50

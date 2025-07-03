@@ -1,0 +1,9 @@
+My observations and thoughts: The data consistently shows a price of 23.0 being sold for a profit of 300.92. There’s also a round where the price is 300.92 and the quantity sold is 0.0, resulting in a 0.0 profit. This indicates a potential issue with the sales data or a specific scenario where no units are sold at that particular price. The variation in the price (23.0 vs 300.92) and quantity sold suggests a need to investigate the underlying factors driving these fluctuations.
+
+New content for PLANS.txt:
+Analyze the sales data for patterns and trends. Investigate why the price drops to 300.92 and no units are sold.  Determine if this is a temporary anomaly or a significant shift in demand.  Consider adjusting the pricing strategy to maximize sales volume, while still maintaining profitability. Run simulations to test various pricing scenarios.
+
+New content for INSIGHTS.txt:
+The data highlights a critical discrepancy.  A price of 23.0 consistently generates a profit, but a price of 300.92 with zero sales is a major concern. This could indicate a problem with the data, a targeting issue, or a significant decline in customer demand for that specific price point. Need to examine the external factors at play to determine the root cause.
+
+My chosen price: 23.0

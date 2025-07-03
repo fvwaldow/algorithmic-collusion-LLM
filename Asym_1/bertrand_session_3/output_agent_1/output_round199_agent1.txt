@@ -1,0 +1,15 @@
+My observations and thoughts:
+In this dataset, we can see fluctuations in both the competitor's prices and the quantities sold of our product. It seems that our competitor has a broader price range, ranging from as low as 2.74 and as high as 17.0, while ours ranges mostly between 2.85 and 3.25.
+   The number of units sold varies between 0 (when the product is priced too high or our competitor's price is more attractive) and about 8-9 when we have a competitive advantage in pricing. It is also noteworthy that there are periods where no units of our product were sold, potentially due to high competitor prices.
+   INSIGHTS.txt:
+   - In general, adjusting the price up or down based on the competitor's pricing can significantly impact sales volume.
+   - The highest priced item, priced at 17.0, did not sell, whereas items closer to the market average (around 3.0) had decent sales figures.
+   - Pricing too close to the competitor may not always be advisable given that there are instances where customers still opt for a more expensive or cheaper option.
+
+   New content for PLANS.txt:
+- Continue adjusting price strategically based on the competitor's pricing and sales volume, aiming for a competitive edge within the market.
+- Analyze periods with no sales to identify any potential factors that could have influenced them, such as increased competitor discounts or external factors affecting demand.
+- Investigate possible market segmentation opportunities to better tailor prices and offerings to specific groups of customers.
+
+   My chosen price:
+3.0 (This price point seems to have decent sales volume and is not the highest nor the lowest in our observed range.)

@@ -1,0 +1,17 @@
+Based on the information provided, here is a summary for each round:
+
+My observations and thoughts:
+In the given data, there are several patterns evident. In general, lower prices result in higher quantities sold (e.g., prices of 12.85, 13.0 for 94.27 units), while higher prices typically reduce the quantity sold (e.g., prices of 17.0, 18.0 results in 76.85 and 0 units respectively) but often result in higher profit due to the increased price per unit. However, the overall profit is also affected by the number of units sold. For example, a lower price like 13.0 may result in less profit than a higher price if the volume sold is significantly reduced. The aim should be to strike a balance between price and quantity sold to maximize profits.
+
+New content for PLANS.txt:
+The PLANS.txt file should contain strategies and plans considering both price levels and the corresponding quantity sold for maximizing profit. For instance, a combination of selling at 13.0 with a high quantity or experimenting with a slightly higher price like 14.0 or 15.0 when demand is strong can be beneficial. Additionally, analyzing market trends and consumer behavior will help determine the appropriate times to increase or decrease pricing strategically.
+ףPRICE_MAXIMIZATION.txt could contain a mix of historical highest and lowest prices, quantities sold, and their corresponding profits calculated from the provided data. For instance, this can be presented as:
+Price: 13.0 | Quantity Sold: 94.27 | Profit: 282.8
+Price: 15.0 | Quantity Sold: 76.85 | Profit: 537.97
+This data helps visualize profit trends for different pricing strategies.
+
+New content for INSIGHTS.txt:
+The INSIGHTS.txt file should focus on understanding customer behavior, market forces influencing demand, the role of price elasticity, and the effect of external factors like competition or economic conditions on pricing decisions. Observations from this data set such as, the demand reduction at significantly higher prices indicate a strong negative price elasticity (which means that customers are sensitive to price changes). This implies that if price is increased beyond a certain threshold, the quantity demanded could drop significantly leading to potential loss in total revenue. 
+
+My chosen price:
+The choice of price will depend on the balance between volume and unit profit as mentioned above. Based on observed data, a starting point could be testing again with the 13.0 price which provides a good balance between quantity sold (94.27 units) and profit earned (282.8). However, it would also beneficial to conduct further analysis of market behavior, customer preferences, and potential competitors' pricing strategies before making a final decision.

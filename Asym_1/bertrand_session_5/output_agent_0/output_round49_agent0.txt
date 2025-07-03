@@ -1,0 +1,13 @@
+My observations and thoughts: The data shows a fluctuation in both price and sales quantity, with instances when reducing the price leads to increased quantity sold but lower profits, and vice versa. It appears that lowering my price below 2.90 does not significantly increase sales, while increasing my price beyond approximately 3.1 results in a decrease in sales. The competitive landscape also seems to be influencing sales, with higher competitor prices encouraging more sales for me.
+
+   New content for PLANS.txt:
+   1. Implement a testing strategy of lowering the price in 0.1 increments from the current price (3.04) while closely monitoring profitability and sales to identify the optimal price;
+      - Re-evaluate pricing every round to ensure that the chosen price continues to maximize both quantity sold and long-term profit;
+        - Introduce dynamic discounts during periods of low demand or when competitor prices are high, while being mindful of potential impact on overall profitability.
+
+   New content for INSIGHTS.txt:
+   1. It's crucial to maintain a delicate balance between increasing sales volume and earning max profits by monitoring price changes closely;
+      - The competitive landscape plays a significant role in making informed pricing decisions, especially if it leads to an increase in quantity sold;
+        - Dynamic discounting can help boost sales when done strategically but must be carefully managed to avoid compromising long-term profitability.
+
+   My chosen price: 2.94

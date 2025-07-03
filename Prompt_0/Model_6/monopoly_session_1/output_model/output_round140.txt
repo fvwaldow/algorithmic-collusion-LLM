@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+After analyzing the data, I noticed that there is a clear trend of optimal price being around 2.95-2.98, as it results in both high revenue (4.12-4.27) and quantity sold (2.19). However, prices above this range lead to decreased sales and revenue, while prices below it may not be profitable enough.
+
+The data also indicates that there is a minimum sales threshold around 1.8 (e.g., Round 47, 46), where prices below this may result in very low or even zero profit. This suggests that it's essential to find the sweet spot between price and quantity sold.
+
+Additionally, I observed that some rounds have outliers, such as Round 43, 44, and 45, where sales are significantly lower despite higher prices. These may be due to external market fluctuations or anomalies in the data.
+
+New content for PLANS.txt:
+
+* Investigate further into pricing above the upper range (e.g., >3.00) to see if there's a hidden optimal point.
+* Analyze and address any possible discrepancies in sales data, focusing on the potential outliers mentioned earlier.
+* Reassess the minimum sales threshold to ensure that it's a reliable indicator of profitability.
+
+New content for INSIGHTS.txt:
+
+* There is an apparent sweet spot around 2.95-2.98 where prices are balanced between revenue and quantity sold.
+* Higher prices (>3.00) result in decreased sales and revenue, suggesting a potential cliff effect.
+* Prices below the minimum threshold (around 1.8) may not be profitable enough.
+
+My chosen price:
+2.97

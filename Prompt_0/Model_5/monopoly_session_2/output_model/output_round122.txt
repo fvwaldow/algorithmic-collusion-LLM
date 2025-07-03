@@ -1,0 +1,19 @@
+My observations and thoughts:
+The initial price varies significantly across different rounds, ranging from $10.0 to $11.5 per unit. The quantity sold also fluctuates greatly, with some rounds seeing as much as 1.1 units sold (Rounds 30 & 40) and others barely above zero (Rounds 6-10). In certain instances, like Rounds 49 & 57, the same price is maintained over multiple consecutive rounds without adjustments.
+
+There are repeated high-profit margins noted in specific pricing segments – $2.62 to $2.71 for some lower quantities (around 0.3 to 0.35 units) in Rounds 31, 9, 30, and 49. These periods also share a common price strategy near $10.95-$10.99. Lower, more consistent profits of around $4.56 are associated with higher sales volumes (approximately 0.63 units) in many rounds, suggesting either stable demand for lower prices or competition forcing prices downwards.
+
+A notable pattern is the recurrent low sales volume and small profit margins ($1.41) when the price reaches $11.5, hinting that this might be a saturation point where the market price exceeds what buyers are willing to pay. Conversely, lower prices tend to result in higher overall profits (up to $7.47).
+
+New content for PLANS.txt:
+- Continue monitoring close correlation between pricing near $10.95-$10.99 and high profitability with moderate sales volumes (~0.3 units). 
+- Avoid prices above $11.5 unless significant market dominance or absence of competition can be secured, as it seems to suppress demand significantly.
+- Investigate the stability in quantity sold for consistent price points around $10.45 to identify potential optimal volume-price trade-offs.
+
+New content for INSIGHTS.txt:
+- The sweet spot for profits appears to lie between $10.95 and $11 (with sales volume of approximately 0.3-0.35 units). Any price significantly above this range seems to drastically reduce demand possibly due to market saturation or competitive pressures.
+- Price-volume relationships are complex; while lower prices increase total units sold, it often at the cost of per-unit profit unless volume scales adequately to offset lower margins.
+- The $11.5 threshold emerges as a critical pricing ceiling with an evident drop in both quantity and margin, signaling potential market constraints or buyer sensitivities to this price point rather than absolute cost.
+
+My chosen price: 10.95
+The rationale supporting this choice places it within the previously observed high-profit segment associated with manageable volumes while balancing competition constraints observed in higher pricing tiers.

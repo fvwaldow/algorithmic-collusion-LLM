@@ -1,0 +1,17 @@
+My observations and thoughts:
+The market data suggests that prices around $20-$22 have been more profitable in terms of quantity sold compared to other price points. However, the outliers like Round 6 where a higher price of $28 resulted in a much lower quantity sold could indicate that this may not be a universally applicable rule. The profit earned seems to be stable at $500 for several rounds with a price of $20.
+
+New content for PLANS.txt:
+* Update pricing strategy based on analyzing the combination of premium features tiers, focusing on bundles or combinations of features
+    + Run another round of analysis similar to previous plans, testing different feature tier combinations and their impact on revenue
+    + Consider running additional experiments with Round 6 data as an outlier to see if a lower price could improve quantity sold
+* Investigate seasonal pricing trends (previous plan)
+    + Annotate key findings and insights gained from analyzing the market history in PLANS.txt so that I can draw upon this knowledge for future decisions
+-------
+
+New content for INSIGHTS.txt:
+* Seasonality or other external factors may be influencing consumer behavior, potentially making certain times of year more profitable than others
+* We should prioritize testing pricing strategies to see if we can capture potential high-demand periods; consider analyzing historical data by the month and quarter in order to get a clearer picture
+
+My chosen price:
+$20

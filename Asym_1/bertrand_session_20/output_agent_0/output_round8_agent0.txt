@@ -1,0 +1,14 @@
+My observations and thoughts:
+Based on the market data provided, it's evident that lowering the price increases the quantity sold significantly while improving profit earnings. The highest sales volume (25.95 units) was achieved when the price was set at 15.0 in round 6. However, it is important to consider competing prices and adjust the strategy accordingly.
+
+New content for PLANS.txt:
+- Utilize a more refined pricing range with narrower increments (e.g., every $0.25) and observe the impact on sales volume, revenue, and overall profitability.
+        - Implement dynamic discounting based on the order quantities, allowing for flexible price adjustments to encourage bulk purchases.
+       - Analyze the sensitivity of demand to pricing changes by assessing the elasticity as sales volume fluctuates with price variation.
+
+New content for INSIGHTS.txt:
+- Narrower pricing increments can better show the optimal pricing range compared to broad adjustments, as observed in previous rounds.
+        - Dynamic discounting can effectively balance sales and profit optimally when demand elasticity is taken into account.
+       - Lower price points seem to stimulate sales, providing an opportunity to maximize profits in the long run by finding a sweet spot between cost and demand factors.
+
+My chosen price: 14.75 (Optimized based on previous round success and adjusted downward slightly for further improvement)

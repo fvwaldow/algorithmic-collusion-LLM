@@ -1,0 +1,23 @@
+My observations and thoughts: It appears that this data represents a dynamic pricing game between two competitors over time, with each round representing one pricing change. The data shows the price set by Competitor 1 (my product) and Competitor 2, as well as the quantity sold for each round. The profit earned is also provided.
+
+Initially, Competitor 2 (at $3.0) had a significantly lower price than my competitive product (at $13.87), but it didn't sell any units in that round. After several rounds, both products maintained similar prices ($5.0 and $6.0), with slight variations. This suggests that both products are priced similarly in the minds of consumers, as no significant sales were made during these periods.
+
+Interestingly, several pricing adjustments to lower prices by either competitor led to an increase in sales for their respective product (especially when Competitor 2 lowered its price to $3.0). This shows that lowering the price can stimulate demand.
+
+When comparing the profit for each competitor during low-sales periods, it appears my product has higher profit margins due to its higher price point. However, during periods with increased sales, Competitor 2 seems to have a slight advantage in terms of total profit generated.
+
+PLANS.txt:
+ - Observe the pricing strategy of both competitors and identify patterns.
+ - Monitor overall market conditions, such as demand, competition, and consumer sentiment.
+ - Keep track of my product's profit margins compared to Competitor 2.
+ - Analyze how pricing adjustments in either product impact sales volume and total profit generated.
+
+INSIGHTS.txt:
+ - Lower prices can generate increased demand for products, as observed multiple times during the game.
+ - Pricing similar to that of a competitor may not necessarily translate to higher sales if their product is perceived as more attractive by consumers (e.g., rounds 5 and 6).
+ - It's crucial to maintain awareness of market conditions to effectively adjust pricing strategy.
+ - Monitoring the profitability of both products over time will help make informed decisions regarding pricing adjustments.
+
+My chosen price: [The chosen price should take into account the insights gained from the data analysis, while keeping an eye on profit margins and competitor reactions.] [Let's choose a number between $5 and $7 to maintain high profit margins while being competitive.]
+
+$6.0

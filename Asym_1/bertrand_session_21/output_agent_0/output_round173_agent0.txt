@@ -1,0 +1,15 @@
+My observations and thoughts:
+   The dataset provides information on the price of a product and the quantity sold by the business (referred to as "I") in various rounds. There is also a competitor whose prices and quantities are shown. Each round number corresponds to an increase or decrease in the product's price.
+
+   Interestingly, there are instances where lowering the price significantly increases quantity sold ("quartile change" from 5.65 at round 90 down to 86.38 at round 94), whereas maintaining a higher price can sometimes be more profitable due to fewer units being sold but still result in larger profit numbers (from rounds 77 to 79).
+
+   Another observation is the presence of several "plateaus" or "stagnation points", where neither increasing nor decreasing the price appears to have a significant effect on quantity sold. For example, from round 81 to 86, and round 88 to 90.
+
+   NEW CONTENT FOR PLANS.txt:
+   In light of the observed patterns, it seems essential to consider multiple factors when deciding on pricing strategy. Observing both absolute profit values as well as their proportion with respect to potential sales amounts may help optimize our approach. Additionally, taking into consideration periods where price changes have a substantial effect on sales volume could potentially lead to higher overall profits.
+
+   NEW CONTENT FOR INSIGHTS.txt:
+   It appears that the relationship between price and sales quantity is not always straightforward, with some rounds displaying counter-intuitive results (e.g., Round 90 vs. Round 94). This might imply that external factors also play a crucial role in determining how consumers respond to changes in pricing strategies.
+
+   My chosen price:
+   32.0

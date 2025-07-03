@@ -1,0 +1,13 @@
+My observations and thoughts: This data shows the prices and quantities of a product sold over several rounds. It appears that the price fluctuates around $6.50 with some peaks above $7.00, while the quantity remains relatively stable at around 47 units per round. The highest quantity was sold in Round 1 at 238 units, which corresponds to a lower price of $6.50.
+
+   New content for PLANS.txt:
+    1. Analyze the pricing trend over several rounds for better understanding of consumer behavior at different price points.
+    2. Investigate how changes in demand and competition may influence the observed trends.
+    3. Identify any inconsistencies or outliers in the data that might impact our analysis.
+
+   New content for INSIGHTS.txt:
+    - The product has stable demand, with an average of 47 units per round.
+    - The price seems to have an inverse relationship with the quantity sold – higher prices lead to lower quantities and vice versa.
+    - Round 1 appears as an outlier, with significantly higher sales at a lower price point compared to other rounds.
+
+   My chosen price: 6.50 (This is the most frequent price point in the data.)

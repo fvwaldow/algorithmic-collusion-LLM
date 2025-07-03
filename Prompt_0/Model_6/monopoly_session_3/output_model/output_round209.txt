@@ -1,0 +1,27 @@
+Based on the provided data, I'll fill in the template.
+
+**My observations and thoughts:**
+
+After analyzing the data, it's clear that there is no consistent pattern or trend in the prices or profits. However, I noticed a few things:
+
+* The highest profit earned was $544.65 (Round 150), which occurred when the price was set at $18.75.
+* Most of the prices hover around $19-$20, with a range of about $3.
+* There are some outliers in terms of quantity sold, such as Rounds 121 and 123 where the quantity is much lower.
+
+I also looked for any correlations between price and profit or quantity sold, but couldn't find any substantial ones. It seems that the relationship between these variables is not straightforward.
+
+**New content for PLANS.txt:**
+
+* Analyze data from previous rounds to see if there's a discernible pattern.
+* Consider implementing a pricing strategy based on market demand or competition.
+* Evaluate potential costs associated with adjusting prices and see how they affect profit.
+
+**New content for INSIGHTS.txt:**
+
+* There is a sweet spot in profit generation between $18.75 and $20, with the highest profit at $544.65.
+* Prices lower than $18.75 or higher than $20 tend to result in lower profits.
+* The quantity sold seems to drop sharply when prices exceed $22.
+
+**My chosen price:**
+
+19.95

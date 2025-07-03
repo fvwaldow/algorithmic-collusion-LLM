@@ -1,0 +1,20 @@
+My observations and thoughts:
+   It can be seen that the prices of goods have a significant impact on sales volume. When the price is low (under 3 dollars), there seems to be an increasing demand - for example, when the price drops to 2.65 in Round 20, the sales volume nearly triple from 1.67 in Round 19 to 2.99. However, this trend does not hold consistently as the price increases beyond 3 dollars and demand decreases considerably, such as the price increase to 3.14 in Round 24 which resulted in a very minimal sale of only 0.28.
+
+   Interestingly, there are instances where even though the price is higher, it doesn't seem to have a significant negative impact on the demand - for example, when the price increases to 2.95 in Rounds 7, 17, and 41 (Round 41 being a price increase from Round 40), although resulting in reduced sales volume compared to the previous round, it still doesn't seem to affect the demand drastically as it did in Round 24. It can be surmised that there might be other factors at play affecting the demand, such as competition, perceived value, and consumer preferences.
+
+   Moreover, it seems like there is an optimal price range - prices between 2.75 to 2.95 consistently yielded a fairly good sales volume. The exception being Round 39 where the price rose significantly above the optimal range but may have been outweighed by strong market demand for the product given the limited supply available (only 1.54 units were sold compared to the rounds where prices were within the optimal range, which had sales in excess of 2 units).
+
+   PLANS.txt:
+   - Continue to observe and gather more data to solidify our understanding of consumer price sensitivity and demand dynamics.
+   - Develop strategies for identifying optimal pricing to maximize sales volume.
+   - Explore market research to understand overall trends in product competitiveness and perceived value in the target market.
+   - Evaluate potential short-term promotions, bundles or discounts for increasing sales and boosting demand during off-peak periods.
+
+   INSIGHTS.txt:
+   - Significant impact of price on sales volume.
+   - Optimal pricing strategy appears to be around 2.75-2.95 range, but further data is needed for confirmation.
+   - Other factors like competition, perceived value, and consumer preferences may play a role in demand dynamics.
+   - Monitor customer behavior during promotions or sales periods to gauge price sensitivity and long-term pricing strategies.
+
+   My chosen price: 2.85 (will be adjusted as data becomes available)

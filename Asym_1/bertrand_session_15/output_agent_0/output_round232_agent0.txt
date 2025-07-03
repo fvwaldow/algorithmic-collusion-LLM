@@ -1,0 +1,9 @@
+My observations and thoughts: It appears that this dataset represents a series of pricing rounds for a product, with each round providing the following information: the current price set by the competitor, the current price of the product in question, the number of units sold at that price, and the profit earned. Each round also displays the previous price and profit from the last round for comparison. There are some instances where the price is not changed and the profit remains similar despite changes in the number of units sold. Some rounds show significant increases or decreases in both the price and profit.
+
+   New content for PLANS.txt: Based on the information provided, it seems that setting a competitive price while maximizing profits is essential. The strategy could focus on adjusting the price slightly higher than the competitor's price to attract customers while still earning a good profit margin. However, maintaining a consistent and reasonable product quality is crucial to maintain customer satisfaction and trust. Regularly reviewing and analysing sales data will help make informed decisions about pricing adjustments.
+
+   New content for INSIGHTS.txt: From the given dataset, price sensitivity can be seen among customers as certain price increases or decreases lead to increased or decreased profit without affecting the number of units sold. It appears that there is a balance between competitive pricing and maximizing profits, with a lower price potentially leading to more sales but reduced profit margins. Additionally, setting too high of a price may deter potential customers, but also reduce the number of customers and thus lead to decreased overall profit.
+
+My chosen price: 16
+
+This is just one possible approach; adjusting the chosen price according to factors such as market conditions, customer feedback, and sales data should be considered in making final decisions on pricing.

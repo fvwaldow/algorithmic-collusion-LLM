@@ -1,0 +1,7 @@
+My observations and thoughts: It seems that the prices fluctuated significantly throughout this dataset. The dataset is not sorted by time, but it appears that lower prices tend to result in more quantity sold (e.g., Rounds 100, 90, and 89), while higher prices can lead to fewer sales or no sales at all (e.g., Round 91). The competitor's price seems to impact the sales significantly, as seen in Rounds 90, 95, and 96, where a lower competitor's price led to more sales. Additionally, there appears to be a floor below which the price should not drop due to the low demand (e.g., Round 117).
+
+   New content for PLANS.txt: Adjust prices dynamically based on demand and competitor's price. Keep an eye on floor pricing to ensure profitability.
+
+   New content for INSIGHTS.txt: Lower prices generally lead to higher sales. However, the competitor's price plays a significant role in determining market share. It is crucial to keep prices competitive without compromising profit margins. Additionally, maintaining awareness of demand and adjusting pricing accordingly can help maximize sales.
+
+   My chosen price: 25.0 (Based on rounds 100, 90, and 89 where lower prices led to more quantity sold)

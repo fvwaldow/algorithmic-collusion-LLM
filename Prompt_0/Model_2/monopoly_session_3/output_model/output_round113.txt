@@ -1,0 +1,11 @@
+My observations and thoughts: The data provided shows prices and quantities of a certain item bought over a number of rounds. It appears that there is some variation in the prices, but the quantity sold remains relatively consistent at around 20 units per round for most prices between 23 and 25. A sudden decrease in both price (to 23) and quantity sold occurs roughly halfway through the data. Upon closer inspection, it seems that when the price is dropped to 23, the quantity sold increases drastically. This suggests that lowering the price may increase the number of units sold significantly and could potentially be a more profitable strategy in this case.
+
+   New content for PLANS.txt:
+   1. Continue to monitor the relationship between price and sales volume over subsequent rounds, keeping track of any trends or patterns that emerge.
+   2. Investigate potential factors leading to the sharp increase in sales volume at lower prices (e.g., competition, market demand).
+
+   New content for INSIGHTS.txt:
+   1. The number of units sold is sensitive to price changes, with a significant boom in sales when the price drops to 23.
+   2. It's worth considering testing various pricing strategies and exploring possible correlations between competitors' prices and market demand.
+
+   My chosen price: 23 (based on the observed relationship between lowering the price and increasing sales volume)

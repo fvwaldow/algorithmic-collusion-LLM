@@ -1,0 +1,54 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $43.87
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Test dynamic pricing strategies that adjust prices based on market trends and demand.
+2. Explore multi-tiered pricing by offering discounts for bulk purchases to encourage larger orders.
+3. Implement a price discrimination strategy by targeting different segments with different price points.
+4. Experiment with loss-leading tactics; lower the price temporarily to drive sales, attract new customers, and boost overall brand visibility.
+5. Analyze competitor pricing strategies and adjust prices accordingly, aiming for a competitive yet profitable position in the market.
+6. Monitor customer feedback and adapt pricing strategy based on their responses and purchasing behavior.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Dynamic pricing can help capitalize on seasonal trends and demand fluctuations.
+2. Multi-tiered pricing appeals to both budget-conscious buyers and those who value convenience.
+3. Price discrimination can segment the market effectively, allowing for more targeted pricing strategies.
+4. Loss-leading tactics can be effective in driving sales volume, but must be used judiciously to avoid eroding profits.
+5. Competitor analysis is essential in understanding the competitive landscape and adapting strategically.
+6. Customer feedback is crucial in refining pricing strategies and enhancing overall customer satisfaction.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 1:
+                - My price: 43.87
+                - Competitor’s price: 10.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.0
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

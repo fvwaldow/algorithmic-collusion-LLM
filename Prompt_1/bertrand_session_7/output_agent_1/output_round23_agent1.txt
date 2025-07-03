@@ -1,0 +1,17 @@
+My observations and thoughts:
+    Based on the provided market data, it appears that my profit is maximized when my price is between 6.49 - 8.5 (rounds 8-11), with round 11 being the most profitable session. Notably, the highest selling quantity was recorded when I was not the cheapest product in the market (e.g., rounds 7, 8, and 12), but my price remained competitive to avoid potential loss of customers due to a significantly higher pricing strategy like round 1.
+
+    In addition, it is worth exploring pricing tiers based on customer segments. From rounds 4 and 5, we can see that overpricing the product ($9.99) leads to minimal sales, while pricing at or near the competitor's price ($7.48 - $10.99) encourages more sales volume.
+
+New content for PLANS.txt:
+    - Thoroughly analyze customer segment behaviors when choosing close-to-competitive pricing points.
+          - Conduct A/B testing on pricing tiers for targeted customer demographics to optimize overall sales volume and profitability.
+             - Adjust the predictive model based on new customer preference data to refine price insights.
+
+New content for INSIGHTS.txt:
+    - Competitive pricing near, but not below competitor prices can encourage higher sales volumes without sacrificing profitability.
+          - Targeted customer segmentation may reveal profitable opportunities to boost long-term earnings while maintaining current pricing strategies.
+             - Continuously refining and adjusting the predictive model enhances informed decision making for optimal price points.
+
+My chosen price:
+8.5

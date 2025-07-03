@@ -1,0 +1,14 @@
+My observations and thoughts:
+The data shows a clear trend of increasing prices over time, with some fluctuations due to price readjustments. The profit earned also increases with the price, but there are some anomalies, such as Round 90 where the quantity sold decreases while the price increases, resulting in a higher profit earned. This suggests that either the demand is elastic or there's been an error in the data.
+
+New content for PLANS.txt:
+- Investigate the relationship between prices and demand to understand how the market responds to changes in pricing.
+- Identify any anomalies or outliers in the data to confirm their validity.
+- Consider implementing a more nuanced pricing strategy that takes into account the changing market conditions.
+
+New content for INSIGHTS.txt:
+- The optimal price appears to be around $5, as it consistently yields higher profits compared to other prices. However, this might be an artifact of the data and requires further investigation.
+- There's some evidence to suggest that the demand is elastic, particularly at high prices above $5. This could be a key factor in determining the optimal price.
+
+My chosen price:
+$5

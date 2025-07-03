@@ -1,0 +1,14 @@
+My observations and thoughts:
+
+The data shows a large variation in profit earned across different price points. There is an optimal range of prices (around $4.99-$5.03) that yields the highest profits (between $152.78-$155.03). At higher price points ($5.05-$5.15), the quantity sold decreases significantly, resulting in lower overall profits. A notable exception is Round 222, where a price of $5.05 results in a surprisingly high profit due to an unusually high quantity sold.
+
+New content for PLANS.txt:
+* Investigate the impact of higher prices on customer willingness to pay and identify potential segments with a higher price sensitivity.
+* Consider implementing a price optimization strategy that dynamically adjusts prices based on market conditions and demand.
+
+New content for INSIGHTS.txt:
+* The optimal price range for maximizing profits appears to be between $4.99-$5.03, with prices slightly below this range resulting in lower profit earnings.
+* There is a potential risk of overpricing at high price points ($5.05-$5.15), which could lead to decreased sales and lower revenue.
+
+My chosen price:
+$4.996

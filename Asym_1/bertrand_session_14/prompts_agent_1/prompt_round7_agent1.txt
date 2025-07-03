@@ -1,0 +1,78 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $42.58
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Focus on competitive pricing strategies while monitoring the impact of dynamic pricing across different customer segments for optimal long-term profitability.
+     2. Analyze the pricing psychology behind ‘9’ ending prices to potentially increase sales volume and profits.
+     3. Continuously test and optimize the current pricing strategy in real time, taking note of competitor tactics and market trends.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. The data suggests that competing strategically with prices slightly lower than competitors might boost profits by attracting more customers.
+     2. Additional focus on understanding the impact of pricing psychology (‘9’ ending prices) on sales volume and profit.
+     3. It's important to continuously monitor and adapt pricing strategies according to changes in demand, customer preferences, and competitor tactics.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 6:
+                - My price: 15.0
+                - Competitor’s price: 24.58
+                - My quantity sold: 63.67
+                - My profit earned: 318.37
+
+Round 5:
+                - My price: 16.5
+                - Competitor’s price: 24.59
+                - My quantity sold: 49.11
+                - My profit earned: 319.19
+
+Round 4:
+                - My price: 15.0
+                - Competitor’s price: 12.5
+                - My quantity sold: 1.79
+                - My profit earned: 8.97
+
+Round 3:
+                - My price: 15.0
+                - Competitor’s price: 25.0
+                - My quantity sold: 66.52
+                - My profit earned: 332.62
+
+Round 2:
+                - My price: 40.0
+                - Competitor’s price: 15.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 1:
+                - My price: 39.5
+                - Competitor’s price: 25.0
+                - My quantity sold: 0.01
+                - My profit earned: 0.33
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

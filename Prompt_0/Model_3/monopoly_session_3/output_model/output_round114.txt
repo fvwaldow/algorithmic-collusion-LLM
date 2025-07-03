@@ -1,0 +1,20 @@
+From the given data, we can observe several patterns and make the following observations:
+- There is a trend of increase in price from round 1 to round 20, followed by a decrease of price after round 20. The highest profit was earned in round 20 with a price of $15.95 and quantity sold of 83.48, resulting in a total profit of $496.7.
+- Over the rounds, there are fluctuations in both price and revenue, although the overall trend is an increase in price leads to increased profits up until round 20. After round 20, we can see that higher prices do not necessarily guarantee higher profits with a decrease in quantity sold in round 21 ($15.25, $86.99 and profit of $456.69).
+- The highest profit percentage increase occurred between rounds 3 and 4, and between rounds 25 and 26 (profits increased by 20.4% compared to the previous round in both cases).
+- For price decreases, round 18 and 19 show a significant decrease of $1 from $13.95 to $13.5 with increase in quantity sold.
+Insights:
+- The optimal pricing strategy would likely include gradually increasing prices, paying attention to the balance between quantity and profitability.
+- Monitoring competitor prices should also be taken into consideration to avoid priced out from the market or facing a significant decrease of quantity sold due to perceived higher price compared to competitors.
+  
+My chosen price:
+14.5 (considering a slight increase from round 18's $13.95 to maintain balance between quantity and profits)
+
+New content for PLANS.txt:
+- Gradually increasing prices, monitoring competitors pricing closely, maintaining good value proposition
+- Maintaining consistent customer base by balancing price increases with increased quality or variety in the product/service offered
+
+New content for INSIGHTS.txt:
+- The importance of keeping a good balance between quantity sold and profitability
+- Analyzing competitor pricing for adjusting our own to stay competitive in the market
+- Monitoring fluctuations in profits across rounds to make informed strategic decisions

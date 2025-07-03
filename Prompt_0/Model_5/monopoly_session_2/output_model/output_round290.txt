@@ -1,0 +1,17 @@
+My observations and thoughts:
+The data provided shows a diverse range of prices and corresponding sales quantities across numerous rounds (191-204). Prices mainly fall within the $10 - 11 per unit, with a few instances around $10.5, $10.6, $10.75, and even $10.85. The quantities sold typically range from under 1 unit to just over 1 unit (0.32 to 0.86 units). 
+
+There’s frequent repetition of certain prices across different rounds, suggesting possible testing for optimal pricing points. Additionally, there are instances where the same price leads to sales in multiple rounds, which could indicate stable demand or customer preference around those price points. 
+
+Inspection reveals that $10.6 and $10.75 have been tested most often, each appearing in around 5 different rounds, possibly hinting at competitive pricing strategies or market testing towards these price levels.
+
+There is no clear correlation between higher prices and greater quantities sold; rather, there's a mix indicating varied customer sensitivity to price changes across the dataset.
+
+New content for PLANS.txt:
+For the next round, let's focus on $10.6 to capitalize on its frequent appearance and potential preference signal by customers. Given past observations with $10.6, we could anticipate moderate sales while maintaining a competitive edge. We will also closely monitor any substantial deviations in sales volume triggered by this price point to gauge customer sensitivity.
+
+New content for INSIGHTS.txt:
+Observations suggest customers demonstrate varied responsiveness to incremental price changes within the $10-$11 range, indicating potentially elastic or inelastic demand depending on competitive positioning or perceived value. There's no strong evidence yet that premium pricing ($10.85+) significantly boosts sales volume; rather, it indicates a potential niche market segment may exist for higher-priced offerings but warrants cautious testing given inconsistent results so far.
+
+My chosen price:
+10.6

@@ -1,0 +1,11 @@
+My observations and thoughts: It appears that there are fluctuations in the product's price and sales volume across different rounds. The highest selling price was at Round 93 with a unit price of $84.76 but no units sold. Generally, the product seems to sell better when priced between $23 - $24.50, with volumes slightly varying but mostly in the range of 19-23 units per round. The highest overall profit earned was in Round 95 ($267.05) and Round 67 ($268.37), both near the price point of $23.5$ and volume of around 20 units. It seems that the optimal pricing strategy might be somewhere close to $23.5, as this price Point has shown the highest profit potential in two rounds so far.
+
+New content for PLANS.txt:
+To maximize profits, maintain a price slightly above $23 and closely monitor sales volumes. Adjust the price on a round-by-round basis based on sales data to optimally balance between maximizing sales volume and profit per unit.
+
+New content for INSIGHTS.txt:
+The product seems to sell better when priced between $23 - $24.50, with an optimal range of 19-23 units per round. The highest overall profit earned was in Round 95 and Round 67, both near the price point of $23.5. It's crucial to keep a close eye on sales trends and adjust the pricing strategy accordingly to optimize profits.
+
+My chosen price: 23.5
+
+For the sake of clarity and avoiding confusion with decimals when using this data in code, I'll round the final chosen price to the nearest whole number which is 24 (close enough to 23.5) for easier implementation.

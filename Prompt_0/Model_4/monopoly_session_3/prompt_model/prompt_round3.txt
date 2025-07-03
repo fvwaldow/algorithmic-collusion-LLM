@@ -1,0 +1,53 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $42.58
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+```
+5. Start with a base price of $35 to assess customer response in a higher end of the sensitive price range. If sales are satisfactory, we could potentially incrementally raise prices while monitoring for adverse effects on sales volume. Should sales dip significantly, consider reverting to a slightly lower base price within the $30-$40 range and continue observing for patterns in customer behavior and competitor pricing.
+6. Introduce a periodic special offer every two months rather than a continuous discount. This allows us to maintain a consistent base price while testing the market's reaction to more frequent but smaller discounts. Track the impact on both sales volume and profit margins to refine future promotional strategies.
+```
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+```
+Based on the latest data, our current base price of $32.50 has not seen any sales. This reinforces our awareness that even at a lower end of sensitivity, competitive pricing is crucial. The insights from past strategies suggest focusing on maintaining customer loyalty through strategic promotions, especially after initial purchases, rather than solely relying on discounts to boost immediate sales.
+```
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 2:
+            - My price: 35.0
+            - My quantity sold: 0.25
+            - My profit earned: 6.18
+
+Round 1:
+            - My price: 32.5
+            - My quantity sold: 0.67
+            - My profit earned: 15.06
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

@@ -1,0 +1,96 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $55.03
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Continue with a strategic price reduction strategy to find the sweet spot while closely monitoring sales and profit variations (revised strategy 1). Adjust rate of reductions based on observed effects in each round to potentially achieve sales growth within market constraints.
+      2. Test the impact of increasing price slightly above my competitors' current prices while continuing to monitor competitor pricing movements. If this strategy proves successful, it could help establish a unique position and increase perceived value for my product (adjusted strategy 1).
+      3. Develop automated systems to adapt prices in real-time based on competitor's moves and customer behavior trends, emphasizing both short-term sales growth and long-term profitability maximization.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. A price reduction strategy is effective at increasing the volume of sales while maintaining reasonable profitability provided that the optimal sweet spot within market constraints is found (revised pricing implementation approach).
+      2. Adjusting the rate of price reductions based on observed effects in each round could potentially help achieve sales growth without compromising long-term profitability (Updated insight with revised pricing implementation approach).
+      3. Increasing price slightly above competitors' current prices, if successful, may increase perceived value for my product and establish a unique position in the market (New insight built upon previous pricing insights).
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 9:
+                - My price: 30.0
+                - Competitor’s price: 31.95
+                - My quantity sold: 1.54
+                - My profit earned: 30.86
+
+Round 8:
+                - My price: 32.0
+                - Competitor’s price: 32.95
+                - My quantity sold: 0.73
+                - My profit earned: 16.15
+
+Round 7:
+                - My price: 33.95
+                - Competitor’s price: 30.01
+                - My quantity sold: 0.28
+                - My profit earned: 6.59
+
+Round 6:
+                - My price: 33.98
+                - Competitor’s price: 32.99
+                - My quantity sold: 0.33
+                - My profit earned: 8.02
+
+Round 5:
+                - My price: 35.0
+                - Competitor’s price: 34.98
+                - My quantity sold: 0.24
+                - My profit earned: 5.89
+
+Round 4:
+                - My price: 34.99
+                - Competitor’s price: 39.99
+                - My quantity sold: 0.25
+                - My profit earned: 6.16
+
+Round 3:
+                - My price: 45.0
+                - Competitor’s price: 45.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.16
+
+Round 2:
+                - My price: 54.99
+                - Competitor’s price: 40.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.0
+
+Round 1:
+                - My price: 54.0
+                - Competitor’s price: 30.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.0
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

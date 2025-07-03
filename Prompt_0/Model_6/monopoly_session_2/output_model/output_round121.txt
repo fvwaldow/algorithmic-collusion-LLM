@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+* The data provided covers 57 pricing rounds with varying prices and corresponding quantities sold. This suggests that the pricing strategy has been adjusted multiple times in response to changing market conditions or sales data.
+* The quantity sold remains relatively consistent across different price points, indicating a stable demand for the product regardless of its price.
+* However, there are several instances where a small increase or decrease in price results in significant changes in profit earned. For example, Rounds 29-31 and Rounds 27-30 show large profits earned at specific prices despite relatively small quantity sold compared to other rounds.
+
+New content for PLANS.txt:
+
+1. Maintain a minimum price cap: Given the consistent demand and stability of quantity sold across various price points, it's essential to consider implementing a ceiling on the lowest possible price offered.
+2. Leverage data-driven pricing adjustments: The fluctuations in profit earned at different price points indicate potential opportunities for optimization. Further analysis is required to identify optimal price ranges that balance revenue maximization with demand sensitivity.
+3. Assess the impact of minor pricing adjustments on profit margins: Specific findings, such as Rounds 29-31 and Rounds 27-30, suggest that small price changes can significantly affect revenues.
+
+New content for INSIGHTS.txt:
+
+* Data implies a robust relationship between demand and prices; however, no direct correlation was observed between quantity sold and the extent of price increases/decreases. Hence, the key takeaway is that maintaining steady profit margins while optimizing price points should be our primary goal.
+* Analyzing patterns in revenue earnings indicates two pricing thresholds (one near $4.99 and another higher) beyond which returns become more unpredictable.
+
+My chosen price:
+
+$5.00

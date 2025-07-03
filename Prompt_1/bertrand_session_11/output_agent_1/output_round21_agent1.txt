@@ -1,0 +1,16 @@
+My observations and thoughts: Based on the given market data from Round 20 to Round 1, we observe that pricing closer to $9 might be more profitable while considering the competitor's price range of $8.75 to around $11. Regarding the quantity sold, there seems to be increased sales when prices are near $8.75 but still above cost ($1). The lowest profit was observed in Round 7 where the price was set at $9.95.
+
+   New content for PLANS.txt:
+   - Test pricing strategies that place our price closer to $9 while maintaining a premium over the competitor’s price.
+     - Continue monitoring competitor’s long-term pricing trends and adapting our pricing strategy accordingly.
+       - Regularly update machine learning algorithms to optimally predict future competitor moves and adjust our own pricing strategy.
+         - Perform A/B testing with different price points around $9 to find the optimal balance between volume and profit.
+           - Continue gathering market data and revisit these strategies every few rounds to ensure profitability.
+
+   New content for INSIGHTS.txt:
+   - The relationship between pricing, sales volumes, and overall profit appears to be non-linear with a local optimum around $9 (as observed in Rounds 11, 16, and 18).
+     - Machine learning algorithms are essential for accurately predicting competitor’s pricing moves and adapting our own strategy accordingly.
+       - Adaptive pricing strategies that prioritize maintaining or improving profitability as the competitor’s approach evolves should be considered.
+         - Continuously gathering market data for a minimum of 5 rounds is necessary to identify the optimal pricing strategy.
+
+   My chosen price: $8.90

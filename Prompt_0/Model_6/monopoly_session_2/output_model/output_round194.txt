@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+From the data, it appears that my previous prices have had some variation, but a general trend is emerging. The highest profit earned was $161.21 in Round 100, which also corresponds to the highest price of $5.15. However, there are several instances where prices above $5.05 did not result in higher profits ($156.12). Additionally, there is a notable correlation between higher prices and lower quantity sold (e.g., in Round 100). Furthermore, it's worth noting that Round 106 had a price of $5.05, which is slightly below the current highest price, but still resulted in the same profit as the previous round with $5.15.
+
+New content for Plans.txt:
+
+* Investigate the relationship between prices and quantity sold
+* Analyze if higher prices lead to consistently lower profits due to decreased sales
+* Consider experimenting with different price points around $5 to find an optimal balance
+
+New content for INSIGHTS.txt:
+
+* Higher prices do not always result in more profit, as seen in fluctuations around $156.12.
+* There is a tendency towards a ceiling effect around the quantity sold at high prices (e.g., Round 100 with 82.67 units sold).
+* Carry over the observation that prices above $5 may not yield better results.
+
+My chosen price:
+5.00

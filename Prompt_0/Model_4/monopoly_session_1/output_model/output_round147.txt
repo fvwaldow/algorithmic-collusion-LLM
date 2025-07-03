@@ -1,0 +1,16 @@
+My observations and thoughts:
+
+The price seems to fluctuate significantly throughout the rounds. Initially, it starts with a price of $2.65, which remains static for several rounds. It then drops to $2.6, $2.45, and $2.35 at different points, indicating a downward trend. However, it increases to $2.85 and settles around $2.75 for a while before fluctuating again. Notably, the price jumps to $2.8 when quantity sold is 3.92, suggesting a successful pricing strategy. The profit does not always increase with a higher price; for example, $2.85 results in a profit of $5.97, while $2.75 yields $8.30 in another round.
+
+New content for PLANS.txt:
+**Current Plan:**
+- **Price Strategy:** Adjust based on quantity sold and profit obtained. Observe the trend in price and quantity sold to identify potential thresholds.
+- **Quantity Target:** Aim for increasing quantities sold at stable or slightly higher prices to maximize profits. 
+
+New content for INSIGHTS.txt:
+**Insights:**
+- The pricing strategy should dynamically adapt to market responses. There seems to be a successful price range around $2.75-$2.85 where both profit and sales quality are maintained.
+- Quantity sold appears to be sensitive to price changes; lower prices lead to increased quantities but may not always result in higher profits.
+- Observing patterns in quantity sold could help predict optimal price points.
+
+My chosen price: **2.75**

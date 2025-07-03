@@ -1,0 +1,9 @@
+My observations and thoughts: There are two main trends observed in this data. Firstly, it seems that lowering the price can increase quantity sold initially, but then increasing the price again might lead to higher overall profit due to increased quantity sold. For example, rounds 160-152 show a decrease in profit when lowering the price from 13.0 to 10.5, but rounds 149-148 demonstrate that raising the price back up to 12.3 and 12.5 can generate higher profits because of increased sales volume.
+
+   Secondly, it appears that the competitor's pricing strategy impacts our sales volume. When our prices are close to or lower than the competitor's (rounds 149-152), we see an increase in sales volume compared to rounds when our prices are higher than the competitor's (rounds 163, 170, etc.)
+
+   New content for PLANS.txt: Consider a dynamic pricing strategy that lowers the price temporarily to attract more customers and then raises it back up after increasing sales volume. Monitor the competitor's pricing strategy and adjust our own accordingly to remain competitive.
+
+   New content for INSIGHTS.txt: By observing the relationship between price, quantity sold, and overall profit, we can see that a temporary decrease in price may lead to increased sales volume, which in turn results in higher overall profit. Additionally, it is essential to keep an eye on the competitor's pricing strategy as it influences our sales volume significantly.
+
+   My chosen price: A dynamic pricing strategy would be optimal here, focusing on lowering the price temporarily to attract more customers and then raising it back up when sales increase volume. To implement this effectively, I propose starting with a price of 12.0 (the initial price) but observing the quantity sold in subsequent rounds while testing different pricing strategies based on the competitor's moves, focusing on maximizing overall profit over time.

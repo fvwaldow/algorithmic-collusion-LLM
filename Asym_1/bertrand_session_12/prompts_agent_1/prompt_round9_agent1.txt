@@ -1,0 +1,94 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $16.52
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Continue testing price reductions but focus on identifying the minimum cost that maintains profitability while maximizing unit sales - further investigate elasticity of demand through additional rounds of price testing.
+2. Introduce a dynamic-adjustment pricing model in response to competitor's price movements, enabling us to maintain or establish competitive advantage.
+3. Increase the frequency and accuracy of customer surveys for real-time feedback on willingness-to-pay at various price points, using results to refine our pricing strategy.
+4. Investigate a psychological pricing approach that appeals to customers while maintaining profitability - experiment with multiple variations in order to determine the optimal pricing structure.
+5. Analyze seasonal trends more closely for opportunities to temporarily increase or decrease prices during different periods.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Fine-tuning a balanced pricing strategy is essential, as it enables optimization of profitability, demand fulfillment and competitor response considerations.
+2. Competitor monitoring and dynamic price adjustments are critical factors in long-term competitive success.
+3. A data-driven approach to price testing and refinement allows for more informed decisions regarding profitability and market positioning.
+4. Psychological pricing can create positive impact on customer perception and be an asset in increasing sales volume while maintaining or improving profit margins.
+5. Seasonal trends, customer feedback, and competitor reactions must be considered in the development of effective long-term pricing strategies.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 8:
+                - My price: 8.21
+                - Competitor’s price: 8.05
+                - My quantity sold: 2.85
+                - My profit earned: 14.26
+
+Round 7:
+                - My price: 8.0
+                - Competitor’s price: 9.0
+                - My quantity sold: 7.07
+                - My profit earned: 33.94
+
+Round 6:
+                - My price: 9.5
+                - Competitor’s price: 8.5
+                - My quantity sold: 0.84
+                - My profit earned: 5.28
+
+Round 5:
+                - My price: 12.0
+                - Competitor’s price: 9.0
+                - My quantity sold: 0.05
+                - My profit earned: 0.45
+
+Round 4:
+                - My price: 9.5
+                - Competitor’s price: 8.2
+                - My quantity sold: 0.66
+                - My profit earned: 4.17
+
+Round 3:
+                - My price: 10.52
+                - Competitor’s price: 8.42
+                - My quantity sold: 0.22
+                - My profit earned: 1.62
+
+Round 2:
+                - My price: 10.52
+                - Competitor’s price: 8.0
+                - My quantity sold: 0.16
+                - My profit earned: 1.14
+
+Round 1:
+                - My price: 13.0
+                - Competitor’s price: 8.0
+                - My quantity sold: 0.01
+                - My profit earned: 0.07
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

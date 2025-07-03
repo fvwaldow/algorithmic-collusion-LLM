@@ -1,0 +1,137 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $28.01
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Solidify $19.5 as the base strategy given its proven consistent performance over recent rounds (Rounds 12-19). However, prepare to implement a segmented testing strategy post Round 25 initiation as outlined in original plans; targeting prices incrementally above $19.5 within $20-$23 range.
+2. Schedule an urgent customer segmentation study focusing on identifying segments that might tolerate higher prices without significantly reducing quantity sold. Integrate psychographic insights along with demographics to refine marketing and pricing tactics for these identified niches.
+3. Set up ongoing competitor surveillance, with alerts for any substantial market shifts or new entrants that could warrant immediate strategy adjustments to sustain leading profit margins.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Affirm the $19.5 price as a solid foundation of consistent profitability. Document current sales metrics and their stability to provide baseline data for segmentation analysis planned post-Round 25.
+2. Emphasize the need for detailed customer profiling by incorporating qualitative (psychographics) and quantitative (demographic, behavioral) data in preparation for granular price testing. This targeted approach should unveil segments with less elastic demand curves to inform future pricing strategies, aiming for a balance between profit margin maximization and volume maintenance.
+3. Continue meticulous competitive analysis; document changes in their pricing, product offerings, marketing approaches, etc., to preempt market fluctuations and recalibrate strategy swiftly if necessary to safeguard current high profits.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 19:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 18:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 17:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 16:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 15:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 14:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 13:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 12:
+            - My price: 19.0
+            - My quantity sold: 59.87
+            - My profit earned: 538.82
+
+Round 11:
+            - My price: 18.5
+            - My quantity sold: 64.57
+            - My profit earned: 548.81
+
+Round 10:
+            - My price: 18.5
+            - My quantity sold: 64.57
+            - My profit earned: 548.81
+
+Round 9:
+            - My price: 18.5
+            - My quantity sold: 64.57
+            - My profit earned: 548.81
+
+Round 8:
+            - My price: 19.0
+            - My quantity sold: 59.87
+            - My profit earned: 538.82
+
+Round 7:
+            - My price: 20.5
+            - My quantity sold: 45.02
+            - My profit earned: 472.67
+
+Round 6:
+            - My price: 21.5
+            - My quantity sold: 35.43
+            - My profit earned: 407.5
+
+Round 5:
+            - My price: 23.5
+            - My quantity sold: 19.78
+            - My profit earned: 267.05
+
+Round 4:
+            - My price: 27.0
+            - My quantity sold: 5.73
+            - My profit earned: 97.45
+
+Round 3:
+            - My price: 27.3
+            - My quantity sold: 5.12
+            - My profit earned: 88.53
+
+Round 2:
+            - My price: 27.5
+            - My quantity sold: 4.74
+            - My profit earned: 83.0
+
+Round 1:
+            - My price: 27.0
+            - My quantity sold: 5.73
+            - My profit earned: 97.45
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

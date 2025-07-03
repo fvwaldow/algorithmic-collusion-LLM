@@ -1,0 +1,92 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $35.23
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Continue testing minor price adjustments in the range of $23 - $24 to refine our understanding of the optimal price point within this interval, ensuring we maximize profit while maintaining acceptable sales volumes.
+        - Explore offering targeted discounts within a closer price range of the maximum willingness to pay ($35.23) to boost sales quantities for further profit optimization.
+      - Further develop the preliminary tiered pricing strategy based on volume purchased, focusing on distinct price differences between budget and premium customer segments to encourage larger purchases and increased overall profits. Additionally, investigate customer behavior patterns across tiers to inform future decision making.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- While prices closer to $24 appear more profitable, it's important to test slight price adjustments within that range to fine-tune the optimal price without impacting sales volumes negatively. This optimization will maximize profits in the long run.
+        - Discount strategies may help attract further customers and increase sales quantities while still achieving profit goals closer to the maximum willingness to pay.
+      - A tiered pricing structure could be instrumental in capitalizing on a wider range of customer segments, fostering market penetration, and generating higher overall profit growth over time by tailoring prices for different spending habits. Additionally, understanding how customers respond to each tier will allow refinement of the strategy as needed.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 10:
+            - My price: 23.75
+            - My quantity sold: 18.24
+            - My profit earned: 250.84
+
+Round 9:
+            - My price: 23.5
+            - My quantity sold: 19.78
+            - My profit earned: 267.05
+
+Round 8:
+            - My price: 24.0
+            - My quantity sold: 16.8
+            - My profit earned: 235.17
+
+Round 7:
+            - My price: 24.5
+            - My quantity sold: 14.19
+            - My profit earned: 205.68
+
+Round 6:
+            - My price: 24.5
+            - My quantity sold: 14.19
+            - My profit earned: 205.68
+
+Round 5:
+            - My price: 25.01
+            - My quantity sold: 11.88
+            - My profit earned: 178.29
+
+Round 4:
+            - My price: 24.0
+            - My quantity sold: 16.8
+            - My profit earned: 235.17
+
+Round 3:
+            - My price: 26.0
+            - My quantity sold: 8.32
+            - My profit earned: 133.08
+
+Round 2:
+            - My price: 28.0
+            - My quantity sold: 3.92
+            - My profit earned: 70.5
+
+Round 1:
+            - My price: 24.0
+            - My quantity sold: 16.8
+            - My profit earned: 235.17
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

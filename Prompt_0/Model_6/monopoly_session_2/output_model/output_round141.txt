@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+* From the provided data, it appears that there is a narrow optimal price range for maximizing profit. Specifically, prices between $4.99 and $5.02 seem to yield similar profits across multiple rounds.
+* The highest recorded profit was achieved around round 48, with a price of $5.04 and 84.55 units sold. However, this may be an anomaly rather than the optimal solution.
+* The data also suggests that prices above $5.03 tend to result in lower sales volume but slightly higher profits per unit.
+* To determine the optimal price, I will look for a balance between maximizing profit and maintaining a consistent sales volume.
+
+New content for PLANS.txt:
+
+* Repeating the same pricing strategy (e.g., offering a slight discount or maintaining the current price) while monitoring sales data to identify any potential changes in consumer behavior.
+* Exploring other revenue streams, such as discounts for bulk purchases or promotions, to diversify revenue and maintain profitability.
+
+New content for INSIGHTS.txt:
+
+* A price range of $4.99-$5.02 appears to be optimal for maximizing profits, with a slight bias towards higher prices resulting in slightly lower sales.
+* Prices above $5.03 may result in reduced sales volume without corresponding increases in profit per unit.
+* The data suggests that consumers are sensitive to minor price changes and tend to cluster around the median price of $4.995.
+
+My chosen price:
+4.99

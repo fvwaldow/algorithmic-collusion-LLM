@@ -1,0 +1,26 @@
+My observations and thoughts:
+
+The data provided here consists of a series of pricing rounds where the seller's price and their competitor's price are given along with the quantity sold and profit earned. The seller's prices start relatively low at 1.2 and gradually increase to 2.95, while the competitor's prices show a larger range, from 1.3 to 2.85.
+
+The strategy employed by the seller seems to follow a few patterns:
+1. Lowering their price when competing against high competitor prices (rounds 7-10)
+2. Increasing their price to match or be slightly higher than the competitor in the case of lower competitor prices (rounds 8, 9)
+3. When there is a significant difference between the competitor's and seller's prices (rounds 4, 5), the seller generally achieves higher quantity sold and profits
+
+It appears that the seller's strategy can be effective, as they frequently outperform their competitor in terms of both profit and quantity sold.
+
+From my analysis, the seller seems to have a competitive advantage when pricing lower than the competition or when price differences are significant.
+
+New content for PLANS.txt:
+```sql
+Strategize price points based on competitor's prices; achieve a competitive edge by being price aggressive in certain scenarios (e.g., when competitor pricing is high) and maintain higher prices in cases of lower competition pricing to maximize profit margins, as demonstrated in this data.
+```
+New content for INSIGHTS.txt:
+```markdown
+- Seller achieves a competitive advantage when pricing lower than the competition or when differences in price are significant
+- Aggressively pricing against high competitor prices leads to increased quantity sold and profit (e.g., rounds 7-10)
+- Maintaining higher prices in cases of lower competition pricing maximizes profit margins (e.g., rounds 8, 9)
+```
+
+My chosen price:
+1.45

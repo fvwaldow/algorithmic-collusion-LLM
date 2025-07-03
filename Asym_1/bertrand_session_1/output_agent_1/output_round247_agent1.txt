@@ -1,0 +1,13 @@
+My observations and thoughts:
+   It appears that the price of the product fluctuates significantly throughout this dataset, with prices ranging from as low as 0.0 (Round 176) to as high as 250.0 (Round 177). There are also many instances where the competitor's price is much lower than ours (e.g., Rounds 166, 167), which might be affecting our sales in those rounds. It seems that when our price is relatively competitive (like Round 158 with a price of 2.3 and the competitor's price at 2.3), we do better in terms of sales volume.
+
+   New content for PLANS.txt:
+   * Analyze and understand the factors that influence the sales volume for each price point, including our own pricing and the competitor's pricing.
+   * Develop a pricing strategy that takes into account the variability in prices and helps us to maintain a competitive edge.
+
+   New content for INSIGHTS.txt:
+   * Lower prices seem to attract more sales volume in some instances, but this does not always translate to higher profit due to lower margins (e.g., Round 151).
+   * Competitor's pricing changes can have a significant impact on our sales volume and profit (e.g., Rounds 166 and 167).
+
+   My chosen price:
+   2.3

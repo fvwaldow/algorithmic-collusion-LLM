@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+The data shows a clear trend of increasing profit up to a point ($159.75) when prices fluctuate around the sweet spot of $5.02-$5.08. However, it's crucial to maintain customer satisfaction, especially considering previous price increases above $5.12 didn't lead to significant gains in terms of quantity sold.
+
+A noticeable pattern emerges where customers are willing to pay higher prices for a certain quantity threshold. For instance, at Round 11 and later, the quantity sold remains consistent despite pricing adjustments around $4.99, indicating customer satisfaction is met at this price point.
+
+Considering these observations, our primary goals should be to optimize profits while maintaining stability in quantity sold by testing incremental price increases within the identified range of customer acceptance ($4.99-$5.08).
+
+New content for PLANS.txt:
+1. Test the upper limit of the sweet spot ($4.99-$5.08) by incrementally increasing prices to $5.10, then $5.12 to see whether profits decrease significantly.
+2. Investigate further by analyzing the relationship between price elasticity and profitability within this range.
+
+New content for INSIGHTS.txt:
+The data confirms that at low price points (Round 1), quantity sold increases significantly but results in a substantial loss due to high production costs ($2). At $4.98, higher quantity sold resulted in increased revenue without sacrificing much profit potential, indicating that even minor price adjustments can lead to significant economic gains when done correctly.
+
+It's also worth noting that above $5.12 (Round 7 and Round 13), the relationship between price increase and profitability is not as linear; a more nuanced pricing strategy may be required.
+
+Given this analysis and our goals of maximizing profitability, we should choose a price within the established sweet spot range ($4.99-$5.08) to ensure customer satisfaction while capturing maximum revenue.
+
+My chosen price:
+$5.05

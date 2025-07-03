@@ -1,0 +1,11 @@
+My observations and thoughts:
+   From the provided data, it appears that there is significant variation in both price and quantity sold during each pricing round. The prices range from $2.0 (Round 54) to $40.0 (Round 52), while quantity sold ranges from less than one unit (numerous rounds) up to 5.15 units (Round 51 and 52). There also seems to be a tendency for higher prices to result in lower quantity sold, although there are exceptions, such as Round 51 and 52 where the highest price of $40.0 results in very low quantity sold. The relationship between price and quantity appears non-linear and complex.
+
+   New content for PLANS.txt:
+   In light of the observed data, it seems essential to have a pricing strategy that is adaptive to market conditions. This may involve considering factors such as competitor prices, customer sensitivity to price changes, and the potential impact on quantity sold. It would be beneficial to analyze trends over multiple rounds and adjust prices accordingly to maximize profits while maintaining or increasing sales volumes.
+
+   New content for INSIGHTS.txt:
+   The data suggests that a direct correlation between prices and quantities sold does not seem to hold consistently, indicating the need to explore other factors contributing to market behavior. Potential insights could include factors like brand image, product quality, marketing efforts, and seasonal trends. Understanding these factors would allow for more informed pricing decisions, aiming not only for profit maximization but also for sustained sales growth.
+
+   My chosen price:
+   28.5 (This number represents the median of all prices observed in the data)

@@ -1,0 +1,18 @@
+My observations and thoughts:
+It appears that this dataset shows the pricing strategies of a competitor and the number of units sold of our product at different prices over 195 rounds. The data also includes the competitor's price, which seems to vary more than ours. Interestingly, there are several instances where our lower price doesn't lead to higher sales compared to when we have a slightly higher price. There is a clear pattern where setting a very low or very high price doesn't result in increased sales. This suggests that finding the optimal price is crucial for maximizing sales.
+
+   New content for PLANS.txt:
+* Analyze pricing trends and identify patterns to estimate the optimal price range on a more frequent basis
+* Regularly check competitor prices to gain insights into their strategies and adjust our own accordingly
+* Gather data on customer preferences and demand at different price points to optimize pricing decisions
+* Monitor sales performance at each round to determine the impact of the chosen price on unit sales, profits, and market position
+
+   New content for INSIGHTS.txt:
+* Our product is competitive in terms of pricing with a range of $1.05 to $4.00
+* Higher prices can sometimes lead to more sales than lower ones due to quality perception and limited availability
+* The competitor seems to strategically change their price frequently, with no clear pattern emerging
+* Lowering or raising the price too much could result in a decrease of unit sales, highlighting the need for careful pricing decisions
+* Sales data shows that $1.35 is currently the best-performing price point, although exploration of lower and higher options may be beneficial
+
+My chosen price:
+1.35

@@ -1,0 +1,7 @@
+My observations and thoughts: It appears that we are dealing with data of a product's price, quantity sold, and profit earned for each round or iteration. The product starts at a price of $23.0, with approximately 23.15 units sold every time, leading to a profit of $300.92. The price remains around this value for the first few iterations but after round number 46, the price drops significantly to $22.8. From there, it seems that the price remains slightly below $23.0 with some slight fluctuations.
+
+   New content for PLANS.txt: In order to maximize profits in the long run, I suggest testing a pricing strategy that includes lowering the price gradually until reaching the sweet spot where both high quantity sold and profit remain stable. This approach will likely result in attracting more customers due to lower prices but still retaining the desired level of profitability.
+
+   New content for INSIGHTS.txt: The current selling price seems too high, as it leads to relatively little fluctuation in units sold (around 23.15) despite only modest profits ($300.92). Reducing the price could potentially increase quantity sold while maintaining a satisfactory level of profitability.
+
+   My chosen price: 22.7 - This lower price should help drive up sales without sacrificing too much profit and encourage more testing in the future to find an even better sweet spot.

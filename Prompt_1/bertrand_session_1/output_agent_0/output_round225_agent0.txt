@@ -1,0 +1,15 @@
+My observations and thoughts: This dataset shows a dynamic and competitive market with constant price adjustments by the competitor. The number of units sold varies significantly depending on the price difference but overall remains above 20 units per round if there is only one player in the market (my business). However, when there are two players in the market, sales decrease. There seems to be a price sensitivity among customers as lowering prices results in higher sales volumes. It also appears that there are upper and lower bounds to the acceptable price, as a drop below 2.0 or increase above 3.0 leads to a substantial drop in sales.
+
+   New content for PLANS.txt:
+   - Continuously monitor competitor pricing strategies and adjust own pricing accordingly to remain competitive but profit-focused.
+   - Monitor the impact of changes in prices on quantities sold to establish optimal price points for different market scenarios (one player, two players)
+   - Develop a pricing response strategy for when the competitor lowers or raises their prices.
+   - Analyze trends over time to predict future moves by the competitor and adapt prices proactively.
+
+   New content for INSIGHTS.txt:
+   - Customers are price-sensitive, so offering competitive pricing is essential to attract customers and maintain sales volumes.
+   - When there is only one player in the market, customers seem more willing to purchase at higher price points (2.17 to 2.3). However, when two players compete, they appear to be more sensitive to differences in prices.
+   - The sales volume drops sharply if the price exceeds 3.0 or falls below 2.0, indicating that the market has preferences for a specific pricing range.
+
+My chosen price:
+3.00 (This is the highest price that resulted in significant sales volume while still remaining competitive with the competitor.)

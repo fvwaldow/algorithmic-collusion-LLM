@@ -1,0 +1,13 @@
+My observations and thoughts: It appears that there have been 203 pricing rounds in this dataset. The prices range from as low as 19.00 to as high as 50.00, with the initial price being 30.00. There are several instances where the price was reduced (to increase sales) or increased (due to increased demand or cost) over time. It seems like the sales quantity varies greatly depending on the price set- from very low quantities at high prices to somewhat higher quantities at lower prices. Some prices appear to be more successful than others based on the volume of sales they generate.
+
+   New content for PLANS.txt:
+   I propose the following strategies for pricing decisions:
+   - Analyze past pricing rounds and their respective sales volumes, identifying patterns that show which price ranges are most effective in generating higher quantities of sales.
+   - Consider factors such as market demand, cost, and competitors' prices when deciding whether to lower or raise prices.
+   - Regularly review the pricing strategy to adapt and respond to changing market conditions and customer preferences.
+
+   New content for INSIGHTS.txt:
+   From the analysis of this dataset, it can be seen that the relationship between price and sales volume is not linear, with lower price points generating higher quantities in some cases but ultimately impacting profitability. The success of a pricing strategy seems to depend more on timing and understanding market dynamics rather than simply selecting an optimal 'best' price. Additionally, it appears that customers are price sensitive, as the quantity sold changes appreciably for even small variations in price. This insight could be useful when making decisions about competitive pricing strategies or product positioning.
+
+   My chosen price:
+   30.00

@@ -1,0 +1,11 @@
+After analyzing the data provided, I can observe the following patterns and points of interest:
+1. There is a visible fluctuation in both price and quantity sold with each round, indicating sensitive market conditions and varying response to different pricing strategies.
+2. Notably, when the price was lowered from approximately $13 to around $10 (Rounds 72-74), sales went up significantly but profit earned drastically decreased due to a lower selling price.
+3. When the price increased sharply again from around $13.05 to around $26.5 (from Rounds 39 to 41), the quantity sold notably dropped, though it is important to remember that in Rounds 45 and 47 (with a bit lower price) more significant profit was still achieved due to higher sales.
+4. There seems to be an inverse relationship between price and quantity sold, meaning lowering the price could potentially increase the volume of products sold.
+
+Based on these insights and keeping the goal of maximizing profits, I would recommend experimenting with the following approaches:
+
+1. In the PLANS.txt file, consider incorporating a strategy to explore a range of prices, starting from the lower end (where sales are more significant but marginally profitable) towards the higher end (where profits are considerably higher per unit sold, but at decreasing volumes). This approach will give a clearer view of where on the price-quantity curve max profit can be achieved.
+2. In the INSIGHTS.txt file, continually evaluate the correlation between changes in price and sales/profit. This analysis could reveal optimal product pricing strategies to improve profitability. Also, keep an eye out for external factors such as market trends or competitor actions that may necessitate adjustments in your pricing strategy.
+3. My chosen price: Given the observed patterns and insights from the historical data, I would recommend starting with a price just above $13 (rounded up to the nearest cent, e.g., $13.025). This ensures a balance between maintaining adequate profit margin and not alienating potential customers due to an excessively high price. Remember that this initial choice is a hypothesis rather than a fixed strategy, and adjustments should be made based on continuous performance evaluation against set metrics.

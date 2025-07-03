@@ -1,0 +1,17 @@
+My observations and thoughts:
+From the data provided, it appears that my profit is heavily influenced by the quantity sold in addition to the price. I notice a mix of high-profit rounds where both price and quantity are favorable, and low-profit rounds where either the quantity sold is minimal or the price is not optimal. It's also striking that some price points (like $12.50) frequently occur across different quantities sold, which suggests they might be a sweet spot.
+
+New content for PLANS.txt:
+```plaintext
+Adjust prices based on both profit margin and quantity sold. Maintain focus on achieving steady profits while considering the elasticity of demand at different price points. Consider implementing a dynamic pricing strategy that reflects current market conditions and historical performance data.
+```
+
+New content for INSIGHTS.txt:
+```plaintext
+* **Observation 1:** The rounds with the highest quantity sold often coincide with slightly higher prices, indicating a positive relationship between price and demand. This suggests that consumers are willing to buy more at moderately increased prices.
+* **Observation 2:** $12.50 is a recurring price, yielding consistent profits. Exploring the reasons behind this consistency might reveal an optimal price range for our product.
+* **Observation 3:** There's a noticeable fluctuation in profits, especially when moving from high to low quantity sold, indicating that quantity is a critical factor alongside price. Strategies should focus on increasing sales volume to leverage higher profit margins.
+```
+
+My chosen price:
+45

@@ -1,0 +1,13 @@
+My observations and thoughts:
+   It appears that the product's price has been fluctuating significantly across various rounds, from as low as 6.4 to as high as 11.23. The competition's price also varies, but it tends to be higher than our own. At times, we set a lower price and manage to sell more units, such as in Round 21 where the competitor's price was 9.0 but our quantity sold was 21.4. However, at other times, even with a higher price, we still do not sell as much as the competition, like in Round 18 where their price was 7.49 and they sold more than us. It seems that finding that optimal price point is crucial for increasing sales while maintaining profitability.
+
+   New content for PLANS.txt:
+   In order to improve our sales numbers and maintain a competitive edge, we need to conduct further market research on pricing strategies. We should consider adjusting our pricing to reflect the variations in supply and demand over different rounds, as well as the competition's prices. Additionally, it would be beneficial to analyze sales volumes at each price point for a more detailed understanding of how changes in price impact sales numbers.
+
+   New content for INSIGHTS.txt:
+   So far, we have observed that lowering our price can result in increased sales, but only when the competitor's price is significantly higher. Conversely, charging a higher price than the competition does not necessarily translate into greater sales. It seems that determining the optimal pricing strategy requires careful consideration of both our own and the competition's prices and sales volumes at each round. In addition to pricing, analyzing market trends and consumer behavior will be crucial for making informed decisions about product pricing in the future.
+
+   My chosen price: (fill in here by running a machine learning algorithm or using your own judgment based on observations)
+   7.5
+
+   Note that I have not provided specific code for the machine learning part as a clear problem definition, dataset preparation, and model selection is required to implement such a solution. Also, it's important to note that my judgement was based purely on the observations presented. For an actual project, data analysis would be needed for more concrete results.

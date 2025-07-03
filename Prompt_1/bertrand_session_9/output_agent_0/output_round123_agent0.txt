@@ -1,0 +1,11 @@
+My observations and thoughts:
+   The data provided displays the selling price, competitor's price, quantity sold, and profit earned for each round throughout a significant number of pricing transactions. I noticed that some periods show rapid price increase (>0.5 increase from previous round) while other periods exhibit more consistent or even price drops. Additionally, we can see cases where the price of our product is significantly higher than the competitor's in some rounds and lower in others. This dynamic seems to impact both the quantity sold and profit earned; when our price increases but not as much as the competition, the quantity decreases noticeably, and the profit also drops. On the other hand, when our price beats the competitor's by a large margin, we see an uptick in profits despite lower sales figures.
+
+   New content for PLANS.txt:
+   Maintain competitive pricing to attract customers while ensuring profitability; monitor market conditions and respond quickly to changes in competitor strategies or external factors impacting demand for our product.
+
+   New content for INSIGHTS.txt:
+   Competition plays a significant role in our pricing strategy, with higher prices leading to lower sales quantities but sometimes maintaining higher profits. Conversely, we find that lower competitive prices can drive more sales when they provide a significant advantage over the competition, even if profit margins are narrowed as a result. The data demonstrates an inconsistent relationship between price, quantity sold, and profit earned, suggesting a complex interplay of factors affecting each pricing round. Additional research is needed to understand these nuances and develop more accurate predictions or strategies for optimization in future pricing decisions.
+
+   My chosen price:
+   6.75

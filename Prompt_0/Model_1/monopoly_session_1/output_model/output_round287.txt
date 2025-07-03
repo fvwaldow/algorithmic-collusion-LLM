@@ -1,0 +1,29 @@
+My observations and thoughts:
+Okay, this is a multi-round pricing exercise. The data shows a consistent profit margin of $3.60 per unit when selling at $3.00. There's also a significant variance in sales volume depending on the price point. The lowest price of $2.50 generates substantially higher sales volume (11.92 units) compared to the consistently sold $3.00. This suggests a strong price elasticity of demand – consumers are very sensitive to price changes. The data also indicates that a move to $2.80 sells for 3.92 units.
+
+New content for PLANS.txt:
+```
+ROUND: 1
+PRICE: 3.00
+SALES: 1.8
+PROFIT: 3.60
+OBSERVATION: Initial pricing at $3.00 yields a consistent profit margin and a reasonable sales volume.  We’ll maintain this price for the next round to gather further data.
+
+ROUND: 2
+PRICE: 2.80
+SALES: 3.92
+PROFIT: 3.60
+OBSERVATION: The same sales volume has occurred at a lower price point.  We should continue to move towards a lower price to gain more sales than if we sell at the standard $3.00.
+
+ROUND: 3
+PRICE: 2.50
+SALES: 11.92
+PROFIT: 17.88
+OBSERVATION: The highest sales volume has occurred at the lowest price, indicating a strong demand. We will continue to maintain this price.
+```
+New content for INSIGHTS.txt:
+```
+KEY INSIGHT:  Significant price elasticity of demand.  A $0.50 decrease in price dramatically increases sales volume.  Sales volume is highly sensitive to pricing changes. Lower is better.
+```
+My chosen price:
+2.5

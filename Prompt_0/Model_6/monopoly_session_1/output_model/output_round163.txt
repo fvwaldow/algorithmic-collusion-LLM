@@ -1,0 +1,21 @@
+Here's my response:
+
+**My observations and thoughts:**
+
+* The data shows a wide range of prices, with some rounds having very high profit margins (>5) while others have much lower profit margins (<1).
+* There are clusters of consecutive rounds that have similar price points (e.g., Rounds 1-10 have multiple rounds with prices around $2.95-$3.00).
+* The graph of profit margins over time appears to be quite dynamic, with peaks and valleys that don't follow a clear trend.
+* To maximize profits, it would be important to identify the optimal price range to target.
+
+**New content for PLANS.txt:**
+
+1. Identify clusters of consecutive rounds with similar prices: Annotate in the data which rounds have similar price points.
+2. Analyze profit margins over time: Plot a graph showing how profit margins change from round to round, and look for patterns or correlations.
+3. Explore non-linear relationships between price and profit: Run tests to identify any potential non-linear relationships (e.g., logarithmic or exponential) between price and profit.
+
+**New content for INSIGHTS.txt:**
+
+1. **The peak profit margin is around $5**: Noted in the data for Rounds 73-75.
+2. **Clusters of high profit margins indicate local optima**: Rounds with multiple consecutive high profit margins (e.g., Rounds 87-90) may indicate a local optimum price range.
+
+**My chosen price:** $2.97

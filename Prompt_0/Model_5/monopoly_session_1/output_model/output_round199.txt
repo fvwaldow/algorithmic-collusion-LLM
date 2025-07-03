@@ -1,0 +1,19 @@
+My observations and thoughts:
+The data provided shows various transaction results between price points ranging broadly from $2.28 to $31.0. There's a mix of successful transactions at different price levels, many zero-profit transactions where quantity sold is zero ($0 profit). Notably, there are sporadic high-profit transactions at certain distinct prices:
+
+- Prices yielding $3.6 (Rounds 123, 117)
+- Prices yielding $28.72 ($2.32 in Rounds 129 and 122)
+- High profit $30.09 consistently seen with the price point of $2.3 for specific quantities (Rounds 121, 120, 115, 114, 106)
+
+Patterns indicate that high profits correlate positively with a price closest to but generally lower than $2.4 and certain quantities close to or exactly 23 units. There appears an optimal range rather than fixed prices given varying successes across different rounds.
+
+New content for PLANS.txt:
+Focus on pricing around $2.3-$2.4 marks with specific attention to quantities of approximately 20-24 units, balancing profit with sales volume potential. Test incremental increases from this benchmark, as higher values like $31.0 saw zero transactions, suggesting resistance or lack of market presence at that price point.
+
+New content for INSIGHTS.txt:
+High profit tends to gravitate around prices slightly below and including $2.4, hinting a sweet spot exists where profitability meets volume. Quantity sensitivity shows a preference for batches between 20-24 items. Higher prices (especially $31.0) yield no transactions implying market saturation or indifference at that level; thus, focus should be on the established optimal range without venturing too far into unexplored territories without transaction history.
+
+My chosen price:
+2.35
+
+This adjusted figure still sits within observed successful profit zones while accounting for some of the higher-yielding quantities noted above and offers a cushion before moving towards potentially less effective upper ranges explored sporadically in historical data.

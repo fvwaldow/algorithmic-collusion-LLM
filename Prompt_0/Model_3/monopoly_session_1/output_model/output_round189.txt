@@ -1,0 +1,17 @@
+Observations and thoughts from the given historical data:
+1. Historical price - The average asking price is around $2.50 with a slight fluctuation but consistently stayed above $2.00.
+2. Quantity Sold - Over 97 rounds, the quantity sold per round ranged from as low as 0.0 to a high of 98.2, which indicates that demand can significantly vary within a certain range, with an average quantity of roughly 12 units per round.
+3. Profit earned - This varies widely, but when the price is set closer to $2.50 or above (excluding Round 92), the profit earned tends to be higher or positive (excluding zero profits). When the price was lower ($1.00 in Rounds 98 & 99) no profit was made.
+
+Based on these insights and my chosen pricing strategy, I would recommend:
+
+New content for PLANS.txt:
+Consider implementing a dynamic pricing model with some range for flexibility to account for demand variations. Start at a price point slightly above the average historical price of $2.50 to maintain high profit margins while being competitive in the market. When appropriate, adjust this main price point slightly lower or higher based on recent sales and customer feedback/demand trends.
+
+New content for INSIGHTS.txt:
+- Monitor pricing strategy closely, make adjustments regularly based on observed price points and quantities sold.
+- High demand correlates with a higher asking price (around $2.50). 
+- The product has seen sales volume between 0 to around 100 units per pricing round, requiring the flexibility to adapt volumes into current pricing strategy.
+- Keep an eye on market trends and competition pricing. 
+
+My chosen price: Given the observations, I would recommend starting with a price of approximately $2.50, which aligns with the average successful historical price point while also taking into account that prices above this average have shown higher profit generation. This decision is subject to regular adjustments based on demand and sales trends.

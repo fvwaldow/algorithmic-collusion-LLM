@@ -1,0 +1,15 @@
+My observations and thoughts: The data provided represents pricing information for a certain item over several rounds, with each round recording the seller's price, competitor's price, quantity sold, and profit earned in a given pricing strategy. It appears that the seller starts at a high price point, but quickly lowers it to compete with a lower-priced competitor. By Round 5, the seller's price has nearly match the competitor's price. The largest quantities of items are sold when the seller's price was slightly higher than the competitor's price, yet still competitive. Overall, the seller earns the most profit in rounds where the price is lower and quantity sold is high (eg. Round 21). It seems as though a balance must be struck between being competitive with the competitor and maximizing profits.
+
+   New content for PLANS.txt:
+   - Maintain competitive pricing, but strive to optimize profit margins by analyzing each round's data and trends.
+   - Employ strategic price drops to drive an increase in quantity sold when the competitor raises their prices (eg. Rounds 21, 19)
+   - Monitor market trends and adjust pricing accordingly based on competitors' moves
+   - Utilize past sales data to gauge the optimal balance between profit and volume
+
+   New content for INSIGHTS.txt:
+   - Highest profit rounds typically occur when there is a moderate difference in price between seller and competitor (eg. Rounds 21, 19)
+   - Lowering prices increases sales quantity without too much impact on profits in several instances (Rounds 6, 5)
+   - Maximizing profit while maintaining competitiveness requires a delicate balance between pricing strategy rounds
+   - The impact of competition on overall profit and sales should always be considered when adjusting price points and strategic decisions.
+
+   My chosen price: This would depend on the optimal balance between maximum profit and quantity sold based on historical data analysis (eg. Rounds 21, 19). However, using Round 21 as an example and adjusting for inflation or current market conditions, a price of $60 would be a possible choice while maintaining competitiveness and optimizing profits.

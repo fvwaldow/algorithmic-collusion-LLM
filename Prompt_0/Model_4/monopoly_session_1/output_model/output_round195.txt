@@ -1,0 +1,10 @@
+My observations and thoughts:
+I've noticed a trend where higher prices generally lead to lower quantities sold, and vice versa. The profit earned tends to be highest with the price of 2.65, consistently yielding 11.41, across several rounds, which suggests it might be an optimal point balancing revenue and demand. It seems there's a slight increase in profit at round 108 with $2.45$, indicating customer sensitivity to price changes, though still maintaining a relatively high profit margin.
+
+New content for PLANS.txt:
+Increase price by increments of $0.10 starting from *current price* if previous rounds show higher profits.
+
+New content for INSIGHTS.txt:
+Pricing round 98 shows a sharp profit uplift to $3.6 from $2.6$, hinting at increased consumer sensitivity. However, increasing beyond $3.0 starts to diminish profit significantly. The stable $11.41$ profit at $2.65$ across rounds might suggest an elasticity point where consumers still find the product acceptable but are not overly price-conscious.
+
+My chosen price: $2.65$

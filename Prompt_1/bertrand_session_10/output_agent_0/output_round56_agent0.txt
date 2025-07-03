@@ -1,0 +1,16 @@
+My observations and thoughts:
+   - The competitive landscape seems quite dynamic with frequent changes in prices from the competitor. It appears they tend to price high initially (12.5) but then drop their prices significantly after a few rounds (-60%). On the other hand, my initial price starts high as well (8.0), but over time, I reduce it more gradually (dropping 40% from R1 to R5). This difference in pricing strategy could be exploited.
+   - By closely matching the competitor's prices at certain rounds, a higher quantity is sold, such as in round 23 with 64.27 units and round 13 with 51.23 units. However, pricing too close (round 9) or exceeding the competitor's price can result in lower quantities, such as in round 8 where only 1.96 units were sold.
+   - It appears that there is a sweet spot in terms of price where more quantities are sold. In round 23, both the competitor and I priced relatively lower compared to our earlier rounds. However, this tactic seems to be more effective for them as they maintain their prices at a lower range from then on.
+   - On the other hand, raising the price above the competitor's (as in round 1) or being too aggressive with the drop (round 7 and 11) might not be profitable due to low quantity sold.
+
+New content for PLANS.txt:
+   - Tailor pricing strategy based on the competitor's price, aiming for a sweet spot where more quantities are sold (comparable to round 23 with the competitor's price).
+   - Maintain this pricing approach throughout the game, adjusting prices slightly to stay competitive and maximize quantity sold.
+
+New content for INSIGHTS.txt:
+   - The competitor tends to price aggressively initially but then gradually drops their prices towards a more efficient range.
+   - There seems to be a sweet spot in terms of price where more quantities are sold, but finding this optimal price point requires careful observation of the competitor's moves and adjusting pricing accordingly.
+   - Aggressive pricing increases the risk of low sales, while prices that are too high compared to the competitor result in lower quantity sold as well.
+
+My chosen price: [5.75] (comparable to what worked in round 23 where both I and the competitor priced relatively lower)

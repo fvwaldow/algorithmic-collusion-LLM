@@ -1,0 +1,26 @@
+My observations and thoughts:
+
+* The data shows a consistent pattern of prices higher than the cost of the product (except for some extreme outliers like price $1 in Round 136). This suggests that the market can bear relatively high prices for this product.
+* Competitor's prices are generally lower, but only by small margins. This indicates there may be an opportunity to raise my own price slightly while still maintaining a competitive edge.
+* The quantities sold vary widely, but there seems to be a relationship between higher prices and reduced quantity sold. Specifically, when I set the highest price ($15) I sold the least, whereas lower prices led to higher quantities sold (up to $14). This could suggest that finding the optimal balance between profitability and volume may involve setting a slightly higher price than my current average of $13.95.
+* It's important to note that in some pricing rounds, competitors had no set price or sold no quantity at all (e.g., Round 142). In these cases, it seems like maintaining a consistent price above the cost could give me an advantage.
+* Overall, there seems to be room for adjusting my pricing strategy to potentially increase profitability while still ensuring competitive quantity sales.
+
+New content for PLANS.txt:
+```r
+Strategy adjustments for pricing:
+1. Raise prices slightly above the current average of $13.95, but be careful not to exceed $15 as it resulted in significantly lower sales in Round 150.
+2. Monitor competitor's moves closely and aim to maintain a slight pricing advantage where possible.
+3. Adjust price more frequently (every 10 rounds) to capitalize on competitor's mistakes, missed opportunities, or potential oversight.
+```
+
+New content for INSIGHTS.txt:
+```r
+Insights gained from data analysis:
+- Higher prices can lead to lower quantities sold in many cases. Striking a balance between profitability and sales volume may be key in optimizing the pricing strategy.
+- Competitors appear to price their products slightly below mine, but it's worth testing small increases in my price to see if I can command higher margins while still maintaining competitive quantity sales.
+- It is crucial to remain vigilant when competitors do not set a standard price (e.g., Round 142) because capitalizing on those opportunities could give an advantage over them.
+```
+
+My chosen price:
+13.75 (just the number, nothing else)

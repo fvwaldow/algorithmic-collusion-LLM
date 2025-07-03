@@ -1,0 +1,15 @@
+My observations and thoughts:
+
+Based on the provided data, it is clear that there is significant price variation across different rounds, with no obvious pattern or trend. The profit earned also varies widely, but appears to be consistently above $400 in most rounds, except for a few outliers.
+
+New content for PLANS.txt:
+1. Investigate the relationship between price and quantity sold to determine if there are any underlying market mechanisms at play.
+2. Determine the minimum price that can be set to maximize profit while still selling a sufficient quantity.
+
+New content for INSIGHTS.txt:
+A key insight from this data is that setting the price too low (e.g., $19 or $20) leads to increased quantities sold, but also results in relatively lower profits due to high sales volumes with decreasing profit per unit. On the other hand, setting the price too high (e.g., $23-$25) results in lower sales volumes and decreased overall profits.
+
+My chosen price:
+$22.50
+
+This price strikes a balance between the lowest average sale price ($21.00) and highest average sale price ($23.50), while also being relatively close to the median of the observed prices ($20.75).

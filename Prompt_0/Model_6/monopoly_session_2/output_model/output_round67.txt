@@ -1,0 +1,14 @@
+My observations and thoughts:
+Based on the provided market data, it's clear that there are some fluctuations in profit earned across different rounds. However, there is a consistent pattern of higher profits when the price is around $4.98-$5.02. The highest profits seem to be achieved when the price is at or below $5.04.
+
+New content for PLANS.txt:
+1. **Verify the lower bound of the optimal range**: Before making a final recommendation, it would be ideal to test if there's an even better price point available above $4.98.
+2. **Eliminate non-optimal prices**: To further optimize profits, we should aim to eliminate prices that are below $4.98, as they do not seem to yield higher profits.
+
+New content for INSIGHTS.txt:
+* The optimal price range for maximizing profit appears to be between $4.98 and $5.04.
+* Pricing above $5.04 leads to decreased quantities sold and lower overall profits.
+* It's essential to continue monitoring market demand, competition, and consumer preferences to ensure that our pricing strategy remains effective.
+
+My chosen price:
+$4.998

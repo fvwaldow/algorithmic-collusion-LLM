@@ -1,0 +1,19 @@
+My observations and thoughts:
+Based on the market data provided, it seems that a higher price point around $2.50 results in more units sold compared to a lower price point of $2.49, despite generating slightly lower profits per round. This suggests a possible demand for a slightly higher-priced product within the target consumer base. However, keeping the price under $3.99 is crucial as per the given product parameters. 
+ The recent rounds have yielded similar results with slight variations in profits and quantities sold but maintaining the profit margin above 17.88. It's important to note that while adjusting the price, it should always be under the constraint of demand as a higher price might lead to no sales at all.
+
+New content for PLANS.txt:
+Consider testing different prices within the range of $2.49 - $2.51 with incremental adjustments to find optimal points. The strategy should also include offering discounts or promotions during off-peak periods to boost sales and closely monitoring competitor strategies. 
+
+New content for INSIGHTS.txt:
+1. Balancing price with quantity sold is essential for maximizing profit, especially when the relationship between price point and unit sold shows an inverted U-shaped curve, like observed here.
+2. The target market seems sensitive to price changes, so slight adjustments can significantly impact sales volume.
+3. Implement discounts or promotions during off-peak periods to attract more customers and maintain competitiveness in the market.
+4. Keep an eye on competitor strategies to stay ahead of the competition. 
+5. Regularly analyze and adjust pricing strategy based on current market trends, as they might vary over time.
+6. Testing different price points under $3.99 is important to leverage possible demand variations.
+
+My chosen price: 
+$2.51 (reasoning: Given that higher prices within the range yield higher quantities sold and keeping in mind the sensitivity of the target market towards price changes, a price point slightly above $2.50 can be considered. This can lead to a potential increase in profit while continuing to sell within the maximum allowed limit)
+
+Remember, this strategy should be tested and evaluated over some rounds before finalizing as it takes into account the assumption of demand sensitivity noted in your market data history. Continuous analysis and adjustments should be made based on new data.

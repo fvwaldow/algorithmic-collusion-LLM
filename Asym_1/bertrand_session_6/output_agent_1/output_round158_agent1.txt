@@ -1,0 +1,13 @@
+My observations and thoughts:
+   - The data shows the quantity of items sold at different price points and also provides the profit for each sale. It appears that the optimal pricing strategy would be to raise prices when possible while still maintaining sales volume. For example, in many cases raising prices from 3.95 to 4.0 resulted in a higher profit per sale despite lower sales volume.
+   - Interestingly, there are instances where dropping the price slightly, such as from 4.1 to 4.0, still results in a higher profit per sale although with fewer sales. This could be due to increased demand or perceived value at a lower price point.
+   - There were also instances where significantly raising prices, such as from 3.95 to 4.5, resulted in no sales, indicating that consumers may have a ceiling for what they are willing to pay for this item.
+   New content for PLANS.txt:
+   - Maintain or slowly raise prices while still ensuring consistent, if slightly lower, sales volumes.
+   - Monitor the impact of price increases on sales volume and profit margin over time.
+ New content for INSIGHTS.txt:
+   - Optimal pricing strategy may be raising prices while maintaining sales consistency.
+   - Lowering prices may attract more customers and result in higher profits if sales volume remains steady.
+   - Consumers may have a ceiling for what they are willing to pay for this item, as evidenced by zero sales at certain price points.
+ My chosen price:
+ 4.0

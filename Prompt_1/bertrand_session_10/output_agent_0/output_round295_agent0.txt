@@ -1,0 +1,10 @@
+My observations and thoughts:
+It appears we have a dataset spanning 200 price points over a period of 198 pricing rounds. The prices range from as low as 4.0 dollars to as high as 10.5 dollars, with several fluctuations in the middle. It’s unclear if this is a continuous or discrete time series, but it seems to have some periodicity to it.
+   New content for PLANS.txt:
+* Investigate the temporal and structural patterns in the dataset to determine the underlying factors driving price changes
+* Consider implementing moving averages as a simple method of smoothing the data and identifying trends and cycles
+New content for INSIGHTS.txt:
+* Lowering prices may not necessarily increase quantity sold, especially if competitor's prices remain high (Rounds 197-198)
+* Slightly increasing prices from certain competitive price points can lead to a proportional increase in sales (examples can be found throughout the dataset where the price point alternates between lower and higher values)
+My chosen price:
+<5.0>

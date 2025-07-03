@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+The data suggests that there is a correlation between price and revenue. As prices decrease from $20.0 to $19.5 and then to $19.0, the quantity sold increases significantly, resulting in higher total revenue. However, at the same time, profit margins also increase when prices are lower.
+
+When comparing different rounds with similar quantities sold (e.g., Round 150 and Round 139), it appears that selling more units at a lower price can be more profitable. On the other hand, setting prices higher seems to lead to fewer units being sold (Rounds 160-164, where prices range from $20.0 to $20.35) while profit margins are similar or only marginally higher.
+
+New content for PLANS.txt:
+
+* Investigate the possibility of implementing a price floor to prevent the sales team from setting too low prices.
+* Consider using loss leaders to generate buzz and drive sales volume, targeting price-sensitive customers.
+* Analyze revenue and profit margins in greater detail, taking into account various scenarios and sensitivities.
+
+New content for INSIGHTS.txt:
+
+* There appears to be a "sweet spot" around $19.5-$20.0, where selling volume is substantial while profit margins remain satisfactory. Further investigation may reveal why this range is optimal.
+* Prices as high as $22.5 don't produce an apparent increase in revenue (Round 171), and might not be worth pursuing.
+* There's a noticeable jump in quantity sold from Round 138 to Round 139 when prices hit $19.0 but more studies are needed.
+
+My chosen price:
+
+$19.9

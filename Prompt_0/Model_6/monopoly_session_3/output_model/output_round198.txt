@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+The given data consists of 150 rounds of pricing with varying quantities sold and corresponding profits. The prices range from $18.75 to $23.0, and the quantities range from 23.15 (rounds 104) to 62.25 (round 149). I noticed that there is a high number of repetitions, especially at various price points ($19.95, $20.0, $21.5, etc.).
+
+Analyzing the data, it seems that pricing around $19-$20 has led to relatively stable quantities sold and profits. In many rounds where these prices were used, the quantities were between 45.02 and 60 (ex., rounds 102, 109, 125). It's also noticed that using a higher price ($21-$23) resulted in lower sales quantities.
+
+I see no clear indication of optimal pricing from the data; however, using $20 could result in balanced profits with reasonable market share. But more critical analysis or deeper mathematical modeling is needed to identify a true "optimal" strategy.
+
+New content for PLANS.txt:
+
+- Further investigate possible connections between quantity sold and profitability.
+- Consider analyzing correlations and trends across rounds of the data set.
+
+New content for INSIGHTS.txt:
+
+- The pricing mechanism seems flexible, with reasonable demand seen across various price levels.
+- Prices may not dictate revenue directly; a sweet spot might exist between supply/demand ratio and prices.
+
+My chosen price: 20.0

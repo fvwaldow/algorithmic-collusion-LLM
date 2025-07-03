@@ -1,0 +1,13 @@
+**Observations and Thoughts:**
+
+The data provided seems to represent a series of price adjustments and corresponding quantities sold, along with the resulting profit for each round. Profit calculations appear consistent, being derived from the product of price and quantity sold. There's a noticeable pattern where, for certain price points, the same quantity is sold repeatedly (e.g., 0.3 units at various prices), indicating a stable demand level for those prices. Additionally, the profit figures show a direct correlation with both price and quantity sold, highlighting the business model's focus on maximizing revenue per unit.
+
+**New content for PLANS.txt:**
+
+**Adjust pricing strategy by focusing on high-profit margin rounds (e.g., Round 99). Consider maintaining these profit levels by slightly adjusting prices to test elasticity in demand.** 
+
+**New content for INSIGHTS.txt:**
+
+"The data suggests that the business is operating under conditions where increasing price by a certain factor results in selling the same quantity demanded. This implies potential price elasticity boundaries, indicating that beyond these points, further price increases might not proportionally increase revenue due to reduced sales volume."
+
+**My chosen price:** 34.5

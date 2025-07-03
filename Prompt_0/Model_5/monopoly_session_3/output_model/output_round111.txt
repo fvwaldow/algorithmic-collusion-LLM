@@ -1,0 +1,11 @@
+My observations and thoughts:
+The data shows a significant variation in prices and corresponding profits across different rounds. Generally, lower price points tend to sell higher volumes but result in reduced profit per unit. Higher prices yield greater profit per unit but with fewer units sold. Round 38 resulted in substantial loss (-874.52), likely due to the extremely low price of $1.25. There are multiple occurrences where a price of $19.5 was used for selling around 55 units, yielding consistent profit of approximately $522.34. This suggests that $19.5 could be an effective middle-ground pricing strategy to balance between sales volume and profit margin.
+
+New content for PLANS.txt:
+Consider testing the effectiveness of the $19.5 price point more aggressively against other potentially viable mid-range prices like $20 or $19, to identify the optimal balance between volume and revenue. Analyze periods with significant loss (like Round 38) to understand what price drops led to such outcomes and guard against repeating these in future rounds.
+
+New content for INSIGHTS.txt:
+$19.5 might be a sweet spot for balancing quantity sold and profit per unit, given the repeated success with this pricing strategy across several rounds. However, explore slight variations around this price to refine findings. The extreme low-priced round (Round 38) indicates the need for careful analysis of market dynamics before drastic drops in prices to avoid substantial losses.
+
+My chosen price:
+19.5

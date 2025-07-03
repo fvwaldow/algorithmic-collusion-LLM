@@ -1,0 +1,13 @@
+My observations and thoughts: The provided data showcases a competition between two prices - approximately 3.5 and 4.9 - with some variations in between rounds. The higher price of approximately 4.9 seems to have minimal sales, while the lower price around 3.5 has more consistent but less profitable sales. Additionally, there appears to be a tendency for a downward trend in prices near the end of the data set, possibly as a reaction to increased competition or an attempt to increase market share.
+   New content for PLANS.txt: Focus on adjusting pricing closer to the 3.5 range to maximize units sold while maintaining profits by finding efficiency improvements. Monitor competitor's movements in real-time to react quickly to any shifts in their strategies.
+   New content for INSIGHTS.txt: The market seems responsive to lower prices around 3.5, indicating a price point that is attractive to consumers. It would be beneficial to identify the competitive advantages of other products at this price range and evaluate if such factors can be mimicked or improved upon. Competitor analysis will play an integral role in staying competitive and adjusting pricing strategy effectively.
+   My chosen price: 3.5
+   To help with the interpretation, I have also created a chart to visualize the data and provide a broader understanding of how the market is evolving:
+
+| Round | Competitor's Price | Our Price | Units Sold | Profit |
+|---|---|---|---|---|
+|1    |5.09                |4.99         |0           |0        |
+|.....       |..                   |...            |..          |..      |
+|30     |3.28              |3.29          |0.66       |1.49     |
+|...     |...                |...           |...         |...      |
+|95     |3.3                 |3.05          |1.41       |2.89     |

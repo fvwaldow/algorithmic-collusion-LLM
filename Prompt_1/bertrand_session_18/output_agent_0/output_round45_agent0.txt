@@ -1,0 +1,14 @@
+My observations and thoughts:
+From the market data, I can see that the relationship between price and quantity sold is not linear; lower prices initially led to increased sales but profitability suffered. Conversely, higher prices led to decreased sales but maintained or even improved profitability. The data suggests a potential sweet spot for pricing based on sales volume and profit.
+
+New content for PLANS.txt:
++ Continue investigating the impact of price elasticity by exploring middle ground prices where both volume and profit can be maximized.
+  + Analyze customer loyalty and purchasing frequency at different price points to determine optimal pricing strategies.
+  + Collaborate with data science team to develop predictive models that accurately forecast sales, profit, and market saturation based on different pricing strategies.
+
+New content for INSIGHTS.txt:
++ There is a balance between maximizing sales volume and maintaining (or improving) profitability in terms of pricing; not all price increases lead to decreased sales, and not all price reductions result in increased sales.
+  + Lower prices may initially attract more customers but can negatively impact profitability if sales do not offset the reduced margins; higher prices may reduce sales volume but can maintain or even improve profitability if the higher margin offsets lower sales.
+
+My chosen price:
+3.5

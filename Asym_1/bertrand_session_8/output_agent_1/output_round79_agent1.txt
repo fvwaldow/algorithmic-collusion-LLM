@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+From the provided data, it seems that the price initially started very high ($15.0) for which no quantity was sold (Q = 0). This suggests a market where customers are not willing to purchase the product at such a high price. Consequently, the price was reduced in subsequent rounds ranging from $13.0 to $6.98, with some occasional spikes like $13.0 again and $10.5.
+
+It is worth noting that setting a lower price seems to result in higher quantity sold (Q). For example, when the price was at its lowest ($6.98), 721 units were sold in Round 14 compared to only 3 units sold when the price was $10.5 in Round 7. Similarly, there is a significant difference in quantities sold between Round 5's highest price of $9.5 and Round 4's price of $8.0, where 0.2 units were sold vs. 11.27 units respectively.
+
+Another observation is that the competitor's price strategy seems to be a mix of high prices targeting customers not ready to pay the current price ($15.99 in Round 1 and $9.99 in Round 2) along with lower prices competing with our current offering (such as $7.0, $8.0, $10.5).
+
+Based on these findings, it appears that a more competitive pricing strategy could help increase sales while still maintaining some margin. In terms of short-term and long-term strategies, the business should focus on adjusting prices dynamically to stay competitive with market conditions in mind. Lowering the price temporarily may drive initial sales, but long-term plans should consider how this may affect the product's perceived value over time.
+
+New content for PLANS.txt:
+Adopt a dynamic pricing strategy that is competitive with the market while still ensuring profitability. Monitor trends and adjust prices accordingly to maximize sales at any given time without damaging the perception of our offering.
+
+New content for INSIGHTS.txt:
+1. Lowering prices generally leads to an increase in quantity sold, up to a point (i.e., Round 5 vs Round 3).
+2. It may be necessary to initially lose some margin to gain market traction but then raise prices as trust and perceived value increase among customers (i.e., Round 4 and following rounds with relatively stable pricing)
+3. Competitors occasionally use low prices as a strategy, which should be considered when setting our own pricing.
+
+My chosen price:
+7.0

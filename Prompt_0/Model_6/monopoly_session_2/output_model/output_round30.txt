@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+Based on the market data provided, I notice that there are two distinct price ranges that maximize profit: $4.99-$5.05 and $5.08-$5.12. Within these ranges, the profit is relatively stable and increases slightly as prices move closer to the upper bound. However, when prices exceed $5.05 or drop below $4.99, sales significantly decrease, resulting in lower profits.
+
+It's also worth noting that the price of $5.04 seems to be a sweet spot, consistently producing high profits with minimal fluctuations across multiple rounds (Rounds 26-28). Additionally, Round 21 and 20 provide identical data, suggesting potential anomalies or data entry errors.
+
+New content for PLANS.txt:
+1. Confirm the optimal price range by testing prices within $4.99-$5.12 to see if my observations hold.
+2. Investigate why sales decrease when moving above or below this optimal range (e.g., Round 13 vs Round 15, $4.95 in Round 3).
+3. Attempt to replicate the consistent profits of Round 21 and 20 to ensure these results are not an anomaly.
+
+New content for INSIGHTS.txt:
+1. The presence of two distinct profit-maximizing price ranges ($4.99-$5.05 and $5.08-$5.12) suggests a possible revenue-cap strategy or exploring a narrower optimal range within the identified $4.99-$5.12 band.
+2. Consistent high profits with minimal fluctuations were observed at prices of $5.04, which may be worth further investigation as a target price.
+
+My chosen price:
+4.992

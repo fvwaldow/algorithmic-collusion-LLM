@@ -1,0 +1,16 @@
+My observations and thoughts:
+    - It appears that the profit is highest when the price is mid-range and slightly higher than the competitor’s price ($12-13). Higher prices lead to a significant drop in quantity sold, but with profits still higher than the production cost. There's also an observed trend of increased profitability when the price lies between the user's and the competitor’s prices.
+    - Further investigation is needed to establish the optimal price that maximizes profit while maintaining a competitive edge over the competitor.
+    - It would be beneficial to develop a dynamic pricing strategy considering historical sales, competitor's price, market trends, and customer purchasing behavior.
+    - Regular monitoring of quantities sold at different prices will help identify sweet spots for profitability and demand.
+
+New content for PLANS.txt:
+  1. Investigate the relationship between price, quantity sold, and profit to find the optimal price range.
+  2. Develop a dynamic pricing strategy using machine learning algorithms or heuristics.
+  3. Monitor quantities sold at different prices and adjust accordingly.
+
+New content for INSIGHTS.txt:
+  - Adopting a middle-ground pricing strategy can lead to higher profitability while maintaining competitiveness.
+  - Dynamic pricing strategies are crucial in adjusting to changing market conditions and customer behavior.
+
+My chosen price: 12.50 (close to the average of identified successful prices)

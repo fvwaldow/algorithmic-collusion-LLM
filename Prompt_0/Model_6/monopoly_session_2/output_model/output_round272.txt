@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+Based on the market data provided, it appears that there is a clear pattern of profit and sales quantity. At prices between $4.99 and $5.02, the profit earned is consistently around $152-$155, while at other prices, the profit varies but does not reach this level. This suggests that the optimal price range may be within this band.
+
+However, there are also some outliers in the data, such as round 215 where a price of $4.95 resulted in significantly higher sales but lower profit per unit due to a larger quantity sold at a slightly reduced price. This could indicate that there is a sweet spot in pricing around $5, where both profit and sales are maximized.
+
+New content for PLANS.txt:
+
+* Investigate the effect of prices around $4.99-$5.02 further, potentially by testing prices within this range
+* Attempt to replicate the high sales quantity from round 215 with similar pricing strategies
+
+New content for INSIGHTS.txt:
+
+* A clear optimal price range has emerged at $4.99-$5.02, where profit per unit is maximized
+* A potential sweet spot in pricing exists around $5, balancing both high sales and profit per unit 
+
+My chosen price:
+$5

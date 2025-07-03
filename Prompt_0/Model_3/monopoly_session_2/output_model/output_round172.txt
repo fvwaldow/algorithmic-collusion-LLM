@@ -1,0 +1,12 @@
+From the data provided, we can observe that the majority of the rounds have a price above $9.75, with some exceptions such as round 81 where the price was $12.5 and round 76 where the price was $13.0. The overall profit earned per unit is relatively small compared to the higher priced rounds, with an average profit of about 98 cents across all the rounds except for those two exceptions mentioned above.
+
+For the PLANS.txt file, we need to adjust our strategy based on these observations. We might want to consider testing prices closer to $10 in order to increase the quantity sold while keeping a good profit margin. Additionally, analyzing why the higher priced rounds resulted in lower sales could be crucial to understand consumer preferences and price sensitivity during these specific periods.
+
+For the INSIGHTS.txt file, we should focus on analyzing the factors that contribute to higher or lower sales and profits when testing different prices. Factors such as seasonality, competitors' actions, marketing campaigns, promotions or discounts provided, product availability, etc., could be contributing to these fluctuations in profits.
+
+Based on this analysis, my chosen price would need to incorporate a balance between unit profit margin and total revenue by selling more units at a slightly lower price. For example, testing a price around $10 could help achieve a good balance between cost per unit and higher sales volume while still maintaining a healthy profit margin.
++New content for PLANS.txt: Focus on testing prices closer to $10, with an emphasis on increasing the quantity sold while maintaining a good profit margin. Also consider seasonality, competitors' actions, marketing campaigns, promotions or discounts provided, and product availability when selecting pricing strategy.
+
++New content for INSIGHTS.txt: Consumer preferences and price sensitivity are crucial factors to consider when determining optimal prices. High-selling prices above $13 could indicate a potential barrier for consumers while still testing profitability. Lower sales in these rounds could indicate price sensitivity or potentially external market factors such as competition, seasonality, or product availability. Therefore, analyzing these insights can help improve pricing decisions and overall revenue generation strategies.
+
++My chosen price: $10 (this is an example; the actual optimal price may vary depending on further analysis and considerations)

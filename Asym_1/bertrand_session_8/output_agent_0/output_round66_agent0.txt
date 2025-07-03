@@ -1,0 +1,16 @@
+My observations and thoughts:
+   - The competitor's price varies significantly, from as low as 6.98 up to 15.99. However, it seems that higher prices correlate with lower quantity sold (with the exception of one instance where a very high price was chosen but a significant quantity was still sold).
+   - The competitor appears to have adopted a strategy of raising their price when the market demand is low and decreasing it when demand is high. For example, in Round 18, the competitor raised their price significantly while selling almost nothing, but in Round 20 they dropped their price to sell more units.
+   - We can also see that the competitor's strategy seems inconsistent as sometimes a lower price results in higher quantities sold (e.g., Rounds 10 and 31), suggesting they might be leaving potential sales on the table when they raise their price too high.
+
+New content for PLANS.txt:
+   - Analyze competitor's pricing strategy more closely to determine patterns and trends that can help us predict future behavior.
+   - Consider implementing a dynamic pricing strategy, adjusting our prices based on market demand and competitor's actions.
+   - Perform a sensitivity analysis of potential profit for different price points to guide our pricing decisions.
+
+New content for INSIGHTS.txt:
+   - The competitor appears to be using a dynamic pricing strategy that is not fully consistent with the effects on sales volume.
+   - Higher prices generally lead to lower quantity sold, but exceptions occur when demand is high (e.g., Rounds 10 and 31). It may be beneficial to consider differentiating our pricing strategy based on market factors.
+
+My chosen price:
+<8.5>

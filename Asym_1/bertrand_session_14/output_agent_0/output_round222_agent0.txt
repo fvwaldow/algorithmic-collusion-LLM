@@ -1,0 +1,19 @@
+My observations and thoughts: It appears that the data provided shows a series of pricing rounds between two entities, with each round containing the price of each entity's product, the quantity sold, and the profit earned. The data is not consistent in terms of which entity has a higher average price or sells more units per round, but there are some trends worth noting.
+
+   For instance, Entity 1 seems to have lower prices than Entity 2 in many rounds, and it often sells a higher number of units, resulting in a greater cumulative profit. However, in some cases when Entity 2 sets a much higher price (e.g., Round 142), Entity 1's sales drop significantly even though the profit remains relatively low.
+
+   It seems that a strategic approach to pricing, considering both the competitor's price and the potential impact on sales volume, is crucial for maximizing profits. A lower price (similar to Entity 1) may attract more customers, but it is important to consider if maintaining such a low price will impact long-term profitability due to diminishing returns from selling in larger quantities.
+
+PLANS.txt:
+1. Analyze pricing trends and identify rounds when a higher profit could be achieved by increasing or decreasing the current price.
+2. Consider setting prices that are competitive but still encourage high sales volumes.
+3. Monitor competitor's actions and adjust strategy accordingly; for instance, if Entity 2 consistently sets high prices, it might be beneficial to lower prices in subsequent rounds (unless it affects overall profitability).
+4. Evaluate the impact of changes in pricing on the product's perceived value or brand image, as it may influence long-term sales and customer loyalty.
+
+INSIGHTS.txt:
+1. Lower prices generally result in higher unit sales, but the relationship between price and profit is not always direct or proportional.
+2. Competitor's pricing actions should be considered when making pricing decisions; adapt strategies to exploit any observed weaknesses or opportunities.
+3. Maintaining a consistent pricing strategy may be important for building brand image and customer trust, but it is equally essential to remain flexible in order to maximize profits over the long-term.
+4. Analyzing data across multiple rounds can provide useful insights about the optimal price range and strategies for different market conditions.
+
+My chosen price: 13.92 (The price of Entity 1 in Round 129, which seems to be a relatively low price at which they sell considerable units)

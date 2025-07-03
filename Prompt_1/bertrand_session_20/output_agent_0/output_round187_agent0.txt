@@ -1,0 +1,22 @@
+My observations and thoughts: It seems that the data provided are the results of a series of pricing experiments, where the item's price varied, and so did its sales quantity (units sold) and the profit earned from each sale. I also noticed that there is a competitor's price indicated with each selling price. From this information, it appears that the goal was to find an optimal selling price that maximizes profits while remaining competitive against the rival.
+
+   New content for PLANS.txt:
+```markdown
+1. Continue analyzing pricing data from various rounds and compare it to competitor's prices.
+2. Look for patterns, trends or relationships between the selling price, units sold and profit earned.
+3. Perform statistical tests (e.g., correlation analysis, regression analysis) if necessary to determine if there are any significant associations between variables.
+4. Use insights gained to inform pricing decisions in future rounds and adjust strategies accordingly.
+5. Keep track of market trends, consumer behavior, and competitor moves for additional context and guidance.
+```
+
+   New content for INSIGHTS.txt:
+```markdown
+1. The item has experienced varying profits over the observed pricing intervals, with some rounds yielding higher returns than others.
+2. It is noticeable that when the item's price exceeded the competitor's price by a certain margin (e.g., ROUND 74), sales quantity decreased significantly and profit margins were lower due to fewer units sold.
+3. In general, there seems to be an inverse relationship between selling price and units sold, with higher prices leading to lower quantities being purchased and vice versa within a reasonable range of price fluctuation (e.g., ROUND 1 vs ROUND 74).
+4. Profit levels appear relatively stable in the mid-price range (e.g., ROUNDS 90, 95), indicating that these prices may be more optimal for maximizing profits while maintaining competitiveness against the rival.
+```
+
+   My chosen price: [insert the number] (this number will depend on your analysis of the data)
+
+(For example: **30.0**)

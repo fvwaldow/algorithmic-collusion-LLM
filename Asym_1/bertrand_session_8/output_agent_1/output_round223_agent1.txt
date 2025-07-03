@@ -1,0 +1,13 @@
+My observations and thoughts:
+   In this dataset, the price range for the product varies significantly from 10 dollars up to an undisclosed amount (competitor not giving prices in some instances). However, there seems to be a general trend of higher prices resulting in lower quantities sold compared to lower prices. Additionally, there are instances where changing the pricing strategy slightly had a drastic impact on sales. For example, reducing the price from 10.0 to 6.7 yielded 33.15 units sold (Round 133), and subsequently increasing the price back to 6.8 resulted in only 3.94 units sold (Round 126). This suggests that the product may have a sweet spot price that maximizes sales potential.
+
+   New content for PLANS.txt:
+   To optimize sales, we should focus on finding the optimal price range by experimenting with prices around the lower end of current pricing ($6) as well as adjusting price according to competitor's price fluctuations. Additionally, implementing a dynamic pricing strategy may help better adapt to market conditions.
+
+   New content for INSIGHTS.txt:
+   - Lower prices tend to result in higher sales (e.g., 33.15 units sold at $6.7 vs 3.94 units sold at $8.6)
+   - Finding the optimal price point may be crucial for maximizing sales potential
+   - Keep an eye on competitor's moves to adjust pricing strategy accordingly
+   - A dynamic pricing strategy could potentially help adapt to market conditions more effectively.
+
+   My chosen price: 6.5

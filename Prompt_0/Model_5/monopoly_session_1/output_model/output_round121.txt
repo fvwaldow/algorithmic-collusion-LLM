@@ -1,0 +1,22 @@
+My observations and thoughts:
+The data reveals a consistent range for the price of my product, ranging from approximately $2.28 to $2.35 across 71 rounds (rounded to two decimal places). However, there are frequent but non-consecutive occurrences where the price reached higher points ($3+), especially in Rounds 9, 74, and 76.
+
+There seems to be a pattern where the price adjustment frequently hovers between $2.31 and $2.35, indicating that these amounts might represent optimal pricing ranges. The higher end of this range ($2.35) appears less common but is noted multiple times when other competitive pressures or potential profit maximization seemed evident (such as in Rounds 49, 40, and 32).
+
+The volume sold varies significantly across rounds, with a general trend towards lower sales volume when prices are higher. The lowest recorded sales volume is associated with higher-priced instances ($3+), suggesting price sensitivity from buyers. 
+
+It is noticeable that more frequent price adjustments were made at around $2.31 and $2.35, indicating these could be key focal points rather than a continuous gradient. 
+
+New content for PLANS.txt:
+- Investigate the reasons behind high-priced rounds (e.g., Rounds 9, 74, 76). Determine if these were strategic moves or anomalies potentially due to external factors not captured in the data. 
+- Explore correlations between sales volumes and price points more systematically to identify exact price sensitivities of buyers.
+- Consider implementing a dynamic pricing model that utilizes insights from periods with optimal volume-price balances (e.g., around $2.31).
+
+New content for INSIGHTS.txt:
+- High frequency of rounds ($2.31, $2.35) suggests these might be psychological price points influencing buyer behavior. 
+- Volume drops significantly at higher prices indicate a clear price sensitivity among consumers. This insight could inform future pricing strategies to balance between profit maximization and sales volume.
+
+My chosen price: 
+- $2.31 
+
+This figure stands out as one of the most frequent yet still achieves a decent volume, suggesting it balances on profitability without drastically curtailing sales compared to other high prices encountered in the dataset.

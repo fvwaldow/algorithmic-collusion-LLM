@@ -1,0 +1,18 @@
+My observations and thoughts:
+    The optimal pricing range suggested is between $8 - $13. However, the highest profit earned was about $50 when the price was set at $13 in round 24, but the quantity sold (0.04) was very low. On the other hand, profits were considerable when the price was lower ($8.21, $8.05, and $9.22) and the competitor's price was higher. This suggests that while a slightly higher price could result in greater profit per unit due to a steeper upside of profit margin, selling more units at a slightly lower price could generate overall higher profits.
+
+    Additionally, taking a flexible approach towards pricing by incorporating real-time customer feedback, analyzing competitor actions, and using machine learning models can refine the pricing strategy.
+
+   New content for PLANS.txt:
+    - Use market data to continuously fine-tune current pricing range (e.g., select optimal prices within $7 - $10).
+         2. Monitor sales patterns and customer feedback trends in this new price range.
+           3. Regularly assess whether current approach generates the best overall profit by considering both unit price and quantity sold.
+         4. Gather real-time customer feedback through quick surveys or point-of-sale apps to inform pricing strategy.
+         5. Establish an automated system that adapts prices rapidly based on real-time competitor price changes while taking into account the impact on overall profit, not just maximizing profit per unit.
+
+   New content for INSIGHTS.txt:
+    - A lower price within a reasonable range can attract more customers and lead to greater profits in the long run due to higher sales quantity.
+        2. Real-time analysis of market data is crucial for adjusting prices effectively and staying competitive in the market.
+          3. A flexible approach towards pricing ensures that you continuously optimize your strategy based on changing customer preferences, competitor actions, and new insights.
+
+   My chosen price: 8.05 (Keeping the strategy flexible to closely examine the optimal price within the range of $7 - $10)

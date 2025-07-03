@@ -1,0 +1,14 @@
+My observations and thoughts:
+  Based on the market data provided, it appears that prices within the range of $[2.5, 3.0] are optimal as they both increase profitability and quantity sold. This is supported by the insights from previous pricing rounds. The competitor's price has a significant impact on potential optimal price points, as shown when we were more competitive (rounds 17-20) we experienced higher profits despite lower quantities sold. However, prices outside this range, notably 3.5 and above, resulted in zero sales.
+
+   New content for PLANS.txt:
+   - Continue implementing the dynamic pricing strategy within the optimal price range $[2.5, 3.0].
+        - Focus on monitoring and responding quickly to competitor’s pricing strategies to determine potential optimum price points for specific ranges.
+        - Test various price points within the identified optimal range to further refine the optimal selling price.
+
+   New content for INSIGHTS.txt:
+   - Competition plays a crucial role in determining the optimal price point, with higher competitions leading to zero sales (as seen in rounds 2-6).
+        - Monitoring competitor’s pricing and adjusting our own accordingly is essential for maximizing profits.
+        - Further research should be conducted on the factors that contribute to customer demand within the identified optimal price range.
+
+   My chosen price: 3.0

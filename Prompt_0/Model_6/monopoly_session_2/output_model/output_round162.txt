@@ -1,0 +1,27 @@
+I'll carefully review the information provided.
+
+**My observations and thoughts:**
+
+From the data, I notice that the price has varied significantly across different rounds. There are frequent changes in price, with some prices repeated or close together (e.g., Round 91-93 have the same price). The quantity sold generally stays around 85 units, but there are some deviations, particularly at higher and lower price points (Round 100 and Rounds 67, respectively).
+
+Some notable observations:
+
+* There's a general trend towards increasing prices over time, especially in the latter rounds.
+* Price fluctuations often occur around 5.0-5.04, with variations of $0.01-$0.06.
+* The highest profit earned is $161.21 (Round 100), achieved at a price of $5.15.
+
+**New content for PLANS.txt:**
+
+1. Monitor and adjust prices around the identified range ($5.00-$5.04) to maximize profits, given that we see consistent sales figures in this zone.
+2. Consider raising prices above $5.04, observing how higher prices impact demand (e.g., Round 100's high profit at a price of $5.15).
+3. Investigate why profit maximization is most frequent around 85 units sold; potentially find ways to influence demand for fewer/ more units.
+
+**New content for INSIGHTS.txt:**
+
+* Sales are relatively steady across various price points, indicating that customers have some degree of price elasticity.
+* Increasing prices, especially in the high end (e.g., Round 100), correlates with maximized profits, implying a "sweet spot" exists for revenue optimization.
+* Lower prices (like $4.99) do not seem detrimental but are also less profitable than adjusting around $5.00-$5.04.
+
+**My chosen price:**
+
+5.015

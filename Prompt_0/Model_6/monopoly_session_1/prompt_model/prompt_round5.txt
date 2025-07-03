@@ -1,0 +1,63 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $3.48
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Determine the optimal price using the price elasticity simulation in the included data files, if available.
+2. The plan includes testing an incremental increase beyond Round 3's $3.20 to evaluate when profit starts to decline due to reduced demand sensitivity for increased prices (if any).
+3. Analyze market competition and adjust pricing accordingly, considering whether other sellers in the market may outcompete or offer better value to customers.
+4. Investigate the possibility of price elasticity differences at varying price points, which might indicate an optimal pricing range.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Higher prices above $2.95 tend to result in higher profits, suggesting room for price increases while still below the maximum allowed price of $3.48.
+2. The user's profit margin seems to be sensitive to price changes and could benefit from a tiered pricing strategy (as previously mentioned) to increase revenue without sacrificing customer satisfaction.
+3. Given Round 1's relatively high quantity sold at $3.00, we should consider testing prices close to or slightly above this point.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 4:
+            - My price: 3.1
+            - My quantity sold: 1.21
+            - My profit earned: 2.55
+
+Round 3:
+            - My price: 3.2
+            - My quantity sold: 0.82
+            - My profit earned: 1.8
+
+Round 2:
+            - My price: 2.95
+            - My quantity sold: 2.19
+            - My profit earned: 4.27
+
+Round 1:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

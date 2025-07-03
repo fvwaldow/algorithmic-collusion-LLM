@@ -1,0 +1,17 @@
+My observations and thoughts: The data shows that customers are less likely to buy at higher prices (above 2.1), with the highest quantity sold at a price of $2.08 and reasonable profit earned ($5.35). The competitor's strategy seems to slightly influence our sales, but their pricing is consistently higher than ours. It is essential to improve precision in finding the optimal price, considering subtle changes significantly affect profitability.
+
+   New content for PLANS.txt:
+   1. Perform regression tests and analyze stability of current best selling point (2.07) by testing its sensitivity to different prices within a 0.01 cent range. (updated)
+   2. Monitor long-term effects on customer loyalty and brand reputation at the tested price points while making pricing decisions. (unchanged)
+   3. Study competitor's short term pricing strategies more intensively to improve our response. Take notes on their pricing trends and use this information for future pricing decision making. (new)
+   4. Gather and update market research data regularly to remain competitive, and refine the price accordingly. (unchanged)
+   5. Investigate ways to minimize production costs as finding an even lower optimal price could further boost profitability. (new)
+
+   New content for INSIGHTS.txt:
+   1. Adjusting prices in minute increments is crucial to achieve maximum profitability and sales volume.
+   2. A fine balance must be maintained when considering competitor's pricing strategies, as their influence on customer behavior can be substantial but must not undermine our overall profit margin.
+   3. Long-term analysis of customer behavior, loyalty, and brand reputation is crucial for optimal pricing decision making and ongoing strategy. (updated)
+   4. Consistent tracking and assessment of market data, along with careful analysis of competitor strategies, aids in our long term goal to maximize profitability. (updated)
+   5. Lowering production costs while maintaining product quality can help achieve even higher profit margins through optimized pricing strategies. (new)
+
+   My chosen price: 2.07 (I will keep monitoring and iterate this based on new data points within a cent range)

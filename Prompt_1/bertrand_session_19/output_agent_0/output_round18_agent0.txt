@@ -1,0 +1,17 @@
+My observations and thoughts:
+Based on the provided data, it seems that lower priced items tend to sell more when competitors' prices are higher or comparable, such as Rounds 4, 6, 7 and 10-13. However, selling at a lower price doesn't guarantee profit maximization in the long run. In some cases, such as Round 8 and 9, pricing too low led to decreased profits despite higher sales volumes. It is crucial to find an optimal price range that balances volume and profitability while keeping a close eye on competitor pricing strategies.
+
+New content for PLANS.txt:
+1. Test a wider range of prices within the observed price interval to identify the best balance between sales volume and profitability;
+     a. Use segmented analysis based on competitor pricing stratgies (high vs low) to determine how price sensitivity differs in each scenario.
+  2. Implement dynamic pricing strategies that adjust prices in real-time based on sales data, competitor actions and market trends
+  3. Utilize machine learning algorithms to predict optimal future pricing strategies based on historical data and current market conditions
+
+New content for INSIGHTS.txt:
+1. Sales volume sensitivity to price largely depends on the competitor's pricing strategy; higher prices for competitors lead to increased sales volume when my price is competitive.
+  2. A balance between volume and profitability is critical for long-term success, as pricing too low may not guarantee optimal profits.
+  3. Analyzing historical data by segmenting based on competitor pricing stratgies will enable better pricing decisions in the future.
+  4. Implementing dynamic pricing strategies that adjust prices based on real-time conditions will help maintain profitability while maximizing sales opportunities.
+
+My chosen price:
+20.0 (Continue testing competitive pricing, but aim for balance between volume and profitability)

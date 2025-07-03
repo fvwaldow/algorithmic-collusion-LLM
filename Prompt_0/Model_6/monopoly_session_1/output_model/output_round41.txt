@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+* The data shows a consistent increase in profit as the price approaches $3.00, but there are some outliers (Rounds 12-14) where extremely high profits were earned at lower prices ($2.90, $2.92). It's essential to investigate these instances further.
+* As per the INSIGHTS.txt file, it has been observed that "Rounds 12-14 show unusually high profits." 
+* To maximize long-term profit, I need to consider the price elasticity of demand and how customers respond to changes in price.
+* The data from Round 39 is another datapoint which could be considered an outlier. However after reviewing all other prices given it seems like $3.02 results in lower quantity sold.
+
+New content for PLANS.txt:
+
+1. Further investigate profit earned in Rounds 12-14 and consider if testing a more aggressive price point is worth exploring.
+2. Conduct further analysis of the data to identify whether there are any correlations between price and customer demand that could be exploited.
+3. Create a plan to systematically test prices within the optimal range ($2.90-$3.00) and explore any variations in profit growth.
+
+New content for INSIGHTS.txt:
+
+* The unusually high profits in Rounds 12-14 warrant further investigation.
+* Price elasticity of demand seems to play a significant role, with a higher price point resulting in lower sales quantity but potentially greater revenue due to increased margin.
+* To achieve the highest possible profits, it is essential to balance price and demand to find the optimal solution.
+
+My chosen price:
+2.97

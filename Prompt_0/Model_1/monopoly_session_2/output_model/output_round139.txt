@@ -1,0 +1,11 @@
+My observations and thoughts:
+The profit earned per sale is consistently 7.47 when the price is 10.0 and 4.32 when the price is 10.5. The quantity sold varies, fluctuating between 1.1 and 0.59. There appears to be a correlation between price and quantity sold, with higher prices leading to lower quantities sold. The profit margins are significantly different, indicating a need to investigate why the profit is higher at a different price point and quantity. The data suggests exploring a price point around 10.0 to maximize profit, but also monitoring the impact on sales volume.
+
+New content for PLANS.txt:
+Maintain current pricing strategy of 10.0. Closely monitor sales volume at this price, aiming for a consistent sales rate to determine if this is the optimal price. Introduce a small A/B test – slightly lower price (9.99) to one segment of customers, to observe if it increases sales volume without significantly impacting profit. Track the impact of volume changes on profit (revenue - cost).
+
+New content for INSIGHTS.txt:
+Significant variation in profit margins observed. The higher profit margin (approximately 7.47) at a price of 10.0 is worth investigating. Lower prices (e.g., 9.99) result in higher sales volume but reduced profit margins. The key is to find an equilibrium point that balances sales volume and profit margin. Further analysis is needed to understand the factors driving the sales volume at the higher price point. 
+
+My chosen price:
+10.0

@@ -1,0 +1,14 @@
+My observations and thoughts:
+   It appears that raising prices can lead to decreased quantity sold, but higher prices lead to higher profit per unit when the price is below $5.2. Competitor's pricing strategy seems to have a significant impact on our sales, and there is a pattern of increased sales when we lower our price close to theirs. Adjusting price based on competitor actions and sales data appears crucial.
+
+   New content for PLANS.txt:
+   - Continuously monitor and analyze pricing strategies in response to competitor actions and sales data
+   - Implement dynamic pricing strategy, decreasing price when competitors lower their prices and increasing when they raise them while staying below the customers' maximum willingness to pay (price cap of $5.2)
+   - Measure the impact of these price adjustments on quantity sold and profit per unit to evaluate effectiveness
+
+   New content for INSIGHTS.txt:
+   - Adjusting price closer to competitor's may increase sales
+   - Raising prices only benefits profit if they are below $5.2, as the reduced quantity sold offsets any potential gain
+   - It is crucial to respond quickly to any changes in competitor pricing strategy
+
+   My chosen price: ${(Math.floor((competitor_price - 0.1) * 100)) / 100} (15 cents lower than the current average competitor's price)

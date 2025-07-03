@@ -1,0 +1,350 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $28.01
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Continue testing incremental price increases around $17.80 and $17.90. Introduce a new test at $18 to assess tolerance, keeping increments small (around $0.05) to monitor both profit rise and volume shift closely.
+- If stability is maintained and volumes slightly decrease by less than 5%, further fine-tune towards the higher end of this range for potential profit maximization before exploring close to the $28 ceiling.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Customer data suggests a strong preference for prices in the mid-$17.00 range, demonstrating sensitivity to price increases that exceed this point without substantial reductions in volume.
+- A gradual rise towards $18 could be explored to understand better how close we can get to this upper threshold while sustaining good sales volume.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 62:
+            - My price: 17.85
+            - My quantity sold: 70.27
+            - My profit earned: 551.59
+
+Round 61:
+            - My price: 17.85
+            - My quantity sold: 70.27
+            - My profit earned: 551.59
+
+Round 60:
+            - My price: 17.9
+            - My quantity sold: 69.85
+            - My profit earned: 551.79
+
+Round 59:
+            - My price: 17.8
+            - My quantity sold: 70.68
+            - My profit earned: 551.32
+
+Round 58:
+            - My price: 17.8
+            - My quantity sold: 70.68
+            - My profit earned: 551.32
+
+Round 57:
+            - My price: 17.8
+            - My quantity sold: 70.68
+            - My profit earned: 551.32
+
+Round 56:
+            - My price: 17.85
+            - My quantity sold: 70.27
+            - My profit earned: 551.59
+
+Round 55:
+            - My price: 25.95
+            - My quantity sold: 8.47
+            - My profit earned: 135.11
+
+Round 54:
+            - My price: 17.9
+            - My quantity sold: 69.85
+            - My profit earned: 551.79
+
+Round 53:
+            - My price: 17.48
+            - My quantity sold: 73.26
+            - My profit earned: 548.01
+
+Round 52:
+            - My price: 17.43
+            - My quantity sold: 73.65
+            - My profit earned: 547.24
+
+Round 51:
+            - My price: 17.42
+            - My quantity sold: 73.73
+            - My profit earned: 547.08
+
+Round 50:
+            - My price: 17.45
+            - My quantity sold: 73.5
+            - My profit earned: 547.55
+
+Round 49:
+            - My price: 17.4
+            - My quantity sold: 73.89
+            - My profit earned: 546.75
+
+Round 48:
+            - My price: 17.5
+            - My quantity sold: 73.11
+            - My profit earned: 548.29
+
+Round 47:
+            - My price: 17.7
+            - My quantity sold: 71.5
+            - My profit earned: 550.58
+
+Round 46:
+            - My price: 17.95
+            - My quantity sold: 69.42
+            - My profit earned: 551.92
+
+Round 45:
+            - My price: 18.1
+            - My quantity sold: 68.14
+            - My profit earned: 551.9
+
+Round 44:
+            - My price: 18.05
+            - My quantity sold: 68.57
+            - My profit earned: 551.97
+
+Round 43:
+            - My price: 17.95
+            - My quantity sold: 69.42
+            - My profit earned: 551.92
+
+Round 42:
+            - My price: 17.9
+            - My quantity sold: 69.85
+            - My profit earned: 551.79
+
+Round 41:
+            - My price: 17.9
+            - My quantity sold: 69.85
+            - My profit earned: 551.79
+
+Round 40:
+            - My price: 17.75
+            - My quantity sold: 71.09
+            - My profit earned: 550.99
+
+Round 39:
+            - My price: 17.5
+            - My quantity sold: 73.11
+            - My profit earned: 548.29
+
+Round 38:
+            - My price: 1.25
+            - My quantity sold: 99.94
+            - My profit earned: -874.52
+
+Round 37:
+            - My price: 17.5
+            - My quantity sold: 73.11
+            - My profit earned: 548.29
+
+Round 36:
+            - My price: 18.5
+            - My quantity sold: 64.57
+            - My profit earned: 548.81
+
+Round 35:
+            - My price: 17.0
+            - My quantity sold: 76.85
+            - My profit earned: 537.97
+
+Round 34:
+            - My price: 18.0
+            - My quantity sold: 69.0
+            - My profit earned: 551.98
+
+Round 33:
+            - My price: 17.5
+            - My quantity sold: 73.11
+            - My profit earned: 548.29
+
+Round 32:
+            - My price: 19.75
+            - My quantity sold: 52.5
+            - My profit earned: 511.85
+
+Round 31:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 30:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 29:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 28:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 27:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 26:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 25:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 24:
+            - My price: 21.0
+            - My quantity sold: 40.13
+            - My profit earned: 441.44
+
+Round 23:
+            - My price: 27.0
+            - My quantity sold: 5.73
+            - My profit earned: 97.45
+
+Round 22:
+            - My price: 21.0
+            - My quantity sold: 40.13
+            - My profit earned: 441.44
+
+Round 21:
+            - My price: 20.0
+            - My quantity sold: 50.0
+            - My profit earned: 500.0
+
+Round 20:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 19:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 18:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 17:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 16:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 15:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 14:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 13:
+            - My price: 19.5
+            - My quantity sold: 54.98
+            - My profit earned: 522.34
+
+Round 12:
+            - My price: 19.0
+            - My quantity sold: 59.87
+            - My profit earned: 538.82
+
+Round 11:
+            - My price: 18.5
+            - My quantity sold: 64.57
+            - My profit earned: 548.81
+
+Round 10:
+            - My price: 18.5
+            - My quantity sold: 64.57
+            - My profit earned: 548.81
+
+Round 9:
+            - My price: 18.5
+            - My quantity sold: 64.57
+            - My profit earned: 548.81
+
+Round 8:
+            - My price: 19.0
+            - My quantity sold: 59.87
+            - My profit earned: 538.82
+
+Round 7:
+            - My price: 20.5
+            - My quantity sold: 45.02
+            - My profit earned: 472.67
+
+Round 6:
+            - My price: 21.5
+            - My quantity sold: 35.43
+            - My profit earned: 407.5
+
+Round 5:
+            - My price: 23.5
+            - My quantity sold: 19.78
+            - My profit earned: 267.05
+
+Round 4:
+            - My price: 27.0
+            - My quantity sold: 5.73
+            - My profit earned: 97.45
+
+Round 3:
+            - My price: 27.3
+            - My quantity sold: 5.12
+            - My profit earned: 88.53
+
+Round 2:
+            - My price: 27.5
+            - My quantity sold: 4.74
+            - My profit earned: 83.0
+
+Round 1:
+            - My price: 27.0
+            - My quantity sold: 5.73
+            - My profit earned: 97.45
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

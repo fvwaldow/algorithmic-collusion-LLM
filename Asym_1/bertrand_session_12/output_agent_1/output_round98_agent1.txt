@@ -1,0 +1,19 @@
+My observations and thoughts:
+   It looks like the data provided is a list of pricing and sales data for two competitors - 'My' and 'Competitor'. The quantity sold can be inferred from the product of price and number of units sold, as total profits are given.
+
+   The dataset appears to be split into 'Rounds', with the initial prices set at very different levels. Over time, we see both competitors adjusting their prices, sometimes lower and other times higher, presumably in response to changes in the market or competitor actions. However, it is difficult to determine how these decisions were made without more context.
+
+   New content for PLANS.txt:
+   Based on this initial analysis, it would be helpful to develop a pricing strategy that takes into account factors such as competition, customer demand, and costs. One approach could be to implement a dynamic pricing model where prices are adjusted based on real-time market conditions and competitor actions.
+
+   To achieve this, we can use data analytics tools to monitor competitor strategies, consumer demand trends, and industry fluctuations. This will help us adapt our pricing structure quickly and maximize our profits.
+
+   New content for INSIGHTS.txt:
+   One insight from the provided data is that price differentials contribute significantly to product sales - when 'My' sets the highest price, it experiences close to zero sales, whereas lower prices lead to an increase in quantities sold. Additionally, we can see that both competitors adjust their prices periodically based on perceived market dynamics and competitor actions.
+
+   Another key insight is that sales volumes seem more sensitive to changes in 'My's pricing rather than the competitor's - this suggests that 'My' can leverage its pricing strategy more effectively to impact sales.
+
+   My chosen price:
+   8.5
+
+   This choice is based on a combination of factors, including the insights gained from analyzing the dataset and understanding the sensitivity of sales volumes to changes in my price. The selected price, which is above the competitor's initial price but lower than some peak prices I have set during the rounds, takes into account both a competitive stance and customer demand as determined by market analysis.

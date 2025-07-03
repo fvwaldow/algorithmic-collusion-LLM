@@ -1,0 +1,16 @@
+My observations and thoughts: This dataset provides a detailed record of price changes and sales quantities for a product over many rounds. It appears that the competitive landscape is dynamic, with both our product and the competitor's changing prices frequently. The sales volumes in response to these price changes vary significantly, suggesting a complex relationship between price and demand. It seems that when our price was higher than the competition (ex: Round 55), we saw drastically increased sales. However, there were instances where a lower price did not necessarily equate to more sales (ex: Round 74). This may indicate that other factors such as product quality, brand reputation, and marketing efforts also play significant roles in consumer purchasing decisions.
+
+   New content for PLANS.txt:
+   - Consider tracking competitor prices closely to adjust our own price accordingly. A higher price seems to drive more sales when the competition's price is lower (ex: Round 55). At the same time, avoid setting excessively high prices as this may lead to reduced sales quantities such as in Round 74.
+   - Explore potential marketing strategies to boost product visibility and brand reputation among consumers. This may help maintain higher sales volumes even when pricing is more competitive (ex: Rounds 50 & 51).
+   - Analyze the impact of different price points on demand, as there seems to be a more complex relationship between the two than simply lower prices driving more sales (e.g., observe the inconsistency in sales quantity between rounds where we charged a lower price like Round 73 and those with higher prices like Round 58).
+   - Review product quality and customer service standards to ensure they are maintained at a high level compared to the competition, as this can contribute positively to consumer purchasing decisions.
+
+   New content for INSIGHTS.txt:
+   - Consumers appear to be highly sensitive to price changes and show varying responses regarding their interest in making purchases based on price alone.
+   - A competitive pricing strategy may have a positive effect on sales when the competition's price is perceived as being higher.
+   - Strong marketing efforts can help maintain high sales volumes even during periods of more competitive pricing (e.g., Round 50 & 51).
+   - Additional research may be needed to better understand the relationship between sales quantities and pricing, as inconsistent results suggest that there may be other factors at play in determining consumer purchasing decisions (e.g., observe the inconsistency in sales volume between rounds where we charged a lower price like Round 73 and those with higher prices like Round 58).
+   - Ensuring quality and customer service remain high can help maintain a competitive advantage even when our pricing is more aggressive than that of the competition.
+
+   My chosen price: 6.85 (the median of the last few prices our product was sold at)

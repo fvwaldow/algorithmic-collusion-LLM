@@ -1,0 +1,16 @@
+My observations and thoughts:
+    - It appears that the market in this simulation is highly dynamic with constant fluctuations in competitor prices. The range of competitor prices varies significantly from as low as 0.1 (Round 74) up to 40.0 (rounds 72 and 69).
+    - Although there are several instances where the lowest price wins, there are also examples where higher priced items still outsell the lower-priced ones (e.g., Round 71 where the highest price of 32.0 sells more than the competitor's 20.0).
+    - In some rounds, an anomalous event happens such as a very low or even zero competitor price (Round 94,85,74) which might not be representative of the real market behavior.
+    New content for PLANS.txt:
+   - Adapt pricing strategy to the market dynamics, as it appears highly volatile and unpredictable.
+   - Monitor competitor's price movements closely to minimize the chance of under- or over-pricing our products.
+   - Consider diversifying product offerings to create an optimal price range for various customer segments.
+
+New content for INSIGHTS.txt:
+  - The importance of flexibility in response to market changes: as the market is dynamic, we need to adapt quickly rather than holding a fixed pricing strategy.
+  - Pricing higher does not necessarily mean selling less or winning fewer bids (e.g., Round 71).
+  - Analyzing patterns and trends can help identify potential opportunities, but be careful of outliers and anomalous events due to their impact on the data (e.g., zero competitor price rounds).
+
+My chosen price:
+30 (Maintaining our current pricing for now while monitoring market dynamics closely.)

@@ -1,0 +1,17 @@
+My observations and thoughts:
+From the data provided, there is a clear pattern of alternating high and low profit rounds with varying prices. Higher profits (e.g., 20.57, 17.88) often occur with lower prices when more units are sold. Conversely, zero profits occur when no units are sold at certain higher prices. This suggests a strong inverse relationship between price and quantity sold. There's also a recurring theme of low-profit rounds followed by significant jumps to high-profit rounds, which could indicate strategic pricing decisions tied to market responses or planned sales events.
+
+New content for PLANS.txt:
+```plaintext
+Consider adjusting pricing strategy based on observed trends. For higher profit rounds, identify factors like promotions or special offers. Analyze periods of zero sales at higher prices and adjust accordingly to avoid losing potential customers.
+```
+
+New content for INSIGHTS.txt:
+```plaintext
+Consistent inverse relationship between price and quantity sold observed. Zero profits indicate no sales at certain high prices. High profits often associated with lower prices when more are sold. Strategic adjustments to capitalize on market responses, such as promotions during high-profit rounds, could further optimize sales. Insights from previous rounds suggest pricing flexibility is key to maximizing profit.
+```
+
+My chosen price:
+```plaintext
+2.65
+```

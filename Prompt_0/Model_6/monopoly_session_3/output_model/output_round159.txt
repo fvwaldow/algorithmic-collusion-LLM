@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+After carefully reviewing the data, I notice that there is a significant variance in prices across different rounds, with some rounds featuring very high prices (e.g., Round 64 with a price of $30.0) while others have relatively low prices (e.g., Rounds where the price is around $19.5). This suggests that there may be some inefficiencies in pricing or that there are external factors affecting demand.
+
+I also notice that the quantity sold tends to follow a pattern, with more sales occurring at lower price points and fewer sales at higher price points. For example, Rounds 85-91 have quantities sold ranging from 50 to 59 units, while Rounds 63-65 have significantly fewer sales, between 1.8 and 16.8 units.
+
+New content for PLANS.txt:
+
+* Analyze the relationship between price and quantity sold to identify potential inefficiencies or trends.
+* Consider implementing a pricing strategy that takes into account customer demand and competition in the market.
+* Use data from past rounds to inform future pricing decisions and minimize variance.
+
+New content for INSIGHTS.txt:
+
+* Lower price points tend to result in higher quantities sold, suggesting that customers are sensitive to prices.
+* Higher price points can lead to significant losses due to low sales volumes (e.g., Round 64 with a $30.0 price tag).
+* The market may be subject to external factors that affect demand and pricing, such as competition or customer preferences.
+
+My chosen price:
+
+$20.0

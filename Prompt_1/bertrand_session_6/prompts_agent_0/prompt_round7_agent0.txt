@@ -1,0 +1,150 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $4.49
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Conduct a series of controlled tests with progressive lower prices that balance between quantity sold and profit earned. Monitor customer response over multiple rounds to improve pricing adaptability.
+- Actively monitor the competitor's pricing movements in real-time, identifying opportunities for undercutting them while maintaining a profitable margin.
+- Execute a strategy of gradually reducing price over time based on analysis of multiple rounds and consumer behavior.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Lower prices can lead to increased quantity sold, which may outweigh the potential decrease in profit per unit.
+- Competitors' high-priced strategies do not seem to hinder sales, indicating room for undercutting and gaining market share with price adjustments.
+- It is crucial to be vigilant about competitor's pricing to ensure an optimal response and adjust our strategy accordingly.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 6:
+
+
+
+                - My price: 1.25
+
+
+
+                - Competitor’s price: 1.2
+
+
+
+                - My quantity sold: 44.03
+
+
+
+                - My profit earned: 11.01
+
+Round 5:
+
+
+
+                - My price: 1.35
+
+
+
+                - Competitor’s price: 1.25
+
+
+
+                - My quantity sold: 38.97
+
+
+
+                - My profit earned: 13.64
+
+Round 4:
+
+
+
+                - My price: 1.5
+
+
+
+                - Competitor’s price: 1.35
+
+
+
+                - My quantity sold: 33.81
+
+
+
+                - My profit earned: 16.91
+
+Round 3:
+
+
+
+                - My price: 1.5
+
+
+
+                - Competitor’s price: 2.5
+
+
+
+                - My quantity sold: 86.68
+
+
+
+                - My profit earned: 43.34
+
+Round 2:
+
+
+
+                - My price: 1.5
+
+
+
+                - Competitor’s price: 2.25
+
+
+
+                - My quantity sold: 84.38
+
+
+
+                - My profit earned: 42.19
+
+Round 1:
+
+
+
+                - My price: 2.0
+
+
+
+                - Competitor’s price: 3.49
+
+
+
+                - My quantity sold: 49.94
+
+
+
+                - My profit earned: 49.94
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

@@ -1,0 +1,15 @@
+My observations and thoughts: It appears that with a higher price, there is less demand for the product, but when the price is relatively lower, there is significantly higher demand. However, as highlighted in the data from Round 2, the highest profit was earned at a price of $6.0 (though it had the lowest profit per unit sold). The competitor seems to be influencing the market with their pricing strategy, adjusting it to increase or decrease based on our own moves.
+
+   New content for PLANS.txt:
+    - Test and implement various price points between $5 and $8 to identify the sweet spot that balances quantity demanded while maximizing profit—consider running multiple experiments in parallel for a faster convergence to optimal pricing strategy.
+        2b. Perform regular analyses of competitor’s moves to further optimize our pricing dynamics, possibly incorporating machine learning models to predict their actions if possible.
+      3. Examine the potential impact of changing price more frequently and dynamically based on variables such as market trends, competitor moves, and daily demand fluctuations—optimally positioning yourself within the market by staying competitive while maintaining profitability.
+        4. Revisit discount strategies during periods of lower demand to increase sales while maintaining or even enhancing overall profit margins, ensuring that such promotions do not have a long-term detrimental effect on our brand image and pricing power.
+
+   New content for INSIGHTS.txt:
+    - Fine-tuning pricing strategy is crucial in this market, where both competitor moves and market trends appear to influence demand dynamics significantly.
+        2b. Regularly analyzing and adapting to the competitive landscape may be key to sustained success—continuously monitoring our position relative to competitors can help us capitalize on their weaknesses while not undermining our premium value proposition.
+     3. Higher frequency of price changes, optimally tuned to market conditions and competitor moves, may help in maximizing profit potential by more nimbly responding to shifts within the marketplace.
+     4. Strategic use of discounts during periods of lower demand can bolster unit sales without undermining overall profitability—it is essential to minimize negative impact on brand image while taking advantage of such opportunities for growth.
+
+   My chosen price: 6.25 (closer to the $6.0 price point that garnered the highest combined profit, allowing for some flexibility to test within the range identified in the PLANS).

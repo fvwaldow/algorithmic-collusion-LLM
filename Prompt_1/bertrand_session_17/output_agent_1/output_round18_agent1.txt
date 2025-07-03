@@ -1,0 +1,10 @@
+My observations and thoughts:
+In the given market data, it is apparent that changing the price significantly affects both the quantity sold and profit earned. It seems that setting a higher price results in decreased volume of sales but increased per-unit profit (e.g., Round 14 vs Rounds 2,5,6, which had lower prices but higher quantities sold and overall profits). Conversely, setting a low price increases the number of units sold but significantly reduces per-unit profit (e.g., Round 10 versus Round 17 which produced a smaller volume but much higher profit).
+
+   New content for PLANS.txt:
+Implement a dynamic pricing strategy that optimizes for the balance between short-term volume and long-term profit maximization. This will require closely analyzing price points, their corresponding profit and volume, as well as competitor data to inform pricing decisions. Utilize machine learning techniques to create predictive models that adapt based on real-time sales data.
+
+   New content for INSIGHTS.txt:
+Prices should be set higher to take advantage of lower market elasticity, where customers are still willing to purchase the product at increased prices despite fewer units sold. This strategy maximizes long-term profit potential. Additionally, it is essential to have flexibility in pricing approaches and adapt quickly based on changing market conditions and customer behavior.
+
+   My chosen price: 17.5

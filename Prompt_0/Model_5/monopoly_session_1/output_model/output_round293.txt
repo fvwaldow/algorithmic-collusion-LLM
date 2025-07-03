@@ -1,0 +1,14 @@
+My observations and thoughts:
+- The data appears to be a series of tables representing different pricing rounds, with columns for 'Round', 'Price', 'Quantity Sold', and 'Profit Earned'. 
+- There are many repeated values across rounds indicating consistency in price points and results.
+- A few rounds have unusual high prices (30, 50) that yielded no profit, suggesting these were experimentation stages.
+- Prices around $2.3 to $2.5 seem to yield decent profits consistently (26.71 to 30.09).
+
+New content for PLANS.txt:
+Testing price points slightly higher than the commonly successful $2.3-$2.5 range might generate more profit without venturing into unprofitable territories seen at $30 and above.
+
+New content for INSIGHTS.txt:
+Commonly, pricing between $2.3 and $2.5 yields a profit of around 26.71 to 30.09 units. Higher prices like $30 did not result in any sales, while slightly lower successful ranges suggest a sweet spot for maximum profit without risking unsold inventory.
+
+My chosen price:
+2.45

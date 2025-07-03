@@ -1,0 +1,16 @@
+My observations and thoughts: The data showcases an inverse relationship between price and quantity sold. In rounds when the price was lower (2.0 - 2.3), a larger quantity was sold with relatively higher profit, but with less profit per unit. Conversely, in rounds where the price was set higher (3.5 - 4.25), fewer units were sold but resulted in significant profit per unit. The optimal price seems to be around 2.15, as it offers a balance between sales quantity and profit earned.
+
+New content for PLANS.txt:
+- Frequently assess price sensitivity by periodically testing lower price points (e.g., 2.0) and compare profits over time
+   a. Analyze short-term and long-term impacts on profit growth, sales volume, and customer demand
+       b. Optimize pricing strategy based on customer insights
+      c. Continuously monitor competitor pricing and activities to identify opportunities for price adjustments
+
+New content for INSIGHTS.txt:
+- Prices too high lead to significantly lower sales quantity but relatively higher profit per unit
+          a. Higher prices have the potential of generating more profit in specific conditions such as moments of increased customer demand or capitalizing on competition weakness
+    b. Lower prices encourage higher sales volume, resulting in overall revenue growth and increasing chances for customer feedback about willingness to pay for each tier
+      c. Competitor price sensitivity should always be considered when deciding pricing strategy adjustments
+    d. Price ranges (tiers) are critical in determining optimal balance between immediate profits and long-term profit growth potential
+
+My chosen price: 2.15

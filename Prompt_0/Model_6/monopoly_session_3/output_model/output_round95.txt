@@ -1,0 +1,39 @@
+**My observations and thoughts:**
+
+Based on the market data, I observe that the product's price has been adjusted several times across various rounds. The peak profit earned was $538.82 in Rounds 79, 69, 68, 4, and 1 when the price was set at $19.0. However, it appears that raising the price beyond this point results in significantly reduced sales and profits.
+
+A notable anomaly is observed around prices between $20-$21 (Rounds 89-94), where there are some instances of selling a smaller quantity for higher profit ($441.44). This calls for further investigation into why such discrepancies occur at these particular prices.
+
+There seems to be a general pattern showing that sales drop off significantly when the price is increased beyond $23, with reduced revenue and profit following from this trend.
+
+Given the existing data, I do not see any clear trends indicating maximum profits at an established optimal price. Therefore, my initial instinct would be to look for evidence of diminishing returns before making significant adjustments upwards.
+
+However, considering that previous experiments have sometimes returned favorable results even when prices were raised from initial lows ($19), this might suggest trying slightly higher prices in the hopes of getting closer to the observed profit ceilings without immediately losing customers.
+
+
+
+**New content for PLANS.txt:**
+
+Plan 1: Retest lower price bounds (~$19-$20)
+* Investigate whether a higher sales-to-profit ratio exists near the existing peaks.
+* Consider further adjustments within this range if profitable.
+
+Plan 2: Gradual increase around optimums
+* Carefully adjust prices to identify when diminishing returns kick in more clearly and set limits accordingly.
+
+Additional note: Monitor for any recurring behaviors or outliers across rounds which could inform pricing logic moving forward.
+
+
+
+**New content for INSIGHTS.txt:**
+
+Observation of anomaly at $20-$21 price bracket
+* Investigate possible reasons behind this discrepancy (e.g. batch variation, user preference).
+* Consider exploring price granularity within this area if applicable.
+
+Higher prices above $23 show significant drop-off in profitability
+* This appears to be a robust trend across data; prices approaching or reaching $25 frequently have minimal sales, and are therefore not valuable for experimentation at the current level of knowledge.
+* Future iterations can consider whether there might be niche applications where higher profit margins justify these prices.
+
+**My chosen price:**
+20.5

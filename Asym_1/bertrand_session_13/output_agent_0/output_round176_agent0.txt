@@ -1,0 +1,19 @@
+My observations and thoughts:
+   * The given data represents a series of pricing strategies and their resulting sales for some product over 100 rounds.
+   * For almost half the rounds (48), the price was below $11, while in the other 52 rounds, it was above that threshold and as high as $12.
+   * There are periods where the price seems to increase steadily for several rounds but then unexpectedly drops considerably, sometimes as much as a dollar or more.
+   * Competitor pricing has a substantial effect on sales: in many rounds where the competitor's price was lower than ours, our sales were significantly reduced compared to when they matched or were higher than our price.
+   * When the competitor didn't offer any product (Price $0 or NaN), we didn't make any sales for that round. However, our sales increase steadily as the competitor's price increased to a point, and then start to decrease when their price is much higher than ours.
+
+New content for PLANS.txt:
+   * Identify periods of lower competitor price and avoid pricing above the competitor during those times
+   * Monitor sales trends to determine optimal pricing levels during steady pricing periods
+   * Increase price gradually when competitor prices rise and closely watch sales volumes to ensure profits remain healthy
+
+New content for INSIGHTS.txt:
+   * Pricing directly responds to competitor's price changes, with increased revenue resulting from similar or higher pricing compared to the competitor
+   * Sales are heavily impacted by periods of lower competitor pricing and can recover as long as our own price is reasonable
+   * Aggressive pricing is not sustainable in the long run because there may be diminishing returns on sales volumes as prices rise excessively above the competitor's
+
+My chosen price:
+10.5

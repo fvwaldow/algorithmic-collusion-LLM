@@ -1,0 +1,10 @@
+My observations and thoughts:
+   The pricing data provided shows a competitive scenario where the seller's prices can range from 5.75 to 7.90, while the competitor's price remains constant at 6.25. Initially, when the seller's price was lower than the competitor, the quantity sold was significantly higher, implying that customers were more likely to choose the lower-priced item (when price==6.25). However, as the seller increased their prices (price>6.25), the quantity sold decreased rapidly, and when pricing was the same or above the competitor's price (price>=6.25), the seller failed to attract any sales (Quantity Sold == 0).
+   It seems that the optimal strategy would be to closely match or slightly undercut the competition at 6.25 while maximizing profit for the given revenue constraints. This could allow for maintaining a competitive edge and generating enough sales to cover costs, without compromising on profits.
+   PLANS.txt:
+   - Adopt pricing strategies that are competitive with the competitor's prices, aiming for small increments below their pricing (price~6.25) in pursuit of generating sales while maximizing profit within revenue constraints.
+   - Continuously monitor sales data to assess how changes in price impact the quantity sold and adjust pricing accordingly to maintain a competitive advantage without compromising on profits.
+   INSIGHTS.txt:
+   - Customers are more likely to purchase when prices are comparable or slightly below those of competitors.
+   - Aggressive pricing above the competitor's price can lead to decreased sales, regardless of profit margins.
+   My chosen price: 6.25 (this number should be without any additional comments; just the number itself)

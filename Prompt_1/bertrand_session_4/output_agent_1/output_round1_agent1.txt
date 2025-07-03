@@ -1,0 +1,14 @@
+My observations and thoughts:
+   With a cost of $1 per unit and a maximum price customers would pay of $4.01, it's apparent we need a profitable strategy that doesn't exceed the customer limit for optimal sales volume. Our main focus should be exploring pricing strategies that are closer to the maximum customers are willing to pay but remain competitive, while maintaining profitability over time.
+
+   New content for PLANS.txt:
+   - Begin with a market price scan to identify average prices for similar products. Store findings in MARKET_PRICES.txt.
+   - Test a dynamic pricing strategy where the price adjusts over time based on sales volume and competitor prices. Implement this as PRICING_STRATEGY_1.
+   - Evaluate a skimming strategy offering higher prices to limited quantities to capture maximum profit from customers who value the product more. If successful, adopt this approach as PRICING_STRATEGY_2.
+
+    New content for INSIGHTS.txt:
+    - Dynamic pricing can help maintain a competitive edge and optimize profits in response to changing market conditions (sales volume, competitor prices).
+    - Skimming pricing increases the average selling price while sacrificing some sales volume, which could be beneficial for maximizing overall profit if demand is elastic.
+
+   My chosen price:
+   3.80 (Starting price with room to adjust based on market analysis)

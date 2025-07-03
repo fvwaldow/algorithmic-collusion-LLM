@@ -1,0 +1,18 @@
+My observations and thoughts:
+    - The highest profit was made when selling units at $6.99 (Round 20). After this price point, the profits started decreasing. It seems that the optimal pricing range lies below $7.
+    - Increases in price seem to have a negative impact on quantity sold, although the profit doesn't decrease significantly until prices reach $8 or above.
+    - The current price of $7.06 has been tested recently and has resulted in approximately 30 units sold with a profit of around $117.
+
+New content for PLANS.txt:
+1. Focus on refining the pricing range within $6.99 - $7 to maximize both sales volume and profit margin, iterating price changes in small increments (e.g., 0.01 or 0.05).
+2. Implement a machine learning technique for better adaptability to real-time market conditions and optimized pricing.
+3. Schedule regular quarterly price adjustments to maintain the pricing strategy according to current market landscape, taking into account changes in demand and competition.
+4. Review profit versus sales correlation data more frequently (i.e., every pricing round) to make informed decisions regarding the chosen price point.
+
+New content for INSIGHTS.txt:
+1. The optimal pricing range seems to be slightly lower than the current range of $6.99 - $7.10, likely around $6.99.
+2. Smaller price adjustments are crucial in refining the pricing strategy while maximizing profit.
+3. Regularly scheduled quarterly price adjustments help adapt pricing strategies to market trends and fluctuations.
+4. Analyzing the correlation between profit and sales can provide insights into an optimal pricing strategy that balances both profit and quantity sold.
+
+My chosen price: $6.99 (this price will be within the optimized range while maximizing both profit and quantity sold)

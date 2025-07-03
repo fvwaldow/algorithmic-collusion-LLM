@@ -1,0 +1,18 @@
+My observations and thoughts:
+   The current pricing strategy has been unsuccessful in driving sales as no units were sold since Round 7, with the exception of one unit in Round 14 where the price was lower compared to competitors. In addition, lowering prices towards the competitor's price hasn't led to increased sales volume either (Rounds 3 - 6). The data indicates a customer willingness-to-pay between $3.5 and $4.0, as shown in Rounds 13 and 14 where the quantity sold were non-zero. On the other hand, the pricing strategy that approached the upper end of their willingness to pay (Rounds 7 - 12) did not lead to any sales. Therefore, it's essential to find a balance between price competitiveness and attracting customers within their willingness-to-pay range.
+
+   New content for PLANS.txt:
+   1. Implement a dynamic pricing strategy that combines gradual price reductions towards the upper end of the customer’s willingness-to-pay range with occasional testing closer to the competitor’s price point for comparison and potential advantages in higher sales volume.
+          a. Initially lower the price by smaller increments, focusing on a mid-range within their willingness to pay range (e.g., 3.5 -> 4.0).
+          b. Monitor changes in both quantity sold and profit earned at each adjusted price point.
+        2. Continuously A/B test by temporarily lowering the price closer to the competitor’s price to identify winning strategies that can balance profitability and sales volume.
+            a. Conduct short-term tests with strategically selected price points near $3.0 for quick insights.
+            b. Analyze test results and adjust overall pricing strategy based on improvements in optimal pricing.
+     3. Adapt dynamic pricing approach as needed to take advantage of emerging market trends or competitive actions within the upper end of the customer’s willingness-to-pay range.
+
+   New content for INSIGHTS.txt:
+    1. Finding a balance between price competitiveness and customer targeting within their willingness-to-pay range is crucial to drive both sales volume and profitability.
+      2. Dynamic pricing strategy, including A/B testing and regular adjustments, will help optimize pricing for long-term profit optimization.
+    3. Careful consideration should be given when testing prices closer to the competitor’s price point as it may lead to increased sales volume at the expense of potentially lower profits.
+
+   My chosen price: 3.8 (Round 15)

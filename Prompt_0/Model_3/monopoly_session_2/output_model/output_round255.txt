@@ -1,0 +1,25 @@
+My observations and thoughts:
+- The most common price was 9.75, used in 21 out of the 35 rounds provided, with an associated profit earned of 9.8 in each round.
+- Prices ranged from a low of 0.0 to a high of 10.5, indicating the importance of experimenting with different price points to maximize profit.
+- In six instances, the price was set at 10, which resulted in a lower profit (7.47 on average) compared to the consistently higher profit gained from setting the price at 9.75. This suggests that for this specific example, the optimal pricing strategy may lie slightly below the $10 mark.
+- The highest total profit earned was in Round 28, with a profit of 9.8 earned across 1.6 quantity sold, leading to a total of approximately 16.13 (rounded).
+- Prices above 9.75 yielded lower total quantities sold and thus lower profits as seen in Rounds 160 (7.47 profit), 20 (5.68 profit), 166 (3.86 profit) etc. This could imply that slightly lower prices could help in selling more units.
+
+New content for PLANS.txt:
+```
+- Experiment with various price points, but keep the majority of products within a similar range to maximize sales volume.
+- The highest observed profit occurred at a price of 9.75, so this could be an optimal starting point.
+- Be prepared to adjust pricing strategy as market conditions and product profitability change over time.
+- Consider offering occasional deals or discounts to encourage volume purchases and increase total profit.
+```
+
+New content for INSIGHTS.txt:
+```
+- Regularly evaluate the impact of different price points on sales volume and profit margins.
+- Understand that a balance needs to be struck between profit maximization and volume maximization (e.g., 9.75 yielded a consistently high, but not maximum, profit, suggesting a sweet spot for balancing these factors).
+- Realize that occasionally offering discounts or lower prices may result in increased sales volume, even if the profit margin per unit is decreased.
+```
+
+My chosen price: 9.80
+
+In light of the above observations, my chosen price would be around 9.80 for a combination of profitability and volume considerations. This is based on the consistent performance of this price point across most rounds and its balance between profit and the quantity sold. It allows for potential increases in revenue while maintaining reasonable profit margins per unit.

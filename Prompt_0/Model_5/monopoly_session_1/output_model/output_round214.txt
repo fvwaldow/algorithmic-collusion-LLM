@@ -1,0 +1,20 @@
+My observations and thoughts:
+The data shows a consistent pattern with varying prices and corresponding units sold each round. Here are a few noticeable things:
+
+1. The highest selling round was at a price of $2.30, where the maximum units sold were 24.6.
+2. Lower prices around $2.28 also result in significant sales volume (around 24.6 units).
+3. There are several instances when the product was sold at very high prices ($31 and $30) with zero units sold, indicating that these prices were not viable.
+4. Lower prices generally seem associated with more unit sales, suggesting a positive inverse relationship between price and demand within this dataset.
+5. Rounds where $2.31 was the price consistently resulted in lower sales volume (around 22-23 units), perhaps indicating a saturation point for demand at that price.
+
+New content for PLANS.txt:
+- Investigate potential price elasticity of demand to refine pricing strategy further.
+- Explore bulk purchasing incentives or discounts to boost sales volume without sharply dropping prices.
+- Consider introducing promotional periods with reduced prices to test higher demand thresholds.
+
+New content for INSIGHTS.txt:
+- Demand shows sensitivity to price, with lower prices generally correlating to higher unit volumes sold.
+- Prices above $2.5 appear non-viable based on zero sales volume, likely due to buyer resistance or market saturation at those high points.
+- The successful range for maximizing units seems clustered between $2.28 and $2.31.
+
+My chosen price: 2.29

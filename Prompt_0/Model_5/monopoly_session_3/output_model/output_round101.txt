@@ -1,0 +1,13 @@
+My observations and thoughts:
+Over many rounds of transactions, there is substantial data on prices and quantities sold, with some repeating patterns, especially for certain price points like $19.5$, $20.0$, and $27.0$. Notably, there are large profits made when pricing goods higher than average and significant losses during Rounds 8, 3, and 2 where the profit per unit is relatively low due to very limited sales quantities ($5.12$, $4.74$, and $5.73$ respectively). The highest profit round seems to be during Round 7 when priced at $20.5$ with a considerable number of units sold (45.02). 
+
+New content for PLANS.txt:
+An analysis indicates that higher prices consistently yield greater profits, but there is a balance needed given the quantity sold. It might be beneficial to test moderate price increases above the frequently used $19.5$ and observe how sales volumes adjust before considering drops to maintain high profitability.
+
+New content for INSIGHTS.txt:
+- The average successful profit per unit appears highest around mid-$20s range, suggesting potential in increasing prices cautiously but sustainably over current base price. 
+- Volumes sold drop sharply with extreme price points, evident from very low profits during Rounds 8, 3, and 2. Hence, avoiding these lows is crucial to maintain throughput.
+
+My chosen price: $21.5$ 
+
+(Note: The price $21.5$ was selected based on observations that it represents a higher profit margin compared to the frequently used $19.5$, while still allowing for potentially respectable volumes, as inferred from historical data.)

@@ -1,0 +1,19 @@
+My observations and thoughts:
+The provided data represents a simulated market competition between two entities (Player 1 and Player 2) in various pricing rounds (from Round 1 to Round 31). The data shows the selling price of the product, the competitor's price, the quantity sold, and the profit made by Player 1.
+
+At the beginning of the competition, both players attempted expensive prices with negligible sales (Rounds 1-2). Then, Player 1 lowered their price significantly compared to the competition (Round 3), while Player 2 maintained relatively high pricing (from Round 3 - 6 approximately).
+
+It is worth noting that around Rounds 7-9, Player 1 adopted higher prices and experienced reduced sales (zero quantity sold), potentially due to overshooting the market demand. After this point, Player 1 adjusted their price downwards gradually, while maintaining or slightly increasing quantity sold.
+
+The most remarkable improvement in sales occurred when Player 1 changed their price from approximately $32 to around $18 in Rounds 25-27, where they sold substantial quantities and achieved high profits. After that period, there seems to be a general trend of Player 1 continuing to lower their pricing while still maintaining reasonable profit margins.
+
+   New content for PLANS.txt:
+Strategy for future pricing rounds should focus on finding the optimal price point between competition and meeting market demand. Continue adjusting prices in small increments, considering the competitor's actions and trends in quantity sold and profit made. Keep an eye on market dynamics such as potential changes in consumer behavior or new entrants to ensure the pricing strategy remains effective.
+
+   New content for INSIGHTS.txt:
+In this simulation, Player 1 was more flexible with their pricing approach compared to Player 2, allowing them to capitalize on changes in market demand and secure significant profits (Rounds 25-27). Adopting a dynamic pricing strategy that is sensitive to market dynamics seems crucial for successful competition.
+
+   My chosen price: [insert here your calculated price based on the analysis above]
+[You can use the average price of the periods where Player 1 sold significant quantities and made high profits, i.e., Rounds 25-27 is roughly $18 - you can round it to the nearest whole number]
+
+My chosen price: 18

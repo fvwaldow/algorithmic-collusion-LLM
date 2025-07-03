@@ -1,0 +1,13 @@
+After carefully reading through the information provided, I have the following observations and thoughts:
+
+My observations and thoughts:
+The market data shows a consistent trend of decreased profit earned as price increases beyond $20.00. The highest profit earned was $538.82 in Round 53 when the price was $19.0, and it continued to decrease as prices increased above this point. In addition, there is a noticeable drop-off in quantity sold after the price reaches around $25.00 (Rounds 64-66). From these observations, it appears that the optimal price range for maximum profit is between approximately $19.00 to $20.99.
+
+New content for PLANS.txt:
+We should maintain multiple prices in subsequent rounds to gather further data on the relationship between prices and profits earned. Consider offering a discounted price ($18-$19) as well as the current suggested optimal price ($20.95). This will allow us to examine the effects of a lower price point beyond our current trend.
+
+New content for INSIGHTS.txt:
+Beyond the general observation of decreased profit with increased price, we can also see a strong, inverted relationship between quantity sold and price: higher prices lead to a dramatic reduction in sales, especially above $25 (Rounds 64-66). Additionally, there are some instances where profits remain high even at relatively low prices ($19.85), such as Round 84.
+
+My chosen price:
+20.95

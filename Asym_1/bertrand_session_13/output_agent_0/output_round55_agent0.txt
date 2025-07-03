@@ -1,0 +1,8 @@
+My observations and thoughts: The data shows a pattern where prices above $10 tend to result in very low quantities sold. We can see that the optimal price range is around $9. However, the highest profit earned was at $8.6 in round 51 ($28.98) despite being slightly higher than $9. From this we can conclude that a lower price may lead to increased quantity sold while still maintaining high profits. Also, it seems that temporary reductions in price could potentially attract customers as seen in rounds where the price was lowered (e.g., round 54).
+   New content for PLANS.txt:
+   A1. Regularly analyze price elasticity and test a wider range of prices around $8-9 to find the optimal balance between quantity sold and profit earned.
+   A2. Implement temporary price reductions to attract customers, but ensure the reduction is not excessive and does not impact overall profit margin.
+   New content for INSIGHTS.txt:
+   Insights show that prices above $10 generally have low quantities sold, but higher profits can still be achieved at lower prices such as $8-9. Temporary price reductions seem to attract customers and result in increased quantity sold.
+   My chosen price: 8.6
+   This price is a slightly reduced version of the highest profit earning price found in the data (round 51) while still maintaining quantity that results in high profit. The reduction allows for potential increase in quantity sold and thus higher overall profits in the long run. Additionally, it provides an opportunity to attract customers through temporary reductions if needed.

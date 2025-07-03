@@ -1,0 +1,15 @@
+My observations and thoughts: The price range varies significantly throughout this dataset, suggesting a volatile market or multiple product groups being sold at different price points. The highest price recorded was $40.00, while the lowest was $1.20. It appears that there are some instances of high-priced items selling in relatively low quantities (e.g., Item 162), and conversely, lower-priced items experiencing greater sales (e.g., Item 148). Moreover, the number of units sold for each price level doesn't seem to follow a consistent pattern.
+
+   New content for PLANS.txt:
+  - Analyze the relationship between price and quantity sold in order to identify trends or anomalies.
+  - Investigate whether specific periods of the provided dataset show significant variations in sales data, which may indicate seasonality or market fluctuations.
+  - Examine if certain pricing strategies (e.g., value bundles) could lead to more consistent sales for low-priced items.
+  - Research potential changes in pricing based on customer feedback and perceived product value.
+
+   New content for INSIGHTS.txt:
+  - Price volatility exists across the dataset but may indicate opportunities for pricing optimization.
+  - Aggressive pricing may be beneficial in bringing in higher sales volume, as shown by several instances of lower-priced items outperforming higher-priced ones. However, this approach should be balanced against product value and sustainable profit margins.
+  - It seems that certain products do not follow a direct correlation between price and perceived value, requiring further research to understand customer needs and wants for these specific cases.
+  - The dataset suggests potential seasonality or market fluctuations impacting sales, which could inform future pricing decisions.
+
+My chosen price: (Based on the observations above, a moderate pricing strategy in this scenario would aim to balance product value and competitive positioning with sustainable profit margins while keeping an eye towards sales volume. Therefore, let’s start by pricing closer to the median of $2.10 as a starting point.) 2.10

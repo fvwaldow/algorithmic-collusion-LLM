@@ -1,0 +1,95 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $39.25
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+* Investigate and leverage further the relationship between price and demand within the $20-$24.75 range, focusing on data points where prices are near or at our optimal price ceiling.
+* Implement a short-term strategy to sell existing inventory at our previous optimal retail price ($20) while continuing price-testing around this peak demand zone in parallel.
+* Consider and develop tiered pricing that incentivizes customers for higher-value purchases (higher volumes, customized variants), thereby enhancing profitability.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+I hypothesize that a 'sweet spot' could exist between $22-$24.75 with the greatest profit per unit, considering trends from rounds 8-10 and the significant decrease in returns above this range. It's important to note that quantity sold also decreases at higher prices (e.g., Round 6). Thus, pricing strategies centered around the identified optimal price ceiling ($20-$22) could be key.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 11:
+            - My price: 23.0
+            - My quantity sold: 23.15
+            - My profit earned: 300.92
+
+Round 10:
+            - My price: 22.5
+            - My quantity sold: 26.89
+            - My profit earned: 336.18
+
+Round 9:
+            - My price: 25.0
+            - My quantity sold: 11.92
+            - My profit earned: 178.8
+
+Round 8:
+            - My price: 25.0
+            - My quantity sold: 11.92
+            - My profit earned: 178.8
+
+Round 7:
+            - My price: 19.0
+            - My quantity sold: 59.87
+            - My profit earned: 538.82
+
+Round 6:
+            - My price: 28.0
+            - My quantity sold: 3.92
+            - My profit earned: 70.5
+
+Round 5:
+            - My price: 20.0
+            - My quantity sold: 50.0
+            - My profit earned: 500.0
+
+Round 4:
+            - My price: 19.0
+            - My quantity sold: 59.87
+            - My profit earned: 538.82
+
+Round 3:
+            - My price: 20.0
+            - My quantity sold: 50.0
+            - My profit earned: 500.0
+
+Round 2:
+            - My price: 24.75
+            - My quantity sold: 13.01
+            - My profit earned: 191.91
+
+Round 1:
+            - My price: 19.0
+            - My quantity sold: 59.87
+            - My profit earned: 538.82
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

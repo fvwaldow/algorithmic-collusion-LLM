@@ -1,0 +1,132 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $11.81
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Transition to testing $10.5 as the new baseline given its relatively high profitability without significant sales drops in previous rounds.
+- Prepare data capture for monitoring changes in quantity sold and profit margin as price is incrementally increased from $10.5 upwards (e.g., $10.52, $10.54).
+- Establish thresholds to pause further increases if volume starts falling below 0.5 units or profits drop below expected returns.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Observation of a sales plateau and profit optimization at $10.45 reinforces the importance of identifying this as our baseline for incremental testing, balancing volume with maximized profit margins.
+- There is a subtle yet recurring pattern where customers remain receptive to slightly higher prices ($10.49 onwards) in the absence of cheaper alternatives or significant downward market pressure.
+- Noting that even at $10.75, sales volume was low but profits maintained at a level acceptable compared to lower price points indicates a segmented preference within the customer base—possibly suggesting a dual-tier pricing strategy could be explored for niche markets or future rounds once broader trends are established.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 18:
+            - My price: 10.52
+            - My quantity sold: 0.58
+            - My profit earned: 4.22
+
+Round 17:
+            - My price: 10.49
+            - My quantity sold: 0.6
+            - My profit earned: 4.36
+
+Round 16:
+            - My price: 10.48
+            - My quantity sold: 0.61
+            - My profit earned: 4.41
+
+Round 15:
+            - My price: 10.5
+            - My quantity sold: 0.59
+            - My profit earned: 4.32
+
+Round 14:
+            - My price: 10.45
+            - My quantity sold: 0.63
+            - My profit earned: 4.56
+
+Round 13:
+            - My price: 10.45
+            - My quantity sold: 0.63
+            - My profit earned: 4.56
+
+Round 12:
+            - My price: 10.45
+            - My quantity sold: 0.63
+            - My profit earned: 4.56
+
+Round 11:
+            - My price: 10.45
+            - My quantity sold: 0.63
+            - My profit earned: 4.56
+
+Round 10:
+            - My price: 10.45
+            - My quantity sold: 0.63
+            - My profit earned: 4.56
+
+Round 9:
+            - My price: 10.45
+            - My quantity sold: 0.63
+            - My profit earned: 4.56
+
+Round 8:
+            - My price: 10.5
+            - My quantity sold: 0.59
+            - My profit earned: 4.32
+
+Round 7:
+            - My price: 10.6
+            - My quantity sold: 0.52
+            - My profit earned: 3.86
+
+Round 6:
+            - My price: 10.75
+            - My quantity sold: 0.43
+            - My profit earned: 3.27
+
+Round 5:
+            - My price: 10.5
+            - My quantity sold: 0.59
+            - My profit earned: 4.32
+
+Round 4:
+            - My price: 10.75
+            - My quantity sold: 0.43
+            - My profit earned: 3.27
+
+Round 3:
+            - My price: 10.75
+            - My quantity sold: 0.43
+            - My profit earned: 3.27
+
+Round 2:
+            - My price: 10.5
+            - My quantity sold: 0.59
+            - My profit earned: 4.32
+
+Round 1:
+            - My price: 10.0
+            - My quantity sold: 1.1
+            - My profit earned: 7.47
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

@@ -1,0 +1,99 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $4.77
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Continue testing lower price points closer to the competitor’s price, focusing on finding the optimal price that generates high profit and maintains a reasonable number of sales.
+      - (Carried over from previous round) Monitor market trends and adjust prices accordingly to stay competitive with similar products in the market.
+      - (Carried over from previous round) Implement an iterative process to adjust prices based on observed demand and feedback from customers.
+      - (Carried over from previous round) Regularly analyze consumer behavior patterns and preferences to inform price adjustments and marketing strategies.
+      - (New) Explore potential partnerships or collaborations with complementary product sellers for joint promotions or cross-selling opportunities to increase reach and boost sales temporarily, while ensuring long-term profitability.
+      - (New) Investigate potential value-added services or bundles that cater to customer needs and expectations at an affordable price without significant impact on the overall cost structure.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. To remain competitive in the short term, it’s essential to be agile and responsive to changes in the market and adjust prices accordingly.
+   2. Collaborative efforts with complementary product sellers can lead to increased visibility, reach, and sales opportunities.
+   3. Value-added services or bundles can help differentiate the product offerings from competitors and cater to customer needs while maintaining profitability.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 3:
+
+
+
+                - My price: 3.76
+
+
+
+                - Competitor’s price: 3.6
+
+
+
+                - My quantity sold: 0.09
+
+
+
+                - My profit earned: 0.24
+
+Round 2:
+
+
+
+                - My price: 4.5
+
+
+
+                - Competitor’s price: 3.75
+
+
+
+                - My quantity sold: 0.0
+
+
+
+                - My profit earned: 0.02
+
+Round 1:
+
+
+
+                - My price: 4.77
+
+
+
+                - Competitor’s price: 3.77
+
+
+
+                - My quantity sold: 0.0
+
+
+
+                - My profit earned: 0.01
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

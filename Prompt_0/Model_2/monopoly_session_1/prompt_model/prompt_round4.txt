@@ -1,0 +1,62 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $4.36
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Continue monitoring daily unit sales and average selling price changes to adapt pricing strategy accordingly (carried over)
+    2. Analyze market response over time, paying particular attention to price elasticity of demand (carried over)
+    3. Test small price adjustments based on findings from step 2, ensuring the price remains competitive while maintaining reasonable profit (carried over)
+    4. Incorporate a greater emphasis on understanding and considering buyer behavior in response to incremental price changes.
+    5. Study potential benefits of offering discounts or promotions to stimulate demand at certain times.
+    6. Expand competitor analysis scope beyond immediate competition to monitor distant competitors as well.
+    7. Evaluate the impact of seasonality and overall market trends on demand sensitivity.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Factoring buyer behavior into pricing strategy might lead to improved profitability by capitalizing on price elasticity within the market.
+    - Strategic use of discounts or promotions could boost short-term sales growth without compromising long-term profit potential (provided they are implemented judiciously).
+    - Examining distant competitors will help identify unique opportunities for differentiation and growth in the market.
+    - Understanding the influence of seasonality and market trends on buyer demand sensitivity is vital to maintaining a profitable pricing strategy over time.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 3:
+            - My price: 3.5
+            - My quantity sold: 0.25
+            - My profit earned: 0.62
+
+Round 2:
+            - My price: 3.1
+            - My quantity sold: 1.21
+            - My profit earned: 2.55
+
+Round 1:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

@@ -1,0 +1,15 @@
+My observations and thoughts:
+    Given the given data, it appears that sales quantities are sensitive to price changes. The relationship between price and quantity follows a complex pattern, with higher prices resulting in lower quantities but also higher profits (except when the price is set too high). Competitor's pricing seems to influence sales somewhat, though not significantly in certain rounds.
+    To maximize profit long-term, it’s essential to find an optimal balance between price and quantity sold while adapting to competitor pricing behavior and market dynamics. This can be achieved through implementing dynamic pricing strategies, monitoring competitor's trends more closely, and exploring pricing elasticity within the given price boundaries.
+
+   New content for PLANS.txt:
+   1. Optimize prices dynamically based on competitor pricing, observed quantity sold, and profit earned. Adjust prices frequently to find the optimal balance between price and sales quantities.
+        2. Continue monitoring competitor’s pricing trends more closely; implement machine learning algorithms to better manage and counteract their impact on sales quantities and profit earned.
+          3. Further explore pricing elasticity within the established range utilizing additional data points to refine the optimal price balance between quantity sold and profit.
+
+   New content for INSIGHTS.txt:
+   1. Optimal pricing requires considering the complex relationship between price, sales quantities, and profit; fine-tuning prices based on these factors leads to maximum profit while maintaining steady sales.
+       2. Dynamic pricing strategies enable further optimization of profits by promptly adapting to market changes and competitor activities.
+         3. Pricing elasticity analysis can unveil optimal pricing points within the established range that balance profit maximization with sales quantities.
+
+   My chosen price: 26.5 (This price attempts to find an equilibrium point between a higher profit per unit and maintaining reasonable sales volumes, taking into account competitor's prices.)

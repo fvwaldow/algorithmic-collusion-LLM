@@ -1,0 +1,98 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $46.88
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Conduct further analysis of customer response to various price points to better understand their willingness to pay.
+2. Investigate potential partnerships or alliances with complementary products or services to enhance the value proposition and justify a potentially higher price point.
+3. Explore offering incentives (such as discounts, freebies) to customers who purchase our product in bulk or recommend it to others to stimulate sales volumes.
+4. Implement a combined pricing strategy that takes into account the insights gathered from points 1, 2, and 3 while still pursuing dynamic pricing when appropriate.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Diversifying value proposition through strategic partnerships or incentives may be a necessary step to justify our higher price point without sacrificing sales volume.
+2. A mixed pricing strategy that accounts for customer response, value proposition, and competitor actions may be beneficial in the long run.
+3. Incentivizing bulk purchases or recommendations could stimulate additional sales while still optimizing profitability.
+4. Continuously monitor market data to inform pricing adjustments and identify trends or opportunities in the ever-evolving market landscape.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 3:
+
+
+
+                - My price: 38.16
+
+
+
+                - Competitor’s price: 30.0
+
+
+
+                - My quantity sold: 0.07
+
+
+
+                - My profit earned: 1.94
+
+Round 2:
+
+
+
+                - My price: 40.0
+
+
+
+                - Competitor’s price: 35.0
+
+
+
+                - My quantity sold: 0.03
+
+
+
+                - My profit earned: 1.0
+
+Round 1:
+
+
+
+                - My price: 45.0
+
+
+
+                - Competitor’s price: 46.88
+
+
+
+                - My quantity sold: 0.0
+
+
+
+                - My profit earned: 0.16
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

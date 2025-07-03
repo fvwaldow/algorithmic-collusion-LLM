@@ -1,0 +1,18 @@
+My observations and thoughts:
+   * The dataset contains prices, quantities sold, and profits earned for different rounds of a pricing competition between the user and a competitor. The user's initial price was $2.85, and the competitor's price varied throughout the game.
+   * The user's strategy seems to be setting a higher price than the competitor initially, but adjusting downwards when the competitor raises their price or offering a lower price when the competitor lowers their price. However, there are instances where the user maintained a high price even when the competitor had a significantly lower price, resulting in no sales.
+   * The user's profit earned is generally greater than the competitor's profit due to the high prices set during the game. However, this leads to fewer quantities sold, which might not be sustainable in the long run.
+   * There are also instances where the user sets an extremely high price ($5 or $10), leading to no sales, which could indicate a lack of demand for such a high price.
+   * There seems to be a consistent pattern between setting a higher price and earning more profit but selling fewer quantities, versus lowering the price to increase sales with a lower profit margin.
+
+New content for PLANS.txt:
+   * Continue with the current strategy of pricing higher than the competitor, but be ready to adjust downwards when necessary to maintain or increase sales volume.
+   * Keep track of demand at different price levels by monitoring the number of quantities sold and the profit earned, adjusting the price accordingly.
+   * Be mindful not to set excessively high prices that could decrease long-term sustainability due to a lack of customer satisfaction or market demand.
+
+New content for INSIGHTS.txt:
+   * Pricing strategies can significantly influence sales volume and profit earned, with higher prices leading to increased profits but decreased sales volume, and lower prices increasing sales volume but reducing profits.
+   * There might be a sweet spot price that maximizes both profits and sales volume, which requires further experimentation.
+   * It is crucial to monitor sales volume, profit margins, and market demand when setting prices in competitive markets.
+   * Price flexibility is essential to remain competitive and adapt to changing market conditions or competitor behavior.
+*My chosen price: 2.85 (Since the question did not ask for a new specific price, I chose to stick with the user's initial price of $2.85 as it has been used throughout the data)

@@ -1,0 +1,16 @@
+My observations and thoughts:
+
+Firstly, I notice that the user's profit has been steadily increasing from Round 1 to Round 4, peaking at $161.21 when the price was set at $5.15. However, there is a noticeable decrease in profit from Round 4 to Round 5 ($156.12), which could suggest a potential upper bound for prices. From Round 5 onwards, the user's profit has been steadily decreasing.
+
+New content for PLANS.txt:
+* Run analysis on data from Rounds 1-5 to determine the optimal price range where maximum profit is achieved.
+* Investigate possible "sweet spots" where prices are optimal for quantity sold and profit margins using more sophisticated statistical models (e.g., linear regression).
+* Experiment with dynamic pricing strategies that adjust prices in response to changes in market demand, taking into consideration segment-specific elasticity.
+
+New content for INSIGHTS.txt:
+It appears that there is a potential ceiling price of around $5.15-$5.20, beyond which profit decreases significantly. Additionally, I note that the user's profit margins have been relatively consistent between Rounds 3-5, suggesting that prices may be close to optimal within this range.
+
+My chosen price:
+5.12
+
+I chose this price based on the analysis of market data and considering the need for a fine-grained increase in price without straying too far from the optimal range (around $5.15-$5.20). This should allow for further experimentations while giving maximum profit in the long run, as stated above, profit is decreasing after Round 4 thus we want to balance profitability with keeping customers coming.

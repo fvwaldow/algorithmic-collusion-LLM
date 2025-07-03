@@ -1,0 +1,16 @@
+My observations and thoughts:
+Based on the data, it appears that the optimal price for maximum profit is around $5.0. This is supported by the fact that Rounds 58, 44, 43, and many others show a consistent profit of approximately $153.35 when the price is set to $5.0. On the other hand, prices outside this range tend to have lower profits or even losses (e.g., Round 1). Furthermore, increasing the price above $5.04 seems to reduce sales quantity significantly, leading to a decrease in overall profit.
+
+New content for PLANS.txt:
+We will add one new plan based on our observation:
+
+3. **Further investigation around optimal price of $5.0**: We will experiment with several rounds near $5.0 to confirm the existence of an 'optimal' price point within this range that yields a significantly higher profit compared to neighboring price points.
+
+New content for INSIGHTS.txt:
+We will add our observations regarding the relationship between sales quantity and price:
+
+* It is crucial to monitor quantity sold when adjusting prices, as exceeding $5.04 appears to lead to reduced quantities.
+* For prices in the 'sweet spot' range ($4.98-$5.04), we should be able to find at least one optimal price point near $5.0 that ensures consistent profits.
+
+My chosen price:
+$5.02

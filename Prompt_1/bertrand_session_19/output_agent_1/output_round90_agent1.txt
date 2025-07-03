@@ -1,0 +1,13 @@
+My observations and thoughts: The provided data contains the seller's price and the competitor's price for 21 pricing rounds of an unspecified product. During most rounds, the seller has a higher price than the competitor, but in some instances, they have a substantially lower or nearly identical price. It appears that the seller is more successful at moving units when they have a higher price, with a few notable exceptions where a much lower price also led to sales.
+
+   New content for PLANS.txt:
+   - Experiment with different pricing strategies by adjusting the seller's price based on competitor's moves.
+   - Monitor the impact of different prices on quantity sold and profit earned to refine pricing strategy.
+   - Analyze the data from previous rounds to identify patterns that can inform future pricing decisions.
+
+   New content for INSIGHTS.txt:
+   - Higher prices, within reason, lead to higher profits but may also result in fewer units sold.
+   - There is a sweet spot for the seller's price that maximizes both profits and quantities sold; however, it appears this optimal price varies throughout the pricing rounds.
+   - The competitor occasionally matching or even undercutting the seller can pose a threat to overall sales and profitability.
+
+   My chosen price: 20 (the average price charged by the seller during most of the pricing rounds)

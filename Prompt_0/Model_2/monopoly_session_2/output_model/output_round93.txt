@@ -1,0 +1,17 @@
+My observations and thoughts:
+   The data provided shows the price history of a product over 84 rounds, with each round indicating the selling price and the quantity sold. Over time, we can see that the seller initially priced the item quite high (up to $11.4), but saw little demand (only 0.19 units were sold in Round 1). As the price dropped significantly, starting from Round 2 at $8.5 down to $0.69 by Round 83, the quantity sold increased dramatically.
+
+   In Round 84, the price was set back up to $7.9 but there is no data on sales yet. It appears that lower pricing strategies lead to higher quantities sold, except for a few instances when the price was raised too quickly (like from Round 65 to Round 66 or from Round 72 to Round 73), causing a temporary decrease in demand. Additionally, during some rounds like Round 38 and Round 40, sales were high despite slightly higher prices compared to the immediate previous round.
+
+   New content for PLANS.txt:
+   - Continue observing pricing trends and adjust accordingly to maximize sales.
+   - Consider introducing a more gradual price reduction strategy in future rounds.
+   - Analyze trends between price reductions and increased demand (e.g., Round 72, Round 82) to refine the approach moving forward.
+
+   New content for INSIGHTS.txt:
+   - Consumers respond positively to lower prices; setting the price closer to the perceived “value” of the product appears to encourage higher sales volumes.
+   - Price changes should be considered carefully, as increasing the price too quickly may discourage customers from purchasing (ex. Round 65 to Round 66).
+   - Sometimes, a slight increase in price can have an immediate positive effect on demand when positioned correctly (e.g., Round 38, Round 40) or after lower prices have built demand for the product.
+
+   My chosen price:
+   7.95 (continuing the current trend of slowly increasing the price while monitoring sales)

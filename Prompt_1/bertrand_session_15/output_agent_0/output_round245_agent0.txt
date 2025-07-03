@@ -1,0 +1,15 @@
+My observations and thoughts:
+The data provided shows the selling price, competitor's price, quantity sold, and profit earned for each round of a price competition. Observing this data, we can see that the seller's price fluctuates between 15 to 30 dollars with occasional outliers on either end. However, there seems to be little correlation between price and quantity sold unless the price drops below 20 dollars or goes above 40 dollars. Most profits are made when selling at a higher price, but this trend is not consistent as lower prices can sometimes yield high profits when the quantity is substantial (e.g., when the price was reduced to 15 dollars in Round 153).
+
+New content for PLANS.txt:
+* Keep the base price around 20-30 dollars, with occasional price drops or increases to create a dynamic pricing strategy and attract more customers.
+* Monitor competition's price fluctuations and adjust accordingly to maximize profits.
+* Consider offering promotions or discounts at strategic times (e.g., during holidays or slow sales periods) to generate higher volume sales.
+
+New content for INSIGHTS.txt:
+* Lowering the price below 20 dollars significantly increases quantity sold, but may not always result in more profits due to lower profit margins.
+* Pricing above 40 dollars seems unprofitable as no substantial quantity is sold, with the exception of Round 149 where a profit was made despite low sales volume.
+* It appears that a dynamic pricing strategy would be beneficial, as adjusting prices according to competition may help maximize profits.
+
+My chosen price:
+28

@@ -1,0 +1,12 @@
+My observations and thoughts:
+The market data indicates a general trend of increasing profit margin as we approach (but do not reach) the price of $5. This pattern is also notable in the quantity sold data, which suggests that our highest sales volume occurred at prices between $4.99 and $5.05, with a slight dip when our price reached $5.08. 
+
+New content for PLANS.txt:
+1. Continue testing higher prices around $5 to see if profitability increases further without sacrificing too much in terms of quantity sold.
+2. Expand the plan from Round 13 to conduct a thorough price elasticity analysis across all pricing rounds. Consider using techniques like regression or time-series forecasting to better understand how changes in price impact sales volume and profit.
+
+New content for INSIGHTS.txt:
+Our current data has shown some potential in setting prices above $4.99 but not quite at the optimal point of profitability without a decline in quantity sold (this was noticed after testing rounds 13-16). Although our insights are based on historical data from two past instances of this pricing round ($4.99 and $5), I suspect the target audience may prefer to stay below or around a price of $5 due to factors like market competition, demand elasticity, etc. In light of this uncertainty about optimal trade-offs between higher prices yielding more revenue per unit but reduced sales volume, we should also investigate possible long-term impacts on customer loyalty and future sales if our prices do not fluctuate around $5.
+
+My chosen price:
+4.99

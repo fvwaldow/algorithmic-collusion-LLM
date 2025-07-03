@@ -1,0 +1,86 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $10.07
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+Investigate seasonal variability in pricing by observing whether adjustments can lead to profitable market shares without risking current profit margins. 
+Continuously validate any conclusions from the previously planned analysis on Rounds 6-10 as new data becomes available in future rounds.
+Compare prices and margins obtained using basic statistical models with outcomes generated when sophisticated techniques are applied.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+We can confidently note that our optimal price lies within the observed window ($4.95-$5.15) where both quantity sold and profit earned tend to remain high across most given data points (with Round 7 showing a modest deviation).
+As always, we will carry forward market fluctuations' consideration using more precise statistical models, enabling further insights into profitable pricing strategies without underpricing potentially better margins.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 9:
+            - My price: 5.07
+            - My quantity sold: 84.06
+            - My profit earned: 157.19
+
+Round 8:
+            - My price: 4.98
+            - My quantity sold: 85.51
+            - My profit earned: 152.2
+
+Round 7:
+            - My price: 5.12
+            - My quantity sold: 83.2
+            - My profit earned: 159.75
+
+Round 6:
+            - My price: 5.1
+            - My quantity sold: 83.55
+            - My profit earned: 158.74
+
+Round 5:
+            - My price: 5.05
+            - My quantity sold: 84.39
+            - My profit earned: 156.12
+
+Round 4:
+            - My price: 5.15
+            - My quantity sold: 82.67
+            - My profit earned: 161.21
+
+Round 3:
+            - My price: 4.95
+            - My quantity sold: 85.97
+            - My profit earned: 150.44
+
+Round 2:
+            - My price: 4.75
+            - My quantity sold: 88.72
+            - My profit earned: 137.52
+
+Round 1:
+            - My price: 2.0
+            - My quantity sold: 99.59
+            - My profit earned: -119.51
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

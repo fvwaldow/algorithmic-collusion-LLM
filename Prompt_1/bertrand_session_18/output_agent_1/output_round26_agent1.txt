@@ -1,0 +1,12 @@
+My observations and thoughts: It appears that adjusting the price closer to the competitor’s price increases the number of units sold, but the profit is also negative except for two instances. Moreover, higher prices reduce the quantity sold significantly. However, selling at an excessively low price results in significant losses as well. The market dynamics suggest that sensitivity analysis with a broader range of competitor’s prices would be beneficial to understand long-term profitability and market share trends.
+
+   New content for PLANS.txt:
+      + Conduct a comprehensive sensitivity analysis using a range of competitor prices from -$0.4 (below the current lowest competitor price) to $0.5 (above the current highest competitor price). Take into account minimum 15 rounds of data collection, considering customer preferences and overall market dynamics.
+      + Analyze the long-term effects of this expanded sensitivity analysis on market share, profit margins, and customer loyalty. Adjust the chosen pricing point proactively based on insights gained to optimize short-term and long-term profitability while maintaining competitiveness.
+      + Incorporate historical data from various price points as additional input for the sensitivity analysis to improve its accuracy and insightfulness.
+
+   New content for INSIGHTS.txt:
+     - Expanding the range of competitor prices during sensitivity analysis can reveal crucial insights regarding the optimal pricing strategy for maximizing profits over time.
+     - Historical data from previous price points offers essential context for understanding how market conditions have affected past decisions and can aid in making more informed choices about future pricing strategies.
+
+   My chosen price: 10.3 (slightly lower than current competitor's price, given the pattern of higher quantity sold when prices are similar)

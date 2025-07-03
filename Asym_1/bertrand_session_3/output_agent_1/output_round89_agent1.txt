@@ -1,0 +1,19 @@
+My observations and thoughts:
+   In this data set, each row represents a round of pricing where two parties are contesting the price for a certain product. The number on the left reflects the round, and the following four numbers reflect, in order, the price proposed by my party (which I will refer to as A), the price proposed by the competitor (C), the quantity sold that round (Q), and the total profit earned that round (P).
+
+   Initial observations show a few interesting trends:
+   - The prices proposed by both parties tend towards values greater than 2 (assuming for now this is a normalized or scaled value system)
+   - At first, the price of the competing party (C) starts relatively higher than A but gradually decreases over time
+   - A's price shows periods where it remains stable and others that experience an increase followed by eventual decrease in round numbers 3, 9, 16, and 26
+   - The quantity sold (Q) for each round doesn't seem to correlate directly with the price proposed by either party
+   - Profit earned per round (P) is not consistent with Q, as evidenced by instances where small differences in price lead to vastly different profits
+   - Some fascinating round numbers, such as rounds 3, 9, and 26, show significant variations that might suggest major shifts in the negotiation strategy of both parties. For example, prices jump significantly at those points: A goes from 3.0 to 3.25 in round 3 and C drops from 3.5 to 2.75 (and down to 2.5 eventually) in round 6
+
+   Plans.txt (Strategy going forward):
+   Considering the above observations, it seems essential to take advantage of the lower prices occasionally proposed by the competitor (C). Also, be wary of rounds where the prices jump significantly as competitors may have reacted to our own price changes or other strategic decisions that we are not privy to. Adjust our pricing strategy according to the behavior of the competitor, and explore methods for more accurately predicting their decisions in advance.
+
+   Insights.txt (Key findings):
+   In this simulation, the interaction between the two parties showed that the market dynamics can be complex due to factors such as the competitors' changing strategies, unpredictable consumer behavior (indicated by inconsistent Q vs P relationships), and pricing discrepancies. It is valuable to observe both long-term trends and sudden shifts in pricing patterns while attempting to outmaneuver our rivals. Also noteworthy is the observation that profit isn't always necessarily influenced by quantity of goods sold, suggesting the need for a more nuanced understanding of these relationships. Continuous monitoring and adapting the strategy according to trends and insights will yield positive results in this competitive arena.
+
+   My chosen price:
+   2.95

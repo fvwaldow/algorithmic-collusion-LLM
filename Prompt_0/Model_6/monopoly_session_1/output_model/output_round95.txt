@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+* The data suggests that there is a "sweet spot" around $2.97 where quantity sold and profit earned are relatively consistent, with some minor fluctuations.
+* Increasing the price above $3.48 seems to severely impact sales and revenue, consistent with the insights from previous rounds.
+* There is an indication of a ceiling effect at $2.98, where profit earned starts to decrease despite steady quantity sold.
+
+New content for PLANS.txt:
+1. Verify the optimal price within the "sweet spot" by trying $2.95 or $2.98 and comparing results.
+2. Conduct more controlled experiments to establish the robustness of the sweet spot, rather than letting prices fluctuate randomly between rounds.
+3. Investigate possible threshold effects when setting prices above $3.48 (e.g., what exactly happens as you approach this ceiling).
+
+New content for INSIGHTS.txt:
+
+* Adding insights:
+The data suggests that there might be an optimal price within the "sweet spot" around $2.97, and experiments could verify if it's more robust to prices closer or further away.
+* Modifying existing insights:
+A possible threshold effect becomes apparent around $3.48.
+
+My chosen price: 2.97

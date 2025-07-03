@@ -1,0 +1,18 @@
+My observations and thoughts:
+   This dataset represents price changes for a certain product throughout 42 pricing rounds. The prices vary significantly, with the lowest price at $0.03 in Round 5 and the highest price at $4.3 in Round 4. There seem to be cycles of high prices followed by lower ones, although there are also instances where sudden increases or decreases occur. It's interesting to note that around Rounds 12-15 and 37-40, the product is priced at a consistent $2.0 or $2.1, resulting in a substantial amount of quantity sold. There appears to be an effort to increase the price at certain rounds but with limited success due to lack of demand for the product ($2.85, $3.25, $2.8, $3.5, $3.1). The dataset reflects attempts to find a balance between maximizing revenue and maintaining demand.
+
+   New content for PLANS.txt:
+   -Observe and analyze trends in pricing over time
+   -Identify cycles and patterns in price and quantity sold
+   -Consider the impact of different prices on demand and profitability
+   -Develop strategies for pricing to maximize revenue while maintaining acceptable demand levels
+
+   New content for INSIGHTS.txt:
+   -Cycles of high and low pricing can occur over time
+   -Price level at $2.0 or $2.1 results in significant sales (Rounds 12-15, 37-40)
+   -Sudden increases or decreases can affect demand and profitability negatively
+   -An apparent effort to increase price without compromising demand (Rounds 8-11, 29-36)
+   -Maintaining a balance between revenue and demand may be difficult for this product as a result of sensitivity to price changes.
+
+   My chosen price:
+   2.15

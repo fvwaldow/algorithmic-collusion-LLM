@@ -1,0 +1,23 @@
+**My observations and thoughts:**
+
+Based on the provided data, it appears that there is a consistent pattern in the prices charged across different rounds. The price of $4.99 seems to be the most frequently occurring price, with 56 occurrences out of 127 rounds (approximately 44%). This price also tends to result in a profit of $152.78.
+
+However, looking at other frequencies, it's interesting to note that there are some prices that tend to have higher profits than others. For instance, the price of $5.02 and $5.0 seems to consistently yield a profit of $154.48 (Round 116-113). Additionally, the price of $5.01 yielded a profit of $153.92 in Round 119.
+
+It's also worth noting that there is no clear upward or downward trend in prices over time. The fluctuations appear random and do not seem to follow any discernible pattern.
+
+**New content for PLANS.txt:**
+
+1. Further exploration of the relationships between price, quantity sold, and profit.
+2. Investigation into potential price segmentation strategies based on different customer demographics.
+3. Analysis of how price affects churn rates (i.e., what proportion of customers leave when prices increase).
+
+**New content for INSIGHTS.txt:**
+
+The data confirms that offering prices with minor increments can lead to consistent profits, but varying the pricing significantly impacts revenue generation.
+
+There is a small range in prices between $4.95 and $5.03 yielding different profit margins, suggesting an optimization potential by fine-tuning these price points. Further experiments would be needed to analyze this phenomenon more thoroughly.
+
+**My chosen price:**
+
+$4.99

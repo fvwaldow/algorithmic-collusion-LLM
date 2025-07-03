@@ -1,0 +1,11 @@
+My observations and thoughts:
+Upon reviewing the data, it's clear that there are patterns in both sales quantities and profit earnings across different price points. Lower prices generally correlate with higher sales volumes and profitability, especially in rounds where the quantity sold is significant (e.g., around 0.59 to 0.43). Notably, higher profits are achieved in some rounds even at lower quantity sales, suggesting that the price might have an optimal range for maximizing profit per unit sold.
+
+New content for PLANS.txt:
+Based on these analyses, I plan to explore a dynamic pricing strategy that adjusts closer to where sales volume and profit per unit seem maximally balanced. This will involve closely monitoring sales trends and adjusting the price incrementally to find this optimal point.
+
+New content for INSIGHTS.txt:
+In round 50, the lowest quantity sold (0.09) resulted in a higher profit per unit, indicating an optimal price point. There seems to be a sweet spot around 10.5-12.0 pricing where sales are maintained while profitability is still high. It's crucial to continually refine this range based on real-time data feedback.
+
+My chosen price:
+<10.5>

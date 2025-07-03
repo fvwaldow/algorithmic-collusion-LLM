@@ -1,0 +1,16 @@
+My observations and thoughts:
+I observed that lower prices tend to result in higher quantity sold but lower profit, while higher prices lead to lower volume of sales with higher profits. The price range where the product is slightly cheaper or equal to competitors leads to an increase in the quantity sold within reasonable profit margins. The data suggests that there might be a sweet spot between $5 and $6 for maximizing the number of units sold while still maintaining high profitability. In addition, it appears that frequent analysis of sales data could help identify this optimal pricing point more accurately.
+
+New content for PLANS.txt:
+1. Continue analyzing the impact of minor price deviations from competitors while monitoring profit and volume sold (quantity_sold_vs_price.py).
+2. Investigate offering temporary discounts or bulk deals to stimulate demand (discounts_and_bulk_deals.py).
+3. Implement dynamic pricing strategies in response to fluctuations in supply, demand, or competitor actions (dynamic_pricing.py).
+4. Conduct ongoing A/B testing with a wider range of price points to better isolate the impact on sales and profitability (A_B_testing.py).
+
+New content for INSIGHTS.txt:
+- The pricing strategy should try to keep prices slightly below or equal to competitors while analyzing the volume sold and profit earned.
+- A more precise optimal pricing point can be determined through frequent analysis of sales data and A/B testing with a wide range of price points.
+- Dynamic pricing strategies adjusting based on fluctuations in supply, demand, or competitor actions could help improve overall profitability.
+
+My chosen price:
+5.98

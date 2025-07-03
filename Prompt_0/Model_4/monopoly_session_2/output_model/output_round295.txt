@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+Throughout the various pricing rounds, it's clear that the quantity sold increases significantly when the prices are lower. For example, at a price of 7.45, which results in a very high profit of 90.13, the unit sells not just one but a substantial quantity (21.21 units). Conversely, higher prices generally result in fewer units sold, even though these might still contribute to a decent profit margin due to the higher price per unit. The data suggests a clear inverse relationship between price and quantity sold, which is typical for many products.
+
+New content for PLANS.txt:
+```
+Adjust pricing strategies based on the observed inverse price-quantity relationship. Implement a dynamic pricing model that responds to real-time sales data to optimize both profit margins and overall quantities sold. Regularly review these strategies to adapt to changing market conditions.
+```
+
+New content for INSIGHTS.txt:
+```
+Insights about pricing rounds reveal strong sensitivity to price changes, influencing both sales volume and profitability. Notably, lower-priced offerings attract more buyers, increasing total revenue despite the reduced profit margin per unit. This pattern indicates potential customer elasticity and highlights the need for data-driven pricing strategies. Future analysis should focus on identifying break-even points across different price levels and assessing market share impacts.
+```
+
+My chosen price: **12.3**
+
+This decision is based on the observed sensitivity to price, aiming for a balance between maximizing sales volume and maintaining a reasonable profit margin per unit.

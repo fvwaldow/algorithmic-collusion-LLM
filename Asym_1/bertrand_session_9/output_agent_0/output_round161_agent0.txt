@@ -1,0 +1,16 @@
+My observations and thoughts:
+   The data provided is a series of market pricing rounds with accompanying quantities sold and profits earned for each round. It appears that the seller has the ability to adjust their price at each round. The competitor's price also changes, though not necessarily in response to the seller's actions. There seems to be an interaction between the seller's price and the quantity they sell, as lowering the price tends to increase the number of units sold. However, there are instances where raising the price can still result in profitable sales.
+
+   New content for PLANS.txt:
+   - Observe and analyze patterns in the data for potential pricing strategies.
+   - Identify any factors (such as competitors' actions or market conditions) that may influence pricing decisions.
+   - Develop a flexible pricing strategy that can adapt to changing market conditions.
+   - Continuously monitor sales and competitor actions to refine and optimize the strategy.
+
+   New content for INSIGHTS.txt:
+   -Lowering the price tends to increase the number of units sold, but there are instances where raising the price can still result in profitable sales (e.g., Rounds 68, 67, and 78).
+   -The competitor's actions do not always align with the seller's price adjustments, suggesting that there are other factors influencing their pricing decisions as well (e.g., Rounds 94 and 72 where a lower price from the seller results in an increase in the competitor's price).
+   -The importance of monitoring sales and competitor actions to refine pricing strategy cannot be overstated, as it allows for adaptation to changing market conditions (e.g., adjusting response to competitor price increases or decreases).
+
+   My chosen price:
+   7.75 (This value provides a balance between a higher price that can still generate significant profits and the observation that lower prices often result in greater unit sales.)

@@ -1,0 +1,13 @@
+My observations and thoughts:
+   This data represents a dynamic pricing scenario where each round displays the seller's price and the competitor's price along with their respective numbers of units sold and total revenue (profit). Interestingly, there are frequent adjustments in the seller's product price by just 0.05 units from the initial price of 8.21. The competitor also adjusts its price but more drastically, from a starting point of around 8.21 to as high as 84.0. We can see that pricing strategy plays a significant role in impacting sales, with higher prices resulting in fewer units sold and lower profit. Additionally, it seems like the seller often chooses to lower its price compared to the competitor.
+
+   New content for PLANS.txt:
+   Based on these observations, it seems beneficial to maintain a competitive pricing strategy, adjusting our price slightly lower than the competitor's in most cases. In doing so, we can boost our unit sales while still earning a reasonable profit margin. However, we might want to reconsider this approach when the competitor sets an extremely high price, as shown in round 166 and some subsequent rounds where the competitor set unrealistic prices.
+
+   New content for INSIGHTS.txt:
+   - Competitors' pricing strategies have a direct impact on sales: Setting a higher price resulted in fewer units sold, while lowering the price led to increased unit sales.
+   - Adjusting the price by just 0.05 units can lead to significant changes in revenue and unit sales.
+   - A dynamic pricing strategy seems crucial for remaining competitive in this market.
+
+   My chosen price:
+   8.15 (Based on lowering the price compared to the competition while still keeping an acceptable profit margin).

@@ -1,0 +1,160 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $4.24
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Revise the upper limit of the price range to a maximum of $3.50 while maintaining a competitive edge over the competitor.
+2. Optimize the tiered pricing strategy with more accurate bulk purchase discount thresholds that cater to varying customer demands.
+3. Perform A/B testing with prices closer to the maximum of $3.50 and monitor sales volume, revenue, and profit to refine the optimal price point.
+4. Consider incorporating special promotions on specific days or seasons for additional profit opportunities.
+5. Monitor competitor pricing changes and adjust my prices accordingly to maintain a competitive advantage while maximizing profit.
+6. Use market data from A/B testing to inform future pricing decisions effectively.
+7. Continuously analyze the impact of dynamic pricing strategies in various scenarios.
+8. Maintain adaptability and responsiveness to market fluctuations for long-term success.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Finding the right balance between profit maximization, sales volume, and competitive challenges is essential.
+2. Dynamic pricing should be approached with caution, using data-driven decision making and close monitoring to achieve optimal results.
+3. The tiered pricing strategy may benefit from further refinement regarding bulk purchase discount thresholds.
+4. A/B testing remains a crucial tool for gauging the effectiveness of various strategies in different price scenarios.
+5. Competitor-driven dynamic pricing necessitates continuous monitoring to maintain or improve strategic positioning.
+6. Seasonal or special day-of-week promotions can provide additional profit opportunities when utilized effectively.
+7. Accurate market insights and adaptability are fundamental factors that contribute to evolving a successful, flexible pricing strategy.
+8. Strategic price points must be revisited frequently to optimize profits based on current competition and market trends.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 6:
+
+
+
+                - My price: 2.5
+
+
+
+                - Competitor’s price: 3.49
+
+
+
+                - My quantity sold: 11.89
+
+
+
+                - My profit earned: 17.84
+
+Round 5:
+
+
+
+                - My price: 2.0
+
+
+
+                - Competitor’s price: 3.0
+
+
+
+                - My quantity sold: 49.55
+
+
+
+                - My profit earned: 49.55
+
+Round 4:
+
+
+
+                - My price: 2.0
+
+
+
+                - Competitor’s price: 3.25
+
+
+
+                - My quantity sold: 49.83
+
+
+
+                - My profit earned: 49.83
+
+Round 3:
+
+
+
+                - My price: 3.75
+
+
+
+                - Competitor’s price: 3.99
+
+
+
+                - My quantity sold: 0.09
+
+
+
+                - My profit earned: 0.25
+
+Round 2:
+
+
+
+                - My price: 2.0
+
+
+
+                - Competitor’s price: 3.99
+
+
+
+                - My quantity sold: 49.99
+
+
+
+                - My profit earned: 49.99
+
+Round 1:
+
+
+
+                - My price: 2.0
+
+
+
+                - Competitor’s price: 2.0
+
+
+
+                - My quantity sold: 33.33
+
+
+
+                - My profit earned: 33.33
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

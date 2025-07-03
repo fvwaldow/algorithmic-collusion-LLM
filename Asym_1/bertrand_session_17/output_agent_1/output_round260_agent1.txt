@@ -1,0 +1,17 @@
+**My observations and thoughts:**
+It appears that this dataset represents the prices of my product and a competitor's product in each round, along with the quantity sold per round. The competitors price seems to stay relatively constant around 30, while mine fluctuates significantly, often aiming for a lower cost but sometimes going as high as 75. I can see that pricing low can lead to higher quantities sold (e.g., Round 181) but this comes at a substantial loss. On the other hand, when I price closer to the competitor, the quantity sold is much smaller, but I manage to maintain profits (e.g., Rounds 170, 162, and 159). Interestingly, setting prices very similar to the competitor's appears to have a minimal effect on my market share.
+
+**New content for PLANS.txt:**
+* Analyze competitor's pricing strategy to adjust own pricing accordingly
+* Offer competitive pricing while maintaining profits
+* Monitor quantity sold and price sensitivity of customers
+
+**New content for INSIGHTS.txt:**
+* Lower prices can lead to high quantity sales but substantial losses
+* Competitors constant price doesn't significantly impact my market share
+* Optimal pricing appears to be similar to competitors, with potential to edge towards lower prices if competitive advantage allows
+
+**My chosen price:**
+30
+
+Note: These files (PLANS.txt and INSIGHTS.txt) will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

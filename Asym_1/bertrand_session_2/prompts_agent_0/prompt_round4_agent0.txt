@@ -1,0 +1,61 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $3.59
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
++ Conduct thorough market research on customers' value perception of our product
+           - Find ways to communicate our product’s unique benefits to build demand
+       + Test pricing between the competitor's price range ($1) and a slightly higher limit, with small increments (e.g., 1.59, 1.79, 1.99) to identify the optimal profitable price point for our product.
+       + Optimize website design and product page content to emphasize superior quality or special features that justify the slight price premium over competitors.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
++ Importance of understanding and aligning with customers' purchasing decisions based on perceived value instead of only focusing on pricing parity with direct competitors.
+        + Exploration and implementation of targeted promotions or customer loyalty programs to drive sales volume without compromising profitability.
+           + Ongoing evaluation of the effectiveness of current pricing strategies through A/B testing, analysis of performance data, and feedback from customers and market research.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 3:
+                - My price: 1.79
+                - Competitor’s price: 1.2
+                - My quantity sold: 0.47
+                - My profit earned: 0.37
+
+Round 2:
+                - My price: 2.39
+                - Competitor’s price: 1.05
+                - My quantity sold: 0.02
+                - My profit earned: 0.03
+
+Round 1:
+                - My price: 2.59
+                - Competitor’s price: 1.0
+                - My quantity sold: 0.01
+                - My profit earned: 0.01
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

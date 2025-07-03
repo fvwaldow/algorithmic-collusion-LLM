@@ -1,0 +1,12 @@
+My observations and thoughts: In the current pricing analysis, we have found optimum sales with a price range of 3.2 - 3.5. At 3.45, no sales occurred in round 28, but at this level, the cost per unit is only $1 more than the absolute minimum price customers will accept ($3.09). Since profit per unit decreases with lower prices due to fixed costs, increasing the price above 3.45 could potentially be profitable if it increases sales while not reducing them too drastically. The insight from this round suggests we need more data points within the current pricing range and further testing, as previous adjustments above or below this level have shown diminishing returns in terms of profitability.
+
+   New content for PLANS.txt:
+      - Testing several different price increments within the 3.2-3.5 range, focusing on finding the optimal balance between selling quantity and profit per unit
+      - Evaluating the long term effects on profit by monitoring pricing adjustments over multiple rounds
+      - Comparing our prices with competitors to ensure competitiveness while maximizing profitability
+   New content for INSIGHTS.txt:
+      - Increasing the price beyond 3.5 results in zero sales, but increasing it within the range of 3.2-3.5 could potentially be profitable if it helps increase sales
+      - Decreasing the price below 3.2 results in higher profit per unit but fewer sales, thus decreasing overall profitability
+      - It is imperative to carefully analyze data and testing results within the current pricing range (3.2-3.5) for long term optimization of profitability
+
+   My chosen price: 3.46 (Since we need to further test and explore within this range, it's better to start with a slight adjustment from our most recent attempt, i.e., round 28. Choosing 3.46 will also minimize the impact on sales, which would allow us to quickly analyze results and adjust accordingly.)

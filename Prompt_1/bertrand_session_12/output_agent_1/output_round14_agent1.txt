@@ -1,0 +1,11 @@
+My observations and thoughts: So far, it appears that customers are sensitive to price changes, with lower prices leading to a higher quantity sold and increased profit (Round 1, Round 4, Round 6). At the same time, there seems to be an upper limit on what customers would pay which is around $10.53 (given in initial data). This indicates that it may be worthwhile to use a reactive pricing strategy that keeps our price slightly below the competitor's price while maintaining a competitive advantage. By monitoring customer demand, we can adjust our price accordingly and find the optimal balance that maximizes profit.
+
+   New content for PLANS.txt:
+   1. Test a dynamic pricing strategy whereby our price fluctuates based on market conditions, with the aim of finding the optimal price that balances competitiveness and profitability. This will involve continuous monitoring of both customer demand and competitor's prices to make informed adjustments.
+   2. Analyze historical data to identify any patterns or trends in customer behavior and use these insights to refine our pricing model over time.
+
+   New content for INSIGHTS.txt:
+    - A proactive, data-driven approach to pricing can lead to improved profitability by taking advantage of customer demand at various price points.
+    - Keeping our price slightly below the competitor's price can help maintain a competitive advantage while still maximizing profits.
+
+   My chosen price: 5.95 (rounded down from an optimal price that balances competitiveness and profitability, as determined through data analysis)

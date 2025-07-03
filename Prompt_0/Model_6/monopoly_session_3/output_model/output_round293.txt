@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+The data provided shows a significant pattern of prices and corresponding profit margins. It's clear that there are many anomalous readings, particularly in Rounds 229 and 194, where the price is extremely high or low. Ignoring these outliers, it appears that the relationship between price and quantity sold is inverse, i.e., as price increases, quantity sold decreases.
+
+Furthermore, examining the data points beyond the outlier rounds, there's a noticeable clustering around certain price intervals (approximately 19-20). This suggests that these are the most profitable price ranges for the given product. Conversely, attempting to sell at significantly higher or lower prices seems to result in unfavorable outcomes.
+
+New content for PLANS.txt:
+
+* Investigate and eliminate the outlier readings in Rounds 229 and 194 as they seem arbitrary.
+* Analyze the performance of different price intervals within the 19-20 range for optimal profit margins.
+* Consider offering discounts to increase quantity sold and subsequently, overall profit.
+
+New content for INSIGHTS.txt:
+
+* The product's market appears to be sensitive to price levels. Deviations from optimal prices may lead to reduced profitability.
+* There's a competitive balance observed within the price intervals around 19-20; these might serve as key price targets for pricing strategies.
+* Quantity sold is inversely related to selling price when ignoring anomaly rounds.
+
+My chosen price:
+
+19.95

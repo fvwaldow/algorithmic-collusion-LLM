@@ -1,0 +1,19 @@
+Given the extensive historical data provided, here’s how I would approach completing the task:
+
+My observations and thoughts:
+The sales data indicates a consistent pattern of high profit per unit sold, particularly in rounds where the quantity sold is significant. Notably, the round with the highest quantity (Round 223) showed substantial profit ($70.5), while others with lower quantities but higher rates (Rounds 200-202, 197-198, etc.) also generated notable profits ($7.4 to $8.84 per item). Pricing seems to heavily influence quantity sold, suggesting that strategic pricing can significantly boost profits per transaction.
+
+New content for PLANS.txt:
+```
+Based on the historic data, consider implementing dynamic pricing strategies that adjust in response to quantity sold trends. Specifically, focusing on price points that traditionally yield high quantities and profit margins could optimize our strategy. 
+```
+
+New content for INSIGHTS.txt:
+```
+Overrounds marked by high quantity sales, consistent profit percentages were achieved. It's evident that lower price points tend to drive higher volume sales, leading to substantial overall profits despite slightly lower per-unit margin. The insights suggest aligning price more closely with historical high quantity sales thresholds to boost total revenue consistently. 
+```
+
+My chosen price:
+```
+35
+```

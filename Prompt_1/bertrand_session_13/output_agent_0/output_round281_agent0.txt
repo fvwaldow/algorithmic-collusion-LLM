@@ -1,0 +1,17 @@
+My observations and thoughts: The data provided shows the sales quantity and profit earned for different product prices at each round. It appears that the optimal price is around 9.5, as this leads to a relatively stable number of units sold (around 2 per round) and a decent profit per unit (around $12.50). However, there are rounds where the optimum appears to shift slightly due to changes in competitor pricing.
+
+New content for PLANS.txt:
+```
+Optimal price range: 9.3 - 9.75 (round to nearest whole number)
+Monitor competitor's pricing closely and adjust accordingly
+Try to maintain a steady profit margin around $12.50 per unit
+```
+
+New content for INSIGHTS.txt:
+```
+- The product demand appears consistent, with an average of around 2 units sold per round in most cases.
+- Competitor pricing can affect sales quantity slightly, so it is essential to monitor their moves and adjust pricing accordingly.
+- Maintaining a decent profit margin is crucial for long-term sustainability. Adjusting the price by a few cents either way can significantly impact profits.
+```
+
+My chosen price: 9.5

@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+Upon reviewing the provided information, I notice that there is a pattern where the price ranges from $4.95 to $5.15 have been consistently optimal for maximizing profit within the established price window. The profit has shown a slight increase as the price increases within this range. However, prices above $5.15 (e.g., Round 7 and Round 11) and below $4.95 (e.g., Rounds 2 and Round 3) have resulted in lower profits. Furthermore, the data from previous rounds indicates that there is a significant decline in quantity sold when deviating from this optimal price range.
+
+Given these observations, I consider it essential to analyze further minor price adjustments within the established optimal range to maximize profit within that window.
+
+New content for PLANS.txt:
++++++++++++++++++++++
+Prioritize testing prices between $4.98 and $5.07 to pinpoint the optimal price point within the identified range.
+
+Test a higher-end price of $5.10, considering its proximity to previous tested highs while avoiding any potential loss in quantity sold.
+Monitor Round 11 data closely for insights on how minor price adjustments affect profit and proceed with the next round based on this new information.
+Continuously evaluate market conditions before proceeding with further adjustments.
+
+New content for INSIGHTS.txt:
++++++++++++++++++++++
+Given the consistent peak of profitability within the price range from $4.95 to $5.15, I infer that there is a relationship between being near or at this optimal window and high profit earnings.
+
+Additional experimentation should involve exploring different minor adjustments to solidify why these ranges optimize profit and identify any trends in customer response or preferences based on price changes.
+
+My chosen price:
+5.02

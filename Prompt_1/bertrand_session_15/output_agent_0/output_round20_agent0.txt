@@ -1,0 +1,13 @@
+My observations and thoughts: The data provided reveals that the optimal price point seems to be just below the competitor's price while maintaining a slight differential. However, it is necessary to perform statistical analysis on various price points within the given range (23.88 - $46.88) to determine the optimal price balancing volume and profit per sale.
+
+   New content for PLANS.txt:
+   - Implement an A/B testing strategy examining a more granular set of price points in increments of $0.1 to identify the optimal pricing that maximizes profit within the given range (23.88 - $46.88).
+     - Use regression analysis or hypothesis testing methods to analyze the results and confirm their statistical significance.
+     - Focus on calculating and comparing profit margin percentage as a more accurate measure of profitability across different price points and sales volumes.
+
+   New content for INSIGHTS.txt:
+   - The optimal price point appears to be just below the competitor's price while maintaining a slight differential, but this should be confirmed through statistical analysis.
+     - Testing additional price points within a more granular range may identify even better pricing strategies that balance sales volume and profit per sale.
+     - A systematic approach is needed to establish precise pricing elasticity within the given range.
+
+   My chosen price: 25.1 (Based on Round 16 where I had a higher sales volume and profit with this specific price)

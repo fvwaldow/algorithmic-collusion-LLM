@@ -1,0 +1,23 @@
+My observations and thoughts:
+
+The provided market data shows a consistent pattern of profit earned across multiple rounds, with prices ranging from $2.97 to $2.98. This suggests that we have indeed identified an optimal price range for maximized long-term profit.
+
+However, there is also evidence suggesting a relationship between quantity sold and profit earned at lower prices. Specifically, Round 12 shows increased quantity and relatively high profit when the price was set at $2.90.
+
+Additionally, higher-priced sales are associated with decreased customer willingness to purchase due to the ceiling observed in Round 6/7. This implies that customers are less likely to buy at prices above the discovered ceiling of $3.23. I will also take into account that in Round 6 and 7 we have very few quantity sold, this could indicate a saturation effect.
+
+To further optimize pricing strategy, it is essential to re-evaluate the relationship between price increments and profit earned. Increasing the price by one cent from the optimal range may provide valuable insights.
+
+New content for PLANS.txt:
+
+1. Reassess the optimal price after increasing it by 1-2 cents (e.g., from $2.97-$2.98 to $2.99-$3.00) and monitor profit earned and quantity sold.
+2. Consider implementing a more aggressive price-decrease strategy at lower demand times ($6-10 rounds), i.e., offering deeper discounts for customers who purchase more than a certain threshold of units.
+
+New content for INSIGHTS.txt:
+
+* As mentioned above, we have shown an optimal range with prices of $2.97 to $2.98.
+* At these price levels we have seen increased sales quantity. I suggest implementing the plan to incrementally raise price to find where our ceiling of higher priced sales sits. 
+* A relationship exists between price-levels and profit earned; decreasing price by 3 cents from optimal range ($2.97-$2.98) may increase in sales but it drops in profits which should be kept uppermost in your mind.
+
+My chosen price:
+$2.99

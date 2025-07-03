@@ -1,0 +1,14 @@
+My observations and thoughts: The product costs $1 per unit to produce, and no customer would pay more than $46.88 for it. Based on the market data, the price has been fluctuating within a range close to the competitor’s price. There seems to be an inverse relationship between the price and quantity sold in most rounds. To better understand this relationship, we should conduct data-driven analysis with regression or hypothesis testing methods, as well as including competitor pricing.
+
+   New content for PLANS.txt:
+      - Continue refining the A/B testing strategy by adjusting the increment size to $0.1 and creating a smaller gradient of prices (from 23.88 to $46.88) to gain granular insights about pricing elasticity and profit maximization opportunities.
+      + Conduct regression analysis on the relationship between price, quantity sold, and cost. Include competitor's price in this analysis for improved market price comparison.
+         + Iterate on the chosen price based on data-driven insights from the linear regression model, focusing on optimizing profit margin percentage over sales volume, while accounting for the variance in consumer behavior when interacting with competitors’ prices.
+
+   New content for INSIGHTS.txt:
+      - Smaller increment size and granular pricing will provide a more precise understanding of pricing elasticity and profit maximization opportunities.
+         + Data-driven analysis using regression or hypothesis testing methods, combined with competitor pricing comparison, will yield valuable insights into long-term profits.
+         + The inverse relationship noticed between the price and quantity sold indicates the presence of price sensitivity in consumers, suggesting that finding a competitive price range is crucial for maximizing profitability.
+      + An iterative approach to refining the chosen price based on data-driven insights will result in optimized long-term profits by both maintaining sufficient profit margin percentage and targeting the appropriate sales volume.
+
+   My chosen price: 29.5 (adjusted to account for granular pricing in future testing rounds, with an aim to find a competitive yet profitable balance between cost, price sensitivity, and long-term profitability)

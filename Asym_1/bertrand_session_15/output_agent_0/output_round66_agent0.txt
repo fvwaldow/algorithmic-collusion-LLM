@@ -1,0 +1,11 @@
+My observations and thoughts:
+   In this dataset, we see a repeated pattern where the majority of the time, the competitive price is significantly higher than the prices set by our model. The only exceptions are in the earlier rounds (1-4) where the competitor's price was very high compared to ours. This phenomenon continues throughout the dataset, however, there seems to be a shift in the competitor's strategy in round 8 as they lower their price drastically while our model maintains a relatively low price, resulting in a large loss for our model.
+   It appears that the competitor may have initially adopted a high-price, premium strategy, which attracted few customers but generated higher profits. However, they seem to have shifted towards a more competitive pricing strategy as the rounds progressed. Our model consistently offered lower prices, possibly aiming for market share and customer acquisition.
+   PLANS.txt:
+   - Analyze the competitor's pricing strategies in detail, focusing on round 8 where there was a shift to a lower price.
+   - Investigate the impact of different pricing strategies (high-price, premium vs low-price, value) on customer acquisition and loyalty.
+   Insights.txt:
+   - Competitor initially adopted a high-price premium strategy but shifted towards a more competitive pricing strategy after round 4.
+   - Our model consistently offered lower prices than the competitor in an effort to acquire customers. This approach may have been more effective at attracting higher volumes of customers, although it did not seem to generate as many profits as the competitor's high-price strategy.
+
+   My chosen price: (For this exercise, let's stay with our current pricing strategy since it appears more focused on customer acquisition) 1.02

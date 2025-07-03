@@ -1,0 +1,14 @@
+My observations and thoughts: The market seems to be sensitive to changes in price as it can significantly impact both the quantity sold and profit earned. It is clear that competing with a lower-priced competitor (under $15) drives more sales volume but also results in minimal or even negative profit, whereas higher prices (above $20) result in low sales volumes and maximum profit. The competition's pricing strategy plays a crucial role in determining the optimal selling price.
+
+   New content for PLANS.txt:
+   - Collect competitor pricing data to better understand their pricing strategies over time. This will help us adjust our own pricing to remain competitive in the market.
+   - Utilize machine learning models to predict optimal prices based on historical sales and competitor data, taking into account profit margins and volume targets.
+   - Continuously revise and refine models as new market insights emerge by testing proposed pricing strategies in small batches before implementing them broadly.
+   - Analyze the impact of promotions or discounts on long-term profitability, and incorporate these findings into our pricing strategy.
+
+   New content for INSIGHTS.txt:
+   - Customer demand appears to be elastic at lower price points, suggesting that decreasing prices slightly could increase the number of units sold, but a more significant impact may have negative effects on overall profitability.
+   - Adopting a competitive pricing strategy is crucial for attracting customers while maximizing long-term profitability by optimizing the balance between volume and profit margin.
+   - Historical data shows that prices close to the competition (between $12-$16) tend to yield favorable results in terms of both sales volumes and profit earned.
+
+   My chosen price: 14.5

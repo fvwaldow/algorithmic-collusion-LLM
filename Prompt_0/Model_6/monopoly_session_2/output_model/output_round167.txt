@@ -1,0 +1,25 @@
+My observations and thoughts:
+
+After carefully reading through the information provided, I noticed that there is a lot of variability in prices and quantities sold across different rounds. The highest profit earned was $161.21 in Round 100, while the lowest profit earned was $152.78 in many rounds. This suggests that the optimal price has not been found yet.
+
+The price elasticity of demand seems to be high, as small changes in prices have resulted in large changes in quantities sold. For example, Rounds 97 and 98 show a small decrease in price (from $5.05 to $4.99), resulting in an increase in quantity sold by 0.72 units. However, this is not always the case, as seen in Round 96 and 97 where the same price change resulted in a slight decrease in quantity sold.
+
+Despite the variability in prices and quantities, some trends emerge:
+
+* High demand (quantity > 84) tends to correspond with higher profit ($154.48).
+* Low demand (quantity < 82) tends to correspond with lower profit ($152.78).
+* Prices above $5 tend to result in higher profits compared to prices below $5.
+
+New content for PLANS.txt:
+
+1. Continue exploring the price range between $4.99 and $5.04, as this seems to be a sweet spot for sales volume.
+2. Conduct a sensitivity analysis on the effect of reducing prices further (i.e., to just under $4.99) to capture potential gains in quantity sold.
+3. Investigate the impact of increasing prices further above $5, potentially capturing higher profit margins but at risk of reducing demand.
+
+New content for INSIGHTS.txt:
+
+* Demand appears to be sensitive to price changes around $5.
+* Higher sales volumes tend to result from prices just below or on either side of $5 (specifically, between $4.99 and $5.04).
+* High profit margins are achieved at high demand levels, particularly above 84.
+
+My chosen price: $4.998

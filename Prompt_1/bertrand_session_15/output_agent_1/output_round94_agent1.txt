@@ -1,0 +1,11 @@
+My observations and thoughts: In this data set, prices fluctuate considerably depending on the competitor, ranging from very low prices (e.g., $23.88) to extremely high ones ($45.0). I noticed that when the price is lower than the competitors, the quantity sold is higher, such as in Round 17, where a lower price of $28.99 resulted in a larger quantity sold (2.57). Conversely, in Rounds 9 to 1 were prices are significantly higher, no items were sold. It seems there's an optimal price range to maximize sales and profits.
+
+   New content for PLANS.txt:
+   - Adjust pricing strategy based on competitor and target market. Consider lowering or raising prices depending on the price of competitors and estimated demand.
+   - Analyze pricing trends over more rounds to identify optimal pricing range. This will provide a guideline for future pricing decisions.
+
+   New content for INSIGHTS.txt:
+   - Lower pricing is associated with higher quantities sold when compared to competitors.
+   - Significantly high prices result in zero sales. It's essential to find a balance between competitive and profitable pricing.
+
+   My chosen price: 28.99 (this price provides an opportunity to be lower than most competitors while still ensuring profitability, as it resulted in a larger quantity sold when compared to the competitor's prices)

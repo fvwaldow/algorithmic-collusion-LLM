@@ -1,0 +1,52 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $14.34
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+<PRESIDIO_ANONYMIZED_PERSON>
+New pricing strategy focus: After observing initial responses, adjust the promotional strategy to emphasize quality and brand value. Consider conducting a customer survey to understand their perception better and align our expectations with their willingness to pay. Next, implement a more gradual price increase strategy with shorter intervals to promptly identify shifts in demand elasticity and customer responsiveness. Also, maintain limited-time discounts but diversify the types of promotions offered (e.g., quantity discounts, tiered pricing) to cater to different customer segments.
+<PRESIDIO_ANONYMIZED_PERSON>
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+<PRESIDIO_ANONYMIZED_PERSON>
+It's evident that price alone may not fully capture a product's perceived value. Enhancing market communication about product benefits might increase willingness to pay closer to our market max. Keep track of competitive pricing trends in this area, as competitors can significantly influence perceived value and effective demand levels. Monitoring these dynamics closely will be critical for refining our strategies.
+<PRESIDIO_ANONYMIZED_PERSON>
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 2:
+            - My price: 13.0
+            - My quantity sold: 0.03
+            - My profit earned: 0.26
+
+Round 1:
+            - My price: 13.34
+            - My quantity sold: 0.02
+            - My profit earned: 0.17
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

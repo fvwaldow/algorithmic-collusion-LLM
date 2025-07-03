@@ -1,0 +1,22 @@
+My observations and thoughts:
+
+* The data suggests a generally stable relationship between price and profit earned. As price increases, profit earned also tends to increase, but with some fluctuation.
+* There is a notable cluster of high profit earnings (156.66 and above) around prices 5.06-5.08. However, this may be related to the data points being fairly similar rather than a clear trend.
+* The lowest price range (4.98) does not appear to have any significant outlier values in terms of profit earned.
+* There seems to be a slight downward trend in quantity sold around prices 4.98-5.08.
+* Profit earnings around price 5.00-5.02 are fairly consistent and close to the highest value observed (154.75).
+* Prices above 5.04 show a decline in profit earned, but only slightly.
+
+New content for PLANS.txt:
+
+1. Investigate pricing strategies for maximizing profit while maintaining a stable relationship with quantity sold.
+2. Identify key price ranges that result in high profit earnings and quantify the contribution of each to overall profitability.
+3. Examine potential correlations between external factors (e.g., demand fluctuations or seasonality) and observed trends.
+
+New content for INSIGHTS.txt:
+
+1. It appears there is an upper threshold beyond which higher prices no longer yield direct increases in profit earned, suggesting capacity maxed out or price insensitivity reached by customers.
+2. Maintaining a stable relationship between price and profit may require careful tuning of the pricing strategy rather than setting a single optimal value.
+
+My chosen price:
+5.015

@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+* The user's profit is maximized when prices are between $2.92 and $2.98, which is within the optimal range of sales quantities. (From INSIGHTS.txt)
+* There seems to be a general trend in Rounds 92-90 that higher prices don't necessarily translate to higher profits, possibly due to decreased sales quantity.
+* Round 42's data suggests selling at or near $3 is profitable, even if it means lower quantity sold.
+* I should carry over some of the existing insights in INSIGHTS.txt and consider them when making decisions on new content.
+
+New content for PLANS.txt:
+1. Increase price to exactly meet the "sweet spot" for profit per unit based on historical data, rather than trying to nudge it slightly higher ($2.95-$2.98). Monitor quantity sold while implementing this change.
+2. Test how price elasticity affects profits: if decreasing prices increases sales (but decreases profit), is there an optimal middle ground?
+
+New content for INSIGHTS.txt:
+* Additional to existing insights, there seems to be a sweet spot around $2.95-$2.98 where profitability peaks, despite potentially lower quantity sold.
+* Decreasing price from the profitable "sweet spot" doesn't appear to have significant benefits in profit growth.
+
+My chosen price:
+$2.96

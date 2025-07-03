@@ -1,0 +1,15 @@
+My observations and thoughts:
+The sensitive range of prices lies between 2.05 and 2.16. The price of 2.15 has shown promising results based on the provided historical data with an average of approximately 35 units sold per round and a profit of around 40 dollars per round. However, it's essential to perform sensitivity analysis in smaller increments within this range (e.g., 0.01) to find the precise optimal selling price that maximizes long-term profit.
+
+New content for PLANS.txt:
+	* Conduct sensitivity analysis on smaller increments (e.g., 0.01) around the price point of 2.05-2.16 to determine the optimal selling price for maximum long-term profit.
+    * Analyze previous rounds to gather additional insights that may provide a clue about potential pricing strategies.
+  	* Invest in machine learning models to help predict customer response and adapt the pricing strategy over time.
+    	- Consider collaborating with data scientists regarding model development and tuning for optimal results.
+
+New content for INSIGHTS.txt:
+    * The sensitive range lies between 2.05 and 2.16, with an average of approximately 35 units sold per round and a profit of around 40 dollars per round at 2.15.
+    * Machine learning strategies can help adapt the pricing strategy to maximize profits in different market conditions (e.g., changes in demand or competition).
+  	* It's crucial to continue monitoring market data, including competitor prices and strategies, to refine the ML models and maintain a competitive edge.
+
+My chosen price: 2.15

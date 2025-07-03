@@ -1,0 +1,16 @@
+My observations and thoughts:
+   - The provided data represents pricing strategies and sales volume of a certain product over multiple rounds. The key observation is that the product's price varies significantly from approximately 13.0 to 57.0, which has an impact on the number of units sold within each round. However, it appears that lower prices lead to higher sales volumes in most cases (except when the competition has a substantially lower price).
+   - The profit earned also fluctuates due to changes in pricing and unit sales volume. Interestingly, there are periods where higher prices can result in larger profits (e.g., round 126 and some instances where the price was above 40), but these exceptions appear to be rare in comparison to when lower prices lead to greater profits.
+   - One potential insight is that finding a price point below 15.0 may allow for higher unit sales while maintaining profitability; several rounds indicate increased sales volume at this price level, and it seems there are still opportunities to further optimize pricing within this range.
+
+New content for PLANS.txt:
+   - Continue testing price points below 15.0 in order to evaluate the potential for increasing unit sales without sacrificing profitability.
+   - Monitor rounds closely where the competition has a significantly lower price, as it may prompt further investigation into pricing adjustments to remain competitive while maintaining profitability.
+
+New content for INSIGHTS.txt:
+   - Lower prices appear to drive increased sales volume; it's essential to find an optimum balance between higher unit sales and profit margins.
+   - Testing price points slightly below the competition has shown potential in increasing both unit sales and profits (e.g., rounds 130, 132, 141, and others).
+   - Be mindful of rounds where a higher price leads to increased profit (but with lower sales volume), as these instances may provide insights on optimal pricing for certain market conditions or demand situations.
+
+My chosen price:
+13.85 (This is the median price throughout the data, and also, it is close to the price where unit sales seem to peak while still maintaining a reasonable profit level)

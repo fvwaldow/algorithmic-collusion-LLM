@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+* The dataset provided consists of 205 round of prices and quantities sold. The maximum price reached is $5.15 and the minimum price is $4.97. 
+* There are several instances where the profit earned is $0, which suggests that the product may not be selling at certain price points.
+* The price and quantity data appears to be highly correlated, with price increases often accompanied by decreases in quantity sold.
+* One notable pattern is the large number of rounds where the price is between $4.95 and $5.05, with quantities sold ranging from 84 to 86 units.
+
+New content for PLANS.txt:
+
+* Continue to monitor pricing effects on sales volume
+* Investigate optimal price range based on revenue maximization
+* Consider data-driven strategies to improve decision-making for future rounds
+
+New content for INSIGHTS.txt:
+
+* Price elasticity of demand is significant, with price increases often resulting in lower quantities sold
+* Profit earned is highest at prices between $4.97 and $5.03, with quantities sold between 84 and 86 units
+* The product may not be viable at higher price points ($5.15 or above), as indicated by the large number of rounds with zero profit earned
+
+My chosen price:
+$4.99

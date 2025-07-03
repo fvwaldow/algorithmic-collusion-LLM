@@ -1,0 +1,24 @@
+Based on the provided data, I'll conduct an analysis and respond accordingly.
+
+**My observations and thoughts:**
+
+* The price has varied widely across different rounds, from 19.0 to 23.5.
+* The quantity sold is often around 50 units, but there are some fluctuations in this value as well.
+* There's a noticeable pattern of prices ranging between approximately 19.5 and 20.5 for most rounds, with only a few exceptions where the price drops or rises significantly (e.g., Round 121).
+* The profit earned is always around 500 units when the price is near the center of this range (typically 20-21).
+
+**New content for PLANS.txt:**
+
+1. Analyze data from Rounds 96-105 to see if there's any correlation between price and quantity sold.
+2. Investigate reasons behind the few exceptions where prices drop or rise significantly (e.g., Round 121).
+3. Consider implementing a pricing strategy that leverages psychological pricing, using round numbers like 20 or 21 for better sales potential.
+
+**New content for INSIGHTS.txt:**
+
+* The most profitable price range is likely around 20-21 units.
+* Quantity sold may not be as critical a factor in determining profit as the set price might be.
+* There's some evidence suggesting that higher prices (above 22) can lead to decreased sales, but lower prices (below 19.5) do not significantly improve sales.
+
+**My chosen price:**
+
+21

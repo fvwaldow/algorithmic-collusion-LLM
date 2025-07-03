@@ -1,0 +1,17 @@
+My observations and thoughts:
+    - The highest quantity sold per round is 6.38 (Round 30), but the maximum price that a customer would pay is $5.2. This indicates that higher prices result in lower sales. However, higher quantities sold do not necessarily mean more profit due to the lower selling price as opposed to the production cost ($1).
+    - From the data, it appears that there is some sensitivity to price in customers, especially when comparing the price between you and your competitor. Lowering the price slightly may increase the quantity sold but could also reduce overall profit.
+    - There are periods where lowering or raising the price has resulted in increased profit. It's essential to keep both the quantity sold and the profit earned in mind, as maximizing one doesn't guarantee maximizing the other.
+    - The insights suggest that maintaining an optimal range of $2.7 - $3.15 is important, but adjustments need to be strategic and aware of the competitor's pricing strategy. Additionally, taking advantage of certain rounds or when your competitor is pricing high by offering prices slightly lower could help increase profitability.
+
+New content for PLANS.txt:
+  - Experiment with dynamic pricing strategies based on machine learning models that take into account price differences between myself and the competitor, customer preferences, and previous sales data to optimize pricing.
+    - Adapt pricing strategy quickly when detecting trends in profitability (e.g., higher quantity sold but reduced profit) by analyzing patterns across various factors like competitors' prices and time of the year.
+    - Develop heuristics or rules for pricing that prioritize both maximizing units sold while maintaining a minimum acceptable profit level.
+
+New content for INSIGHTS.txt:
+  - Tactical adjustments in pricing, based on competitor's movements, are essential to optimize profitability.
+    - There is evidence of a balance between quantity-focused and profit-focused pricing strategies that could be beneficial to explore further.
+    - Exploring dynamic pricing models, such as machine learning methods, may help better adapt to market dynamics and maximize overall profitability.
+
+My chosen price: 4.0 (Based on the data provided in Round 6 when the quantity sold was 0.01 with minimal profit.)

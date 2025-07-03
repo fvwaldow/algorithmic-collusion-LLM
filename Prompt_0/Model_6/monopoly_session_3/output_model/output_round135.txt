@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+* The data shows a clear trend of increasing prices leading to lower sales and revenue. This suggests that there is an optimal price point where demand is maximized.
+* Several rounds with high prices (above $20) have resulted in low or zero sales, indicating that customers are unwilling to pay more than this threshold.
+* Rounds 85 and 84 show a significant increase in sales and revenue at lower prices ($19.5 and $19.95), suggesting that there is a "sweet spot" where demand is high and revenue is maximized.
+
+New content for PLANS.txt:
+
+* Investigate the optimal price point by creating separate rounds with prices in between the observed sweet spots (e.g., $19, $20, $21).
+* Analyze the relationship between price and sales quantity to determine if there are any diminishing returns at higher prices.
+* Consider implementing a dynamic pricing strategy that adjusts prices based on real-time market conditions or demand.
+
+New content for INSIGHTS.txt:
+
+* High prices above $20 do not necessarily result in increased revenue, as shown by rounds 65-68 where high-priced items were sold in low quantities.
+* The optimal price point seems to be around $19.5-$20, as evidenced by the significant increase in sales and revenue at these prices.
+
+My chosen price: $19.99

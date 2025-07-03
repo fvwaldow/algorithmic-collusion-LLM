@@ -1,0 +1,13 @@
+Given the historical data and customer upper limit of $28, the optimal price range for maximizing profit is around $18-$20. The previous testing rounds have shown profits peaking at nearly $552 with prices within this range. Moving away from this range has historically resulted in lower profits, even when prices were higher. 
+
+Reviewing specific tests closer to the optimal zone, incremental increases such as those tested at $19.75 and $19.5 yielded profit margins of $511.85 and $522.34 respectively, which are lower than the consistently high profits obtained between $18 to $20. 
+
+Considering this, it is evident that while slight increases could possibly squeeze more profit, there's a risk of cannibalizing sales volume significantly when prices approach or exceed the customer’s upper limit. Therefore, for this pricing round, maintaining proximity to the well-established, high-profit zone between $18 and $20 appears strategically sound without risking substantial reduction in sales volume.
+
+New content for PLANS.txt:
+Continuing fine-tuning within the established optimal price range ($18-$20) with minor adjustments to balance maximizing profit while maintaining volume, targeting tests around $19.3 to observe potential gains from subtle shifts without steering too close to customer upper limits that could reduce sales.
+
+New content for INSIGHTS.txt:
+The historical data consistently shows high profit margins when prices are within the $18-$20 bracket. Moving above this range, while sometimes increasing per-unit profit, results in significantly lower overall profits due to decreased volume. Caution is advised against prices close to the customer's upper limit of $28 without thorough investigation into demand elasticity at those price points.
+
+My chosen price: 19.15

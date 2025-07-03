@@ -1,0 +1,74 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $16.3
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Implement a hybrid pricing strategy, combining fixed and dynamic pricing elements based on data analysis of market trends, customer demand, and the competitive landscape. This will ensure profit maximization while responding quickly to changing market conditions.
+      2. Launch a survey to gather feedback from customers regarding their perceived value and willingness to pay for added benefits or features that could be integrated into our product offering.
+      3. Develop real-time price monitoring tools to keep track of competitor actions and make swift adjustments as needed while maintaining an acceptable level of profitability.
+  4. Continuously optimize prices by utilizing machine learning algorithms to learn from historical data and predict ideal price points for future rounds.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+1. Combining fixed and dynamic pricing strategies might offer the ability to adapt quickly to market changes while maintaining competitiveness and maximizing profitability.
+      2. Gathering insights from customers on perceived value will help inform the development of premium tiers or features that are valuable to them, potentially increasing overall profitability.
+    3. Real-time price monitoring and quick response to competitor actions are vital in maintaining a competitive edge while ensuring profit maximization.
+    4. Machine learning algorithms can help identify ideal price points based on historical data analysis and make predictions for future rounds, optimizing profitability continuously.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 5:
+                - My price: 9.5
+                - Competitor’s price: 8.9
+                - My quantity sold: 1.09
+                - My profit earned: 6.87
+
+Round 4:
+                - My price: 9.5
+                - Competitor’s price: 9.5
+                - My quantity sold: 1.44
+                - My profit earned: 9.1
+
+Round 3:
+                - My price: 10.5
+                - Competitor’s price: 9.0
+                - My quantity sold: 0.33
+                - My profit earned: 2.43
+
+Round 2:
+                - My price: 9.0
+                - Competitor’s price: 12.3
+                - My quantity sold: 3.69
+                - My profit earned: 21.39
+
+Round 1:
+                - My price: 15.9
+                - Competitor’s price: 1.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.0
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

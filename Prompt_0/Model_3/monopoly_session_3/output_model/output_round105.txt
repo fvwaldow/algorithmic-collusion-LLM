@@ -1,0 +1,24 @@
+1. Observations and Thoughts:
+From analyzing the provided data, we can observe a few patterns and learnings that can aid in making future decisions for pricing adjustments or strategies. Here are some key observations:
+
+- Pricing higher than $14 generally led to lower quantities sold, but increased profitability as seen consistently in Rounds 1 and 2 where the price was $15.95 and $15.25 respectively. This suggests that raising prices above cost could yield more revenue if demand remains consistent or increases due to perceived value.
+- Conversely, a lower price of $13 still resulted in high quantities sold (Rounds 7, 8, 9, 10 and 14), while maintaining decent profitability. This supports the notion that pricing closer to cost might be beneficial to maximize sales volume, but also suggests that it’s possible to push more products with a competitive pricing strategy without severely impacting the profit margin significantly (as evidenced by Rounds 7-10).
+- Volatility in the market was also observed as when prices were lowered for some rounds such as from 15.95 to 13, profits increased drastically despite lower sales quantities, suggesting potential overselling at higher price points or potential demand increase at lower prices.
+   
+2. PLANS.txt:
+To capitalize on the insights gathered, we propose the following strategies:
+- Adopt dynamic pricing: Incorporate real-time market analysis and customer feedback to adjust prices in order to maximize profitability. Higher price points for less sensitive items can contribute more income even if it means lower quantities sold. Lowering prices when demand is high or cost of production declines could help to boost sales volume quickly.
+
+- Implement a tiered pricing strategy: Offer premium versions and quantity discounts to cater to different customer needs. For instance, higher priced versions with added features could attract luxury buyers while lower priced options might be appealing to the budget conscious consumers.
+   
+3. INSIGHTS.txt:
+Important insights from the data include:
+- The sensitivity of price to quantity sold differs greatly between levels - we see this with quantities dropped significantly when prices exceeded $14, but sales remained high with lower prices at $13.
+- Consumers perceive higher priced items as having greater perceived value, demonstrated by profitability being maintained or increased in the premium pricing rounds of 1 and 2.
+- The company can leverage price sensitivity to optimize profitability through adjusting either price points or sales volumes as needed.
+
+4. My chosen price:
+Based on the above insight, the best approach would likely involve a tiered structure where prices above $14 cater to profit maximization opportunities while lower prices around $13 focus on high volume and broad appeal. The ideal choice depends highly on current market conditions, demand, cost of production and our competitive landscape. This could translate into something like:
+- A higher price for premium or niche products to target a specific customer base willing to pay more for perceived extra value (Rounds 1 and 2)
+- A lower price closer to cost with the aim of moving a high volume of units (Rounds 7-10)
+- Dynamic pricing where the product prices are actively adjusted based on various factors.

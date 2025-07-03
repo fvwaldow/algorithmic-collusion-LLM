@@ -1,0 +1,12 @@
+My observations and thoughts:
+The dataset provides information about the sales quantity and profit for each pricing round, as well as the competitor's price. It appears that the product sold best when priced at around 9.0, except for some instances where it was priced higher (e.g., 11.0 or above) which resulted in significantly fewer sales but still yielding decent profits due to the high pricing. However, it seems the optimal pricing strategy would be to price reasonably low to secure a larger quantity of sales while still maintaining acceptable profit margins. It's also notable that the competitor's price does not appear to have much influence on our sales, as similar pricing does not seem to affect our own sales quantity significantly.
+
+New content for PLANS.txt:
+* Maintain a reasonable pricing strategy below 10, aiming for a sales volume of at least 3 units per round and profit margins greater than or equal to $7.5
+* Monitor the competitor's pricing strategy carefully but do not actively adjust our own pricing based on their decisions
+
+New content for INSIGHTS.txt:
+* Lower pricing tends to result in a higher sales volume, while still maintaining profitable margins
+* The competitor's price does not seem to have a substantial impact on our own sales quantity
+
+My chosen price: 9.0

@@ -1,0 +1,410 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $13.34
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+Maintain a competitive price near that of the competitor to attract more buyers, while considering small fluctuations within a reasonable range to maximize profit.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+A price close to that of the competitor may lead to increased sales due to perceived value and comparison shopping. However, increasing the price slightly can potentially result in a decline of customers, indicating sensitivity to higher prices for this product.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 62:
+                - My price: 9.5
+                - Competitor’s price: 9.87
+                - My quantity sold: 1.62
+                - My profit earned: 10.19
+
+Round 61:
+                - My price: 9.85
+                - Competitor’s price: 10.5
+                - My quantity sold: 1.18
+                - My profit earned: 7.87
+
+Round 60:
+                - My price: 10.59
+                - Competitor’s price: 11.5
+                - My quantity sold: 0.51
+                - My profit earned: 3.78
+
+Round 59:
+                - My price: 10.59
+                - Competitor’s price: 9.75
+                - My quantity sold: 0.41
+                - My profit earned: 3.0
+
+Round 58:
+                - My price: 10.0
+                - Competitor’s price: 10.35
+                - My quantity sold: 0.96
+                - My profit earned: 6.54
+
+Round 57:
+                - My price: 9.5
+                - Competitor’s price: 10.5
+                - My quantity sold: 1.82
+                - My profit earned: 11.47
+
+Round 56:
+                - My price: 9.5
+                - Competitor’s price: 10.65
+                - My quantity sold: 1.85
+                - My profit earned: 11.68
+
+Round 55:
+                - My price: 8.6
+                - Competitor’s price: 10.25
+                - My quantity sold: 5.21
+                - My profit earned: 28.13
+
+Round 54:
+                - My price: 9.0
+                - Competitor’s price: 10.35
+                - My quantity sold: 3.28
+                - My profit earned: 19.01
+
+Round 53:
+                - My price: 10.19
+                - Competitor’s price: 10.25
+                - My quantity sold: 0.75
+                - My profit earned: 5.22
+
+Round 52:
+                - My price: 8.75
+                - Competitor’s price: 10.35
+                - My quantity sold: 4.43
+                - My profit earned: 24.57
+
+Round 51:
+                - My price: 8.6
+                - Competitor’s price: 10.45
+                - My quantity sold: 5.37
+                - My profit earned: 28.98
+
+Round 50:
+                - My price: 8.85
+                - Competitor’s price: 9.0
+                - My quantity sold: 2.56
+                - My profit earned: 14.48
+
+Round 49:
+                - My price: 8.95
+                - Competitor’s price: 10.75
+                - My quantity sold: 3.66
+                - My profit earned: 21.03
+
+Round 48:
+                - My price: 8.95
+                - Competitor’s price: 9.0
+                - My quantity sold: 2.27
+                - My profit earned: 13.04
+
+Round 47:
+                - My price: 10.75
+                - Competitor’s price: 9.5
+                - My quantity sold: 0.31
+                - My profit earned: 2.31
+
+Round 46:
+                - My price: 8.75
+                - Competitor’s price: 9.0
+                - My quantity sold: 2.89
+                - My profit earned: 16.06
+
+Round 45:
+                - My price: 8.95
+                - Competitor’s price: 9.75
+                - My quantity sold: 3.07
+                - My profit earned: 17.63
+
+Round 44:
+                - My price: 9.0
+                - Competitor’s price: 9.5
+                - My quantity sold: 2.66
+                - My profit earned: 15.45
+
+Round 43:
+                - My price: 9.0
+                - Competitor’s price: 9.75
+                - My quantity sold: 2.89
+                - My profit earned: 16.74
+
+Round 42:
+                - My price: 9.0
+                - Competitor’s price: 10.5
+                - My quantity sold: 3.35
+                - My profit earned: 19.42
+
+Round 41:
+                - My price: 8.95
+                - Competitor’s price: 9.34
+                - My quantity sold: 2.66
+                - My profit earned: 15.31
+
+Round 40:
+                - My price: 9.0
+                - Competitor’s price: 10.25
+                - My quantity sold: 3.23
+                - My profit earned: 18.71
+
+Round 39:
+                - My price: 9.7
+                - Competitor’s price: 9.5
+                - My quantity sold: 1.13
+                - My profit earned: 7.33
+
+Round 38:
+                - My price: 11.0
+                - Competitor’s price: 9.5
+                - My quantity sold: 0.22
+                - My profit earned: 1.75
+
+Round 37:
+                - My price: 10.75
+                - Competitor’s price: 10.95
+                - My quantity sold: 0.41
+                - My profit earned: 3.06
+
+Round 36:
+                - My price: 11.5
+                - Competitor’s price: 9.2
+                - My quantity sold: 0.11
+                - My profit earned: 0.88
+
+Round 35:
+                - My price: 12.0
+                - Competitor’s price: 9.45
+                - My quantity sold: 0.06
+                - My profit earned: 0.56
+
+Round 34:
+                - My price: 9.5
+                - Competitor’s price: 9.0
+                - My quantity sold: 1.15
+                - My profit earned: 7.27
+
+Round 33:
+                - My price: 10.75
+                - Competitor’s price: 9.0
+                - My quantity sold: 0.24
+                - My profit earned: 1.84
+
+Round 32:
+                - My price: 9.5
+                - Competitor’s price: 8.0
+                - My quantity sold: 0.56
+                - My profit earned: 3.5
+
+Round 31:
+                - My price: 9.0
+                - Competitor’s price: 9.25
+                - My quantity sold: 2.41
+                - My profit earned: 13.98
+
+Round 30:
+                - My price: 9.5
+                - Competitor’s price: 9.75
+                - My quantity sold: 1.57
+                - My profit earned: 9.86
+
+Round 29:
+                - My price: 10.75
+                - Competitor’s price: 9.5
+                - My quantity sold: 0.31
+                - My profit earned: 2.31
+
+Round 28:
+                - My price: 10.89
+                - Competitor’s price: 9.5
+                - My quantity sold: 0.26
+                - My profit earned: 1.98
+
+Round 27:
+                - My price: 10.25
+                - Competitor’s price: 9.5
+                - My quantity sold: 0.57
+                - My profit earned: 4.02
+
+Round 26:
+                - My price: 9.25
+                - Competitor’s price: 9.5
+                - My quantity sold: 1.96
+                - My profit earned: 11.88
+
+Round 25:
+                - My price: 9.5
+                - Competitor’s price: 9.85
+                - My quantity sold: 1.61
+                - My profit earned: 10.14
+
+Round 24:
+                - My price: 9.5
+                - Competitor’s price: 9.5
+                - My quantity sold: 1.44
+                - My profit earned: 9.1
+
+Round 23:
+                - My price: 10.45
+                - Competitor’s price: 9.75
+                - My quantity sold: 0.48
+                - My profit earned: 3.5
+
+Round 22:
+                - My price: 9.5
+                - Competitor’s price: 10.95
+                - My quantity sold: 1.91
+                - My profit earned: 12.01
+
+Round 21:
+                - My price: 9.71
+                - Competitor’s price: 9.5
+                - My quantity sold: 1.11
+                - My profit earned: 7.25
+
+Round 20:
+                - My price: 9.79
+                - Competitor’s price: 9.72
+                - My quantity sold: 1.09
+                - My profit earned: 7.15
+
+Round 19:
+                - My price: 9.89
+                - Competitor’s price: 10.49
+                - My quantity sold: 1.12
+                - My profit earned: 7.52
+
+Round 18:
+                - My price: 9.99
+                - Competitor’s price: 10.19
+                - My quantity sold: 0.95
+                - My profit earned: 6.43
+
+Round 17:
+                - My price: 10.39
+                - Competitor’s price: 9.1
+                - My quantity sold: 0.4
+                - My profit earned: 2.9
+
+Round 16:
+                - My price: 9.79
+                - Competitor’s price: 12.0
+                - My quantity sold: 1.4
+                - My profit earned: 9.22
+
+Round 15:
+                - My price: 9.79
+                - Competitor’s price: 12.0
+                - My quantity sold: 1.4
+                - My profit earned: 9.22
+
+Round 14:
+                - My price: 9.99
+                - Competitor’s price: 10.39
+                - My quantity sold: 0.98
+                - My profit earned: 6.65
+
+Round 13:
+                - My price: 10.49
+                - Competitor’s price: 10.75
+                - My quantity sold: 0.55
+                - My profit earned: 4.01
+
+Round 12:
+                - My price: 10.19
+                - Competitor’s price: 12.0
+                - My quantity sold: 0.85
+                - My profit earned: 5.96
+
+Round 11:
+                - My price: 10.49
+                - Competitor’s price: 10.45
+                - My quantity sold: 0.53
+                - My profit earned: 3.87
+
+Round 10:
+                - My price: 10.59
+                - Competitor’s price: 11.29
+                - My quantity sold: 0.51
+                - My profit earned: 3.74
+
+Round 9:
+                - My price: 10.99
+                - Competitor’s price: 12.34
+                - My quantity sold: 0.32
+                - My profit earned: 2.47
+
+Round 8:
+                - My price: 10.49
+                - Competitor’s price: 12.0
+                - My quantity sold: 0.59
+                - My profit earned: 4.29
+
+Round 7:
+                - My price: 12.0
+                - Competitor’s price: 9.5
+                - My quantity sold: 0.06
+                - My profit earned: 0.57
+
+Round 6:
+                - My price: 10.99
+                - Competitor’s price: 8.95
+                - My quantity sold: 0.18
+                - My profit earned: 1.37
+
+Round 5:
+                - My price: 12.0
+                - Competitor’s price: 9.0
+                - My quantity sold: 0.05
+                - My profit earned: 0.45
+
+Round 4:
+                - My price: 9.99
+                - Competitor’s price: 8.99
+                - My quantity sold: 0.62
+                - My profit earned: 4.24
+
+Round 3:
+                - My price: 13.34
+                - Competitor’s price: 8.94
+                - My quantity sold: 0.01
+                - My profit earned: 0.09
+
+Round 2:
+                - My price: 12.99
+                - Competitor’s price: 8.99
+                - My quantity sold: 0.01
+                - My profit earned: 0.14
+
+Round 1:
+                - My price: 9.99
+                - Competitor’s price: 10.0
+                - My quantity sold: 0.91
+                - My profit earned: 6.19
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

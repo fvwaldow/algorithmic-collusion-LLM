@@ -1,0 +1,7 @@
+My observations and thoughts: The given data provides the price, quantity sold, and profit for each round of a pricing strategy game. Interestingly, the prices and quantities appear to be cycling in a way that maximizes profit while minimizing competition. One potential observation is that the price starts high (6.75 or 6.8), then drops when the competitor's price increases (around rounds 30-40). Afterward, the price rises again and keeps increasing with occasional brief drops until reaching peak profits ($122.09 around round 50). The profit seems to be higher when the own price is lower than the competitor (excepting a few instances).
+
+   New content for PLANS.txt: For future rounds, consider maintaining a moderate price (closer to the minimum observed price) and monitor the competitor's strategies closely. Aim to undercut them whenever possible while still generating substantial profit.
+
+   New content for INSIGHTS.txt: Our data suggests that adopting a dynamic pricing strategy, where we lower our prices when the competitor increases theirs and raise ours as they lower theirs, can lead to maximizing profit in this game. Additionally, it may be beneficial to set our price slightly below the competitor's average price to take advantage of potential customer interest in cheaper options, all while ensuring continued moderate profits.
+
+   My chosen price: 6.5

@@ -1,0 +1,11 @@
+My observations and thoughts:
+The provided data shows fluctuations in prices ranging from as low as $15.00 to as high as $31.00. The highest quantity sold was 24.6 units, corresponding to a price point of $2.75. Across all rounds, the average profit seems to lean towards around $29.4 for mid-range prices, with a notable outlier profit of $31.49 at $2.28. There's no clear correlation between higher prices and greater profits; in fact, some lower price points yielded substantial income. It would be prudent to maintain a diverse range of prices for optimal results.
+
+New content for PLANS.txt:
+To further investigate potential pricing sweet spots, let's implement a strategy of clustering similar profit data points together and average them. This might reveal hidden patterns or suggest that certain price ranges consistently deliver reasonable profits without extreme fluctuations.
+
+New content for INSIGHTS.txt:
+Despite the wide range of prices, we observed that $2.31 has been repeatedly associated with good profit margins ($29.4 on multiple occasions), which appears to be a reliable choice. Additionally, lower end prices like $2.28 and $2.29 have yielded very competitive profits. It seems crucial to maintain a balanced approach with diverse price points rather than concentrating on extreme highs or lows for consistent performance.
+
+My chosen price:
+2.31

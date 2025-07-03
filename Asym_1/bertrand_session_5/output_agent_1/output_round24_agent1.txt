@@ -1,0 +1,19 @@
+My observations and thoughts:
+   - The data suggests that selling at higher prices results in lower sales volume, while low prices result in more sales but less profit. In particular, the sweet spot seems to be around 2.75 or within the defined Golden Zone [2.75, 3.4]. However, the competitor's price and their own actions impact our pricing decisions as well.
+   - Based on insights from Round 18, when we lowered our price back to 2.75, our sales significantly increased (from 0.93 to 3.72), and so did our profit (from 1.82 to 6.51). This indicates that despite lowering the price, it increased overall profitability due to the higher volume of sales.
+   - In light of insights from Round 14, in which we raised our price above the Golden Zone, sales dropped dramatically to just 11.85 units, but profit still increased (from 3.03 to 17.77). This could be explained by both a larger quantity sold at a lower margin and an overall higher profit due to the large volume of sales.
+
+New content for PLANS.txt:
+  1. Hybrid Pricing Strategy emphasis on the Golden Zone (Price Range [2.75, 3.4]):
+       a. Set our initial pricing within the defined range.
+     b. Observe how changing price within this range impacts both volume and profit.
+     c. Adjust our pricing continuously while keeping the Golden Zone as a guiding principle, factoring in competitor's prices.
+     d. Compare results against previous lowest profit-maximizing prices (2.75) to determine optimal pricing, focusing on an accurate balance of profit and volume consideration.
+     e. Continuously monitor our competition’s actions and consider their influence on our pricing decisions.
+
+New content for INSIGHTS.txt:
+  1. Increasing the price above the Golden Zone can lead to a significant decrease in sales volume, although profits might still increase due to the larger quantity sold at a lower margin.
+  2. Lowering the price within the Golden Zone (2.75 - 3.4) has shown to result in a significant increase in sales volume and overall profitability.
+  3. It is crucial to consider competitor’s pricing strategy as it significantly impacts our own pricing decisions and sales results.
+
+My chosen price: 2.95

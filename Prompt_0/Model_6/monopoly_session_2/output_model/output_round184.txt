@@ -1,0 +1,17 @@
+**My observations and thoughts:**
+
+Given the provided information, it appears that there is a consistent pattern of profit earnings around $152-$153 when the price is set at approximately $4.99. Additionally, there are a few instances where higher prices ($5.05, $5.06) result in lower profits or a similar profit to the baseline price.
+
+However, I also notice that setting the price above $5.10 tends to result in decreased profitability, with Round 100 producing an unusually high profit at $161.21. This could be worth further investigation.
+
+**New content for PLANS.txt:**
+
+1. Investigate why there is a drop-off in profitability when prices exceed $5.10
+2. Confirm if the baseline price of approximately $4.99 can consistently produce a profit around $152-$153
+
+**New content for INSIGHTS.txt:**
+
+* The optimal price range appears to be between $4.98 and $5.03, where profits are consistent and relatively high.
+* There may be some sensitivity to prices above $5.10, which could result in decreased profitability.
+
+**My chosen price:** 4.99

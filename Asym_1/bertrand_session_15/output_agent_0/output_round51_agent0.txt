@@ -1,0 +1,18 @@
+My observations and thoughts: In previous rounds, I observed that maintaining prices near the competitor's price results in higher quantities sold but profit variations – significant increases can lead to no sales, while smaller adjustments (5-10%) might help maximize both sales quantity and profits. It appears that there is an optimal price elasticity that needs to be found within this 5-10% range, which could be achieved through thorough testing of various price variations near the competitor's price point. It also appears that constantly monitoring price movements with competitors is crucial, as seen in round 32 where no sales were made due to a $33 price increase compared to the competitor's price. Furthermore, there seems to be an observed trend of customers being unwilling to pay more than approximately $39.39.
+
+New content for PLANS.txt:
+1. Implement a multi-step process to determine optimal price elasticity for increasing both units sold and profits while maintaining suitable profit margins. Start by testing a series of price adjustments near the competitor's price and record the quantities sold and profits earned in each round. Continuously monitor the impact on sales quantity, profit, and profit margin over multiple rounds.
+2. Repeat step 1 using a smaller set of specific tested prices for a more accurate evaluation of optimal price elasticity.
+3. Assess data gathered every few rounds to revise pricing strategy as needed, with an aim to move closer to the optimal price elasticity within the identified range (5-10%).
+4. Conduct additional testing if necessary when there are significant changes in competitor prices or overall market conditions.
+5. Continuously monitor competitor pricing for opportunities to capitalize on any price mistakes and optimize prices accordingly.
+6. Adjust the pricing strategy as needed if customer surveys, focus groups, or other qualitative data indicate a need for change.
+
+New content for INSIGHTS.txt:
+1. Competitor pricing plays a significant role in determining sales quantity and profits – always monitor competitor prices to optimize own pricing strategies.
+2. Testing various price points is essential to finding an optimal price elasticity that can help increase both sales quantities and profits without sacrificing profit margins – this involves careful analysis of data over multiple rounds.
+3. Significant increases in the selling price can lead to no sales, while smaller adjustments (5-10%) within a reasonable limit (approximately $39.39) might yield better results for increasing quantities sold and profits earned.
+4. Customers appear to have a maximum willingness to pay approximately $39.39 based on the data provided.
+
+My chosen price: 35.0
+(Since the competitor's current price seems close to the potential optimal price, I will choose a median value of their current price for further testing in this round.)

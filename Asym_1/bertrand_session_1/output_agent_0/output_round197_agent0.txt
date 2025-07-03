@@ -1,0 +1,13 @@
+My observations and thoughts: It appears that we have a dataset showing price changes, quantity sold, and profits earned for the seller, along with the competitor's price (when present). The seller's strategy seems to involve adjusting their prices depending on the competitor's price and their own sales performance. The seller's profit is higher when they lower their price, but this tends to occur when there is no direct competition (for example, Round 111), or when the competitor raises their price (Round 102).
+
+   New content for PLANS.txt:
+   - Monitor competitor's pricing strategy closely and adjust our own prices accordingly.
+   - When there is no direct competition, consider increasing our price to increase profits, but only if the market can sustain it (e.g., Round 111).
+   - Study customer behavior in relation to price changes and adjust our strategies based on their response.
+
+   New content for INSIGHTS.txt:
+   - Lowering prices leads to increased sales and higher profits. This seems especially effective when the competitor raises their prices (e.g., Round 102).
+   - When there is no competition or the competitor sets a lower price, increasing our own price results in decreased sales and profits (e.g., Round 111).
+   - Customers seem to be more responsive to lower prices, as shown by the increase in sales when we lowered our price even with a higher competitor's price (Round 108 vs Round 107).
+
+   My chosen price: <2.15> (This number should be derived from observing patterns in the data and choosing a price that takes advantage of customer sensitivity to price changes while maximizing profits.)

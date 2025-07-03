@@ -1,0 +1,21 @@
+Based on the provided data and considering the patterns observed, here are my observations, thoughts, and suggested actions.
+
+Observations:
+1. The product has seen four different price points - $2.0/item, $2.25/item, $2.49/item, and $2.5/item. 
+2. When the price was low at $2.0/item, the highest quantity sold was 98.2 items with a profit of $160.33. But as the price increased, the quantity sold dropped significantly but the gross profit increased from $48.82 to $154.72.
+3. The price points were changed randomly and not based on market demand or customer reaction. This could lead to confusion among buyers. 
+
+Insights:
+1. Although a lower price might boost quantity sold, it does not necessarily mean higher profits due to lower profit margin. 
+2. Higher profit is observed with slightly higher prices in the range of $2.49-$2.5/item. 
+3. The product's optimal pricing seems to be near $2.5/item with a consistent gross profit around $18 - $17, while maintaining reasonable quantity sold ranging from 11.92 to 12.35.
+This understanding leads me to believe that the current strategy does not fully exploit revenue potential, and we can leverage data to make better decisions. For future pricing strategies, I would suggest:
+
+New content for PLANS.txt: 
+- Evaluate and understand the customer segments to identify optimal price points based on their buying behaviors.
+- Test different price promotions in combination with effective marketing campaigns.
+
+New content for INSIGHTS.txt:
+- Gather and analyze consumer response data, such as demand elasticity, brand responsiveness, competition activity, etc., to guide future pricing decisions.
+
+My chosen price: Based on the observation that the price near $2.5/item resulted in reasonable quantity sold and decent gross profit, my proposed price would be around $2.49 - $2.50/item for maintaining a balance between quantity and profit margin. However, this should be tested through experiments and adjusted if necessary considering market conditions, supply chain costs, competition, among others.

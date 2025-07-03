@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+Based on the provided data, it appears that the optimal price range is between $2.85 and $3.02, as prices within this range have resulted in higher profit earnings (Rounds 170, 168, and some outliers). There's a consistent pattern where prices just above $2.92 tend to yield lower profits ($2.93-$3.00). Below $2.85 or above $3.02, the profit earned seems to decrease.
+
+New content for PLANS.txt:
+
+1. **Price Point Experiment**: Test a series of price points at $2.95 with slight deviations (e.g., $2.94, $2.96) to see if this results in higher profit earnings, considering its central tendency in successful periods.
+2. **Optimization around $2.92**: Further investigate the optimal window for pricing slightly above or below $2.92 ($2.90-$3.00), as prices within these bounds have yielded consistently high profits.
+3. **Identical Price Testing**: Set two consecutive rounds to identical, lower than average price points to observe whether it attracts higher quantity sales without a corresponding decrease in profit per item.
+
+New content for INSIGHTS.txt:
+
+1. **Price Elasticity around $2.92**: The observations suggest that the relationship between price and profit is not directly proportional but appears to have an inflection point near $2.95.
+2. **Central Tendency vs. Range Optimization**: It's crucial to weigh the benefits of sticking to a central tendency (averaged success) against those of exploring specific outliers for better results.
+
+My chosen price:
+
+$2.96

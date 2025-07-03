@@ -1,0 +1,25 @@
+**My observations and thoughts:**
+
+Upon reviewing the provided information, I notice that the profit earned by selling at a price of $20.0 is consistently $500.00 across many rounds. This suggests that the current optimal price for the product is around $20.0, as it results in a high margin while still maintaining sales volume.
+
+However, there are instances where prices above $20.0 lead to reduced sales and lower profit. For example, Round 171 shows a price of $22.5 with only 26.89 units sold and a profit earned of $336.18, which is significantly lower than the consistent $500.00 profit at $20.0.
+
+Furthermore, there are notable outliers like Rounds 121 ($23.0) and (Round not shown), where low sales volumes result in relatively low profits despite high prices. This indicates that prices above $20.0 may lead to price sensitivity among customers.
+
+Regarding the range of sale prices, I notice that they vary from $18.75 to $22.5 across different rounds. However, there are many instances where the price hits $20.00, and it consistently results in high profits with moderate sales volumes.
+
+**New content for PLANS.txt:**
+
+- To maximize profit while maintaining sales volume, continue marketing and selling at optimal prices below $20.50.
+- Analyze data from Rounds 120 to 130 (price range $19.0-$20.95) to determine if there's a sweet spot within this price spectrum where profit is maximized without compromising sales.
+- Consider implementing pricing strategies like the Skim Pricing, Dynamic Pricing, or Markdowning techniques to adjust prices according to market conditions.
+
+**New content for INSIGHTS.txt:**
+
+- Price of $20.00 consistently yields high profits ($500) across multiple rounds with moderate sales volumes.
+- High prices above $22.50 result in reduced sales volumes and correspondingly lower profits.
+- Low prices below $19.0 do not appreciably increase sales volume and only slightly improve profit margins.
+
+**My chosen price:**
+
+$20.00

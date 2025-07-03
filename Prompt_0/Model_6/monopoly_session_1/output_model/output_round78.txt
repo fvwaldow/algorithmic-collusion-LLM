@@ -1,0 +1,29 @@
+My observations and thoughts:
+
+After analyzing the market data provided, it appears that there are two main trends influencing the profitability of selling this product. 
+
+Firstly, the quantity sold generally decreases as prices increase beyond $2.95, resulting in decreased profits due to higher costs not being matched by higher revenue.
+
+Secondly, I noticed fluctuations in profit and quantity sold across similar price ranges, which may suggest a seasonal variation in market demand. However, these variations do not seem significant enough at this point to form the basis of our pricing decisions and further analysis would likely be required for that.
+
+Based on the data, there does appear to be an optimal price at which profits are maximized at $2.95, as evidenced by Rounds 71 (purchased at a profit of $4.27) and Round 22 (sold with no significant disparity in profit, suggesting a generalization effect). The price of $3.48 becomes a hard ceiling due to consumer willingness to pay.
+
+Given the observations above, it seems prudent to continue testing around this optimal point, as previously outlined in PLANS.txt. Below, I propose that we take a more targeted approach by specifically looking at adjustments just above and below $2.95:
+
+New content for PLANS.txt:
++++++++++++++++++++++
+1. Test slightly lower prices (e.g., $2.9-$2.92) to determine the minimum price where profit is achieved ($3.72 - $5.05).
+
+2. Investigate whether the optimal point can be reached at different pricing approaches and strategies by employing psychological pricing techniques.
+
+New content for INSIGHTS.txt:
++++++++++++++++++++++
+Observations confirm there's a trade-off between price and quantity sold which impacts total profit earned; however, this is most strongly evidenced at prices above $2.95 - these do not achieve the observed higher profitability. 
+
+It appears that using Round 71 data as leverage we can assume profitability to be an upward trend up until prices hit $3.48 - anything beyond $2.95 does little to increase total revenue but greatly harms unit sales.
+
+
+My chosen price:
+$2.90
+
+This adjustment takes into account the fact that, based on market fluctuations and consumer willingness to pay (price cap at $3.48), we can test minimal decreases in price while maintaining a balance between maximizing both quantity sold and profitability. This strategy would be most effective through further targeted testing of specific ranges outlined above, thus achieving long-term profit maximization for the seller.

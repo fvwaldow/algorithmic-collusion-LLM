@@ -1,0 +1,13 @@
+My observations and thoughts: The current selling price is gradually moving closer to the competitor's price in each round while maintaining a profit margin. However, there seems to be an optimal price somewhere between our current highest price (3.07) and our lowest price that results in maximum profit. We should study how changes in pricing impact sales volume and revenue more systematically for better accuracy.
+
+   New content for PLANS.txt:
+    1. Continue testing prices closer to competitor's range but at different increments, with adequate buffers to prevent aggressive price wars.
+    2. Analyze the relationship between price, quantity sold, and profit earned using regression analysis and simulation methods.
+    3. Develop a price elasticity model to predict how sensitive demand is to changes in price.
+
+   New content for INSIGHTS.txt:
+    1. Adjusting the price by moderate increments (e.g., 0.05) helps maintain a competitive edge while monitoring the impact on profit.
+    2. Testing only two or three neighborly prices in each round may not be sufficient to determine an optimal price point. It is crucial to try a broader range of prices.
+
+   My chosen price:
+     2.6

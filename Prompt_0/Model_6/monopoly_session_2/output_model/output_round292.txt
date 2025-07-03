@@ -1,0 +1,16 @@
+My observations and thoughts:
+
+Upon reviewing the data, I notice that there are several price points around $4.99-$5.02 that have a high frequency of occurrence and relatively consistent profit margins. However, there is also one outlier at Round 204 where the price was significantly higher (£155.03) and sale quantity was very low (0.0). This suggests that it may be an error or anomaly.
+
+New content for PLANS.txt:
+
+1. Investigate the reasons behind the high sales volume at prices around $4.99-$5.02, to see if there are any underlying patterns or trends.
+2. Determine a suitable target profit margin and calculate the corresponding optimal price based on historical data.
+3. Consider implementing pricing strategies that take into account the distribution of prices and sale quantities over time.
+
+New content for INSIGHTS.txt:
+
+1. The relationship between price and sales quantity may be non-linear, with certain price ranges leading to higher or lower demand.
+2. There appears to be a clustering effect around $4.99-$5.02, which could indicate a potential "sweet spot" in terms of pricing.
+
+My chosen price:  **4.99**

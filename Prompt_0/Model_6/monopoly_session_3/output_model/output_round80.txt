@@ -1,0 +1,17 @@
+My observations and thoughts:
+
+* The data shows a high correlation between price and quantity sold. As price increases, quantity sold decreases significantly.
+* A clear upper limit on price sensitivity exists around $20-$21, confirmed through quantitative analysis of market demand data. Increasing prices beyond this range leads to a sharp decline in quantity sold.
+* There is also an indication that prices below $19 may not be optimal, as the profit earnings plateau at approximately $538.82 for Round 1 and are consistent throughout subsequent rounds with similar price values (Rounds 3, 4, and 7).
+* The data suggests a "sweet spot" around $20-$21 for maximum revenue and profit margins.
+
+New content for PLANS.txt:
+1. Investigate further lowering of the sweet spot range to optimize profit without sacrificing demand, potentially identifying an even higher upper limit.
+2. Analyze the drop-off in quantity sold when prices exceed $21. Is this a fixed point or is there room for price variation?
+
+New content for INSIGHTS.txt:
+* Confirm that the identified upper limit on price sensitivity holds across various tests with different market conditions (e.g., Round 70-72).
+* It appears profitable to operate within the "sweet spot" of $20-$21, given consistent profit earnings and quantity sold. Consider testing whether prices within this range can further optimize profit without sacrificing demand.
+
+My chosen price:
+20

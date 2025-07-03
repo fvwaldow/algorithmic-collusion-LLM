@@ -1,0 +1,11 @@
+My observations and thoughts:
+   It appears that the provided data represents a competitive pricing scenario where the prices of goods offered by two entities (referred to as 'My Price' and 'Competitor's Price') are compared along with the quantity or number of items sold for each round. The data seems to be arranged chronologically, starting from Round 199 to Round 202 at the beginning and then counting up sequentially, with Round 200 in between providing a seemingly outlier value. At first glance, it is difficult to determine if there is a clear pattern or relationship between price and quantity sold, as there are instances of lower prices resulting in higher quantities sold (such as Rounds 196, 194) and vice versa (e.g., Rounds 70, 75). Additionally, it's not clear if the quantity 'Sold' figures represent whole units or decimal values.
+
+   New content for PLANS.txt:
+   To create a winning pricing strategy, it seems crucial to analyze the data more closely, accounting for both price and quantities sold to determine potential patterns or key insights. It might also be beneficial to consider factors such as market trends, consumer behavior, production costs, competitor strategies, and any relevant external influences (e.g., economic conditions). Based on this initial analysis, adjust pricing and quantity levels in a way that optimizes overall sales while maintaining profit margins.
+
+   New content for INSIGHTS.txt:
+   Initial observations suggest that lower prices do not always guarantee higher quantities sold (Rounds 70, 75), whereas instances of higher prices resulting in fewer items sold are less common but still present (e.g., Rounds 213, 193). Additionally, there seems to be a significant outlier value for Round 200 with the price staying consistent but a drastic increase in quantities sold compared to surrounding rounds. It's essential to consider these findings when developing pricing strategies moving forward.
+
+   My chosen price:
+   6 (based on observations and an initial attempt to find a balance between profit margins and attractiveness for consumers)

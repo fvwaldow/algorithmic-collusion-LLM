@@ -1,0 +1,10 @@
+My observations and thoughts: The previous prices tested show a correlation between price and quantity sold. Prices closer to the competitor's range (1.25-1.82) resulted in lower quantities sold, while higher prices (3.50-3.51) or a moderate increase resulted in significantly reduced sales with minimal profit. It seems that choosing an unreasonable high price ($3.507) as per the user's input may lead to zero units sold, and therefore no profit. A buffer is needed between my current price and competitor's lower point to maintain profit while still being competitive.
+
+New content for PLANS.txt:
+- Experiment with a slightly increased price closer to the competitor's lowest point (1.90) to test the minimal acceptable buffer for avoiding a price war and maintaining profitability. Additionally, monitor sales trends over multiple rounds.
+
+New content for INSIGHTS.txt:
+- Higher prices reduce sales quantity significantly with minimal profits made. Lower prices result in increased sales but reduced profits per unit sold. Balancing these factors is crucial to maximize long-term profits.
+
+My chosen price:
+1.90

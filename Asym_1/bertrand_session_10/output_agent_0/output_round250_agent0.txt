@@ -1,0 +1,7 @@
+My observations and thoughts: This data represents a series of pricing rounds for a product, with each round showcasing the product's price, competitor's price, number of units sold, and profit earned. The goal seems to be finding the optimal pricing strategy while considering the competitor's actions.
+
+   New content for PLANS.txt: In order to maximize profits and outperform the competitor, we need a dynamic pricing strategy that adjusts based on the competitor's price changes. To achieve this, consider implementing an algorithm that adjusts our prices slightly lower (but within acceptable ranges) when the competitor lowers their price, and vice versa when they raise it. Regularly monitor the market trends, customer feedback, and product costs to keep the pricing strategy updated.
+
+   New content for INSIGHTS.txt: One insight from this data is that there appears to be a customer preference for lower prices; when the price is higher (e.g., $7.5), we sell less quantity compared to when the price is lower (e.g., $6.5). Another insight is that our competitors seem to adjust their prices strategically, affecting our sales volumes. This shows the importance of understanding competitor behavior and market trends when setting our pricing.
+
+   My chosen price: 7.0 (This price is a balance between a higher profit margin and still being competitive with the lower prices our customer prefers.)

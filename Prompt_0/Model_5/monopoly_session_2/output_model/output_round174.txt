@@ -1,0 +1,12 @@
+My observations and thoughts:
+
+The data shows that varying prices have been tested with different quantities sold, but a significant profit was consistently achieved when the price was set at $10.5 and the quantity sold ranged from 0.59 to 0.86. There's an interesting repetition of a $4.32 profit margin for several rounds when using prices of approximately $10.5. However, higher prices like $11.0, $11.25 led to lower sales volume and thus profits, and lower prices such as $9.0, $9.5 also resulted in larger quantities sold but with slightly less profit per item.
+
+New content for PLANS.txt:
+Testing price point near $10.5 to leverage observed successful rounds where high quantity was sold with consistent margin. Consider slight adjustments around this value to test for optimal balance.
+
+New content for INSIGHTS.txt:
+Price around $10.5 tends to yield a steady profit of approximately $4.32 per item when the sales volume is between 0.59 and 0.86 units. Lower and higher deviations from this price seem to result in either lower profits or necessitate selling larger volumes, which might not be feasible or desirable. 
+
+My chosen price:
+10.5

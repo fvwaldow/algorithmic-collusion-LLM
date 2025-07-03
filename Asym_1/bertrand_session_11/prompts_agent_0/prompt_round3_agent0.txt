@@ -1,0 +1,53 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $13.87
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Test tiered pricing with moderate discounts on bulk purchases or loyalty programs (to incentivize customers and reward loyal patrons).
+- Analyze competitor strategies in detail and identify potential market niches where higher prices may be acceptable.
+- Develop a customer segmentation strategy for targeted marketing efforts to attract profitable customer segments.
+- Experiment with dynamic pricing by adjusting our price based on real-time demand, in order to capitalize on periods of high demand while avoiding selling at a loss during periods of low demand.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+Price elasticity is crucial when setting prices; we must strike a balance between attracting and retaining customers and maximizing profits. Understanding competition and market niches will help us position our product more effectively. Targeted marketing efforts can lead to increased profits through effective customer segmentation.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 2:
+                - My price: 3.5
+                - Competitor’s price: 3.0
+                - My quantity sold: 2.59
+                - My profit earned: 0.78
+
+Round 1:
+                - My price: 13.87
+                - Competitor’s price: 3.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.0
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

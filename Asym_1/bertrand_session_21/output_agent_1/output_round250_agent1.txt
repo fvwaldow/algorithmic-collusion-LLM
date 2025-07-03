@@ -1,0 +1,9 @@
+My observations and thoughts: It appears that we are analyzing the performance of different prices for a certain product over numerous pricing rounds. The data shows the selling price, the competitor's selling price, the quantity sold (or demand), and the profit earned at each round. The dataset includes instances where the prices were adjusted multiple times within a single round.
+   Observing the trends in the dataset, I can notice that:
+   - A lower price generally leads to higher demand but lower profit per unit. Conversely, a higher price results in less quantity sold and potentially higher profit per unit (but not always).
+   - The competition's selling price seems to span a range of values, sometimes being higher than the product price we sell at, and sometimes lower. This suggests that our competitor is also adjusting their pricing strategy to maximize profits or influence demand.
+   New content for PLANS.txt:
+   For future pricing decisions, we should consider focusing on price points that generate a high profit while trying to satisfy demand without sacrificing overall market share. We might want to explore price bracketing strategies – setting a high and low price with different benefits or features, as well as taking advantage of promotions and special offers to attract customers.
+   New content for INSIGHTS.txt:
+   The insights we can gather from this dataset include understanding how changing prices influences the quantity sold and profit earned, recognizing the importance of competition on our pricing strategy, and considering the potential impact of customer preferences on our chosen price points. Additionally, we might want to explore possible relationships between pricing round numbers and sales performance, as well as analyze trends over multiple rounds to better predict future sales and profits.
+   My chosen price: <40> (This number corresponds with one price found in the dataset)

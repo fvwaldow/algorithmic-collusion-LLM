@@ -1,0 +1,14 @@
+My observations and thoughts:
+In this dataset, we notice significant fluctuations both in quantity sold and profit across various price points. There seems to be a sweet spot around the price of $2.65-2.75, where profit peaks at $11.41-$8.30 for quantities sold ranging from 6.91 to 4.74 units. The profit is highest at $15.46 when selling 9.98 or 9.28 units at prices around $2.55 or $2.65. It appears that as the price increases beyond $2.75, the quantity sold and subsequent profit decrease dramatically, indicating a need to balance price with potential sales volume.
+
+New content for PLANS.txt:
+- Adjust prices dynamically based on observed sales trends to capture higher volumes at slightly lower prices.
+- Monitor profit closely for adjustments in the short term to maintain profitability.
+
+New content for INSIGHTS.txt:
+- The optimal price range appears to be $2.65-$2.75, offering a balance between quantity sold and profit per unit.
+- Higher prices (e.g., $3.00) lead to significant reductions in sales volume without proportionate increases in profit.
+- Lower prices (e.g., $2.45) result in higher units sold, but require careful calculation to optimize overall profit.
+
+My chosen price:
+<2.65>

@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+From the provided information, it's clear that multiple prices have been tested over a large number of rounds. The data shows that the profit earned is highest when the price is set at $2.85 (Round 170) and is consistently around $5.97 in those cases.
+
+However, setting the price at $2.85 is also associated with higher sales volume than any other price tested, albeit at a lower profit per unit. This suggests that there might be an opportunity to balance revenue per unit with sales volume by adjusting prices slightly.
+
+New content for PLANS.txt:
+
+* Explore pricing strategies that balance profit per unit and total sales volume
+	+ Consider testing higher prices in cases where demand is high and lowering prices when sales volume dips
+	+ Identify a 'sweet spot' price that maximizes both revenue per unit and overall sales while meeting customer buying behavior
+
+New content for INSIGHTS.txt:
+
+* Prices in the vicinity of $2.92-$2.97 appear to be near-optimal in terms of profit per unit, but don't always yield the highest overall sales
+	+ Investigate what happens when prices approach or are below this threshold (e.g., Rounds 170 and 201-207)
+* The $3.02 price seems less optimal as it results in lower quantity sold compared to other tested ranges (Rounds 199, 195, etc.)
+
+My chosen price:
+
+2.92

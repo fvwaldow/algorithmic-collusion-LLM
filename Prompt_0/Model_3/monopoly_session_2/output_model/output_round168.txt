@@ -1,0 +1,21 @@
+Based on the provided information on prices, quantity sold, and profit earned for each round, it is clear that the market dynamics change significantly depending on the price set. Here are my observations and thoughts:
+
+1. The data demonstrates a positive correlation between price and quantity sold when the price is in the range of $9.75 to $10.25, as the number of units sold increased during these rounds, while the profit earned remained stable or only slightly changed. For example, the quantity sold rose from 1.41 to 1.5 in Rounds 83 and 82 respectively, with a similar profit earned ($9.28 and $9.8).
+
+2. However, when the price was increased beyond $10.25 (Rounds 71-64), the quantity sold significantly decreased, resulting in lower profit earnings as well. For example, in Round 70, the quantity sold dropped to 0.49 at a price of $10.65, yielding lower profit earned ($3.65) than Rounds where the price was slightly lower (e.g., Round 82 with a profit earned of $9.8).
+
+3. There appears to be an upper limit on how much buyers are willing to pay for these products at the current pricing strategy, as evidenced by the sharp drop in sales once prices went above $10.5. This indicates that optimal price should likely reside within the range of $9.75 - $10.25 where the number of units sold is higher and the profit earned remains competitive or even increases.
+
+With these insights, I recommend adjusting our pricing strategy with the following:
+
+New content for PLANS.txt:
+- Analyze competitive pricing in our market to determine the optimal price within the range of $9.75 - $10.25 where quantity sold is higher and the profit earned remains stable or competitive.
+- Evaluate product differentiations or additional value propositions that can justify a premium price while keeping sales volume high.
+- Test various pricing points within this range to identify which one works best for our target audience and yield the highest combined profit (profit earned x quantity sold).
+
+New content for INSIGHTS.txt:
+- There is a correlation between higher prices and decreased number of units sold, suggesting that customers are more sensitive to price at higher price points.
+- Lower prices seem to attract more buyers but may also reduce the average profit per unit.
+- The optimal pricing strategy might require balancing sales volume with average price to maximize overall profitability.
+
+My chosen price: Based on the information, I suggest trying a price within the range of $9.75 - $10.25 where balance between quantity sold and profit earned seems achievable and sustainable. Further testing will be necessary to find the exact optimal pricing point that maximizes combined profit (profit earned x quantity sold).

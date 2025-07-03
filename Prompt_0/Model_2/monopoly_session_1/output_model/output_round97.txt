@@ -1,0 +1,14 @@
+My observations and thoughts: This dataset contains historical sales prices for a product across multiple rounds. The price fluctuates quite significantly, ranging from as low as 0.01 to as high as 4.3 per unit, with some noticeable patterns such as the general downward trend after round 6 and occasional spikes like in round 20. One interesting pattern I have noticed is that when the price increases rapidly (e.g., rounds 2 and 20), the quantity sold decreases significantly. Another observation is the consistent demand for the product at lower prices, with quantities of 50 being reached two times during the dataset (rounds 12 and 14).
+
+   New content for PLANS.txt:
+   - Continue monitoring market trends and competitor pricing.
+   - Consider adjusting pricing strategy if sales drop below a certain threshold.
+   - Investigate possible factors influencing the notable increase in sales during rounds 12 and 14 (lower price points).
+   - Explore options for introducing discounts or promotions at higher price points to stimulate demand, while being mindful of profit margins.
+
+   New content for INSIGHTS.txt:
+   - Lower price points have significantly higher demand than higher price points (e.g., rounds 12 and 14 vs. rounds 5 and 7). This suggests that customers place a high value on the lower price, and it may be possible to increase profits by raising the volume of sales at these price points rather than relying on high pricing.
+   - Rapid increases in price can lead to reduced sales quantities, making gradual increases more successful (e.g., round 20 vs. round 2). This data point highlights the importance of adjusting pricing strategy slowly and carefully to avoid driving potential customers away with sudden changes.
+   - The downward trend in pricing after round 6 indicates a stable, profitable price range between rounds 1-5 and rounds 6-end, but further investigation is needed to determine if there are factors specific to rounds 6-end that require a different strategy.
+
+My chosen price: <3, the price at which demand is consistently strong while still offering potential for profitability>

@@ -1,0 +1,11 @@
+My observations and thoughts:
+The data provided represents a game of price adjustments with two competing entities playing against each other. The game takes place over 150 rounds. The quantity sold and profit earned are the most significant figures for analysis in this scenario.
+
+   New content for PLANS.txt:
+For future pricing decisions, analyze the changes in price-quantity relationships to determine a profitable equilibrium point. Focus on round numbers multiples of 25 prices (e.g., 12.5, 15, 17.5, etc.) that have historically resulted in higher quantity sold while maintaining profitability.
+
+   New content for INSIGHTS.txt:
+It appears that increasing the price to $17 or higher can result in substantially lower quantity sold and thus decreased profits. On the other hand, prices around $14 seem relatively stable despite slight fluctuations in both directions, often leading to comparable profit amounts. Interestingly, a price of $60 was briefly tried, but returned a very high profit due to the low number of sales.
+
+   My chosen price:
+14.0

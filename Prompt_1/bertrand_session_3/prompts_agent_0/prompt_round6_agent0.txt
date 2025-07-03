@@ -1,0 +1,136 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $4.24
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Continuously monitor competitor's prices and adjust dynamically while ensuring that the price remains below the $4.24 ceiling, focusing on striking a balance between price competitiveness and profit margins.
+       - Adjust pricing strategies based on sales volumes and perceived value data to optimize long-term profits.
+        - Regularly review market changes and adjust pricing accordingly.
+         - Analyze the impact of various pricing tiers on customer retention rates during dynamic pricing strategy implementation.
+          - Periodically revisit the value-based pricing approach to determine whether it can be optimized further for long-term profitability.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Continuously monitor the competitor's prices is critical in making informed pricing adjustments and maintaining a competitive edge in the market.
+       - Adjusting strategies based on sales volumes, as well as perceived value data, can help maximize both short-term profits and long-term sustainability.
+        - Considering various pricing tiers during dynamic pricing strategy implementation will help determine the optimal price point for maximizing profit while maintaining a high volume of units sold.
+         - Monitoring the impact of market changes on different pricing strategies is essential for adaptability and achieving long-term success.
+          - Periodically revisiting and refining the value-based pricing approach remains crucial for optimizing profit margins over time.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 5:
+
+
+
+                - My price: 2.0
+
+
+
+                - Competitor’s price: 3.0
+
+
+
+                - My quantity sold: 49.55
+
+
+
+                - My profit earned: 49.55
+
+Round 4:
+
+
+
+                - My price: 2.0
+
+
+
+                - Competitor’s price: 3.25
+
+
+
+                - My quantity sold: 49.83
+
+
+
+                - My profit earned: 49.83
+
+Round 3:
+
+
+
+                - My price: 3.75
+
+
+
+                - Competitor’s price: 3.99
+
+
+
+                - My quantity sold: 0.09
+
+
+
+                - My profit earned: 0.25
+
+Round 2:
+
+
+
+                - My price: 2.0
+
+
+
+                - Competitor’s price: 3.99
+
+
+
+                - My quantity sold: 49.99
+
+
+
+                - My profit earned: 49.99
+
+Round 1:
+
+
+
+                - My price: 2.0
+
+
+
+                - Competitor’s price: 2.0
+
+
+
+                - My quantity sold: 33.33
+
+
+
+                - My profit earned: 33.33
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

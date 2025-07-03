@@ -1,0 +1,17 @@
+My observations and thoughts:
+The data indicates that there are significant fluctuations in both selling price (`price`) and quantity sold (`quantity`). The profits (`profit`) range widely from a high of 522.34 to a low of 97.45, even within relatively close pricing rounds. There is considerable variability in the data, suggesting that an ideal pricing strategy may need to balance between maximizing profit and finding a sustainable sales volume.
+
+Several prices recur—most notably, 20.0, 21.5, and 27.0, which appear multiple times across various selling rounds. Notably, low prices (like 19.5, 20.0) correspond to more repeated rounds and higher sales volumes but generally lower profits compared to less frequent, higher-priced rounds.
+
+New content for PLANS.txt:
+- Target frequent, mid-range sales volumes with moderate profit margins, e.g., around 21.5.
+- Conduct further analysis on prices that yield high volume (like 20.0) to understand if higher profit potential could be unlocked.
+- Investigate rounds with significantly higher profits to replicate conditions or factors leading to those outcomes.
+
+New content for INSIGHTS.txt:
+- Prices set close to 21.5 tend to produce consistent sales volumes (around 35 units), suggesting a sweet spot between demand and profitability.
+- High-profit rounds often occur at lower frequencies, implying that either niche pricing strategies are effective or random variance influences these outcomes more heavily.
+- A strong correlation appears between price points of 19.5/20.0 and higher sales volumes but lower profits per unit, suggesting an exploration opportunity for increased efficiency in these sectors without compromising volume significantly.
+
+My chosen price:
+21.5

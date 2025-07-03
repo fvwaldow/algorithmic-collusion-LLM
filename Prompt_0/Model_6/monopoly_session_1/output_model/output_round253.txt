@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+Upon reviewing the data, I notice that there are several patterns and trends that emerge. The most consistent pattern is that of oscillation around a price point of $2.95. We can see that this price point has been revisited multiple times throughout the history of pricing rounds, and it tends to result in profit earnings ranging from $4.27 to $4.72.
+
+Another notable observation is the influence of prices below or above $2.95 on sales quantities and profit margins. When prices rise above $2.95 (e.g., pricing rounds 158, 143), quantity sold tends to decrease and so does profit earned (e.g., pricing round 158 had a price of $3.0 and quantity sold was 1.83). Conversely, when the price drops below $2.95, we see an increase in sales quantities but a subsequent slight dip in profit margins.
+
+Considering these factors, I believe it would be wise to target the optimal average price at $2.95, which has yielded balanced results across different rounds.
+
+New content for PLANS.txt:
+
+1. Set new price point at or around $2.95.
+2. Analyze and identify price ceilings (i.e., above $2.95) that may decrease profit margins due to reduced quantity sold.
+3. Observe data from previous rounds with lower prices (< $2.95) for potential insights on volume elasticity.
+
+New content for INSIGHTS.txt:
+
+The optimal price range of $2.95 has yielded the highest average sales and profit earnings among all pricing decisions throughout this experiment. Lower prices (below $2.95) may attract higher demand, but corresponding lower margins should be carefully monitored to avoid revenue sacrifice. It appears there is a trade-off between volume and profitability in our data; we must adaptively fine-tune pricing strategies accordingly.
+
+My chosen price: $2.95

@@ -1,0 +1,22 @@
+**My observations and thoughts:**
+
+The data provided indicates a dynamic pricing strategy with significant fluctuations in both price and quantity sold across multiple rounds. Notably, the same quantity of sales does not always correspond to a similar profit margin due to varying prices. For example, in Round 84, a lower price of $2.35 resulted in 19.78 units sold, earning $26.71, while in Round 85, a slightly higher price of $2.45 earned the same quantity of sales at $20.57 profit, highlighting the importance of price optimization for maximizing profits.
+
+**New content for PLANS.txt:**
+
+The following strategy is implemented based on past observations:
+1. **Monitor Price Elasticity:** Continuously analyze how price changes affect quantity sold to adjust prices accordingly.
+2. **Profit Maximization Focus:** Aim to increase profits by optimizing the balance between price and quantity sold. For example, higher profit margins are observed even with lower sales volumes when prices are correctly set.
+3. **Seasonal Adjustments:** Consider seasonal trends that might influence demand, adjusting prices preemptively.
+4. **Competitive Analysis:** Keep an eye on competitors' pricing strategies to ensure our prices remain competitive yet profitable.
+
+**New content for INSIGHTS.txt:**
+
+Important insights from the pricing rounds include:
+- **Non-Linear Relationship Between Price and Profit:** The relationship between price and profit is not linear; there are peaks and troughs indicating optimal pricing points.
+- **Price Sensitivity Increases at Lower Prices:** When prices dropped significantly (e.g., from Round 91 to Round 97), the quantity sold increased, but the profit margin decreased per unit, suggesting potential overpricing sensitivity at lower price points.
+- **Profit Margins are Not Always Higher with More Units Sold:** In some instances, more units sold did not equate to higher overall profits, indicating that optimal profit margins might be achieved at specific profit levels per unit rather than sheer volume.
+
+**My chosen price:**
+
+12.50

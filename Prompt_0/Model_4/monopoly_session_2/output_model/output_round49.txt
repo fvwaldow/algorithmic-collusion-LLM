@@ -1,0 +1,16 @@
+My observations and thoughts:
+The data shows variability in sales quantity (QTY) and profits across different price points but with a clear ceiling at $14.34. Notably, higher quantities sold correlate with lower prices (e.g., Round 10, 11, and 12). The loyalty program has been planned to offer a 10% discount every 10th purchase, aiming to increase repeat business, based on previous insights about the benefit of promotional strategies during paydays.
+
+New content for PLANS.txt:
+<details>
+Add a dynamic pricing strategy that adjusts prices in response to market demand fluctuations. For instance, during high-demand periods, such as weekends or holidays, consider increasing the price slightly (to test elasticity), while maintaining a competitive standard during quieter periods to balance supply and demand effectively. Monitor customer feedback closely to understand tolerance for price changes.
+</details>
+
+New content for INSIGHTS.txt:
+<details>
+It appears that there's a direct correlation between price points and sales volume. Lowering the price attracts more customers (as seen in Round 10, 11, and 12), but it may not always maximize profit per unit sold. The effective discount period strategy during paydays continues to be fruitful; however, careful cost analysis must be maintained for promotional costs.
+</details>
+
+My chosen price: 12.0
+
+By setting the price at $12.0, I aim to balance higher sales volume with a reasonable profit margin, while also testing this dynamic pricing strategy suggested for future implementation.

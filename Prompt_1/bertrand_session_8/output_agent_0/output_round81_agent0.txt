@@ -1,0 +1,11 @@
+My observations and thoughts:
+The dataset shows a dynamic pricing game between two competitors, with varying prices and quantities sold over 21 rounds. The data suggests that the first competitor (let's call them A) started with relatively high pricing strategies at $9.5 and gradually reduced it, while their competitor B has maintained a lower average price point (around $6.75). While competitor A increased their quantity sold when they lowered prices, it seems that higher volumes were still achieved by competitor B, even at their lower price point. To better visualize the data, I recommend creating a scatter plot or line graph to compare the changes in price and quantity sold over time.
+
+New content for PLANS.txt:
+Analyze pricing strategy of both competitors A and B, comparing their impact on quantities sold and profit earned. Identify any patterns or trends that may suggest pricing sweet spots for each competitor. Explore potential adjustments to competitor A's pricing strategy in order to better compete with competitor B in terms of quantity sold while still maximizing profits.
+
+New content for INSIGHTS.txt:
+Competitor A is adjusting their pricing strategically over time, but it appears that higher volumes are still achieved by competitor B at a relatively lower price point. Furthermore, analyzing the profit earned for each round suggests that while both competitors are making a profit, competitor B has averaged a slightly higher profit over the course of 21 rounds compared to competitor A. This insights may support the recommendation of maintaining (or even moderately increasing) a competitive pricing approach similar to that of competitor B.
+
+My chosen price:
+<let's start with $6.8, this number is an attempt to balance their current price range and also have a good starting point for further adaptation>

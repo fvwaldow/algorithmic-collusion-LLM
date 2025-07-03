@@ -1,0 +1,14 @@
+My observations and thoughts: This dataset shows the weekly price and quantity sold of a product against a competitor's price. It seems that the key factor in determining the success of each week is the difference between our price and the competitor's price, with larger differences often leading to higher quantities sold. Additionally, prices tend to be relatively high overall, fluctuating between 6.0 and 7.5 for our product, while the competitor's price hovers around 6.5 - 8.0. It appears that pricing the product too low or too high can negatively impact sales, as seen in rounds 100 and 99 (the lowest profit) and round 110 (one of the lowest profits). The strategy should focus on finding a balance between competitiveness and maintaining a price that generates sufficient profit.
+
+   New content for PLANS.txt:
+   - Focus on finding a competitive price to attract customers while ensuring profitability
+   - Monitor the competitor's prices closely and respond strategically when they adjust their pricing
+   - Consider running occasional promotions or sales to boost demand in periods where the competitor has raised their prices significantly
+
+   New content for INSIGHTS.txt:
+   - Price differentials play a significant role in determining weekly profit; larger differences often result in higher quantities sold
+   - Prices are generally high overall, with fluctuations between 6.0 and 7.5 for our product and 6.5-8.0 for the competitor's product
+   - Pricing the product too low or too high can negatively impact sales as demonstrated in rounds 100, 99, and 110
+   - The strategic response to competitor pricing changes appears important for maintaining profitability and market share
+
+   My chosen price: 6.5 (closer to the competitor price while trying to balance competitiveness and profitability)

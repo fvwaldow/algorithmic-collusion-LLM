@@ -1,0 +1,11 @@
+My observations and thoughts:
+Looking at the data for different pricing rounds, we can observe that the price range has varied from 1.0 to 2.6, with higher profit margins generally being achieved at higher prices such as 2.5 and 2.6 where the profit earned is 17.88 and 13.31 respectively. The quantity sold has ranged between 98.2 (at a price of 1.0) and 12.35 at other prices, indicating that setting the price too low results in decreased sales volume while a higher price does not seem to have a negative impact on quantity sold.
+A higher profit is earned when the price is set at 2.5 or 2.6, which is quite close to each other. However, if the goal is to achieve the highest profit in this scenario, a price of 2.6 should be used as it resulted in a smaller absolute value for profit earned (13.31) compared to a profit of 18.4 at a price of 2.5, however, with a larger quantity sold (12.35).
+
+New content for PLANS.txt:
+The new content will focus on utilizing the profit data in combination with the quantity sold to determine an optimal pricing strategy. We will examine historical data to identify patterns and trends that may help us decide the best price points to maximize profits considering both higher profit margins and sales volumes.
+New content for INSIGHTS.txt:
+1. The importance of finding a balance between higher profit margins and quantity sold: From the given data, we can see that setting the price too low might decrease sales volume but setting it too high does not seem to impact the volume significantly. Therefore, finding a balance between these two aspects is crucial for optimizing profits.
+2. Understanding the effect of a small change in price: The difference in profit earned at 2.5 (18.4) and 2.6 (13.31) is quite minimal. A slight adjustment to the price can significantly impact profit, so it's important to be strategic about such changes.
+3. Analyzing historical data: The past data on different pricing rounds provides a valuable reference for determining future prices that are likely to yield higher profits. 
+My chosen price: Based on the analysis and observations, a price of 2.6 is chosen as it offers a combination of a high profit margin (13.31) and a reasonable sales volume (8.32). However, it's important to keep an eye on market trends and be ready to adjust this decision accordingly.

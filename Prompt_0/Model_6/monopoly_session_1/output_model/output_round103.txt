@@ -1,0 +1,21 @@
+My observations and thoughts:
+
+Based on the data provided, it is clear that there is a significant relationship between price and quantity sold. As the price increases, the quantity sold tends to decrease, although with some fluctuations. The highest quantity sold (2.66 units) was observed in Rounds 11 and 7, when the price was around $2.90-$3.00.
+
+However, it's also evident that there are some anomalies in the data, such as the sharp decline in sales at prices above $3.20. It seems that customers are very sensitive to prices above this level, which may be due to factors such as perceived value or competition from cheaper alternatives.
+
+New content for PLANS.txt:
+
+1. Investigate relationship between price and quantity sold further, potentially using regression analysis.
+2. Identify specific threshold above which prices start to negatively affect sales (e.g., $3.20).
+3. Explore possible reasons behind the sensitivity of customers to prices above this threshold.
+
+New content for INSIGHTS.txt:
+
+1. The inverse relationship between price and quantity sold is a clear trend in the data, with some exceptions.
+2. There appears to be a price ceiling around $3.20, beyond which sales quickly decline.
+3. Care should be taken when setting prices above the identified threshold, as customers may become less responsive.
+
+My chosen price:
+
+I would suggest choosing a price of **$2.95**, which is slightly below the observed price ceiling and close to the optimal price for maximizing revenue (taking into account both the quantity sold and the profit per unit). This approach balances the need to capture some premium price with the need to maintain sufficient sales volume, while minimizing losses.

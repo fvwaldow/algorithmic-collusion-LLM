@@ -1,0 +1,23 @@
+Based on the provided data, here are some observations and thoughts:
+
+1. The business seemed to consistently sell at least 1.5 units per round, with occasional spikes in quantity (e.g., Round 200 where they sold 2.03 units). However, during Rounds 191 and 192 the business failed to sell any units.
+2. The product's average price has varied widely, starting at a low of $0.1 and going as high as $9.75, with most rounds falling between $9.6 and $9.8. The higher price range seemed to contribute more to the total profit, but the low profit in Rounds 191 and 192 demonstrates that selling at a higher price doesn't guarantee success.
+3. Profit has been largely influenced by the price and quantity sold (e.g., high profit in Round 200 with both a high quantity (2.03 units) and average price ($9.75)). However, there is also an instance where a lower selling price resulted in greater profit than during Round 195 where selling at a higher price yielded only $7.47 profit.
+4. Considering the business seems to typically have a consistent demand (based on units sold), it may be worth considering a price point that balances the quantity sold and overall profit margin, rather than focusing solely on maximizing revenue through higher prices.
+
+For PLANS.txt:
+- Analyze historical data for patterns in pricing, consumer behavior and demand trends
+- Consider implementing a dynamic pricing strategy to capture more sales at optimal price points
+- Balance the desire for higher profit margins against maintaining consistent sales volumes
+
+For INSIGHTS.txt:
+- Understanding that higher prices are not always indicative of higher profits
+- The business requires a balance between unit volume and selling price for sustained profitability
+- Selling even at lower prices can result in higher overall profits
+- Consumer demand seems to be relatively constant despite price fluctuations, indicating potential elasticity in demand.
+/n
+
+My chosen price: Based on this data set, it's difficult to determine the 'best' price without more context such as cost per unit and market conditions. However, considering previous rounds where consistent high profit was achieved (e.g., Round 200), a recommended starting point could be:
+- Price: $9.75 with a quantity of approximately 1.5 units.
+
+Again, this recommendation is general due to the lack of specific costs and market competition data. A thorough cost analysis would help to better determine the ideal price for maximum profit.

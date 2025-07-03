@@ -1,0 +1,11 @@
+My observations and thoughts:
+   The dataset presents a clear correlation between product price and its demand. When the price is too high (like 39.5 or above), the quantity sold decreases dramatically despite the potential for higher profits per item due to high price tags. On the other hand, when the price falls within a range where it remains competitive with the competitor's offering but still allows for profit (28-30), the products are more appealing to consumers and generate better overall sales.
+   However, it is essential to keep in mind that some price fluctuations seem to impact demand significantly. For instance, the reduction from 32.5 to 31.5 led to a slight increase in demand; similarly, reducing the initial price of 35 to 28 showed a considerable improvement in quantity sold.
+   PLANS.txt:
+   - Analyze past pricing decisions in regards to their impact on product demand, considering our target market's willingness-to-pay and the competitor's offerings.
+   - Continually monitor price variations to identify trends and patterns that could help determine optimal pricing ranges for maximizing sales.
+   INSIGHTS.txt:
+   - Demand for the product is sensitive to price changes, even if those changes seem minimal, so adjusting prices accordingly could lead to improved sales outcomes.
+   - Consumers appear to be wary of high price tags (39.5 being particularly unattractive), so setting competitive prices within a reasonable range will help attract a larger audience.
+
+  My chosen price: 28

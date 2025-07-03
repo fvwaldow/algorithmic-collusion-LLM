@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+From the market data, it appears that there has been a consistent trend where prices around $5.04 have generated relatively high profit per unit ($155.58) but with lower quantities sold compared to prices around $4.99-$5.00. This suggests a potential trade-off between price and quantity sold. Additionally, the drop in profitability above $5.06 (Round 46) is notable.
+
+I also want to note that there's a range of profitable prices ($4.98-$5.04) with relatively consistent earnings across different rounds. However, no customer would pay more than $10.07, so it seems necessary to stay within this maximum price cap.
+
+New content for PLANS.txt:
+
+1. **Further optimize profit-margin sweet spot**: Investigate the specific range of profits ($155.58-$5.04) and aim to maximize profit margins by testing prices above $5.03 while accounting for potential drops in quantity sold.
+2. **Refine sub-$4.99 pricing experimentation**: Since we've identified that the price around $5.04 has relatively high profitability, I'd like to experiment with further adjustments ($4.94) below this point to see if there's room for improvement.
+
+New content for INSIGHTS.txt:
+
+* Prices above $5.03 (Round 46 onwards) show no significant increase in profit per unit compared to the optimal range around $5.04.
+* There's a noticeable drop in quantity sold as price increases beyond $5.08 (Rounds 14-$15).
+* Maintaining prices within the optimal range ($4.98-$5.03) consistently yields higher profits than experimenting with lower prices below this level.
+
+My chosen price: 
+$4.99

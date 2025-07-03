@@ -1,0 +1,15 @@
+My observations and thoughts:
+   The data provided shows a series of price rounds with corresponding quantity sold and profit earned for each round. Over the course of these rounds, it appears that the price is initially set at $15, which generates a modest profit of approximately $23.56 per round. However, there are instances where the price increases to $25, resulting in significantly lower sales (0.09 quantity) and profits ($1.36). The majority of the time, the competitor's price is also $15, except for a few instances when it increases to match the seller's higher price of $15 and several instances where it remains $10 or $12.5 (not clearly specified in the data provided).
+
+   New content for PLANS.txt:
+   - Analyze sales data from previous pricing rounds
+   - Identify patterns and trends in profits, quantity sold, and competitor's prices
+   - Determine the optimal price range that maximizes profit while maintaining acceptable sales volume
+
+   New content for INSIGHTS.txt:
+   - The base price of $15 generates consistent, modest profit
+   - Increasing the price to $25 leads to a drastic decrease in sales and profits (with minimal exceptions)
+   - Competitor's prices occasionally match or are lower than the seller's price, suggesting an opportunity for price adjustment to outperform the competitor.
+
+   My chosen price:
+   15

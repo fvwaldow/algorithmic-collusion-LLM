@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+After carefully reading through the provided information, I notice a range of prices experimented with in various rounds. The highest profit earned is $4.72 for rounds 110-152, indicating that prices around $2.92 are optimal. However, in some subsequent rounds (e.g., round 122), very high prices were tested ($36.0) but resulted in zero sales and no profit.
+
+I also observe that there's a trend of decreasing profit earned as the price increases beyond $3.00. Specifically, the highest profits were achieved around rounds 105-115 where prices ranged from $2.97 to $2.98.
+
+Given this information, I'll propose prices based on maximizing profitability while considering the upper limit for sales ($36) and the optimal range ($2.92-$3.00).
+
+New content for PLANS.txt:
+
+1. Continue to iteratively adjust prices around the optimal range ($2.92-$3.00) to maximize profit.
+2. Explore the possibility of testing lower prices within this range, as evidenced by rounds 110-152 achieving a high profit with a price of $2.92.
+
+New content for INSIGHTS.txt:
+
+The key insight derived from analyzing past pricing rounds is that there's an optimal range ($2.92-$3.00) where maximum profit can be achieved, especially in rounds 110-152. Additionally, while testing extremely high prices has yielded zero sales and no profit (round 122), it suggests there might be a lower limit below which profits decrease significantly as well.
+
+My chosen price: 
+$2.97

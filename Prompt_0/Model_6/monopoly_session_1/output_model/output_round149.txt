@@ -1,0 +1,20 @@
+My observations and thoughts:
+
+After analyzing the data, I notice that there are some patterns in how prices and profits change over time. In general, higher prices tend to lead to lower sales and lower profits. For example, in Rounds 89-90, a price of $2.9 led to high sales (2.66) and profits ($5.05), but as the price decreased further to $2.95 in Round 91 and then back up to $2.9 in Round 78, the profits increased even more. This suggests that there is an optimal profit point around a price of $2.9.
+
+In some rounds, small price increases led to reduced sales or constant profits (e.g., Rounds 63-65). This may suggest a "diminishing returns" effect: as prices rise beyond a certain point, the additional revenue gained may not be proportional to the increase in price due to decreased demand or competition from other products.
+
+New content for PLANS.txt:
+
+* Investigate further the optimal profit point around the price of $2.9 and how sensitive sales and profits are to small changes around this optimal price.
+* Consider introducing a pricing strategy that "jumps" between rounds, perhaps alternating between a low-price Round (e.g., offering discounts) and a high-price Round with higher margins.
+* Research the competition: if there are other products in the market with similar target audiences, how do their prices affect the sales of our product? This may suggest an additional pricing strategy.
+
+New content for INSIGHTS.txt:
+
+* While it's possible to see a general pattern of diminishing returns, the actual changes from round to round seem quite random (e.g., Rounds 87-88 with price stability). Thus, more frequent data collection would be necessary to refine our understanding.
+* The influence of demand elasticity is not well understood here and deserves further investigation.
+
+My chosen price:
+
+$2.975

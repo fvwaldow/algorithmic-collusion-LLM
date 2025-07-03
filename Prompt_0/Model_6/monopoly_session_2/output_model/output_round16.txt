@@ -1,0 +1,18 @@
+My observations and thoughts:
+
+* The product information shows that the maximum price a customer would pay is $10.07, but our goal is to maximize profits without exceeding this limit. Our current prices are significantly lower than this ceiling.
+* From Round 1 to Round 3, we see a decrease in profit earned, which suggests that our initial low price (2.0) was not ideal for maximizing profits.
+* From Round 3 to Round 5, our price dropped from $4.95 to $5.05, but the profit earned decreased by 5.72 USD. This could indicate that we're moving towards a lower-profit zone.
+* Since Round 13 and Round 15 have identical prices ($5.05) and nearly identical profit earnings (156.12 and 157.45, respectively), it's likely that $5 is the optimal price for our current sales volume.
+
+New content for PLANS.txt:
+Incrementally test prices between $4.95 to $5.10 at even smaller intervals (e.g., $0.01 or less) if we approach an optimal point and see significant variability in profit margins.
+Perform more thorough analysis of historical data, considering factors like price elasticity and quantity sold trends.
+Continue comparing our sales volume and profit margins across all pricing rounds to identify patterns.
+
+New content for INSIGHTS.txt:
+Considering the trade-off between premium pricing (yielding higher units of revenue but lower quantities) against maximizing sales volume through lower prices, we might want to consider raising our price slightly above $5 if it increases profitability.
+The optimal balance between price and profit might be influenced by the target audience's preferences, market demand, and competitor strategies. Our current data doesn't provide clear insights into these factors.
+
+My chosen price:
+4.99

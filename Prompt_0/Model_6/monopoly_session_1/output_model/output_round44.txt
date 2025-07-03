@@ -1,0 +1,29 @@
+My observations and thoughts:
+
+Based on the market data provided, it seems that prices within the optimal range of $2.90-$3.00 have yielded relatively consistent results in terms of profit earned. However, there is a trend of increasing price points with decreasing quantity sold, especially when comparing Round 12 to subsequent rounds. This could indicate that customers become less willing to pay higher prices as they approach or exceed the upper bound of their willingness-to-pay.
+
+Furthermore, inspecting market data from earlier rounds reveals an interesting pattern: prices within the optimal range ($2.90-$3.00) have generally led to relatively stable profit levels, around $3-4 per unit sold, whereas prices at and above $3.01 seem to be associated with lower quantity sold and potentially decreasing profits.
+
+Considering these observations and the previous plans outlined in PLANS.txt, it seems wise to:
+
+1. Investigate the unique profit earnings in Round 12 more thoroughly, focusing on the relationship between its price ($2.90) and the significantly higher quantity sold (compared to other rounds with similar prices).
+2. Test the upper limit of the optimal pricing range ($3.00), taking into account potential variations in customer demand.
+3. Examine the impact of further price increases at $3.01 and above on both quantity sold and profits.
+
+New content for PLANS.txt:
+
+1. Elaborate on Round 12's anomalous profit earnings by comparing it to other rounds with prices within the optimal range, particularly those immediately before or after this anomaly.
+   Plan: Investigate why a lower price ($2.90) corresponded with significantly higher quantity sold.
+
+2. Determine whether and how customer demand changes when pushing the upper bound of the optimal pricing range ($3.00).
+
+3. Examine Round 42’s increased price ($3.01) in relation to Round 40-41’s steady prices, focusing on their respective quantities sold (Round 42=1.73 units; Rounds 40-41=2.02 units/sale for two rounds).
+
+New content for INSIGHTS.txt:
+
+* Upon closer inspection of the optimal price range ($2.90-$3.00), further testing at and above this upper limit might actually lead to decreasing profits, making previous pricing decisions more rational than initially suspected.
+* Testing Round 12's anomaly could reveal why a lower price ($2.90) led to significantly higher quantity sold compared to other rounds with similar prices within the optimal range.
+* Inspecting past Rounds (Round 40-42) reveals that even slightly increasing the upper bound of customer willingness-to-pay might lead to reduced market demand, indicating potential overpricing.
+
+My chosen price:
+$3.03

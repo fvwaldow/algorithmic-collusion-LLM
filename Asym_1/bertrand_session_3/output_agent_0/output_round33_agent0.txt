@@ -1,0 +1,17 @@
+My observations and thoughts:
+    - The data shows a slightly positive correlation between higher prices and lower quantities sold, but with some exceptions where, despite higher prices, the quantity sold increases significantly (e.g., Round 8, Round 21). It may also be worth noting that the competitor's price is not always the deciding factor in determining the number of units sold.
+    - When my price is comparable to or less than the competitor (e.g., Round 20, Round 17), more units are sold, but this doesn't always translate into higher profit (due to the relatively close pricing).
+    - On the other hand, setting a slightly higher price can potentially lead to reduced customer volume, yet maintain higher overall profits per unit due to a higher pricing tier.
+
+New content for PLANS.txt:
+    - Implement a hybrid pricing strategy that balances short-term sales (customer volume) and long-term profitability by adapting prices based on market trends and competitor's actions while maintaining a competitive edge over time.
+      - Analyze the relationship between price, quantity sold, and overall profit in various pricing tiers to determine the optimal approach for maximizing profits in this market.
+        - Regularly reassess and refine the strategy as new data becomes available, considering the fluctuations in customer demand, competitors' pricing strategies, and market conditions over time.
+
+New content for INSIGHTS.txt:
+    - Balancing price, quantity sold, and overall profit is crucial in achieving long-term success in this business due to the interdependent relationship between these factors (as seen throughout various rounds).
+      - Aggressive pricing strategies that undercut competitors may lead to short-term gains but could result in lower long-term profit if the difference isn't significant or sustainable.
+        - When setting prices, consider the potential impact on the perceived value of your product and the competitive landscape while remaining mindful of the upper price limit ($5.2) set by customer demand.
+
+My chosen price:
+3.17 (This choice is based on testing various pricing tiers, with an aim to achieve a balance between volume sales and overall profitability, while staying within the cost constraints and considering past patterns of competitor behavior.)

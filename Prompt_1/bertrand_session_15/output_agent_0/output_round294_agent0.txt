@@ -1,0 +1,15 @@
+My observations and thoughts: This data represents a pricing game where participants are given a product (price unspecified) and must continually adjust their price based on current prices offered by the competition while trying to maximize profits. The dataset appears to have 200 entries, each containing some combination of current participant price, competitor price, quantity sold, and profit earned. The price range varies significantly from 5 dollars up to 200 dollars. In general, it seems that lower prices result in higher quantities sold but lower profits, while higher prices result in lower quantities but potentially much higher profits. However, there are exceptions where an unexpectedly low competitor price leads to a high profit for the participant (e.g., Round 201). It is also worth noting that, in some rounds, no product was sold by either the participant or the competitor.
+
+   New content for PLANS.txt:
+   - Continue observing competitor's pricing strategies
+   - Analyze which price ranges generate more profits and sales while minimizing the risk of no sales (e.g., finding a balance between low/high pricing)
+   - Consider adjusting price up or down based on competitor's current and past strategies, aiming to maximize profits while maintaining a steady flow of sales
+
+   New content for INSIGHTS.txt:
+   - Lower prices typically result in more sales but lower profits
+   - Higher prices can generate higher individual profits, but may lead to fewer total sales due to reduced demand
+   - Competitor's pricing fluctuations impact the participant's profitability and sales, suggesting a relationship between both parties' behavior
+   - Unpredictable competitor behavior, such as extremely low or high prices, can significantly affect the participant's profits (e.g., Rounds 201 & 196)
+   - Participant's choice of price is crucial in determining the sales and profit outcome
+
+   My chosen price: 25 dollars

@@ -1,0 +1,17 @@
+My observations and thoughts:
+    - The current price range (20-30) seems to generate higher profits compared to when the price is set very low (Round 1, 10) or extremely high (Round 15, 43.87). A higher price leads to lower quantity sold but increased profit per unit.
+    - Changing the price relative to competitor’s price seems beneficial in terms of profit, as observed in Rounds 6 and 26. However, when the price is significantly higher than the competitor (Round 10), it results in virtually no sales. Thus, a balanced approach might be needed.
+    - There appears to be an optimal price point that maximizes profit for each round without compromising volume sold. Finding these "sweet spots" could lead to more consistent profits.
+
+   New content for PLANS.txt:
+   1. Identify and optimize the “sweet spot” prices within the profitable range, where sales volumes show a strong response while ensuring maximum profit potential.
+      2. Explore a hybrid pricing strategy that considers both balancing volume and price as well as reacting to competitor’s moves in real-time for optimal profits.
+     3. Develop algorithms to effectively detect and track changes in consumer preferences and shifting market conditions for more accurate and adaptive pricing decisions.
+     4. Improve the ADPO algorithm by incorporating factors such as competitor's pricing and seasonality, to better predict demand and set prices accordingly.
+
+   New content for INSIGHTS.txt:
+   1. A balanced approach to price setting, considering both volume and profit, maximizes long-term profit potential while remaining competitive in the market.
+      2. Real-time monitoring of competitor’s pricing coupled with adaptive algorithms leads to better pricing decisions and higher profits.
+     3. Market conditions, such as seasonality or social trends, can impact pricing strategy and should be taken into account when setting prices for optimal results.
+
+   My chosen price: 26.16 (Round 6's price)

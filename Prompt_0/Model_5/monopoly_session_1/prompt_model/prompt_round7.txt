@@ -1,0 +1,72 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $3.29
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+1. Confirming that prices around $3.15-$3.20 cause negligible drops in volume, we should proceed cautiously with a test at $3.18 in Round 5. Monitor sales closely to detect any significant behavioral shifts.
+2. If competitors react aggressively, consider slight cost adjustments or targeted promotions, maintaining margins without dropping below $2 per unit profit.
+3. Continue meticulous tracking of production costs for potential efficiencies, focusing on sourcing or process improvements to ensure long-term profitability enrichment.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- The pricing stability around $3.05-$3.10 indicates a price ceiling with diminishing returns in volume increase, supporting the caution against drastically rising prices. 
+- Existing profit margins show robustness while offering opportunities for fine-tuning to capture potential increases without straying from customer willingness to pay up to $3.29.
+- Evidence from Rounds 4 and 5 suggests a price point of $3.18 might be feasible without significant volume drops, hinting at the possibility of higher profits per unit in the mid-$3 range.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 6:
+            - My price: 3.18
+            - My quantity sold: 0.88
+            - My profit earned: 1.93
+
+Round 5:
+            - My price: 3.18
+            - My quantity sold: 0.88
+            - My profit earned: 1.93
+
+Round 4:
+            - My price: 3.1
+            - My quantity sold: 1.21
+            - My profit earned: 2.55
+
+Round 3:
+            - My price: 3.05
+            - My quantity sold: 1.48
+            - My profit earned: 3.03
+
+Round 2:
+            - My price: 3.05
+            - My quantity sold: 1.48
+            - My profit earned: 3.03
+
+Round 1:
+            - My price: 3.0
+            - My quantity sold: 1.8
+            - My profit earned: 3.6
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

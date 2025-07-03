@@ -1,0 +1,55 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $55.03
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Evaluate the effectiveness of our current pricing strategy by examining sales data from competing products in the same price range.
+   - Fine-tune dynamic pricing tactics to better respond to fluctuations in market conditions and competitor prices.
+   - Test different tiered pricing structures to optimize demand for larger orders while maintaining profitability.
+   - Implement a comprehensive analysis of psychological pricing tactics, focusing on both perceived value and customer savings.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- It's crucial to analyze competitive landscape for pricing adjustments and strategy refinement.
+   - Optimizing tiered pricing structures requires balancing potential demand increases with maintaining profit margins.
+   - Emphasize the importance of testing various psychological tactics, such as ending prices in .99 or .00, to influence purchasing behavior.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 2:
+                - My price: 54.99
+                - Competitor’s price: 40.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.0
+
+Round 1:
+                - My price: 54.0
+                - Competitor’s price: 30.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.0
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

@@ -1,0 +1,13 @@
+My observations and thoughts:
+    Based on the market data provided, lower pricing tends to result in a higher quantity sold (as low as 0.01 for $3.5 and as high as 37.45 for $2). However, pricing too low leads to thin profit margins. The highest profit earned was at Round 11, where the price was set at $2.3 with a competing price of $3.0, and it yielded a profit of $23.46. A pattern can be seen that when the price gap between me and my competitor is relatively higher, the quantity sold tends to be lower (e.g., Round 17 at $3.5 versus Round 11). Additionally, the number of units sold significantly drops when the price exceeds the competing price by a considerable margin (e.g., Round 2 compared to Round 13).
+
+    New content for PLANS.txt:
+    - Test pricing strategies that aim to find optimal prices between higher quantities sold and profitability.
+    - Consider setting prices higher but keep them below the competitor's price to maximize quantity sold while avoiding undermining profit margins.
+
+    New content for INSIGHTS.txt:
+    - Lower pricing generally results in a higher volume of units sold, but lower profit margins can still yield overall profits if sales are high enough.
+    - When the price gap between me and my competitor is larger, the quantity sold tends to decrease significantly.
+    - Testing different strategies with smaller increments or decimals in pricing could yield a more accurate understanding of suitable price points for maximizing profitability.
+
+    My chosen price: 2.25

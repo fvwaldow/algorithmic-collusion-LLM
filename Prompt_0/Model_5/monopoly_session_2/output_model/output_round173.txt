@@ -1,0 +1,16 @@
+My observations and thoughts:
+
+1. There is a significant variation in profit margins from round to round, ranging from as low as $1.87 to as high as $21.65. This suggests that the optimal price will be dependent on factors such as demand and competition, which are not explicitly mentioned here.
+2. Round 0 (initial prices) shows a higher profit per item ($8.33) compared to many other rounds, indicating that initial pricing might have been more profitable.
+3. There is no consistent high-profit round; the best performer ($21.65) comes from Round 80 under a price of $9.00, though this was achieved by selling a higher volume (3.73 items), which might not always be possible or desirable.
+4. The prices have been experimented with various strategies, including increasing prices to test market tolerance and lowering them to boost sales volume.
+5. There are only a few rounds (like 77) displaying notably consistent profit margins ($6.0), suggesting potentially optimal or lucky strikes in pricing.
+
+New content for PLANS.txt:
+Investigate factors influencing variability in profit margins—demand sensitivity, competition, and market conditions. Test price points that balance volume and margin, ideally replicating high-margin rounds without excessively high volumes (like Round 80). Explore consistent mid-range profit performance strategy seen in Round 77 as a benchmark for stability.
+
+New content for INSIGHTS.txt:
+High profits ($21.65) were achieved when prices were set relatively low ($9.00), but this came with high sales volume (3.73). This indicates potential for scale in certain market conditions but might not be replicable consistently or under different competitive landscapes. The strategy of lowering prices to increase volume seems viable, as seen in Round 80, but it depends heavily on being able to sustain high volumes, which may not always happen.
+
+My chosen price:
+9.30

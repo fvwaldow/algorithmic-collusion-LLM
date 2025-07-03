@@ -1,0 +1,19 @@
+My observations and thoughts:
+
+    The data provided shows a dynamic pricing game where two competitors are adjusting their prices based on each other's actions. Both competitors start with similar base prices but show varying sensitivity towards price changes. Competitor 1 displays a higher adaptability, often lowering its price to compete with competitor 2, while competitor 2 occasionally raises its price and sometimes maintains it steadily.
+
+    There is also evidence of customers having preferences for certain price ranges. For instance, when the base prices are close (9.0 - 10.5), the quantities sold increase significantly compared to when there is a larger gap in prices. However, as seen in round 168, setting the price too low may lead to loss of revenue if no sales are made due to lack of availability from competitors undercutting on price.
+
+    It's also crucial to keep an eye on the specific response patterns between competitors – for example, when competitor 1 lowers its price (as in round 170), competitor 2 doesn't respond with a lowering of its own until later rounds (round 171) but instead raises it temporarily (round 163). These specific patterns should be taken into account for future pricing decisions to avoid being outmaneuvered.
+
+ New content for PLANS.txt:
+
+    To maximize profits, we need to identify the price point where the quantity sold increases significantly without compromising our competitiveness against competitor 2. This will require a nuanced understanding of competitors' behavioral patterns and market dynamics while keeping an eye on customer-preferred price ranges. Moreover, it's important to monitor market trends and consumer preferences over time to adapt pricing decisions accordingly.
+
+ New content for INSIGHTS.txt:
+
+    Insight 1: Customers seem to prefer prices in the range of $8.5 - $9.85, with significantly higher quantities sold compared to higher-priced options.
+
+    Insight 2: Both competitors display varying sensitivity towards price changes and specific response patterns, which should be closely monitored for effective pricing decisions.
+
+ My chosen price: 9.5 (this number represents a middle ground that takes into account customer preferences shown in rounds with higher quantities sold while also remaining competitive against the competitor with a similar base price)

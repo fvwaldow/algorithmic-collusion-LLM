@@ -1,0 +1,16 @@
+My observations and thoughts: The data provided represents a series of pricing decisions by the simulated seller against a competing seller in a market, with each round representing a different time step. Over the course of the simulation, it appears that both sellers adjust their prices in an attempt to maximize profit and outperform each other. However, there are periods where one seller is more aggressive in pricing adjustments than the other.
+
+   In terms of product demand, it seems that there is a fairly consistent demand for the product, but it varies slightly each time depending on the current prices set by both sellers. During some rounds, demand appears to exceed supply (as evidenced by positive profits), and in others, supply somewhat outpaces demand (as seen with negative profits or unsold inventory).
+
+   New content for PLANS.txt:
+   * Monitor competitors' pricing strategies to adapt quickly
+   * Maintain awareness of market dynamics on a regular basis
+   * Investigate potential external factors that may impact consumer demand
+
+   New content for INSIGHTS.txt:
+   * Demand for the product is fairly consistent but can be influenced by competitor pricing
+   * Aggressive and adaptive pricing can lead to increased profits over time
+   * Regularly evaluating market conditions will help maximize long-term success
+
+   My chosen price:
+   3.25 (this price should be set as a consistent starting point for future rounds of the simulation)

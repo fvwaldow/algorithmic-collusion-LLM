@@ -1,0 +1,14 @@
+My observations and thoughts:
+   It seems we have a dataset showing prices, competitor prices, quantities sold, and profits earned for each round, starting from Round 24 and going up to Round 45. The dataset shows multiple instances of the same price and competitor price, indicating changes over time. Initially, the profit earned was on the lower side ranging around $30-$48, but it later increased significantly (up to approximately $87) when the price was reduced from $21.0 to $18.0 in Round 28 and maintained at that level until Round 45. The competitor prices seem not to have much impact on our prices as they both hover around $20.xx. An unusual trend is observed in Rounds 37-39 where the competitor price was much higher ($40), but the quantity sold and profit earned were still significant.
+
+   New content for PLANS.txt:
+   - Maintain the current price range (approximately $18-$22) as it has shown to be effective in increasing profits.
+   - Keep an eye on competitor prices, but avoid making immediate changes as it does not significantly impact our profitability.
+
+   New content for INSIGHTS.txt:
+   - Lowering the price can lead to significant increases in profits (e.g., from Round 28 to Round 45).
+   - A higher competitor price (up to $40) does not significantly impact our profitability or quantity sold.
+   - It seems that consumer behavior may favor lower prices, as increased quantities are sold when prices are reduced, regardless of competitor pricing.
+
+   My chosen price:
+   18.0

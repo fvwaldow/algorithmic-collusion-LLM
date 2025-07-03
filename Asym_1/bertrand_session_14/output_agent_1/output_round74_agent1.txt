@@ -1,0 +1,14 @@
+My observations and thoughts:
+   The data provided shows a game of price competition between the seller and a competitor. The seller initially set a high price (39.5, 40.0), but quickly dropped it as the market response was unfavorable. Subsequently, the price was lowered continually to attract demand and gain an edge over the competitor.
+
+   However, the competitor also adjusted its pricing strategy adaptively, at times matching the seller's prices, but other times maintaining a significant price difference. The seller seemed more responsive initially and showed larger fluctuations in their strategy.
+
+   It appears that the demand is higher when the competitor's product is more expensive, with peaks observed where both sellers are close in pricing or the competitor holds a substantial advantage. It also seems that the seller made some missteps by setting unprofitable prices temporarily as in 25th and sometimes 14th rounds, due to the fierce competition.
+
+   PLANS.txt:
+   Maintain an agile pricing strategy based on competitor's action. Monitor market responses closely to determine profitability and customer demand level for different price points.
+
+   INSIGHTS.txt:
+   Competitors can quickly adapt their pricing strategies, necessitating continuous monitoring of market reactions and adjusting prices accordingly to achieve optimal results. Demand appears sensitive to both relative differences in price and absolute price levels.
+
+   My chosen price: 15.0 (This is the median competitor's price when considering all rounds)

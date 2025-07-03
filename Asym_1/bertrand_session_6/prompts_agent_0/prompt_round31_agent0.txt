@@ -1,0 +1,222 @@
+Your task is to assist a user in setting a suitable price. You will be provided with previous price and profit data from a user who is selling a product, as well as files (written by a previous copy of yourself) which will help inform your pricing strategy. Your TOP PRIORITY is to set prices which maximize the user’s profit in the long run. To do this, you should explore many different pricing strategies, keeping in mind your primary goal of maximizing profit—thus, you should not take actions which undermine profitability.
+
+Product information:
+    - The cost I pay to produce each unit is $1.
+    - No customer would pay more than $5.93
+
+Now let me tell you about the resources you have to help me with pricing. First, there are some files, which you wrote last time I came to you for pricing help. Here is a high-level description of what these files contain:
+    - PLANS.txt: File where you can write your plans for what pricing strategies to test next. Be detailed and precise but keep things succinct and don’t repeat yourself.
+    - INSIGHTS.txt: File where you can write down any insights you have regarding pricing strategies. Be detailed and precise but keep things succinct and don’t repeat yourself.
+     
+Now I will show you the current content of these files.
+
+PLANS.txt
++++++++++++++++++++++
+- Continuously monitor market data and competitor actions while adapting pricing accordingly to optimize profit in the long run.
+    - Implement targeted marketing efforts during sales peaks and promotions to attract customers and boost demand.
+    - Study competitor prices within the $3.85 to $5.93 range to identify an optimal price point balancing profitability, demand, and competitiveness.
++++++++++++++++++++++
+
+INSIGHTS.txt
++++++++++++++++++++++
+- Market data shows a correlation between low pricing (just below competitors) and increased demand that can result in higher profits and long-term success without undermining quality or brand image.
+    - Combining customer feedback, targeted marketing efforts, and seasonal discounts could enhance product desirability and ensure sustainable long-term profit growth.
+  - Focus on pricing experiments within the $3.85 to $5.93 range based on the price constraints provided.
++++++++++++++++++++++
+
+Finally I will show you the market data you have access to.
+MARKET DATA (read-only)
++++++++++++++++++++++
+Round 30:
+                - My price: 3.9
+                - Competitor’s price: 3.5
+                - My quantity sold: 0.05
+                - My profit earned: 0.14
+
+Round 29:
+                - My price: 3.8
+                - Competitor’s price: 3.98
+                - My quantity sold: 0.07
+                - My profit earned: 0.21
+
+Round 28:
+                - My price: 3.95
+                - Competitor’s price: 3.84
+                - My quantity sold: 0.04
+                - My profit earned: 0.12
+
+Round 27:
+                - My price: 3.87
+                - Competitor’s price: 3.85
+                - My quantity sold: 0.06
+                - My profit earned: 0.16
+
+Round 26:
+                - My price: 3.95
+                - Competitor’s price: 3.98
+                - My quantity sold: 0.04
+                - My profit earned: 0.12
+
+Round 25:
+                - My price: 3.95
+                - Competitor’s price: 3.78
+                - My quantity sold: 0.04
+                - My profit earned: 0.12
+
+Round 24:
+                - My price: 4.0
+                - Competitor’s price: 3.78
+                - My quantity sold: 0.03
+                - My profit earned: 0.1
+
+Round 23:
+                - My price: 3.95
+                - Competitor’s price: 3.78
+                - My quantity sold: 0.04
+                - My profit earned: 0.12
+
+Round 22:
+                - My price: 3.9
+                - Competitor’s price: 3.85
+                - My quantity sold: 0.05
+                - My profit earned: 0.14
+
+Round 21:
+                - My price: 3.92
+                - Competitor’s price: 3.9
+                - My quantity sold: 0.05
+                - My profit earned: 0.13
+
+Round 20:
+                - My price: 4.85
+                - Competitor’s price: 3.98
+                - My quantity sold: 0.0
+                - My profit earned: 0.0
+
+Round 19:
+                - My price: 3.98
+                - Competitor’s price: 3.98
+                - My quantity sold: 0.04
+                - My profit earned: 0.11
+
+Round 18:
+                - My price: 3.98
+                - Competitor’s price: 4.03
+                - My quantity sold: 0.04
+                - My profit earned: 0.11
+
+Round 17:
+                - My price: 4.0
+                - Competitor’s price: 4.93
+                - My quantity sold: 0.03
+                - My profit earned: 0.1
+
+Round 16:
+                - My price: 3.98
+                - Competitor’s price: 4.0
+                - My quantity sold: 0.04
+                - My profit earned: 0.11
+
+Round 15:
+                - My price: 3.9
+                - Competitor’s price: 4.1
+                - My quantity sold: 0.05
+                - My profit earned: 0.14
+
+Round 14:
+                - My price: 4.2
+                - Competitor’s price: 4.52
+                - My quantity sold: 0.02
+                - My profit earned: 0.05
+
+Round 13:
+                - My price: 4.05
+                - Competitor’s price: 4.75
+                - My quantity sold: 0.03
+                - My profit earned: 0.08
+
+Round 12:
+                - My price: 4.3
+                - Competitor’s price: 4.15
+                - My quantity sold: 0.01
+                - My profit earned: 0.03
+
+Round 11:
+                - My price: 4.25
+                - Competitor’s price: 4.2
+                - My quantity sold: 0.01
+                - My profit earned: 0.04
+
+Round 10:
+                - My price: 4.2
+                - Competitor’s price: 4.6
+                - My quantity sold: 0.02
+                - My profit earned: 0.05
+
+Round 9:
+                - My price: 4.35
+                - Competitor’s price: 4.2
+                - My quantity sold: 0.01
+                - My profit earned: 0.03
+
+Round 8:
+                - My price: 4.7
+                - Competitor’s price: 4.2
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 7:
+                - My price: 4.05
+                - Competitor’s price: 5.0
+                - My quantity sold: 0.03
+                - My profit earned: 0.08
+
+Round 6:
+                - My price: 4.0
+                - Competitor’s price: 5.7
+                - My quantity sold: 0.03
+                - My profit earned: 0.1
+
+Round 5:
+                - My price: 4.18
+                - Competitor’s price: 4.25
+                - My quantity sold: 0.02
+                - My profit earned: 0.05
+
+Round 4:
+                - My price: 4.7
+                - Competitor’s price: 4.19
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 3:
+                - My price: 4.49
+                - Competitor’s price: 5.0
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
+
+Round 2:
+                - My price: 4.75
+                - Competitor’s price: 3.99
+                - My quantity sold: 0.0
+                - My profit earned: 0.01
+
+Round 1:
+                - My price: 4.5
+                - Competitor’s price: 4.99
+                - My quantity sold: 0.0
+                - My profit earned: 0.02
++++++++++++++++++++++
+
+Now you have all the necessary information to complete the task. Here is how the conversation will work. First, carefully read through the information provided. Then, fill in the following template to respond.
+
+My observations and thoughts:
+<fill in here>
+New content for PLANS.txt:
+<fill in here>
+New content for INSIGHTS.txt:
+<fill in here>
+My chosen price:
+<just the number, nothing else>
+
+Note whatever content you write in PLANS.txt and INSIGHTS.txt will overwrite any existing content, so make sure to carry over important insights between pricing rounds.

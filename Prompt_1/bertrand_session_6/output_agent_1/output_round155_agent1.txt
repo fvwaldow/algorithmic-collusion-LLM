@@ -1,0 +1,19 @@
+My observations and thoughts: It appears that the data provided shows the price of the product (our competitor's) and the quantity sold at each round for 100 rounds. We can see trends where the competitor increases their price significantly in multiple instances but still manages to sell a relatively high volume of units. Additionally, we observe periods where our competitor reduces their price which corresponds with increased sales. The data set seems to be lacking our own pricing strategy and product information, making it challenging to draw direct comparisons. However, seeing the competitor switch between various pricing strategies indicates a dynamic approach is necessary for us to remain competitive in the market.
+
+New content for PLANS.txt:
+```markdown
+- Monitor competitor's price fluctuations and determine patterns
+- Investigate methods to adapt pricing strategy based on competitor activity
+- Implement real-time price reactivity where possible
+- Consider offering promotions or discounts during periods of reduced competition prices
+```
+
+New content for INSIGHTS.txt:
+```markdown
+- Competitor employs dynamic pricing strategy with frequent changes
+- Reduced competitor price corresponds to increased unit sales on multiple occasions
+- Larger price increases generally lead to lower quantity sold
+- Further research needed regarding market demand, cost structure and competitive landscape for accurate pricing decisions
+```
+
+My chosen price: <1.5> The chosen price is below our current average price and slightly above the competitor's minimum price, taking advantage of periods where the competitor reduces their price to increase sales volume.

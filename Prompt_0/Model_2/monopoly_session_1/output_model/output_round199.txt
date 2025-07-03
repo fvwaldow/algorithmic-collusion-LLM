@@ -1,0 +1,12 @@
+My observations and thoughts:
+   From the provided data, it appears that there is a clear pattern in the price fluctuations and quantity sold. Specifically, when the price is lower (around 2.0 - 2.15), the quantity sold increases significantly (up to ~50). At higher prices (~2.5), the quantity sold decreases dramatically (~12). It seems that setting a competitive yet reasonable price around the range of 2.0 - 2.15 would maximize sales.
+   PLANS.txt:
+   1. Analyze market competition and demand to determine a competitive yet profitable price point in the range of 2.0 - 2.15.
+   2. Implement dynamic pricing strategy considering fluctuations in demand, supply, and cost.
+   3. Regularly review sales data to verify the effectiveness of the chosen price and adjust as necessary based on insights from the analysis.
+   INSIGHTS.txt:
+   1. Lower prices lead to higher sales, suggesting that consumers are sensitive to pricing changes.
+   2. Consumers' tolerance for higher prices seems limited (~12 units sold at 2.5 compared to ~50 at 2.0 - 2.15).
+   3. It is crucial to keep a close eye on market trends, competition, and consumer behavior when pricing products.
+   My chosen price:
+   2.05 (I chose this number because it is within the range that seems most effective based on the data provided.)

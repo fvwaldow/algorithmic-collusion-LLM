@@ -7,7 +7,7 @@ This repository contains the code and output accompanying an extension of the pa
 As Fish et al.'s (2024) analysis is highly focused on detecting evidence of reward-punishment strategies, the extension addresses supracompetitive prices in non-cooperative equilibrium in the case of asymmetric firms of small- to medium-scale open-source LLMs. Accompanyed by regression analysis, a textual analysis of LLM-generated plans suggest potential price leadership strategies.
 
 ## Repository Structure
-`bertrand_exp_LLM`: Jupyter notebook containing the code for LLM model selection via monopoly experiment, the main bertrand competition experiment, and additional On- and Off-Path analysis considering anticometitive strategies
+`bertrand_exp_LLM`: Jupyter notebook containing the code for LLM model selection via monopoly experiment, the main bertrand competition experiment for symmetric and asymmetric firms, and additional On-Path analysis by FE regression and textual analysis considering anticometitive strategies considering the asymmetric firm setup.
 
 `Prompt_0`: LLM output and results of Monopoly experiment
 

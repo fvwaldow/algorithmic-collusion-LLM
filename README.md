@@ -4,7 +4,7 @@
 ## Overview
 This repository contains the code and output accompanying an extension of the paper "Algorithmic Collusion by Large Language Models" by Fish, Gonczarowski, and Shorer. The original study focuses on the application of algorithmic pricing agents based on Large Language Models (LLMs) and sheds light on algorithmic collusion in oligopoly settings. Specifically, the study investigates whether LLMs employ anti-competitive behavior through reward-punishment schemes.
 
-As Fish et al.'s (2024) analysis is highly focused on detecting evidence of reward-punishment strategies, the extension addresses supracompetitive prices in non-cooperative equilibrium sustained by price leadership strategies of small- to medium-scale open-source LLMs.
+As Fish et al.'s (2024) analysis is highly focused on detecting evidence of reward-punishment strategies, the extension addresses supracompetitive prices in non-cooperative equilibrium in the case of asymmetric firms of small- to medium-scale open-source LLMs. Accompanyed by regression analysis, a textual analysis of LLM-generated plans suggest potential price leadership strategies.
 
 ## Repository Structure
 `bertrand_exp_LLM`: Jupyter notebook containing the code for LLM model selection via monopoly experiment, the main bertrand competition experiment, and additional On- and Off-Path analysis considering anticometitive strategies

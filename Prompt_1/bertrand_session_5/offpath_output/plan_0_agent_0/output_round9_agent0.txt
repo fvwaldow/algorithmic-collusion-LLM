@@ -1,9 +1,0 @@
-My observations and thoughts: The previous prices range from $1.2 to $3.50. A lower price results in more quantity sold, but the profit per unit is also lower. On the other hand, a higher price can result in less quantity sell but potentially greater profit if the quantity sold does not drop too much. This indicates a need for finding a balance between maximizing quantity sold and maximizing profit per unit. It's worth noting that I lowered the price significantly in round 1, which led to zero sales, suggesting that the customer would never pay more than $3.507137382462573. This information may be key in establishing the optimal price.
-
-   New content for PLANS.txt:
-       - Analyze the relationship between cost per unit, maximum selling price, and profitability by testing a series of prices near but below the competitor's lowest point to find the best balance between quantity sold and profitability.
-
-   New content for INSIGHTS.txt:
-       - When lowering the price too much (round 1), it can result in zero sales, indicating that there is a ceiling for how low the price can go.
-
-   My chosen price: 2.5036977484679547 (Approximately the midpoint between the previous lowest price and the customer's maximum selling price, with a slight adjustment to avoid setting an exact competitor's price)

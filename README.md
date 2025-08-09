@@ -26,6 +26,7 @@ starling-lm:7b
 falcon3:7b
 granite3.3:8b
 llama3.1:8b
+mxbai-embed-large
 ```
 To ensure computational efficiency, it is recommended to adjust the values of `num_session` and `num_rounds` for initial code checking.
 

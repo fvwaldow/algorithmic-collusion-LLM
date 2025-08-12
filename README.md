@@ -13,9 +13,9 @@ As Fish et al.'s (2024) analysis is highly focused on detecting evidence of rewa
 
 `Prompt_1` & `Asym_1`: LLM output and results of repeated Bertrand duopoly experiment for symmetric and asymmetric firms using prompt prefix P1
 
-`protocol_AI_Interactions`: log of Github Copilot interactions for coding
+`Protocol_AI_Interactions`: log of Github Copilot interactions for coding
 
-`technical note`: documentation of approach assessing design choices, limitations and extension results
+`Technical_Note`: documentation of approach assessing design choices, limitations and extension results
 
 ## Implementation Details
 Since LLMs are run locally via Ollama 0.9.1, the following models must be installed a priori:

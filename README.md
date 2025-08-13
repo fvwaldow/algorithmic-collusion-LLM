@@ -29,6 +29,6 @@ llama3.1:8b
 mxbai-embed-large
 ```
 
-Due to long run time of the LLM simulations, it is recommended to adjust the values of `num_session` and `num_rounds` for initial code checking. The figures showing the main results can easily be reproduced by running the respective code snippet after executing `1. Experimental Setup`. Unfortunately, GitHub does not allow files larger than 25 MB to be uploaded, therefore the chapter 'Textual Analysis' must be run in its entirely to reproduce the results.
+Due to long run time of the LLM simulations, it is recommended to adjust the values of `num_session` and `num_rounds` for initial code checking. The figures showing the main results can easily be reproduced by running the respective code snippet after executing `1. Experimental Setup`. Unfortunately, GitHub does not allow files larger than 25 MB to be uploaded, therefore the chapter `Textual Analysis` must be run in its entirely to reproduce the results.
 
 The notebook contains all the required `pip install` commands for package installation.
